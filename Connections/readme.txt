@@ -1,0 +1,1 @@
+This folder contains the generated markdown after calling generate.py
