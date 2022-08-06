@@ -1,0 +1,18 @@
+fid: '322173055'
+name: TruWest Credit Union
+ofxfail: '3'
+ofxhome_id: '1470'
+org: DI
+profile:
+  addr1: 1667 N Priest Dr.
+  bankmsgset: 'true'
+  city: Tempe
+  country: USA
+  csphone: 800-528-1441
+  email: '2'
+  finame: TruWest Credit Union
+  postalcode: '85281'
+  signonmsgset: 'true'
+  state: AZ
+  url: https://www.truwest.org
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

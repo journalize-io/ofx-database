@@ -1,0 +1,19 @@
+fid: '24210'
+name: American Community Bank of IN
+ofxfail: '0'
+ofxhome_id: '860'
+org: Cavion
+profile:
+  addr1: 8230 Hohman Avenue
+  bankmsgset: 'true'
+  city: Munster
+  country: USA
+  csphone: '2198365870'
+  email: saleem@ambfinancial.com
+  finame: American Community Bank of IN
+  postalcode: '46321'
+  signonmsgset: 'true'
+  state: IN
+  tsphone: '2198365870'
+  url: http://www.ambfinancial.com:80/
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

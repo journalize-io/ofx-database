@@ -1,0 +1,19 @@
+fid: 075906016
+name: The Peoples Community Bank
+ofxfail: '0'
+ofxhome_id: '1441'
+org: DI
+profile:
+  addr1: 222 W Commercial Street PO Box8
+  bankmsgset: 'true'
+  city: Mazomanie
+  country: USA
+  csphone: 800-795-2151
+  email: News@thepeoplescommunitybank.com
+  finame: The Peoples Community Bank
+  postalcode: '53560'
+  signonmsgset: 'true'
+  state: WI
+  tsphone: 800-795-2151
+  url: www.thepeoplescommunitybank.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

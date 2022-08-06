@@ -1,0 +1,19 @@
+fid: '15469'
+name: Suncoast Credit Union
+ofxfail: '0'
+ofxhome_id: '811'
+org: SunCoast
+profile:
+  addr1: 6801 E. Hillsborough Ave
+  bankmsgset: 'true'
+  city: Tampa
+  country: USA
+  csphone: 813.621.7511
+  email: contactus@suncoastfcu.org
+  finame: Suncoast Credit Union
+  postalcode: '33680'
+  signonmsgset: 'true'
+  state: FL
+  tsphone: 813.621.7511
+  url: http://www.suncoastcreditunion.com
+url: https://ofx.suncoastcreditunion.com

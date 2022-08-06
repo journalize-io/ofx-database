@@ -1,0 +1,19 @@
+fid: '63468'
+name: Fidelis Catholic FCU
+ofxfail: '0'
+ofxhome_id: '1277'
+org: Cavion
+profile:
+  addr1: 6320 Wadsworth Blvd
+  bankmsgset: 'true'
+  city: Arvada
+  country: USA
+  csphone: 303-424-5037
+  email: memberservices@nufcu.com
+  finame: Fidelis Catholic FCU
+  postalcode: '80003'
+  signonmsgset: 'true'
+  state: CO
+  tsphone: 303-424-5037
+  url: http://www.nufcu.com/
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

@@ -1,0 +1,23 @@
+fid: '6805'
+name: Bank of America (California)
+ofxfail: '3'
+ofxhome_id: '635'
+org: HAN
+profile:
+  addr1: Interactive Banking
+  addr2: TX1-854-06-12
+  addr3: P.O. Box 655961
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Dallas
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 800-792-0808
+  email: forte@bankofamerica.com
+  emailmsgset: 'true'
+  postalcode: 75265-9964
+  signonmsgset: 'true'
+  state: TX
+  tsphone: 800-792-0808
+  url: http://www.bankofamerica.com
+url: https://ofx.bankofamerica.com/cgi-forte/ofx?servicename=ofx_2-3&pagename=bofa

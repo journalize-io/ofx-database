@@ -1,0 +1,18 @@
+fid: '1595'
+name: Premier Bank Maplewood
+ofxfail: '0'
+ofxhome_id: '1327'
+org: olb-3386
+profile:
+  addr1: 2866 White Bear Avenue
+  bankmsgset: 'true'
+  city: Maplewood
+  country: USA
+  csphone: 800-772-6497
+  email: billpay@premierbanks.com
+  finame: Premier Bank Maplewood
+  postalcode: '55109'
+  signonmsgset: 'true'
+  state: MN
+  url: http://www.premierbanks.com
+url: https://pfm.metavante.com/ofx/OFXServlet

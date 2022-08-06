@@ -1,0 +1,17 @@
+fid: '11212'
+name: Stifel Nicolaus
+ofxfail: '0'
+ofxhome_id: '1402'
+org: Stifel Nicolaus
+profile:
+  addr1: 501 N. Broadway
+  city: St. Louis
+  country: USA
+  finame: Stifel Nicolaus
+  invstmtmsgset: 'true'
+  postalcode: '63102'
+  seclistmsgset: 'true'
+  signonmsgset: 'true'
+  state: MO
+  url: https://directconnect.access.investor.stifel.com
+url: https://directconnect.access.investor.stifel.com

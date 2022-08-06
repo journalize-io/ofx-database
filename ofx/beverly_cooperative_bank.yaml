@@ -1,0 +1,20 @@
+fid: '531'
+name: Beverly Co-Operative Bank
+ofxfail: '1'
+ofxhome_id: '676'
+org: orcc
+profile:
+  addr1: 254 Cabot Street
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Beverly
+  country: USA
+  csphone: (877) 314-7816
+  email: info@orcc.com
+  emailmsgset: 'true'
+  postalcode: 01915
+  signonmsgset: 'true'
+  state: MA
+  tsphone: (877) 314-7816
+  url: http://www.beverlycoop.com
+url: https://www19.onlinebank.com/OROFX16Listener

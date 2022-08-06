@@ -1,0 +1,19 @@
+fid: '10932'
+name: United Health Services CU
+ofxfail: '0'
+ofxhome_id: '1485'
+org: United Health Services CU
+profile:
+  addr1: 613 S. Washington
+  bankmsgset: 'true'
+  city: Spokane
+  country: USA
+  csphone: 509-455-4067
+  email: lgreiner@uhscu.org
+  finame: United Health Services CU
+  postalcode: '99204'
+  signonmsgset: 'true'
+  state: WA
+  tsphone: 509-455-4067
+  url: https://webteller.uhscu.org
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

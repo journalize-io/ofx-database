@@ -1,0 +1,19 @@
+fid: '1967'
+name: Standard Register FCU
+ofxfail: '0'
+ofxhome_id: '1392'
+org: Cavion
+profile:
+  addr1: PO Box 1167
+  bankmsgset: 'true'
+  city: Dayton
+  country: USA
+  csphone: '9372233333'
+  email: eservices@stdregfcu.org
+  finame: Standard Register FCU
+  postalcode: '45401'
+  signonmsgset: 'true'
+  state: OH
+  tsphone: '9372233333'
+  url: http://www.stdregfcu.org
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

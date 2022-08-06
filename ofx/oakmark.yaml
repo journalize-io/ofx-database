@@ -1,0 +1,16 @@
+fid: '51537'
+name: Oakmark
+ofxfail: '0'
+ofxhome_id: '1281'
+org: oakmark
+profile:
+  addr1: 2 N LaSalle Suite 500
+  city: Chicago
+  country: USA
+  finame: Oakmark
+  invstmtmsgset: 'true'
+  postalcode: '60602'
+  signonmsgset: 'true'
+  state: IL
+  url: https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=714001012001710
+url: https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=714001012001710

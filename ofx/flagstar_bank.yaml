@@ -1,0 +1,19 @@
+fid: '272471852'
+name: Flagstar Bank
+ofxfail: '0'
+ofxhome_id: '784'
+org: DI
+profile:
+  addr1: 301 W. Michigan Ave
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Jackson
+  country: USA
+  csphone: 800-642-0039
+  email: bank@flagstar.com
+  postalcode: '49201'
+  signonmsgset: 'true'
+  state: MI
+  tsphone: 800-642-0039
+  url: www.flagstar.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

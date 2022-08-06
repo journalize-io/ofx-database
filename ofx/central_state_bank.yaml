@@ -1,0 +1,19 @@
+fid: 073900742
+name: Central State Bank
+ofxfail: '0'
+ofxhome_id: '963'
+org: DI
+profile:
+  addr1: 301 Iowa Avenue
+  bankmsgset: 'true'
+  city: Muscatine
+  country: USA
+  csphone: 563-263-3131
+  email: '2'
+  finame: Central State Bank
+  postalcode: '52761'
+  signonmsgset: 'true'
+  state: IA
+  tsphone: 563-262-3134
+  url: www.centralstateonline.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

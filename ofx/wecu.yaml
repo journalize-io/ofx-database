@@ -1,0 +1,19 @@
+fid: '58968'
+name: WECU
+ofxfail: '3'
+ofxhome_id: '1502'
+org: WECU
+profile:
+  addr1: 600 E. Holly St.
+  bankmsgset: 'true'
+  city: Bellingham
+  country: USA
+  csphone: 800-525-8703
+  email: memberservices@wecu.com
+  finame: WECU
+  postalcode: '98225'
+  signonmsgset: 'true'
+  state: WA
+  tsphone: 800-525-8703
+  url: https://www.wecu.com
+url: https://m.wecu.com/ofx/ofxserver.aspx

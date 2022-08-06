@@ -1,0 +1,22 @@
+fid: FNBSGA
+name: First National Bank South
+ofxfail: '0'
+ofxhome_id: '1118'
+org: FundsXpress
+profile:
+  addr1: PO Box 2028
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Alma
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 912-632-7262
+  email: support@fnbsouth.net
+  emailmsgset: 'true'
+  finame: FNB South
+  postalcode: '31510'
+  signonmsgset: 'true'
+  state: GA
+  tsphone: 912-632-7262
+  url: http://www.fnbsouth.net/
+url: https://ofx.fundsxpress.com/piles/ofx.pile/

@@ -1,0 +1,20 @@
+fid: 33BAG
+name: BANKDIRECT
+ofxfail: '3'
+ofxhome_id: '903'
+org: BankDirect
+profile:
+  addr1: 6060 N. CENTRAL EXPRESSWAY
+  addr2: SUITE 800
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: DALLAS
+  country: US
+  csphone: '8778392737'
+  emailmsgset: 'true'
+  finame: BANKDIRECT
+  postalcode: '75206'
+  signonmsgset: 'true'
+  state: TX
+  url: https://www.financial-net.com/bdirect/
+url: https://www.netit.financial-net.com/ofx

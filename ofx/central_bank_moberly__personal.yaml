@@ -1,0 +1,20 @@
+fid: '167'
+name: Central Bank Moberly - Personal
+ofxfail: '3'
+ofxhome_id: '998'
+org: 081500749
+profile:
+  addr1: 500 West Coates Street
+  bankmsgset: 'true'
+  city: Moberly
+  country: USA
+  csphone: 800-755-4711
+  email: twilla_duvall@centralbank.net
+  emailmsgset: 'true'
+  finame: Central Bank Moberly - Personal
+  postalcode: '65270'
+  signonmsgset: 'true'
+  state: MO
+  tsphone: 800-755-4711
+  url: https://www.centralbankmoberly.net/
+url: https://ofx.centralbancompany.com/ofxserver/ofxsrvr.dll

@@ -1,0 +1,23 @@
+brokerid: hewitt.com
+fid: '242'
+name: Hewitt Associates LLC
+ofxfail: '3'
+ofxhome_id: '572'
+org: hewitt.com
+profile:
+  addr1: 100 Half Day Road
+  addr2: NONE
+  addr3: NONE
+  city: Lincolnshire
+  country: USA
+  csphone: YOUR 401(K) PLAN
+  email: '2'
+  finame: Hewitt Associates
+  invstmtmsgset: 'true'
+  postalcode: '60069'
+  seclistmsgset: 'true'
+  signonmsgset: 'true'
+  state: IL
+  tsphone: YOUR 401(K) PLAN
+  url: www.hewitt.com
+url: https://seven.was.hewitt.com/eftxweb/access.ofx

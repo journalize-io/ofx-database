@@ -1,0 +1,19 @@
+fid: '54150'
+name: Southwest Capital Bank
+ofxfail: '0'
+ofxhome_id: '1381'
+org: Cavion
+profile:
+  addr1: 622 Douglas Avenue
+  bankmsgset: 'true'
+  city: LAS Vegas
+  country: USA
+  csphone: 505-426-2928
+  email: mlopez@bankonblv.com
+  finame: Southwest Capital Bank
+  postalcode: '87701'
+  signonmsgset: 'true'
+  state: NM
+  tsphone: 505-426-2928
+  url: southwestcapital.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

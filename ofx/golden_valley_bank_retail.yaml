@@ -1,0 +1,19 @@
+fid: '121144272'
+name: Golden Valley Bank Retail
+ofxfail: '0'
+ofxhome_id: '1136'
+org: PFourTwoFive
+profile:
+  addr1: 190 Cohasset Rd, Ste 170
+  bankmsgset: 'true'
+  city: Chico
+  country: USA
+  csphone: 530-894-1000
+  email: customerservice@goldenvalleybank.com
+  finame: Golden Valley Bank Retail
+  postalcode: '95926'
+  signonmsgset: 'true'
+  state: CA
+  tsphone: 530-894-1000
+  url: https://ofx.secureinternetbank.com/OFXServer/ofxsrvr.dll
+url: https://ofx1.evault.ws/ofxserver/ofxsrvr.dll

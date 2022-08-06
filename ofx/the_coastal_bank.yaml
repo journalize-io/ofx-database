@@ -1,0 +1,18 @@
+fid: '6183'
+name: The Coastal Bank
+ofxfail: '0'
+ofxhome_id: '1429'
+org: fis-6183
+profile:
+  addr1: 18 West Bryan Street
+  bankmsgset: 'true'
+  city: Savannah
+  country: USA
+  csphone: 877-597-3071
+  email: customerservice@thecoastalbank.com
+  finame: The Coastal Bank
+  postalcode: '31401'
+  signonmsgset: 'true'
+  state: GA
+  url: www.thecoastalbank.com
+url: https://pfm.metavante.com/ofx/OFXServlet

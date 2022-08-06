@@ -1,0 +1,22 @@
+fid: '5503'
+name: TownBank
+ofxfail: '0'
+ofxhome_id: '1461'
+org: '118'
+profile:
+  addr1: 400 Genesee Street
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Delafield
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 800-524-7940
+  email: onlinebanking@townbank.us
+  emailmsgset: 'true'
+  finame: TownBank
+  interxfermsgset: 'true'
+  postalcode: '53018'
+  signonmsgset: 'true'
+  state: WI
+  url: http://www.townbank.us
+url: https://pfm.metavante.com/ofx/OFXServlet

@@ -1,0 +1,20 @@
+fid: '255077833'
+name: NASA FCU - Direct Connect
+ofxfail: '0'
+ofxhome_id: '830'
+org: NASAFCUDC
+profile:
+  addr1: 500 Prince Georges Blvd
+  bankmsgset: 'true'
+  city: Upper Marlboro
+  country: USA
+  csphone: 301-249-1800
+  email: support@nasafcu.com
+  emailmsgset: 'true'
+  finame: NASA FCU - Direct Connect
+  postalcode: '20774'
+  signonmsgset: 'true'
+  state: MD
+  tsphone: 301-249-1800
+  url: https://www.nasafcu.com/
+url: https://ofx.nasafcu.com/OFXServer/ofxsrvr.dll

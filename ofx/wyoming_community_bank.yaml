@@ -1,0 +1,19 @@
+fid: '18018'
+name: Wyoming Community Bank
+ofxfail: '0'
+ofxhome_id: '1517'
+org: Cavion
+profile:
+  addr1: 1700 North Federal Boulevard
+  bankmsgset: 'true'
+  city: Riverton
+  country: USA
+  csphone: 307.857.9000
+  email: info@wyocb.com
+  finame: Wyoming Community Bank
+  postalcode: '82501'
+  signonmsgset: 'true'
+  state: WY
+  tsphone: 307.857.9000
+  url: http://www.wyocb.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

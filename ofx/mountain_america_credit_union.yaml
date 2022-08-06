@@ -1,0 +1,20 @@
+fid: '324079555'
+name: Mountain America Credit Union
+ofxfail: '0'
+ofxhome_id: '657'
+org: MACU
+profile:
+  addr1: 7181 S Campus View Dr
+  bankmsgset: 'true'
+  city: West Jordan
+  country: USA
+  csphone: 800-748-4302
+  email: macumail@macu.com
+  emailmsgset: 'true'
+  finame: Mountain America Credit Union
+  postalcode: '840849001'
+  signonmsgset: 'true'
+  state: UT
+  tsphone: 800-748-4302
+  url: https://www.macu.com/
+url: https://m.macu.com/ofxserver/ofxsrvr.dll

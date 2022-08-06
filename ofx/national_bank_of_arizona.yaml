@@ -1,0 +1,20 @@
+fid: '4677'
+name: National Bank of Arizona
+ofxfail: '0'
+ofxhome_id: '1261'
+org: 294-3
+profile:
+  addr1: 7730 South Union Park Ave
+  addr2: Suite 250
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Midvale
+  country: USA
+  creditcardmsgset: 'true'
+  emailmsgset: 'true'
+  finame: National Bank of Arizona
+  postalcode: '84047'
+  signonmsgset: 'true'
+  state: UT
+  url: https://www.nbarizona.com/
+url: https://www.oasis.cfree.com/fip/genesis/prod/04677.ofx

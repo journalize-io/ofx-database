@@ -1,0 +1,22 @@
+fid: FNBTAL
+name: First Bank of Alabama
+ofxfail: '0'
+ofxhome_id: '1097'
+org: FundsXpress
+profile:
+  addr1: PO Box 797
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Talladega
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 256-362-2334
+  email: internetbanking@firstbankal.com
+  emailmsgset: 'true'
+  finame: First Bank of Alabama
+  postalcode: '35161'
+  signonmsgset: 'true'
+  state: AL
+  tsphone: 256-362-2334
+  url: http://www.firstbankal.com
+url: https://ofx.fundsxpress.com/piles/ofx.pile/

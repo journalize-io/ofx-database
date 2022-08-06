@@ -1,0 +1,22 @@
+brokerid: dodgeandcox.com
+fid: null
+name: Dodge&Cox Funds
+ofxfail: '0'
+ofxhome_id: '621'
+org: null
+profile:
+  addr1: P.O. Box 8422
+  bankmsgset: 'true'
+  city: Boston
+  country: USA
+  csphone: 816.345.7645
+  email: service@americancentury.com
+  finame: Dodge and Cox
+  invstmtmsgset: 'true'
+  postalcode: '02266'
+  seclistmsgset: 'true'
+  signonmsgset: 'true'
+  state: MA
+  tsphone: 816.345.7645
+  url: https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=50314030604
+url: https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=50314030604

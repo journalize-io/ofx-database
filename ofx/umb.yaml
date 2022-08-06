@@ -1,0 +1,22 @@
+fid: '468'
+name: UMB
+ofxfail: '0'
+ofxhome_id: '660'
+org: UMBOFX
+profile:
+  addr1: 1010 GRAND BLVD
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: KANSAS CITY
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: '8006998702'
+  email: onlinebanking@umb.com
+  emailmsgset: 'true'
+  finame: UMB BANK, NA
+  postalcode: '64106'
+  signonmsgset: 'true'
+  state: MO
+  tsphone: '8006998702'
+  url: https://www.umb.com
+url: https://ofx.umb.com

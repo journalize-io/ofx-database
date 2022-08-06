@@ -1,0 +1,22 @@
+fid: JSBJLA
+name: Jonesboro State Bank
+ofxfail: '0'
+ofxhome_id: '1193'
+org: FundsXpress
+profile:
+  addr1: P.O. Box 580
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Jonesboro
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: (318)259-4411
+  email: customerservice@jboro.com
+  emailmsgset: 'true'
+  finame: Jonesboro State Bank
+  postalcode: '712510580'
+  signonmsgset: 'true'
+  state: LA
+  tsphone: (318)259-4411
+  url: http://www.jonesborostatebank.com
+url: https://ofx.fundsxpress.com/piles/ofx.pile/

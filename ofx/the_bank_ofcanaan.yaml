@@ -1,0 +1,20 @@
+fid: '021113662'
+name: The Bank ofCanaan
+ofxfail: '3'
+ofxhome_id: '910'
+org: DI
+profile:
+  addr1: 208 Elm Street
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: New Canaan
+  country: USA
+  csphone: (855)767-5763
+  email: bncebanking@bncfg.com
+  finame: The Bank of New Canaan
+  postalcode: 06840
+  signonmsgset: 'true'
+  state: CT
+  tsphone: (855)767-5763
+  url: www.bankofnewcanaan.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

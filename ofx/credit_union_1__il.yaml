@@ -1,0 +1,7 @@
+fid: '271188081'
+name: Credit Union 1 - IL
+ofxfail: '3'
+ofxhome_id: '610'
+org: Credit Union 1
+profile: {}
+url: https://pcu.creditunion1.org/scripts/isaofx.dll

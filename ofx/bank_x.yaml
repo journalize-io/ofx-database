@@ -1,0 +1,20 @@
+fid: BX122287251
+name: Bank X
+ofxfail: '0'
+ofxhome_id: '902'
+org: DI
+profile:
+  addr1: 12777 High Bluff Drive
+  addr2: Ste 100
+  bankmsgset: 'true'
+  city: San Diego
+  country: USA
+  csphone: 858-350-6200
+  email: '2'
+  finame: Bank X
+  postalcode: '92130'
+  signonmsgset: 'true'
+  state: CA
+  tsphone: 858-350-6200
+  url: www.mybankx.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

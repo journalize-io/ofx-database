@@ -1,0 +1,20 @@
+fid: 3HG2Y
+name: TEXAS CAPITAL
+ofxfail: '3'
+ofxhome_id: '1419'
+org: Electronic Data Systems
+profile:
+  addr1: 6060 N. CENTRAL EXPRESSWAY
+  addr2: SUITE 800
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: DALLAS
+  country: US
+  csphone: '8778392737'
+  emailmsgset: 'true'
+  finame: TEXAS CAPITAL
+  postalcode: '75206'
+  signonmsgset: 'true'
+  state: TX
+  url: https://www.financial-net.com/bnkdirct/
+url: https://www.netit.financial-net.com/ofx

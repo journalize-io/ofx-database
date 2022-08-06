@@ -1,0 +1,20 @@
+fid: '10033'
+name: First Clearing, LLC
+ofxfail: '0'
+ofxhome_id: '689'
+org: First Clearing, LLC
+profile:
+  addr1: One North Jefferson Avenue
+  city: St. Louis
+  country: USA
+  csphone: (877) 488-3748
+  email: onlinesupport@firstclearing.com
+  finame: First Clearing, LLC
+  invstmtmsgset: 'true'
+  postalcode: '63103'
+  seclistmsgset: 'true'
+  signonmsgset: 'true'
+  state: MO
+  tsphone: (877) 488-3748
+  url: https://fcc.fccaccessonline.com
+url: https://ofxdc.wellsfargo.com/ofxfcc/process.ofx

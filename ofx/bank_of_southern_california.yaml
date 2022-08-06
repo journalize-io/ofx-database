@@ -1,0 +1,21 @@
+fid: BSCSDCA
+name: Bank of Southern California
+ofxfail: '0'
+ofxhome_id: '898'
+org: FundsXpress, Inc.
+profile:
+  addr1: 12265 El Camino Real Ste 100
+  bankmsgset: 'true'
+  city: San Diego
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 844-265-7622
+  email: onlinebanking@banksocal.com
+  emailmsgset: 'true'
+  finame: Bank of Southern California
+  postalcode: '92130'
+  signonmsgset: 'true'
+  state: CA
+  tsphone: 844-265-7622
+  url: http://www.banksocal.com
+url: https://ofx.fundsxpress.com/piles/ofx.pile/

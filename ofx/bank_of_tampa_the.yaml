@@ -1,0 +1,19 @@
+fid: 063108680
+name: Bank of Tampa, The
+ofxfail: '0'
+ofxhome_id: '522'
+org: BOT
+profile:
+  addr1: 4503 Woodland Corporate Blvd
+  bankmsgset: 'true'
+  city: Tampa
+  country: USA
+  csphone: '8138721200'
+  email: techsup@bankoftampa.com
+  finame: The Bank of Tampa
+  postalcode: '44777'
+  signonmsgset: 'true'
+  state: Fl
+  tsphone: '8139982698'
+  url: http://www.bankoftampa.com
+url: https://OFX.Bankoftampa.com/OFXServer/ofxsrvr.dll

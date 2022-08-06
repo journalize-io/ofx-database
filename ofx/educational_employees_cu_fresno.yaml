@@ -1,0 +1,19 @@
+fid: '321172594'
+name: Educational Employees CU Fresno
+ofxfail: '1'
+ofxhome_id: '492'
+org: Educational Employees C U
+profile:
+  addr1: 2222 West Shaw
+  bankmsgset: 'true'
+  city: Fresno
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 1-800-538-3328
+  email: onlineaccesss@eecufresno.org
+  postalcode: '93711'
+  signonmsgset: 'true'
+  state: CA
+  tsphone: 1-800-538-3328
+  url: http://www.eecufresno.org
+url: https://www.eecuonline.org/scripts/isaofx.dll

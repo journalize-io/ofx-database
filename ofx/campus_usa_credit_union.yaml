@@ -1,0 +1,19 @@
+fid: '263178478'
+name: Campus USA Credit Union
+ofxfail: '3'
+ofxhome_id: '546'
+org: Campus USA Credit Union
+profile:
+  addr1: PO BOX 147029
+  bankmsgset: 'true'
+  city: Gainesville
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 352-335-9090
+  email: info@campuscu.com
+  postalcode: '32614'
+  signonmsgset: 'true'
+  state: FL
+  tsphone: 352-335-9090
+  url: http://www.campuscu.com
+url: https://que.campuscu.com/scripts/isaofx.dll

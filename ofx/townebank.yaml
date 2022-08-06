@@ -1,0 +1,20 @@
+fid: 051408949
+name: TowneBank
+ofxfail: '3'
+ofxhome_id: '1462'
+org: DI
+profile:
+  addr1: 5716 High St W
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Portsmouth
+  country: USA
+  csphone: 757-638-6724
+  email: support@townebank.com
+  finame: TowneBank
+  postalcode: '23703'
+  signonmsgset: 'true'
+  state: VA
+  tsphone: 757-638-6724
+  url: www.townebank.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

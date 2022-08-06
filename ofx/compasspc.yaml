@@ -1,0 +1,7 @@
+fid: '2201'
+name: CompassPC
+ofxfail: '3'
+ofxhome_id: '824'
+org: Intelidata
+profile: {}
+url: https://www2.compassweb.com/ofxsecurity/ofx_security_server.dll

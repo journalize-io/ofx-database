@@ -1,0 +1,22 @@
+brokerid: regions.com
+fid: '243'
+name: Regions Bank
+ofxfail: '0'
+ofxhome_id: '462'
+org: regions.com
+profile:
+  addr1: P.O. Box 11007
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Birmingham
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 866-665-7638
+  email: moreinfo@regions.com
+  emailmsgset: 'true'
+  finame: Regions Financial Bank
+  postalcode: '35288'
+  signonmsgset: 'true'
+  state: AL
+  url: Unknown
+url: https://onlinebanking.regions.com/Ofx/process.ofx

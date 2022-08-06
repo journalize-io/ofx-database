@@ -1,0 +1,19 @@
+fid: '35727'
+name: The First National Bank of Odon
+ofxfail: '0'
+ofxhome_id: '1435'
+org: Cavion
+profile:
+  addr1: 501 West Main Street
+  bankmsgset: 'true'
+  city: Odon
+  country: USA
+  csphone: '8126367324'
+  email: nathan.p@fnbodon.com
+  finame: The First National Bank of Odon
+  postalcode: '47562'
+  signonmsgset: 'true'
+  state: IN
+  tsphone: '8126367324'
+  url: http://www.fnbodon.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

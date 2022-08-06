@@ -1,0 +1,19 @@
+fid: '57123'
+name: Mt. Washington Savings Bank
+ofxfail: '0'
+ofxhome_id: '1499'
+org: Cavion
+profile:
+  addr1: 2110 Beechmont Ave
+  bankmsgset: 'true'
+  city: Cincinnati
+  country: USA
+  csphone: '5132317871'
+  email: deposits@mwbank24.com
+  finame: Mt. Washington Savings Bank
+  postalcode: '45230'
+  signonmsgset: 'true'
+  state: OH
+  tsphone: '5132317871'
+  url: http://www.mwbank24.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

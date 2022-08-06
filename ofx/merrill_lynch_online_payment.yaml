@@ -1,0 +1,17 @@
+fid: '7301'
+name: Merrill Lynch Online Payment
+ofxfail: '0'
+ofxhome_id: '705'
+org: ISC
+profile:
+  addr1: 3 Independence Way
+  billpaymsgset: 'true'
+  city: Princeton
+  country: USA
+  emailmsgset: 'true'
+  finame: Merrill Lynch
+  postalcode: 08540
+  signonmsgset: 'true'
+  state: NJ
+  url: http://www.mlol.ml.com/
+url: https://www.oasis.cfree.com/fip/genesis/prod/07301.ofx

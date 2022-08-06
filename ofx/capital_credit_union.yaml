@@ -1,0 +1,19 @@
+fid: '17760'
+name: Capital Credit Union
+ofxfail: '0'
+ofxhome_id: '954'
+org: Capital Credit Union
+profile:
+  addr1: PO Box 2096
+  bankmsgset: 'true'
+  city: Bismarck
+  country: USA
+  csphone: '7012550042'
+  email: email@capcu.org
+  finame: Capital Credit Union
+  postalcode: '58502'
+  signonmsgset: 'true'
+  state: ND
+  tsphone: '7012550042'
+  url: https://www.capcu.org
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

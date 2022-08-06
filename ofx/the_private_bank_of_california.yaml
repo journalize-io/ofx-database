@@ -1,0 +1,18 @@
+fid: '122244139'
+name: The Private Bank of California
+ofxfail: '0'
+ofxhome_id: '1443'
+org: MSevenFortyThree
+profile:
+  addr1: 10100 Santa Monica Blvd. Suite 2
+  bankmsgset: 'true'
+  city: Los Angeles
+  country: USA
+  csphone: (111) 111-1111
+  email: noreply@privatebankofca.com
+  finame: The Private Bank of California
+  postalcode: '90067'
+  signonmsgset: 'true'
+  state: CA
+  url: https://ofx1.evault.ws/OFXServer/ofxsrvr.dll
+url: https://ofx1.evault.ws/ofxserver/ofxsrvr.dll

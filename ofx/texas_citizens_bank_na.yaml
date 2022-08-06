@@ -1,0 +1,22 @@
+fid: TCBPTX
+name: Texas Citizens Bank, N.A.
+ofxfail: '0'
+ofxhome_id: '1420'
+org: FundsXpress, Inc
+profile:
+  addr1: P.O. Box 890029
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Houston
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: (713)948-9494
+  email: tms@texascitizensbank.com
+  emailmsgset: 'true'
+  finame: Texas Citizens Bank, N.A.
+  postalcode: '772890029'
+  signonmsgset: 'true'
+  state: TX
+  tsphone: (713)948-9494
+  url: http://www.texascitizensbank.com
+url: https://ofx.fundsxpress.com/piles/ofx.pile/

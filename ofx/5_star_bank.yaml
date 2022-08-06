@@ -1,0 +1,22 @@
+fid: '307087713'
+name: 5 Star Bank
+ofxfail: '0'
+ofxhome_id: '774'
+org: 5 Star Bank
+profile:
+  addr1: P.O. Box 14108
+  addr2: Address2
+  addr3: Address3
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Colorado Springs
+  country: USA
+  csphone: 800-776-2265
+  email: '2'
+  finame: 5 Star Bank
+  postalcode: '80914'
+  signonmsgset: 'true'
+  state: CO
+  tsphone: 719-574-2777
+  url: https://www.5star.bank
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

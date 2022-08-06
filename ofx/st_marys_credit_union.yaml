@@ -1,0 +1,19 @@
+fid: '211384214'
+name: St. Mary's Credit Union
+ofxfail: '1'
+ofxhome_id: '815'
+org: MSevenThirtySeven
+profile:
+  addr1: 293 Boston Post Road West
+  bankmsgset: 'true'
+  city: Marlborough
+  country: USA
+  csphone: (508) 490-6707
+  email: noreply@stmaryscreditunion.com
+  finame: St. Mary's Credit Union
+  postalcode: '01752'
+  signonmsgset: 'true'
+  state: MA
+  tsphone: (508) 490-6707
+  url: https://ofx1.evault.ws/OFXServer/ofxsrvr.dll
+url: https://ofx1.evault.ws/OFXServer/ofxsrvr.dll

@@ -1,0 +1,19 @@
+fid: '56736'
+name: The Tipton Latham Bank N.A.
+ofxfail: '0'
+ofxhome_id: '1448'
+org: Cavion
+profile:
+  addr1: 800 West Highway 50
+  bankmsgset: 'true'
+  city: Tipton
+  country: USA
+  csphone: 660-433-2004
+  email: michelle@tiptonlathambank.com
+  finame: The Tipton Latham Bank N.A.
+  postalcode: '65081'
+  signonmsgset: 'true'
+  state: MO
+  tsphone: 660-433-2004
+  url: https://www.tiptonlathambank.com/
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

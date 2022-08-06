@@ -1,0 +1,22 @@
+fid: '62412'
+name: The First National Bank of Long
+ofxfail: '1'
+ofxhome_id: '1100'
+org: FNBLI
+profile:
+  addr1: 10 Glen Head Road
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Glen Head
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 516-671-4900
+  email: customerservice@fnbli.com
+  emailmsgset: 'true'
+  finame: The First National Bank of Long
+  postalcode: '11545'
+  signonmsgset: 'true'
+  state: NY
+  tsphone: 516-671-4900
+  url: http://www.fnbli.com
+url: https://online.fnbli.com/ofx/ofx.ofx

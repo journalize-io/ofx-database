@@ -1,0 +1,19 @@
+fid: '10782'
+name: Greylock Federal Credit Union
+ofxfail: '0'
+ofxhome_id: '1145'
+org: Cavion
+profile:
+  addr1: 150 West St
+  bankmsgset: 'true'
+  city: Pittsfield
+  country: USA
+  csphone: 413-236-4000
+  email: greylockws@greylock.org
+  finame: Greylock Federal Credit Union
+  postalcode: '01201'
+  signonmsgset: 'true'
+  state: MA
+  tsphone: 413-236-4000
+  url: http://www.greylock.org/
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

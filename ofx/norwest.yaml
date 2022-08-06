@@ -1,0 +1,19 @@
+fid: '4601'
+name: Norwest
+ofxfail: '0'
+ofxhome_id: '710'
+org: ISC
+profile:
+  addr1: 420 Montgomery Street
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: San Francisco
+  country: USA
+  creditcardmsgset: 'true'
+  emailmsgset: 'true'
+  finame: Wells Fargo
+  postalcode: '94104'
+  signonmsgset: 'true'
+  state: CA
+  url: http://www.wellsfargo.com/
+url: https://www.oasis.cfree.com/fip/genesis/prod/04601.ofx

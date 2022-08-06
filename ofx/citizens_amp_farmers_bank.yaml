@@ -1,0 +1,19 @@
+fid: 051404901
+name: Citizens &amp; Farmers Bank
+ofxfail: '0'
+ofxhome_id: '941'
+org: MThreeZeroThree
+profile:
+  addr1: 802 Main Street
+  addr2: P.O. Box 391
+  bankmsgset: 'true'
+  city: West Point
+  country: USA
+  csphone: 804-843-7001
+  email: noreply@cffc.com
+  finame: Citizens & Farmers Bank
+  postalcode: '23181'
+  signonmsgset: 'true'
+  state: VA
+  url: https://www.cffc.com/home/home
+url: https://ofx1.evault.ws/ofxserver/ofxsrvr.dll

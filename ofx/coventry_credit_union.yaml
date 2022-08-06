@@ -1,0 +1,19 @@
+fid: '211573326'
+name: Coventry Credit Union
+ofxfail: '3'
+ofxhome_id: '1029'
+org: DI
+profile:
+  addr1: 2006 Nooseneck Hill Road
+  bankmsgset: 'true'
+  city: Coventry
+  country: USA
+  csphone: 401-822-8000
+  email: '2'
+  finame: Coventry Credit Union
+  postalcode: 02816
+  signonmsgset: 'true'
+  state: RI
+  tsphone: 401-822-8000
+  url: www.coventrycu.org
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

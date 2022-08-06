@@ -1,0 +1,20 @@
+fid: '272078268'
+name: Lake Trust CU
+ofxfail: '0'
+ofxhome_id: '1210'
+org: DI
+profile:
+  addr1: 501 S. Capitol Avenue
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Lansing
+  country: USA
+  csphone: 888.267.7200
+  email: laketrust@laketrust.org
+  finame: Lake Trust CU
+  postalcode: '48933'
+  signonmsgset: 'true'
+  state: MI
+  tsphone: 888.267.7200
+  url: http://www.laketrust.org/
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

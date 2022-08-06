@@ -1,0 +1,7 @@
+fid: '1201'
+name: Northwest Community Bank
+ofxfail: '0'
+ofxhome_id: '1276'
+org: COCC
+profile: {}
+url: https://ofx.myvirtualbranch.com/eftxweb/access.ofx

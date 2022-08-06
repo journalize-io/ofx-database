@@ -1,0 +1,18 @@
+fid: '4701'
+name: J.P. Morgan
+ofxfail: '0'
+ofxhome_id: '700'
+org: ISC
+profile:
+  addr1: 902 Market Street, 7th floor
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Wilmington
+  country: USA
+  emailmsgset: 'true'
+  finame: J.P. Morgan
+  postalcode: '19801'
+  signonmsgset: 'true'
+  state: DE
+  url: http://www.jpmorgan.com/
+url: https://www.oasis.cfree.com/fip/genesis/prod/04701.ofx

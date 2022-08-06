@@ -1,0 +1,19 @@
+fid: '322278073'
+name: Kinecta Federal Credit Union
+ofxfail: '0'
+ofxhome_id: '646'
+org: KINECTA
+profile:
+  addr1: 1440 Rosecrans Ave.
+  bankmsgset: 'true'
+  city: Manhattan Beach
+  country: USA
+  csphone: 800-854-9846
+  email: ofxsupport@kinecta.org
+  finame: Kinecta FCU Direct Connect
+  postalcode: '90266'
+  signonmsgset: 'true'
+  state: CA
+  tsphone: 800-854-9846
+  url: https://www.kinecta.org/
+url: https://ofx.kinecta.org/ofxserver/ofxsrvr.dll

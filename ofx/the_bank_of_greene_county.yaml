@@ -1,0 +1,20 @@
+fid: '221370467'
+name: The Bank of Greene County
+ofxfail: '3'
+ofxhome_id: '1423'
+org: DI
+profile:
+  addr1: 425 Main Street
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Catskill
+  country: USA
+  csphone: 1 (518) 943-2600
+  email: support@tbogc.com
+  finame: The Bank of Greene County-New
+  postalcode: '12414'
+  signonmsgset: 'true'
+  state: NY
+  tsphone: 1 (518) 943-2600
+  url: www.thebankofgreenecounty.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

@@ -1,0 +1,20 @@
+fid: '307074580'
+name: Elevations Credit Union IB WC-DC
+ofxfail: '0'
+ofxhome_id: '752'
+org: uofcfcu
+profile:
+  addr1: Po Box 9004
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Boulder
+  country: USA
+  csphone: 303-443-4672
+  email: ecuservice@elevationscu.com
+  finame: Elevations Credit Union
+  postalcode: '80301'
+  signonmsgset: 'true'
+  state: CO
+  tsphone: 303-443-4672
+  url: www.elevationscu.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

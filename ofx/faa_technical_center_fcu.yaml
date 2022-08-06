@@ -1,0 +1,7 @@
+fid: '231277440'
+name: FAA Technical Center FCU
+ofxfail: '1'
+ofxhome_id: '583'
+org: FAA Technical Center FCU
+profile: {}
+url: https://ftc.usersonlnet.com/scripts/isaofx.dll

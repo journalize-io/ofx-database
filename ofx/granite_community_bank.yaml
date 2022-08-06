@@ -1,0 +1,19 @@
+fid: '59142'
+name: Granite Community Bank
+ofxfail: '0'
+ofxhome_id: '1138'
+org: Cavion
+profile:
+  addr1: 202 2nd Ave S
+  bankmsgset: 'true'
+  city: Cold Spring
+  country: USA
+  csphone: '3206858611'
+  email: info@granitecommunitybank.com
+  finame: Granite Community Bank
+  postalcode: '56320'
+  signonmsgset: 'true'
+  state: MN
+  tsphone: '3206858611'
+  url: https://www.granitecommunitybank.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

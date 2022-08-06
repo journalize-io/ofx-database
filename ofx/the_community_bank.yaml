@@ -1,0 +1,18 @@
+fid: '211371476'
+name: The Community Bank
+ofxfail: '1'
+ofxhome_id: '650'
+org: DI
+profile:
+  addr1: 1265 Belmont Street
+  bankmsgset: 'true'
+  city: Brockton
+  country: USA
+  csphone: 508-587-3210
+  email: trocha@communitybank.com
+  postalcode: 02301-4401
+  signonmsgset: 'true'
+  state: MA
+  tsphone: 508-587-3210
+  url: www.communitybank.com
+url: https://ofxdi.diginsite.com/cmr/cmr.ofx

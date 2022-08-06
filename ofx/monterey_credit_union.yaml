@@ -1,0 +1,19 @@
+fid: '2059'
+name: Monterey Credit Union
+ofxfail: '1'
+ofxhome_id: '804'
+org: orcc
+profile:
+  addr1: PO Box 3288
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Monterey,
+  country: USA
+  csphone: 877-277-8108
+  emailmsgset: 'true'
+  postalcode: '93942'
+  signonmsgset: 'true'
+  state: CA
+  tsphone: 877-277-8108
+  url: https://secure.montereycu.com
+url: https://www20.onlinebank.com/OROFX16Listener

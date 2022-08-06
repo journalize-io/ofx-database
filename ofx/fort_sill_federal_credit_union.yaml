@@ -1,0 +1,22 @@
+fid: '62682'
+name: Fort Sill Federal Credit Union
+ofxfail: '1'
+ofxhome_id: '1119'
+org: FSFCU
+profile:
+  addr1: PO Box 1527
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Lawton
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 580-353-2124
+  email: webmaster@ftsillfcu.com
+  emailmsgset: 'true'
+  finame: Fort Sill Federal Credit Union
+  postalcode: '73502'
+  signonmsgset: 'true'
+  state: OK
+  tsphone: 580-353-2124
+  url: http://www.fsfcu.com
+url: https://online.fsfcu.com/ofx/ofx.ofx

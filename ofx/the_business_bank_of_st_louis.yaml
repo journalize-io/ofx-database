@@ -1,0 +1,18 @@
+fid: 081018998
+name: The Business Bank of St Louis
+ofxfail: '0'
+ofxhome_id: '1426'
+org: MNineNineOne
+profile:
+  addr1: 8000 Maryland Avenue, Suite 10
+  bankmsgset: 'true'
+  city: Clayton
+  country: USA
+  csphone: 313-721-8003
+  email: noreply@bbstl.com
+  finame: The Business Bank of St Louis
+  postalcode: '63105'
+  signonmsgset: 'true'
+  state: MO
+  url: www.bbstl.com
+url: https://ofx1.evault.ws/ofxserver/ofxsrvr.dll

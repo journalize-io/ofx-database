@@ -1,0 +1,20 @@
+fid: '272481981'
+name: CASE Credit Union
+ofxfail: '0'
+ofxhome_id: '959'
+org: DI
+profile:
+  addr1: 4316 South Pennsylvania Ave
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Lansing
+  country: USA
+  csphone: 517-393-7710
+  email: '2'
+  finame: CASE Credit Union
+  postalcode: '48910'
+  signonmsgset: 'true'
+  state: MI
+  tsphone: 517-393-7710
+  url: www.casecuhb.org
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

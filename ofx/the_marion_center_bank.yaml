@@ -1,0 +1,19 @@
+fid: '14961'
+name: The Marion Center Bank
+ofxfail: '0'
+ofxhome_id: '1439'
+org: Cavion
+profile:
+  addr1: 501 East Main Street
+  bankmsgset: 'true'
+  city: Marion Center
+  country: USA
+  csphone: '7244642265'
+  email: smildren@marioncenterbank.com
+  finame: The Marion Center Bank
+  postalcode: '15759'
+  signonmsgset: 'true'
+  state: PA
+  tsphone: '7244642265'
+  url: https://online.marioncenterbank.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

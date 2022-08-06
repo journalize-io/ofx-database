@@ -1,0 +1,19 @@
+fid: '263281556'
+name: Innovations FCU Direct Connect
+ofxfail: '0'
+ofxhome_id: '1181'
+org: INNOVATIONDC
+profile:
+  addr1: PO BOX 15529
+  bankmsgset: 'true'
+  city: Panama City
+  country: USA
+  csphone: 850-233-4400
+  email: no-reply@innovationsfcu.org
+  finame: Innovations FCU Direct Connect
+  postalcode: '32406'
+  signonmsgset: 'true'
+  state: FL
+  tsphone: 850-249-0497
+  url: http://www.innovationsfcu.org
+url: https://m-innovationsfcu.financialhost.org/ofxsrvr.dll

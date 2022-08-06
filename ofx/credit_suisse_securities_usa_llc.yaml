@@ -1,0 +1,20 @@
+brokerid: credit-suisse.com
+fid: '001'
+name: Credit Suisse Securities USA LLC
+ofxfail: '0'
+ofxhome_id: '753'
+org: Credit Suisse Securities USA LLC
+profile:
+  addr1: ELEVEN MADISON AVENUE
+  city: New York
+  country: USA
+  csphone: 1-877-355-1818
+  email: pb.clientview@credit-suisse.com
+  finame: Credit Suisse Securities USA LLC
+  invstmtmsgset: 'true'
+  postalcode: '10010'
+  signonmsgset: 'true'
+  state: NY
+  tsphone: 877-355-1818
+  url: http://www.credit-suisse.com/pbclientview
+url: https://ofx.netxclient.com/cgi/OFXNetx

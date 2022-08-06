@@ -1,0 +1,7 @@
+fid: '061020317'
+name: Georgia Commerce Bank
+ofxfail: '0'
+ofxhome_id: '1128'
+org: MEightFiveNine
+profile: {}
+url: https://ofx1.evault.ws/ofxserver/ofxsrvr.dll

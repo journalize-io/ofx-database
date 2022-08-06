@@ -1,0 +1,21 @@
+fid: SSBWT
+name: The Security State Bank
+ofxfail: '0'
+ofxhome_id: '1446'
+org: FundsXpress
+profile:
+  addr1: P.O.Box 156
+  bankmsgset: 'true'
+  city: Winters
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 844-635-2904
+  email: customerservice@ssbwinters.com
+  emailmsgset: 'true'
+  finame: The Security State Bank
+  postalcode: '795670156'
+  signonmsgset: 'true'
+  state: TX
+  tsphone: 844-635-2904
+  url: https://www.ssbwinters.com
+url: https://ofx.fundsxpress.com/piles/ofx.pile/

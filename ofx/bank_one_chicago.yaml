@@ -1,0 +1,19 @@
+fid: '1501'
+name: Bank One (Chicago)
+ofxfail: '0'
+ofxhome_id: '672'
+org: ISC
+profile:
+  addr1: P. O. Box 1762
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Chicago
+  country: USA
+  creditcardmsgset: 'true'
+  emailmsgset: 'true'
+  finame: First Chicago
+  postalcode: '606909947'
+  signonmsgset: 'true'
+  state: IL
+  url: http://www.bankone.com/
+url: https://www.oasis.cfree.com/fip/genesis/prod/01501.ofx

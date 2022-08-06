@@ -1,0 +1,19 @@
+fid: '22086'
+name: C-Plant FCU
+ofxfail: '0'
+ofxhome_id: '942'
+org: Cavion
+profile:
+  addr1: P.O. Box 9250
+  bankmsgset: 'true'
+  city: Paducah
+  country: USA
+  csphone: '8772733488'
+  email: memberservice@cplant.com
+  finame: C-Plant FCU
+  postalcode: '42002'
+  signonmsgset: 'true'
+  state: KY
+  tsphone: '8772733488'
+  url: www.cplant.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

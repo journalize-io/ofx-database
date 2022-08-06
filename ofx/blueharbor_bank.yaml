@@ -1,0 +1,19 @@
+fid: '6456'
+name: Blueharbor Bank
+ofxfail: '0'
+ofxhome_id: '925'
+org: fis-6456
+profile:
+  addr1: PO Box 3546
+  addr2: 106 Corporate Park Drive
+  bankmsgset: 'true'
+  city: Mooresville
+  country: USA
+  csphone: 704-662-7700
+  email: Customer.service@blueharborbank.com
+  finame: Blueharbor Bank
+  postalcode: '28117'
+  signonmsgset: 'true'
+  state: NC
+  url: www.blueharborbank.com
+url: https://pfm.metavante.com/ofx/OFXServlet

@@ -1,0 +1,20 @@
+fid: 055002338
+name: The Columbia Bank
+ofxfail: '0'
+ofxhome_id: '1430'
+org: DI
+profile:
+  addr1: 7168 Columbia Gateway Dr
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Columbia
+  country: USA
+  csphone: 888.822.2265
+  email: customerservice@thecolumbiabank
+  finame: The Columbia Bank
+  postalcode: '21044'
+  signonmsgset: 'true'
+  state: MD
+  tsphone: 888.822.2265
+  url: http://www.thecolumbiabank.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

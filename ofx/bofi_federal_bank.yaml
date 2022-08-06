@@ -1,0 +1,19 @@
+fid: '122287251'
+name: Bofi federal bank
+ofxfail: '3'
+ofxhome_id: '798'
+org: Bofi Federal Bank - Business
+profile:
+  addr1: '1277 High Bluff Derive #100'
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: San Diego
+  country: USA
+  csphone: 858-350-6200
+  email: secure@BofI.com
+  postalcode: 92191-9000
+  signonmsgset: 'true'
+  state: CA
+  tsphone: 858-350-6200
+  url: www.mybankinternet.com
+url: https://directline.netteller.com

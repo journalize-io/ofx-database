@@ -1,0 +1,7 @@
+fid: '311079474'
+name: EDS Credit Union
+ofxfail: '1'
+ofxhome_id: '448'
+org: EDS CU
+profile: {}
+url: https://eds.usersonlnet.com/scripts/isaofx.dll

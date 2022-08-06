@@ -1,0 +1,18 @@
+fid: '10942'
+name: VISA Information Source
+ofxfail: '3'
+ofxhome_id: '626'
+org: VISA
+profile:
+  addr1: 900 Metro Center Blvd
+  city: Foster City
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 212 344 2000
+  email: support@joineei.com
+  postalcode: '94404'
+  signonmsgset: 'true'
+  state: CA
+  tsphone: 212 344 2000
+  url: www.joineei.com
+url: https://vis.informationmanagement.visa.com/eftxweb/access.ofx

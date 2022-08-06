@@ -1,0 +1,19 @@
+fid: '11135'
+name: Yolo Federal Credit Union
+ofxfail: '0'
+ofxhome_id: '1520'
+org: Cavion
+profile:
+  addr1: 266 W. Main St.
+  bankmsgset: 'true'
+  city: Woodland
+  country: USA
+  csphone: '5306682700'
+  email: info@yolofcu.org
+  finame: Yolo Federal Credit Union
+  postalcode: '95695'
+  signonmsgset: 'true'
+  state: CA
+  tsphone: '5306682700'
+  url: http://www.yolofcu.org/
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

@@ -1,0 +1,17 @@
+brokerid: tiaa-cref.org
+fid: '51498'
+name: Oregon College Savings Plan
+ofxfail: '3'
+ofxhome_id: '712'
+org: tiaaoregon
+profile:
+  addr1: PO Box 55914
+  city: Boston
+  country: USA
+  finame: Oregon College Savings Plan
+  invstmtmsgset: 'true'
+  postalcode: 02205-5914
+  signonmsgset: 'true'
+  state: MA
+  url: https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=b1908000027141704061413
+url: https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=b1908000027141704061413

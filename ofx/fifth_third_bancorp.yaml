@@ -1,0 +1,22 @@
+fid: '5829'
+name: Fifth Third Bancorp
+ofxfail: '3'
+ofxhome_id: '450'
+org: Fifth Third Bank
+profile:
+  addr1: Madisonville Operations Center
+  addr2: MD 1MOC3A
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Cincinnati
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 800-972-3030
+  email: 53_GeneralInquiries@53.com
+  emailmsgset: 'true'
+  finame: 53bank
+  postalcode: '45263'
+  signonmsgset: 'true'
+  state: OH
+  url: http://www.53.com/
+url: https://banking.53.com/ofx/OFXServlet

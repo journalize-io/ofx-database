@@ -1,0 +1,19 @@
+fid: '14650'
+name: Stockcross Financial
+ofxfail: '0'
+ofxhome_id: '1403'
+org: Stockcross
+profile:
+  addr1: 15 Exchange Place 8th Floor
+  city: Jersey City
+  country: USA
+  csphone: '8004854966'
+  email: notice@siebert.com
+  finame: Muriel Siebert & Co., Inc.
+  invstmtmsgset: 'true'
+  postalcode: '07302'
+  signonmsgset: 'true'
+  state: NJ
+  tsphone: '8004854966'
+  url: http://siebert.com
+url: https://ofx.trading2.fast-trade.com

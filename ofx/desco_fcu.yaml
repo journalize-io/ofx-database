@@ -1,0 +1,7 @@
+fid: '1248'
+name: DESCO FCU
+ofxfail: '0'
+ofxhome_id: '1042'
+org: COCC
+profile: {}
+url: https://ofx.myvirtualbranch.com/eftxweb/access.ofx

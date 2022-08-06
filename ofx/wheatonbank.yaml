@@ -1,0 +1,22 @@
+fid: '5508'
+name: WheatonBank
+ofxfail: '0'
+ofxhome_id: '1510'
+org: '291'
+profile:
+  addr1: 211 S. Wheaton Avenue
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Wheaton
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 888-671-3221
+  email: customer_service@wheatonbank.com
+  emailmsgset: 'true'
+  finame: WheatonBank
+  interxfermsgset: 'true'
+  postalcode: '60187'
+  signonmsgset: 'true'
+  state: IL
+  url: http://www.wheatonbank.com
+url: https://pfm.metavante.com/ofx/OFXServlet

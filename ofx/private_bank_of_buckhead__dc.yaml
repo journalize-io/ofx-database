@@ -1,0 +1,7 @@
+fid: '7292'
+name: Private Bank of Buckhead - DC
+ofxfail: '0'
+ofxhome_id: '1334'
+org: mfis-7292
+profile: {}
+url: https://pfm.metavante.com/ofx/OFXServlet

@@ -1,0 +1,19 @@
+fid: '40554'
+name: Dakota Plains CU
+ofxfail: '0'
+ofxhome_id: '1032'
+org: Cavion
+profile:
+  addr1: 212 5th Ave
+  bankmsgset: 'true'
+  city: Edgeley
+  country: USA
+  csphone: '7014932334'
+  email: dpcu@drtelnet
+  finame: Dakota Plains CU
+  postalcode: '58433'
+  signonmsgset: 'true'
+  state: ND
+  tsphone: '7014932334'
+  url: www.dakotaplainscreditunion.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

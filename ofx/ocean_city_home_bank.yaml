@@ -1,0 +1,20 @@
+fid: '231271080'
+name: Ocean City Home Bank
+ofxfail: '0'
+ofxhome_id: '1283'
+org: DI
+profile:
+  addr1: 1001 Asbury Avenue
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Ocean CIty
+  country: USA
+  csphone: 609-927-7722
+  email: cservice@ochome.com
+  finame: Ocean City Home Bank
+  postalcode: 08226-3329
+  signonmsgset: 'true'
+  state: NJ
+  tsphone: 609-927-7722
+  url: http://www.ochome.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

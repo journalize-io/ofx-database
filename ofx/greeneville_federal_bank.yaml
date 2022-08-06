@@ -1,0 +1,19 @@
+fid: '35880'
+name: Greeneville Federal Bank
+ofxfail: '0'
+ofxhome_id: '1143'
+org: Cavion
+profile:
+  addr1: 101 W. Summer Street
+  bankmsgset: 'true'
+  city: Greeneville
+  country: USA
+  csphone: 423.638.6397
+  email: info@greenevillefederalbank.com
+  finame: Greeneville Federal Bank
+  postalcode: '37743'
+  signonmsgset: 'true'
+  state: TN
+  tsphone: 423.638.6397
+  url: http://www.greenevillefederalbank
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

@@ -1,0 +1,19 @@
+fid: '104000469'
+name: Enterprise Bank
+ofxfail: '0'
+ofxhome_id: '1062'
+org: MNineZeroZero
+profile:
+  addr1: 12800 West Center Road
+  bankmsgset: 'true'
+  city: Omaha
+  country: USA
+  csphone: 402-330-0200
+  email: noreply@enterprisebankomaha.com
+  finame: Enterprise Bank
+  postalcode: '68144'
+  signonmsgset: 'true'
+  state: NE
+  tsphone: 402-330-0200
+  url: http://www.enterprisebankomaha.com
+url: https://ofx1.evault.ws/ofxserver/ofxsrvr.dll

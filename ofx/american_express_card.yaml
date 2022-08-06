@@ -1,0 +1,18 @@
+fid: '3101'
+name: American Express Card
+ofxfail: '0'
+ofxhome_id: '424'
+org: AMEX
+profile:
+  addr1: 777 American Expressway
+  bankmsgset: 'true'
+  city: Fort Lauderdale
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 1-800-AXP-7500  (1-800-297-7500)
+  finame: American Express
+  postalcode: 33337-0001
+  signonmsgset: 'true'
+  state: Fla.
+  url: https://online.americanexpress.com/myca/ofxdl/desktop/desktopDownload.do?request_type=nl_ofxdownload
+url: https://online.americanexpress.com/myca/ofxdl/desktop/desktopDownload.do?request_type=nl_ofxdownload

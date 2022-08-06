@@ -1,0 +1,22 @@
+fid: '5507'
+name: HinsdaleBank
+ofxfail: '0'
+ofxhome_id: '1164'
+org: '289'
+profile:
+  addr1: 25 East First Street
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Hinsdale
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 866-224-2859
+  email: customer_service@hinsdalebank.com
+  emailmsgset: 'true'
+  finame: HinsdaleBank
+  interxfermsgset: 'true'
+  postalcode: '60521'
+  signonmsgset: 'true'
+  state: IL
+  url: http://www.hinsdalebank.com
+url: https://pfm.metavante.com/ofx/OFXServlet

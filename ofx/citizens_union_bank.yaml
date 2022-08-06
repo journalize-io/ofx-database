@@ -1,0 +1,21 @@
+fid: CUBSKY
+name: Citizens Union Bank
+ofxfail: '0'
+ofxhome_id: '995'
+org: FundsXpress
+profile:
+  addr1: PO Box 189
+  bankmsgset: 'true'
+  city: Shelbyville
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 1-502-633-4450
+  email: ibanking-notification@cubbank.com
+  emailmsgset: 'true'
+  finame: Citizens Union Bank
+  postalcode: '400660189'
+  signonmsgset: 'true'
+  state: KY
+  tsphone: 1-502-633-4450
+  url: http://www.cubbank.com
+url: https://ofx.fundsxpress.com/piles/ofx.pile/

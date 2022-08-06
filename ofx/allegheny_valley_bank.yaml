@@ -1,0 +1,18 @@
+fid: '1646'
+name: Allegheny Valley Bank
+ofxfail: '0'
+ofxhome_id: '850'
+org: olb-3240
+profile:
+  addr1: 5137 Butler Street
+  bankmsgset: 'true'
+  city: Pittsburgh
+  country: USA
+  csphone: 412-632-1345
+  email: billpay@avbpgh.com
+  finame: Allegheny Valley Bank
+  postalcode: '15201'
+  signonmsgset: 'true'
+  state: PA
+  url: http://www.avbpgh.com
+url: https://pfm.metavante.com/ofx/OFXServlet

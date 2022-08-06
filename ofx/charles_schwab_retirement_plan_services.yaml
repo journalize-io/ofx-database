@@ -1,0 +1,20 @@
+brokerid: SchwabRPS.dv
+fid: '1234'
+name: Charles Schwab Retirement Plan Services
+ofxfail: '3'
+ofxhome_id: '730'
+org: SchwabRPS
+profile:
+  addr1: 211 Main St
+  city: San Francisco
+  country: USA
+  csphone: (212)344-2000
+  email: help@gs.com
+  finame: Charles Schwab & Co., Inc.
+  invstmtmsgset: 'true'
+  postalcode: '94105'
+  signonmsgset: 'true'
+  state: CA
+  tsphone: (212)344-2000
+  url: WWW.SCHWAB.COM
+url: https://ofx.schwab.com/cgi_dev/ofx_server

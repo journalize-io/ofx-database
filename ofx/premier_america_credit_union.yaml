@@ -1,0 +1,20 @@
+fid: '322283990'
+name: Premier America Credit Union
+ofxfail: '0'
+ofxhome_id: '764'
+org: DI
+profile:
+  addr1: 19867 Prairie Street
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Chatsworth
+  country: USA
+  csphone: 800-772-4000
+  email: info@premier.org
+  finame: Premier America Credit Union
+  postalcode: '91311'
+  signonmsgset: 'true'
+  state: CA
+  tsphone: 800-772-4000
+  url: www.premier.org
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

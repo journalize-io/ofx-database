@@ -1,0 +1,19 @@
+fid: '3501'
+name: First Hawaiian Bank
+ofxfail: '1'
+ofxhome_id: '691'
+org: BancWest Corp
+profile:
+  addr1: 999 Bishop Street
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Honolulu
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 1-888-844-4444
+  postalcode: '96813'
+  signonmsgset: 'true'
+  state: HI
+  tsphone: 1-888-844-4444
+  url: http://www.fhb.com
+url: https://olbp.fhb.com/ofx0001/ofx_isapi.dll

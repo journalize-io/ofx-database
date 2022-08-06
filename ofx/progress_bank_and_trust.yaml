@@ -1,0 +1,18 @@
+fid: '7108'
+name: Progress Bank and Trust
+ofxfail: '0'
+ofxhome_id: '1335'
+org: mfis-7108
+profile:
+  addr1: 201 Williams Ave.
+  bankmsgset: 'true'
+  city: Huntsville
+  country: USA
+  csphone: 256-319-3600
+  email: service@myprogressbank.com
+  finame: Progress Bank and Trust
+  postalcode: '35801'
+  signonmsgset: 'true'
+  state: AL
+  url: http://www.myprogressbank.com
+url: https://pfm.metavante.com/ofx/OFXServlet

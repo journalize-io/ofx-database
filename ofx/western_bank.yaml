@@ -1,0 +1,22 @@
+fid: WBLNM
+name: Western Bank
+ofxfail: '0'
+ofxhome_id: '1507'
+org: FundsXpress
+profile:
+  addr1: P.O. Box 490
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Lordsburg
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: (575) 542-3521 or (575) 388-3521
+  email: customerservice@bootheelbank.com
+  emailmsgset: 'true'
+  finame: Western Bank
+  postalcode: '88045'
+  signonmsgset: 'true'
+  state: NM
+  tsphone: (575) 542-3521 or (575) 388-3521
+  url: http://www.bootheelbank.com
+url: https://ofx.fundsxpress.com/piles/ofx.pile/

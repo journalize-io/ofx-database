@@ -1,0 +1,19 @@
+fid: 053112097
+name: Southern Community Bank and Trust (SCB&T)
+ofxfail: '0'
+ofxhome_id: '751'
+org: MOneFortyEight
+profile:
+  addr1: 4605 Country Club Road
+  bankmsgset: 'true'
+  city: Winston-Salem
+  country: USA
+  csphone: (888) 768-2666
+  email: noreply@smallenoughtocare.com
+  finame: Southern Community Bank & Trust
+  postalcode: '27104'
+  signonmsgset: 'true'
+  state: NC
+  tsphone: (888) 768-2666
+  url: http://www.smallenoughtocare.com
+url: https://ofx1.evault.ws/OFXServer/ofxsrvr.dll

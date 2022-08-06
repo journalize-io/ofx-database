@@ -1,0 +1,19 @@
+fid: '62295'
+name: Heritage Group
+ofxfail: '0'
+ofxhome_id: '1161'
+org: Cavion
+profile:
+  addr1: 1101 12th Street
+  bankmsgset: 'true'
+  city: Aurora
+  country: USA
+  csphone: '8885545499'
+  email: customerservice@bankonheritage.com
+  finame: Heritage Group
+  postalcode: '68818'
+  signonmsgset: 'true'
+  state: NE
+  tsphone: '8885545499'
+  url: www.bankonheritage.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

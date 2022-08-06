@@ -1,0 +1,19 @@
+fid: '124302325'
+name: Cache Valley Bank
+ofxfail: '0'
+ofxhome_id: '944'
+org: Cavion
+profile:
+  addr1: 301 N. Main Street
+  bankmsgset: 'true'
+  city: Logan
+  country: USA
+  csphone: 435.753.3020
+  email: mlemon@cvbank.net
+  finame: Cache Valley Bank
+  postalcode: '84323'
+  signonmsgset: 'true'
+  state: UT
+  tsphone: 435.753.3020
+  url: www.cachevalleybank.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

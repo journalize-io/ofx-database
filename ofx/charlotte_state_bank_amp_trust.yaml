@@ -1,0 +1,22 @@
+fid: CSBPCFL
+name: Charlotte State Bank &amp; Trust
+ofxfail: '0'
+ofxhome_id: '981'
+org: Certegy
+profile:
+  addr1: 1100 Tamiami Trail
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Port Charlotte
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 941-624-5400
+  email: customerservice@csbtfl.com
+  emailmsgset: 'true'
+  finame: Charlotte State Bank & Trust
+  postalcode: '33953'
+  signonmsgset: 'true'
+  state: FL
+  tsphone: 941-624-5400
+  url: http://www.charlottestatebankandtrust.com
+url: https://ofx.fundsxpress.com/piles/ofx.pile/

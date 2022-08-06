@@ -1,0 +1,20 @@
+fid: 5MQD7
+name: NORTHWESTERN MUTUAL CU
+ofxfail: '3'
+ofxhome_id: '1278'
+org: Northwestern Mutual Credit Union
+profile:
+  addr1: 720 E WISCONSIN AVE
+  addr2: ROOM S345
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: MILWAUKEE
+  country: US
+  csphone: '4146653423'
+  emailmsgset: 'true'
+  finame: NORTHWESTERN MUTUAL CU
+  postalcode: '53202'
+  signonmsgset: 'true'
+  state: WI
+  url: https://northwesternmutual-dn.financial-net.com/web
+url: https://www.netit.financial-net.com/ofx

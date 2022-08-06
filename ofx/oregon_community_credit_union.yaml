@@ -1,0 +1,20 @@
+fid: '2077'
+name: Oregon Community Credit Union
+ofxfail: '1'
+ofxhome_id: '781'
+org: ORCC
+profile:
+  addr1: PO Box 77002
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Eugene
+  country: USA
+  csphone: 800-365-1111
+  email: mpenn@OregonCommunityCU.org
+  emailmsgset: 'true'
+  postalcode: 97401-0146
+  signonmsgset: 'true'
+  state: OR
+  tsphone: 800-365-1111
+  url: http://www.OregonCommunityCU.org
+url: https://www20.onlinebank.com/OROFX16Listener

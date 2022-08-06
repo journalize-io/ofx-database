@@ -1,0 +1,19 @@
+fid: '031313627'
+name: Swineford National Bank
+ofxfail: '3'
+ofxhome_id: '1413'
+org: DI
+profile:
+  addr1: 1255 N.Susquehanna Trail
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Hummels Wharf
+  country: USA
+  csphone: 1-866-762-1903
+  email: customerservice@swineford.com
+  finame: Swineford National Bank
+  postalcode: '17831'
+  signonmsgset: 'true'
+  state: PA
+  url: www.swineford.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

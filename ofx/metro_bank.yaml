@@ -1,0 +1,21 @@
+fid: '9970'
+name: Metro Bank
+ofxfail: '3'
+ofxhome_id: '654'
+org: MTRO
+profile:
+  addr1: 3801 Paxton St
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Harrisburg
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 800-204-0541
+  email: customerservice@mymetrobank.com
+  emailmsgset: 'true'
+  postalcode: '17111'
+  signonmsgset: 'true'
+  state: PA
+  tsphone: 800-204-0541
+  url: https://online.mymetrobank.com
+url: https://ofx.mymetrobank.com/ofx/ofx.ofx

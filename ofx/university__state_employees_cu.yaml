@@ -1,0 +1,19 @@
+fid: '322281691'
+name: UNIVERSITY & STATE EMPLOYEES CU
+ofxfail: '1'
+ofxhome_id: '776'
+org: DI
+profile:
+  addr1: 10120 Pacific Heights Blvd.
+  bankmsgset: 'true'
+  city: San Diego
+  country: USA
+  csphone: 1-866-USE-4-YOU
+  email: webmaster@usecu.org
+  finame: USE Credit Union
+  postalcode: '92121'
+  signonmsgset: 'true'
+  state: CA
+  tsphone: 1-866-USE-4-YOU
+  url: http://www.usecu.org
+url: https://ofxdi.diginsite.com/cmr/cmr.ofx

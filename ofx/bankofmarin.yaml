@@ -1,0 +1,22 @@
+fid: '5001'
+name: BankOfMarin
+ofxfail: '0'
+ofxhome_id: '893'
+org: '568'
+profile:
+  addr1: 50 Madera Blvd
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Corte Madera
+  country: USA
+  csphone: 888-722-1299
+  email: homebanking@bankofmarin.com
+  emailmsgset: 'true'
+  finame: BankOfMarin
+  interxfermsgset: 'true'
+  postalcode: '94925'
+  signonmsgset: 'true'
+  state: CA
+  tsphone: 888-722-1299
+  url: www.bankofmarin.com
+url: https://pfm.metavante.com/ofx/OFXServlet

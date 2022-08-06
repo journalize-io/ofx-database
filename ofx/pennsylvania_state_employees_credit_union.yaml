@@ -1,0 +1,19 @@
+fid: '231381116'
+name: Pennsylvania State Employees Credit Union
+ofxfail: '3'
+ofxhome_id: '814'
+org: PENNSTATEEMPLOYEES
+profile:
+  addr1: 1 Credit Union Pl
+  bankmsgset: 'true'
+  city: Harrisburg
+  country: USA
+  csphone: 800-237-7328
+  email: PSECU@psecu.com
+  emailmsgset: 'true'
+  finame: PSECU
+  postalcode: '17110'
+  signonmsgset: 'true'
+  state: PA
+  url: https://directconnect.psecu.com/OFXServer/ofxsrvr.dll
+url: https://directconnect.psecu.com/ofxserver/ofxsrvr.dll

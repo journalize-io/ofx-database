@@ -1,0 +1,19 @@
+brokerid: '1234'
+fid: '7784'
+name: Securities America
+ofxfail: '0'
+ofxhome_id: '641'
+org: Fidelity
+profile:
+  addr1: XXXXXXXXXX
+  city: XXXXXXXXXX
+  country: USA
+  csphone: Contact your broker/dealer.
+  finame: myStreetscape
+  invstmtmsgset: 'true'
+  postalcode: XXXXX
+  signonmsgset: 'true'
+  state: XX
+  tsphone: Contact your broker/dealer.
+  url: https://ofx.ibgstreetscape.com
+url: https://ofx.ibgstreetscape.com:443

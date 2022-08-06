@@ -1,0 +1,21 @@
+brokerid: Oppenheimer
+fid: '125'
+name: Oppenheimer & Co. Inc.
+ofxfail: '0'
+ofxhome_id: '711'
+org: Oppenheimer
+profile:
+  addr1: 125 Broad Street
+  city: New York
+  country: USA
+  csphone: 1-800-555-1212
+  email: support@opco.com
+  finame: Oppenheimer
+  invstmtmsgset: 'true'
+  postalcode: '10004'
+  seclistmsgset: 'true'
+  signonmsgset: 'true'
+  state: NY
+  tsphone: 1-800-555-1212
+  url: http://www.opco.com
+url: https://ofx.opco.com/eftxweb/access.ofx

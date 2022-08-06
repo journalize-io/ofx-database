@@ -1,0 +1,19 @@
+fid: '22401'
+name: HEW FCU
+ofxfail: '0'
+ofxhome_id: '1163'
+org: Cavion
+profile:
+  addr1: 200 Independence Ave S.W.
+  bankmsgset: 'true'
+  city: Washington
+  country: USA
+  csphone: 800-742-5582
+  email: arosenthal@hewfcu.com
+  finame: HEW FCU
+  postalcode: '20201'
+  signonmsgset: 'true'
+  state: DC
+  tsphone: 800-742-5582
+  url: http://www.hewfcu.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

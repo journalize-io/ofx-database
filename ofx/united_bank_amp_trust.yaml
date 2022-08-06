@@ -1,0 +1,20 @@
+fid: 073922843
+name: United Bank &amp; Trust
+ofxfail: '3'
+ofxhome_id: '1483'
+org: DI
+profile:
+  addr1: 2101 S. Center Street
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Marshalltown
+  country: USA
+  csphone: 641-352-2088
+  email: service@ubtna.com
+  finame: United Bank & Trust
+  postalcode: '50158'
+  signonmsgset: 'true'
+  state: IA
+  tsphone: 641-352-2088
+  url: www.ubtna.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

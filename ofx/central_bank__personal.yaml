@@ -1,0 +1,20 @@
+fid: '159'
+name: Central Bank - Personal
+ofxfail: '3'
+ofxhome_id: '967'
+org: 086500634
+profile:
+  addr1: 238 Madison Street
+  bankmsgset: 'true'
+  city: Jefferson City
+  country: USA
+  csphone: 800-749-5344
+  email: twilla_duvall@centralbank.net
+  emailmsgset: 'true'
+  finame: Central Bank - Personal
+  postalcode: '65101'
+  signonmsgset: 'true'
+  state: MO
+  tsphone: 800-749-5344
+  url: https://www.centralbank.net/
+url: https://ofx.centralbancompany.com/ofxserver/ofxsrvr.dll

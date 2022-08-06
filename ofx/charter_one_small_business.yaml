@@ -1,0 +1,18 @@
+fid: '4670'
+name: Charter One Small Business
+ofxfail: '0'
+ofxhome_id: '983'
+org: FiServ CheckFree
+profile:
+  addr1: One Citizens Plaza
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Providence
+  country: USA
+  emailmsgset: 'true'
+  finame: Charter One Small Business
+  postalcode: 02903
+  signonmsgset: 'true'
+  state: RI
+  url: http://www.charterone.com
+url: https://www.oasis.cfree.com/fip/genesis/prod/04670.ofx

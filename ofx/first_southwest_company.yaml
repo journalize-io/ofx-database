@@ -1,0 +1,17 @@
+brokerid: https://fswofx.automat
+fid: '7048'
+name: First Southwest Company
+ofxfail: '3'
+ofxhome_id: '620'
+org: AFS
+profile:
+  addr1: 50 Broadway
+  city: New York
+  country: USA
+  invstmtmsgset: 'true'
+  postalcode: '10004'
+  seclistmsgset: 'true'
+  signonmsgset: 'true'
+  state: NY
+  url: https://fswofx.automatedfinancial.com
+url: https://fswofx.automatedfinancial.com

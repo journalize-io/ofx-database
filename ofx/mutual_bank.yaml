@@ -1,0 +1,20 @@
+fid: '88'
+name: Mutual Bank
+ofxfail: '1'
+ofxhome_id: '809'
+org: ORCC
+profile:
+  addr1: P.O. Box 150
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Whitman
+  country: USA
+  csphone: 866-986-9226
+  email: info@orcc.com
+  emailmsgset: 'true'
+  postalcode: 02382
+  signonmsgset: 'true'
+  state: MA
+  tsphone: 866-986-9226
+  url: http://www.MyMutualBank.com
+url: https://www20.onlinebank.com/OROFX16Listener

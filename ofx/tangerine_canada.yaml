@@ -1,0 +1,19 @@
+fid: '10951'
+name: Tangerine (Canada)
+ofxfail: '0'
+ofxhome_id: '794'
+org: TangerineBank
+profile:
+  addr1: 3389 Steeles Avenue East
+  bankmsgset: 'true'
+  city: Toronto
+  country: CAN
+  csphone: 800-464-3473
+  email: clientservices@tangerine.ca
+  finame: Tangerine Bank
+  postalcode: M2H 3S8
+  signonmsgset: 'true'
+  state: 'ON'
+  tsphone: 800-464-3473
+  url: http://www.tangerine.ca
+url: https://ofx.tangerine.ca

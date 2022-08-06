@@ -1,0 +1,19 @@
+fid: 091915654
+name: KleinBank
+ofxfail: '0'
+ofxhome_id: '1200'
+org: DI
+profile:
+  addr1: 611 Rose Drive
+  bankmsgset: 'true'
+  city: Big Lake
+  country: USA
+  csphone: 888-553-4648
+  email: onlinecs@kleinbank.com
+  finame: KleinBank
+  postalcode: '55309'
+  signonmsgset: 'true'
+  state: MN
+  tsphone: 888-553-4648
+  url: www.kleinbank.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

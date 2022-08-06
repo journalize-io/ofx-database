@@ -1,0 +1,19 @@
+fid: 091301048
+name: The Goose River Bank
+ofxfail: '0'
+ofxhome_id: '1436'
+org: Cavion
+profile:
+  addr1: 44 W Main St
+  bankmsgset: 'true'
+  city: Mayville
+  country: USA
+  csphone: 701-788-3110
+  email: goose@gooseriverbank.com
+  finame: The Goose River Bank
+  postalcode: 58257-1314
+  signonmsgset: 'true'
+  state: ND
+  tsphone: 701-788-3110
+  url: http://www.gooseriverbank.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

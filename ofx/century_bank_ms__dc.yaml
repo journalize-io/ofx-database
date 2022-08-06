@@ -1,0 +1,7 @@
+fid: 065303328
+name: Century Bank MS - DC
+ofxfail: '0'
+ofxhome_id: '975'
+org: Fidelity
+profile: {}
+url: https://pfm.metavante.com/ofx/OFXServlet

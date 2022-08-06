@@ -1,0 +1,21 @@
+fid: '1257'
+name: Central Bank Oklahoma - Personal
+ofxfail: '3'
+ofxhome_id: '1291'
+org: '103912723'
+profile:
+  addr1: 8908 South Yale
+  addr2: Suite 100
+  bankmsgset: 'true'
+  city: Tulsa
+  country: USA
+  csphone: 918-477-7400
+  email: customer_service@onbbank.com
+  emailmsgset: 'true'
+  finame: Central Bank Oklahoma - Personal
+  postalcode: '74137'
+  signonmsgset: 'true'
+  state: OK
+  tsphone: 877-755-7490
+  url: https://www.centralbankok.net/
+url: https://ofx.centralbancompany.com/ofxserver/ofxsrvr.dll

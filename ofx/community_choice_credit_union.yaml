@@ -1,0 +1,19 @@
+fid: '4151'
+name: Community Choice Credit Union
+ofxfail: '0'
+ofxhome_id: '1017'
+org: Cavion
+profile:
+  addr1: 8404 NW 62nd Ave
+  bankmsgset: 'true'
+  city: Johnston
+  country: USA
+  csphone: '5153348100'
+  email: joshcook@comchoicecu.org
+  finame: Community Choice Credit Union
+  postalcode: '50131'
+  signonmsgset: 'true'
+  state: IA
+  tsphone: '5153348100'
+  url: http://www.comchoicecu.org
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

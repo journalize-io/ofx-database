@@ -1,0 +1,19 @@
+fid: '24591'
+name: USAA Federal Savings Bank
+ofxfail: '3'
+ofxhome_id: '483'
+org: USAA
+profile:
+  addr1: 10750 McDermott Freeway
+  bankmsgset: 'true'
+  city: San Antonio
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 877-820-8320
+  finame: USAA Federal Savings Bank
+  postalcode: '78288'
+  signonmsgset: 'true'
+  state: TX
+  tsphone: 877-820-8320
+  url: www.usaa.com
+url: https://service2.usaa.com/ofx/OFXServlet

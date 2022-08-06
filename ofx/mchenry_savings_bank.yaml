@@ -1,0 +1,18 @@
+fid: '8405'
+name: McHenry Savings Bank
+ofxfail: '0'
+ofxhome_id: '1233'
+org: bib101088
+profile:
+  addr1: 353 Bank Drive
+  bankmsgset: 'true'
+  city: McHenry
+  country: USA
+  csphone: 734-222-2009
+  email: customerservice@mchenrysavings.com
+  finame: McHenry Savings Bank
+  postalcode: '60050'
+  signonmsgset: 'true'
+  state: IL
+  url: www.mchenrysavings.com
+url: https://pfm.metavante.com/ofx/OFXServlet

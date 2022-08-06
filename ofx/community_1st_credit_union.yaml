@@ -1,0 +1,18 @@
+fid: '325082017'
+name: Community 1st Credit Union
+ofxfail: '3'
+ofxhome_id: '738'
+org: Community 1st Credit Union
+profile:
+  addr1: 14625 15th Avenue NE
+  bankmsgset: 'true'
+  city: Shoreline
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 1-800-247-7328
+  postalcode: '98155'
+  signonmsgset: 'true'
+  state: WA
+  tsphone: 1-800-247-7328
+  url: https://myc1cu.com
+url: https://ib.comm1stcu.org/scripts/isaofx.dll

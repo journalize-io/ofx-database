@@ -1,0 +1,20 @@
+fid: '313083727'
+name: PrimeWay Federal Credit Union
+ofxfail: '0'
+ofxhome_id: '1332'
+org: DI
+profile:
+  addr1: P.O. Box 53088
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Houston
+  country: USA
+  csphone: 800-554-5690
+  email: '2'
+  finame: PrimeWay Federal Credit Union
+  postalcode: '77052'
+  signonmsgset: 'true'
+  state: TX
+  tsphone: 800-554-5690
+  url: www.primewayfcu.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

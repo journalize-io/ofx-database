@@ -1,0 +1,21 @@
+fid: BFCWMO
+name: Bank of Franklin County
+ofxfail: '3'
+ofxhome_id: '891'
+org: FundsXpress
+profile:
+  addr1: 900 East 8th Street
+  bankmsgset: 'true'
+  city: Washington
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: (636)239-6600 or (877)584-6600
+  email: CustomerRelations@bankoffranklincounty.com
+  emailmsgset: 'true'
+  finame: Bank of Franklin County
+  postalcode: '63090'
+  signonmsgset: 'true'
+  state: MO
+  tsphone: (636)239-6600 or (877)584-6600
+  url: http://www.bankoffranklincounty.com
+url: https://ofx.fundsxpress.com/piles/ofx.pile/

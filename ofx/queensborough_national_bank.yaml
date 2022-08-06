@@ -1,0 +1,21 @@
+fid: 061103975
+name: Queensborough National Bank
+ofxfail: '0'
+ofxhome_id: '1339'
+org: DI
+profile:
+  addr1: 113 East Broad Street
+  addr2: Post Office Box 467
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Louisville
+  country: USA
+  csphone: 912-552-7317
+  email: customerservice@qnbtrust.com
+  finame: Queensborough National Bank & Tr
+  postalcode: '30434'
+  signonmsgset: 'true'
+  state: GA
+  tsphone: 912-552-7317
+  url: www.qnbtdi.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

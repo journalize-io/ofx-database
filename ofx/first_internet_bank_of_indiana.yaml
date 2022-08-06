@@ -1,0 +1,22 @@
+brokerid: 074014187
+fid: 074014187
+name: First Internet Bank of Indiana
+ofxfail: '0'
+ofxhome_id: '642'
+org: DI
+profile:
+  addr1: 7820 Innovation Boulevard
+  addr2: Suite 210
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Indianapolis
+  country: USA
+  csphone: (888) 873-3424
+  email: newaccounts@firstib.com
+  finame: First Internet Bank of Indiana
+  postalcode: '46278'
+  signonmsgset: 'true'
+  state: IN
+  tsphone: (888) 873-3424
+  url: www.firstib.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

@@ -1,0 +1,19 @@
+fid: '28446'
+name: First State Bank Warner
+ofxfail: '0'
+ofxhome_id: '1108'
+org: Cavion
+profile:
+  addr1: 2 West Main St.
+  bankmsgset: 'true'
+  city: Warner
+  country: USA
+  csphone: '6052251400'
+  email: jarlt@fsbwarner.com
+  finame: First State Bank Warner
+  postalcode: '57479'
+  signonmsgset: 'true'
+  state: SD
+  tsphone: '6052251400'
+  url: http://www.fsbwarner.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

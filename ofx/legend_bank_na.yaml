@@ -1,0 +1,22 @@
+fid: LBBTX
+name: Legend Bank N.A.
+ofxfail: '3'
+ofxhome_id: '1220'
+org: FundsXpress
+profile:
+  addr1: P.O.Box 1081
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Bowie
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 800-873-5604
+  email: mylegendbank@legend.bank
+  emailmsgset: 'true'
+  finame: Legend Bank N.A.
+  postalcode: '762301081'
+  signonmsgset: 'true'
+  state: TX
+  tsphone: 800-873-5604
+  url: http://www.legend-bank.com
+url: https://ofx.fundsxpress.com/piles/ofx.pile/

@@ -1,0 +1,19 @@
+fid: '466'
+name: Nantucket Bank
+ofxfail: '1'
+ofxhome_id: '456'
+org: Nantucket
+profile:
+  addr1: 104 Pleasant Street
+  bankmsgset: 'true'
+  city: Nantucket
+  country: USA
+  csphone: 1-800-533-9313
+  email: callcenter@nantucketbank.com
+  emailmsgset: 'true'
+  postalcode: '02554'
+  signonmsgset: 'true'
+  state: MA
+  tsphone: 1-800-533-9313
+  url: http://www.nantucketbank.com/
+url: https://ofx.onlinencr.com/scripts/serverext.dll

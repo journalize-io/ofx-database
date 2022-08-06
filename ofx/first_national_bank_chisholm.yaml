@@ -1,0 +1,19 @@
+fid: '53451'
+name: First National Bank Chisholm
+ofxfail: '0'
+ofxhome_id: '1094'
+org: Cavion
+profile:
+  addr1: 101 West Lake Street
+  bankmsgset: 'true'
+  city: Chisholm
+  country: USA
+  csphone: '2182543357'
+  email: lframe@fnbchisholm.com
+  finame: First National Bank Chisholm
+  postalcode: '55719'
+  signonmsgset: 'true'
+  state: MN
+  tsphone: '2182543357'
+  url: http://www.fnbchisholm.com:80/
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

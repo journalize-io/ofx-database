@@ -1,0 +1,19 @@
+fid: '45822'
+name: SMW 104  FCU San Leandro, CA
+ofxfail: '0'
+ofxhome_id: '1377'
+org: Cavion
+profile:
+  addr1: 1750 Abram Court
+  bankmsgset: 'true'
+  city: San Leandro
+  country: USA
+  csphone: 510-483-1300
+  email: info@smw104fcu.org
+  finame: SMW 104  FCU San Leandro, CA
+  postalcode: '94577'
+  signonmsgset: 'true'
+  state: CA
+  tsphone: 510-483-1300
+  url: www.smw104fcu.org
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

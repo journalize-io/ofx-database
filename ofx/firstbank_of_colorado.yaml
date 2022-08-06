@@ -1,0 +1,19 @@
+fid: FirstBank
+name: FirstBank of Colorado
+ofxfail: '0'
+ofxhome_id: '554'
+org: FBDC
+profile:
+  addr1: 12345 W Colfax Ave.
+  bankmsgset: 'true'
+  city: Lakewood
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 303-232-5522 or 800-964-3444
+  email: banking@efirstbank.com
+  finame: FirstBank of Colorado
+  postalcode: '80215'
+  signonmsgset: 'true'
+  state: CO
+  url: https://www.efirstbankpfm.com
+url: https://www.efirstbankpfm.com/ofx/OFXServlet

@@ -1,0 +1,22 @@
+fid: WSBWFL
+name: Wauchula State Bank
+ofxfail: '3'
+ofxhome_id: '1500'
+org: FundsXpress, Inc.
+profile:
+  addr1: P.O. Box 248
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Wauchula
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: (863)773-4151
+  email: customer.service@wauchulastatebank.com
+  emailmsgset: 'true'
+  finame: Wauchula State Bank
+  postalcode: '33873'
+  signonmsgset: 'true'
+  state: FL
+  tsphone: (863)773-4151
+  url: https://www.wauchulastatebank.com
+url: https://ofx.fundsxpress.com/piles/ofx.pile/

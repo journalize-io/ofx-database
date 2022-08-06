@@ -1,0 +1,17 @@
+brokerid: sterneagee.com
+fid: '2170'
+name: Sterne Agee
+ofxfail: '3'
+ofxhome_id: '736'
+org: AFS
+profile:
+  addr1: 50 Broadway
+  city: New York
+  country: USA
+  invstmtmsgset: 'true'
+  postalcode: '10004'
+  seclistmsgset: 'true'
+  signonmsgset: 'true'
+  state: NY
+  url: https://salofx.automatedfinancial.com
+url: https://salofx.automatedfinancial.com

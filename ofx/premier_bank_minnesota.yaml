@@ -1,0 +1,18 @@
+fid: '1596'
+name: Premier Bank Minnesota
+ofxfail: '0'
+ofxhome_id: '1328'
+org: olb-3396
+profile:
+  addr1: 316 Oak Street
+  bankmsgset: 'true'
+  city: Farmington
+  country: USA
+  csphone: 800-772-6497
+  email: billpay@premierbanks.com
+  finame: Premier Bank Minnesota
+  postalcode: '55024'
+  signonmsgset: 'true'
+  state: MN
+  url: http://www.premierbanks.com
+url: https://pfm.metavante.com/ofx/OFXServlet

@@ -1,0 +1,22 @@
+fid: '5510'
+name: BeverlyBankNTrust
+ofxfail: '0'
+ofxhome_id: '922'
+org: '495'
+profile:
+  addr1: 10258 S. Western Ave
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Chicago
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 888-886-6042
+  email: customer_service@thebeverlybank.com
+  emailmsgset: 'true'
+  finame: BeverlyBankNTrust
+  interxfermsgset: 'true'
+  postalcode: '60643'
+  signonmsgset: 'true'
+  state: IL
+  url: http://www.thebeverlybank.com
+url: https://pfm.metavante.com/ofx/OFXServlet

@@ -1,0 +1,18 @@
+fid: 091008299
+name: Lake Community Bank
+ofxfail: '0'
+ofxhome_id: '1207'
+org: MZeroTwoEight
+profile:
+  addr1: 1964 West Wayzata Blvd
+  bankmsgset: 'true'
+  city: Long Lake
+  country: USA
+  csphone: 952-473-7347
+  email: noreply@lcbankmn.com
+  finame: Lake Community Bank
+  postalcode: '55356'
+  signonmsgset: 'true'
+  state: MN
+  url: www.lcbankmn.com
+url: https://ofx1.evault.ws/ofxserver/ofxsrvr.dll

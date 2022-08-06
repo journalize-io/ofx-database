@@ -1,0 +1,16 @@
+fid: '9427'
+name: DWS Scudder Investments
+ofxfail: '0'
+ofxhome_id: '1043'
+org: DWS Scudder
+profile:
+  addr1: P.O.Box 219151
+  city: Kansas City
+  country: USA
+  finame: DWS Scudder Investments
+  invstmtmsgset: 'true'
+  postalcode: '64121'
+  signonmsgset: 'true'
+  state: MO
+  url: https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=718022003030417
+url: https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=718022003030417

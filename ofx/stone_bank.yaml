@@ -1,0 +1,17 @@
+fid: '15694'
+name: Stone Bank
+ofxfail: '3'
+ofxhome_id: '1404'
+org: Stone Bank
+profile:
+  addr1: 802 E. Main Street
+  bankmsgset: 'true'
+  city: Mountain View
+  country: USA
+  csphone: 870-269-7311
+  finame: Stone Bank
+  postalcode: '72560'
+  signonmsgset: 'true'
+  state: AR
+  url: https://ivault.stonebank.com/ofxrequest
+url: https://ivault.stonebank.com/ofxrequest

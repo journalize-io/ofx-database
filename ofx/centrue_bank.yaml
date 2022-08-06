@@ -1,0 +1,19 @@
+fid: 071901837
+name: Centrue Bank
+ofxfail: '3'
+ofxhome_id: '974'
+org: DI
+profile:
+  addr1: 201 East Main Street
+  bankmsgset: 'true'
+  city: Streator
+  country: USA
+  csphone: 815-673-3333
+  email: '2'
+  finame: Centrue Bank
+  postalcode: '61364'
+  signonmsgset: 'true'
+  state: IL
+  tsphone: 815-673-3333
+  url: www.centrueonlinebanking.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

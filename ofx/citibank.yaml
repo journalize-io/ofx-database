@@ -1,0 +1,18 @@
+fid: '2101'
+name: Citibank
+ofxfail: '0'
+ofxhome_id: '678'
+org: ISC
+profile:
+  addr1: 500 W. Madison
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Chicago
+  country: USA
+  emailmsgset: 'true'
+  finame: Citibank
+  postalcode: '60661'
+  signonmsgset: 'true'
+  state: IL
+  url: http://www.citibank.com/
+url: https://www.oasis.cfree.com/fip/genesis/prod/02101.ofx

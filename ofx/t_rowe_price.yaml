@@ -1,0 +1,22 @@
+brokerid: troweprice.com
+fid: null
+name: T. Rowe Price
+ofxfail: '3'
+ofxhome_id: '466'
+org: T. Rowe Price
+profile:
+  addr1: 100 E. Pratt Street
+  bankmsgset: 'true'
+  city: Baltimore
+  country: USA
+  csphone: 816.345.7645
+  email: service@americancentury.com
+  finame: T. Rowe Price
+  invstmtmsgset: 'true'
+  postalcode: '21202'
+  seclistmsgset: 'true'
+  signonmsgset: 'true'
+  state: MD
+  tsphone: 816.345.7645
+  url: https://www3.troweprice.com/ffs/ffsweb/OFXServlet
+url: https://www3.troweprice.com/ffs/ffsweb/OFXServlet

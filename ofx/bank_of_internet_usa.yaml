@@ -1,0 +1,20 @@
+fid: '122287251'
+name: Bank of Internet, USA
+ofxfail: '0'
+ofxhome_id: '787'
+org: Bank of Internet
+profile:
+  addr1: '1277 High Bluff Derive #100'
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: San Diego
+  country: USA
+  csphone: 858-350-6200
+  email: secure@BofI.com
+  finame: Bank Of Internet, USA
+  postalcode: 92191-9000
+  signonmsgset: 'true'
+  state: CA
+  tsphone: 858-350-6200
+  url: www.mybankinternet.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

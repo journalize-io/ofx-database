@@ -1,0 +1,22 @@
+fid: '5515'
+name: St. Charles PFM
+ofxfail: '0'
+ofxhome_id: '1388'
+org: '529'
+profile:
+  addr1: 311 N. 2nd Avenue Suite 109
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: St. Charles
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 866-792-2099
+  email: service@bankstcharles.com
+  emailmsgset: 'true'
+  finame: St. Charles PFM
+  interxfermsgset: 'true'
+  postalcode: '60174'
+  signonmsgset: 'true'
+  state: IL
+  url: www.bankstcharles.com
+url: https://pfm.metavante.com/ofx/OFXServlet

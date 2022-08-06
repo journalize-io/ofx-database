@@ -1,0 +1,7 @@
+fid: 026072928
+name: iGObanking
+ofxfail: '3'
+ofxhome_id: '1177'
+org: DI
+profile: {}
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

@@ -1,0 +1,19 @@
+fid: '18291'
+name: Girard National Bank
+ofxfail: '0'
+ofxhome_id: '1133'
+org: HFS-Cavion
+profile:
+  addr1: 100 East Forest
+  bankmsgset: 'true'
+  city: Giarad
+  country: USA
+  csphone: 1-620-724-8223
+  email: alank@gn-bank.com
+  finame: Girard National Bank
+  postalcode: '66743'
+  signonmsgset: 'true'
+  state: KS
+  tsphone: 1-620-724-8223
+  url: http://www.gn-bank.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

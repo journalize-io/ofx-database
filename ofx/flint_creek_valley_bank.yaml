@@ -1,0 +1,20 @@
+fid: 092905210
+name: Flint Creek Valley Bank
+ofxfail: '0'
+ofxhome_id: '1139'
+org: DI
+profile:
+  addr1: 139 East Broadway
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Philipsburg
+  country: USA
+  csphone: 406-859-3241
+  email: bankhelp@granitemountainbank.com
+  finame: Flint Creek Valley Bank
+  postalcode: '59858'
+  signonmsgset: 'true'
+  state: MT
+  tsphone: 406-533-0600
+  url: www.granitemountainbank.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

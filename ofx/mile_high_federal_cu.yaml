@@ -1,0 +1,20 @@
+fid: '46383'
+name: Mile High Federal CU
+ofxfail: '0'
+ofxhome_id: '1252'
+org: Cavion
+profile:
+  addr1: 3410 MONROE AVE
+  addr2: P.O. BOX 3152
+  bankmsgset: 'true'
+  city: Butte
+  country: USA
+  csphone: '4067828341'
+  email: milehigh@milehighfcu.org
+  finame: Mile High Federal CU
+  postalcode: '59701'
+  signonmsgset: 'true'
+  state: MT
+  tsphone: '4067828341'
+  url: www.milehighfcu.org
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

@@ -1,0 +1,18 @@
+fid: '111902055'
+name: Benchmark Bank
+ofxfail: '0'
+ofxhome_id: '918'
+org: PZeroFortyNine
+profile:
+  addr1: 5700 Legacy Dr, Suite 10
+  bankmsgset: 'true'
+  city: Plano
+  country: USA
+  csphone: 972-673-4000
+  email: noreply@benchmarkbank.com
+  finame: Benchmark Bank
+  postalcode: '75024'
+  signonmsgset: 'true'
+  state: TX
+  url: www.benchmarkbank.com
+url: https://ofx1.evault.ws/ofxserver/ofxsrvr.dll

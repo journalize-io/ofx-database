@@ -1,0 +1,20 @@
+fid: '031302133'
+name: Lafayette Amabassador Bank
+ofxfail: '0'
+ofxhome_id: '1206'
+org: DI
+profile:
+  addr1: PO Box 25091
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Lehigh Valley
+  country: USA
+  csphone: 1.800.752.8400
+  email: customerservice@lafambank.com
+  finame: Lafayette Amabassador Bank
+  postalcode: '18002'
+  signonmsgset: 'true'
+  state: PA
+  tsphone: 1.800.752.8400
+  url: www.lafambank.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

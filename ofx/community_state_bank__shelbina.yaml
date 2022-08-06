@@ -1,0 +1,19 @@
+fid: '54138'
+name: Community State Bank - Shelbina
+ofxfail: '0'
+ofxhome_id: '1021'
+org: Cavion
+profile:
+  addr1: 208 North Center Street
+  bankmsgset: 'true'
+  city: Shelbina
+  country: USA
+  csphone: '5735884101'
+  email: kimlarrickcsb@hotmail.com
+  finame: Community State Bank - Shelbina
+  postalcode: '63468'
+  signonmsgset: 'true'
+  state: MO
+  tsphone: '5735884101'
+  url: http://www.commbankonline.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

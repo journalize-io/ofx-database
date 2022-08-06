@@ -1,0 +1,22 @@
+fid: CBWWAL
+name: The Citizens Bank of Winfield
+ofxfail: '0'
+ofxhome_id: '1428'
+org: FundsXpress
+profile:
+  addr1: P.O. Box 550
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Winfield
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 205-487-4277
+  email: internet@cbwinfield.com
+  emailmsgset: 'true'
+  finame: The Citizens Bank of Winfield
+  postalcode: '35594'
+  signonmsgset: 'true'
+  state: AL
+  tsphone: 205-487-4277
+  url: http://www.cbwinfield.com
+url: https://ofx.fundsxpress.com/piles/ofx.pile/

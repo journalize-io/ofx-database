@@ -1,0 +1,18 @@
+fid: 35MXN
+name: Abbott Laboratories Employee CU
+ofxfail: '3'
+ofxhome_id: '667'
+org: Abbott Laboratories ECU - ALEC
+profile:
+  addr1: 325 TRI-STATE PARKWAY
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: GURNEE
+  country: US
+  emailmsgset: 'true'
+  finame: ABBOTT LABORATORIES EMPLOYEES CU
+  postalcode: '60031'
+  signonmsgset: 'true'
+  state: IL
+  url: https://alec-dn.financial-net.com/web
+url: https://www.netit.financial-net.com/ofx/

@@ -1,0 +1,19 @@
+fid: '053201034'
+name: Arthur State Bank
+ofxfail: '0'
+ofxhome_id: '873'
+org: Cavion
+profile:
+  addr1: 100 East Main St.
+  bankmsgset: 'true'
+  city: Union
+  country: USA
+  csphone: '8644271213'
+  email: info@arthurstatebank.com
+  finame: Arthur State Bank
+  postalcode: '29379'
+  signonmsgset: 'true'
+  state: SC
+  tsphone: '8644271213'
+  url: https://www.arthurstatebank.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

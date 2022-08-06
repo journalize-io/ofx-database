@@ -1,0 +1,19 @@
+fid: '12129'
+name: Alarion Bank
+ofxfail: '0'
+ofxhome_id: '848'
+org: Alarion Bank
+profile:
+  addr1: 2510 SE MARICAMP RD
+  bankmsgset: 'true'
+  city: OCALA
+  country: USA
+  csphone: '3525471225'
+  email: support@alarionbank.com
+  finame: Alarion Bank
+  postalcode: '34471'
+  signonmsgset: 'true'
+  state: FL
+  tsphone: '3525471225'
+  url: https://www.alarionbank.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

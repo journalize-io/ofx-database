@@ -1,0 +1,19 @@
+fid: '242072663'
+name: Valley Central Bank WC DC
+ofxfail: '0'
+ofxhome_id: '1491'
+org: DI
+profile:
+  addr1: 115 West Benson Street
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Reading
+  country: USA
+  csphone: 513-821-3335
+  email: '2'
+  finame: Valley Central Bank WC DC
+  postalcode: '45215'
+  signonmsgset: 'true'
+  state: OH
+  url: www.valleycentral.org
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

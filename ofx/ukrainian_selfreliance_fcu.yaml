@@ -1,0 +1,19 @@
+fid: '57660'
+name: Ukrainian Selfreliance FCU
+ofxfail: '0'
+ofxhome_id: '1477'
+org: Cavion
+profile:
+  addr1: 1729 Cottman Ave
+  bankmsgset: 'true'
+  city: Philadelphia
+  country: USA
+  csphone: 215-725-4430
+  email: halynak@ukrfcu.com
+  finame: Ukrainian Selfreliance FCU
+  postalcode: '19111'
+  signonmsgset: 'true'
+  state: PA
+  tsphone: 215-725-4430
+  url: http://www.ukrfcu.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

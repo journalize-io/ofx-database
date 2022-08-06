@@ -1,0 +1,19 @@
+fid: 083904563
+name: German American - Direct
+ofxfail: '3'
+ofxhome_id: '1130'
+org: DI
+profile:
+  addr1: 711 Main Street
+  bankmsgset: 'true'
+  city: Jasper
+  country: USA
+  csphone: (812)482-1314
+  email: ContactCenter@germanamerican.com
+  finame: German American - Direct
+  postalcode: '47546'
+  signonmsgset: 'true'
+  state: IN
+  tsphone: (812)482-1314
+  url: www.germanamerican.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

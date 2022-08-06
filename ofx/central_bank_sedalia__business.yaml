@@ -1,0 +1,20 @@
+fid: '765'
+name: Central Bank Sedalia - Business
+ofxfail: '3'
+ofxhome_id: '1452'
+org: '101902052'
+profile:
+  addr1: 301 West Broadway
+  bankmsgset: 'true'
+  city: Sedalia
+  country: USA
+  csphone: 866-777-8147
+  email: twilla_duvall@centralbank.net
+  emailmsgset: 'true'
+  finame: Central Bank Sedalia - Business
+  postalcode: '65301'
+  signonmsgset: 'true'
+  state: MO
+  tsphone: 866-777-8147
+  url: https://www.centralbanksedalia.net/
+url: https://ofx.centralbancompany.com/ofxserver/ofxsrvr.dll

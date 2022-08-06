@@ -1,0 +1,21 @@
+fid: '066004367'
+name: City National Bank of Florida
+ofxfail: '3'
+ofxhome_id: '1000'
+org: DI
+profile:
+  addr1: 25 W. Flagler Street
+  addr2: MIS Dept. 7th Floor
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Miami
+  country: USA
+  csphone: 866-262-3729
+  email: support@citynational.com
+  finame: City National Bank of Florida
+  postalcode: '33130'
+  signonmsgset: 'true'
+  state: FL
+  tsphone: 866-262-3729
+  url: www.mycitynational.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

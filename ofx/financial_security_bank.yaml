@@ -1,0 +1,19 @@
+fid: '57306'
+name: Financial Security Bank
+ofxfail: '0'
+ofxhome_id: '1076'
+org: Cavion
+profile:
+  addr1: 1011 Atlantic Ave
+  bankmsgset: 'true'
+  city: Kerkhoven
+  country: USA
+  csphone: 320-264-2161
+  email: rbauman@financialsecuritybank.com
+  finame: Financial Security Bank
+  postalcode: '56252'
+  signonmsgset: 'true'
+  state: MN
+  tsphone: 320-264-2161
+  url: http://www.financialsecuritybank.com/
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

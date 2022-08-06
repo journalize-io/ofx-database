@@ -1,0 +1,20 @@
+fid: 065301948
+name: BankPlus
+ofxfail: '0'
+ofxhome_id: '908'
+org: DI
+profile:
+  addr1: 385 A Highland Colony Parkway
+  addr2: Suite 110
+  bankmsgset: 'true'
+  city: Ridgeland
+  country: USA
+  csphone: 601-664-1786
+  email: '2'
+  finame: BankPlus
+  postalcode: '39157'
+  signonmsgset: 'true'
+  state: MS
+  tsphone: 601-664-1786
+  url: www.e-bankplus.net
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

@@ -1,0 +1,19 @@
+fid: 091913148
+name: Castle Rock Bank
+ofxfail: '0'
+ofxhome_id: '961'
+org: Cavion
+profile:
+  addr1: 27925 Danville Avenue
+  bankmsgset: 'true'
+  city: Castle Rock
+  country: USA
+  csphone: 651-463-7590
+  email: crbank@frontiernet.net
+  finame: Castle Rock Bank
+  postalcode: '55010'
+  signonmsgset: 'true'
+  state: MN
+  tsphone: 651-463-7590
+  url: http://www.castlerockbank.net
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

@@ -1,0 +1,18 @@
+fid: 63UZA
+name: DEL-ONE FCU
+ofxfail: '3'
+ofxhome_id: '1040'
+org: Del-One Federal Credit Union
+profile:
+  addr1: 270 BEISER BLVD
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: DOVER
+  country: US
+  emailmsgset: 'true'
+  finame: DEL-ONE FCU
+  postalcode: '19904'
+  signonmsgset: 'true'
+  state: DE
+  url: http://10.37.1.46:44300/del-one/cgi-bin/ebs
+url: https://www.netit.financial-net.com/ofx/

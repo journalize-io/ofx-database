@@ -1,0 +1,7 @@
+fid: '772'
+name: Cape Bank
+ofxfail: '0'
+ofxhome_id: '953'
+org: Fiserv Premier Atlanta Cape Bank
+profile: {}
+url: https://ofx1.evault.ws/ofxserver/ofxsrvr.dll

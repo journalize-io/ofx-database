@@ -1,0 +1,19 @@
+fid: '46428'
+name: UNI CU Cedar Falls
+ofxfail: '0'
+ofxhome_id: '1479'
+org: Cavion
+profile:
+  addr1: 802 West 29th St
+  bankmsgset: 'true'
+  city: Cedar Falls
+  country: USA
+  csphone: 319-273-2479
+  email: memberservices@unicreditunion.org
+  finame: UNI CU Cedar Falls
+  postalcode: '50613'
+  signonmsgset: 'true'
+  state: IA
+  tsphone: 319-273-2479
+  url: https://www.unicreditunion.org
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

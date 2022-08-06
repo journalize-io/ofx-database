@@ -1,0 +1,19 @@
+fid: '52737'
+name: Wilmington Savings Bank
+ofxfail: '0'
+ofxhome_id: '1512'
+org: Cavion
+profile:
+  addr1: 184 N South St
+  bankmsgset: 'true'
+  city: Wilmington
+  country: USA
+  csphone: (520) 794-8341
+  email: postmaster@wilmingtonsavings.com
+  finame: Wilmington Savings Bank
+  postalcode: '45177'
+  signonmsgset: 'true'
+  state: OH
+  tsphone: (520) 794-8341
+  url: http://www.wilmingtonsavings.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

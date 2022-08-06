@@ -1,0 +1,20 @@
+fid: '221971264'
+name: Ulster Savings Bank
+ofxfail: '0'
+ofxhome_id: '1478'
+org: DI
+profile:
+  addr1: 180 Schwenk Dr
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Kingston
+  country: USA
+  csphone: 866-440-0391
+  email: dummy@ulstersavings.com
+  finame: Ulster Savings Bank
+  postalcode: 12401-2940
+  signonmsgset: 'true'
+  state: NY
+  tsphone: 866-440-0391
+  url: www.ulstersavings.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

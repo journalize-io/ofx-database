@@ -1,0 +1,19 @@
+fid: '53211'
+name: Citizens State Bank - La Crosse
+ofxfail: '0'
+ofxhome_id: '993'
+org: Cavion
+profile:
+  addr1: 620 Main St
+  bankmsgset: 'true'
+  city: La Crosse
+  country: USA
+  csphone: '6087852265'
+  email: service@citizensstatebank.us
+  finame: Citizens State Bank - La Crosse
+  postalcode: '54601'
+  signonmsgset: 'true'
+  state: WI
+  tsphone: '6087852265'
+  url: http://www.citizensstatebank.us
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

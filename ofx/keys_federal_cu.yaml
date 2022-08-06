@@ -1,0 +1,19 @@
+fid: '63540'
+name: Keys Federal CU
+ofxfail: '0'
+ofxhome_id: '1198'
+org: Cavion
+profile:
+  addr1: 3022 North Roosevelt Blvd
+  bankmsgset: 'true'
+  city: Key West
+  country: USA
+  csphone: 305-293-6512
+  email: info@keysfcu.org
+  finame: Keys Federal CU
+  postalcode: '33040'
+  signonmsgset: 'true'
+  state: FL
+  tsphone: 305-293-6512
+  url: www.keysfcu.org
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

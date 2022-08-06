@@ -1,0 +1,22 @@
+fid: '1001'
+name: The Golden1 Credit Union
+ofxfail: '3'
+ofxhome_id: '778'
+org: Golden1
+profile:
+  addr1: 6507 4th Avenue
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Sacramento
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 555-555-5555
+  email: Unknown
+  emailmsgset: 'true'
+  finame: Golden One Credit Union
+  postalcode: 95817-2698
+  signonmsgset: 'true'
+  state: CA
+  tsphone: 505-237-3725
+  url: http://www.golden1.com
+url: https://homebanking.golden1.com/process.ofx

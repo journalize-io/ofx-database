@@ -1,0 +1,19 @@
+fid: '1951'
+name: Hughes Federal Credit Union
+ofxfail: '0'
+ofxhome_id: '745'
+org: Cavion
+profile:
+  addr1: P.O. Box 11900
+  bankmsgset: 'true'
+  city: Tucson
+  country: USA
+  csphone: (520) 794-8341
+  email: xxxxx
+  finame: Hughes Federal Credit Union
+  postalcode: '85734'
+  signonmsgset: 'true'
+  state: AZ
+  tsphone: (520) 794-8341
+  url: http://www.hughesfcu.org
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

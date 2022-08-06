@@ -1,0 +1,20 @@
+fid: 071993214
+name: Allied First Bank
+ofxfail: '0'
+ofxhome_id: '852'
+org: DI
+profile:
+  addr1: 387 Shuman Blvd
+  addr2: Ste 290E
+  bankmsgset: 'true'
+  city: Naperville
+  country: USA
+  csphone: 800-272-3286
+  email: customerservice@alliedfirst.com
+  finame: Allied First Bank
+  postalcode: '60563'
+  signonmsgset: 'true'
+  state: IL
+  tsphone: 800-272-3286
+  url: http://www.alliedfirst.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

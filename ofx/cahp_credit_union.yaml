@@ -1,0 +1,19 @@
+fid: '1914'
+name: CAHP Credit Union
+ofxfail: '0'
+ofxhome_id: '945'
+org: Cavion
+profile:
+  addr1: 2843 Manlove Road
+  bankmsgset: 'true'
+  city: Sacramento
+  country: USA
+  csphone: (800) 542-2247
+  email: xxxx
+  finame: CAHP Credit Union
+  postalcode: '95827'
+  signonmsgset: 'true'
+  state: CA
+  tsphone: (800) 542-2247
+  url: http://www.cahpcu.org
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

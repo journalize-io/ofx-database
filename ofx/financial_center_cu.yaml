@@ -1,0 +1,19 @@
+fid: '321177803'
+name: Financial Center CU
+ofxfail: '1'
+ofxhome_id: '548'
+org: Fincancial Center Credit Union
+profile:
+  addr1: 1250 Drummers Ln.
+  bankmsgset: 'true'
+  city: Valley Forge
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 610-687-9400
+  email: admin@users.com
+  postalcode: '19482'
+  signonmsgset: 'true'
+  state: PA
+  tsphone: 610-687-9400
+  url: http://www.users.com
+url: https://fin.usersonlnet.com/scripts/isaofx.dll

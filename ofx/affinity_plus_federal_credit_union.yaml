@@ -1,0 +1,17 @@
+fid: '75'
+name: Affinity Plus Federal Credit Union
+ofxfail: '1'
+ofxhome_id: '732'
+org: Affinity Plus FCU
+profile:
+  addr1: 175 West Lafayette Rd
+  bankmsgset: 'true'
+  city: St. Paul
+  country: USA
+  csphone: 651-291-3700
+  email: affinityplus@affinityplus.org
+  postalcode: '55107'
+  signonmsgset: 'true'
+  state: MN
+  url: https://hb.affinityplus.org
+url: https://hb.affinityplus.org/ofx/ofx.dll

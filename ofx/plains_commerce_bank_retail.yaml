@@ -1,0 +1,19 @@
+fid: 091400554
+name: Plains Commerce Bank Retail
+ofxfail: '0'
+ofxhome_id: '1322'
+org: PTwoOneNine
+profile:
+  addr1: 220 Main St.
+  bankmsgset: 'true'
+  city: Hoven
+  country: USA
+  csphone: 1-877-227-7548
+  email: noreply@plainscommerce.com
+  finame: Plains Commerce Bank Retail
+  postalcode: '57450'
+  signonmsgset: 'true'
+  state: SD
+  tsphone: 1-877-227-7548
+  url: http://www.plainscommerce.com
+url: https://ofx.secureinternetbank.com/ofxserver/ofxsrvr.dll

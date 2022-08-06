@@ -1,0 +1,19 @@
+fid: '10425'
+name: Weyerhaeuser Employees' CU
+ofxfail: '0'
+ofxhome_id: '1342'
+org: Weyerhaeuser Employees' CU
+profile:
+  addr1: 1418 15th Avenue
+  bankmsgset: 'true'
+  city: Longview
+  country: USA
+  csphone: 800-562-5611 or 360
+  email: info@redcanoecu.com
+  finame: Weyerhaeuser Employees' CU
+  postalcode: '98632'
+  signonmsgset: 'true'
+  state: WA
+  tsphone: 800-562-5611 or 360
+  url: http://www.redcanoecu.com
+url: https://mobile.redcanoecu.com/OFX/OFXServer.aspx

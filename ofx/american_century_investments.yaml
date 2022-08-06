@@ -1,0 +1,22 @@
+brokerid: americancentury.com
+fid: null
+name: American Century Investments
+ofxfail: '0'
+ofxhome_id: '739'
+org: null
+profile:
+  addr1: 4500 Main
+  bankmsgset: 'true'
+  city: Kansas City
+  country: USA
+  csphone: 816.345.7645
+  email: service@americancentury.com
+  finame: American Century Investments
+  invstmtmsgset: 'true'
+  postalcode: '64141'
+  seclistmsgset: 'true'
+  signonmsgset: 'true'
+  state: MO
+  tsphone: 816.345.7645
+  url: http://www.americancentury.com
+url: https://ofx.americancentury.com/

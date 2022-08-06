@@ -1,0 +1,22 @@
+fid: MBHKY
+name: Magnolia Bank
+ofxfail: '0'
+ofxhome_id: '1226'
+org: FundsXpress, Inc
+profile:
+  addr1: PO Box 188
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Hodgenville
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 270-358-3184
+  email: customerservice@magnoliabank.com
+  emailmsgset: 'true'
+  finame: Magnolia Bank
+  postalcode: '42748'
+  signonmsgset: 'true'
+  state: KY
+  tsphone: 270-358-3184
+  url: https://www.magnoliabank.com
+url: https://ofx.fundsxpress.com/piles/ofx.pile/

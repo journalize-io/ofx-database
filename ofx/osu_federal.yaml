@@ -1,0 +1,20 @@
+fid: '323274270'
+name: OSU Federal
+ofxfail: '0'
+ofxhome_id: '1298'
+org: DI
+profile:
+  addr1: Po Box 306
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Corvallis
+  country: USA
+  csphone: 800-732-0173
+  email: memberservices@osufederal.com
+  finame: OSU Federal
+  postalcode: '97339'
+  signonmsgset: 'true'
+  state: OR
+  tsphone: 800-732-0173
+  url: www.osufederal.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

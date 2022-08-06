@@ -1,0 +1,18 @@
+fid: '122402366'
+name: Bank of George
+ofxfail: '3'
+ofxhome_id: '733'
+org: '122402366'
+profile:
+  addr1: 9115 W. Russell Road
+  bankmsgset: 'true'
+  city: Las Vegas
+  country: USA
+  csphone: (702) 851-4200
+  email: customerservice@bankofgeorge.com
+  postalcode: '89148'
+  signonmsgset: 'true'
+  state: NV
+  tsphone: (702) 851-4200
+  url: http://www.bankofgeorge.com
+url: https://ofx.internet-ebanking.com/CCOFXServer/servlet/TP_OFX_Controller

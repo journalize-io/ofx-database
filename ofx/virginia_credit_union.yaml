@@ -1,0 +1,20 @@
+fid: '251082615'
+name: Virginia Credit Union
+ofxfail: '1'
+ofxhome_id: '1497'
+org: VACUDC
+profile:
+  addr1: PO Box 90010
+  bankmsgset: 'true'
+  city: Richmond
+  country: USA
+  csphone: '8002856609'
+  email: memsvc@vacu.org
+  emailmsgset: 'true'
+  finame: VACU DC
+  postalcode: '23225'
+  signonmsgset: 'true'
+  state: VA
+  tsphone: '8043236000'
+  url: https://www.vacu.org
+url: https://secure.vacu.org/ofxserver/ofxsrvr.dll

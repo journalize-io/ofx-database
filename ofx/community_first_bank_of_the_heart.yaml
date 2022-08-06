@@ -1,0 +1,22 @@
+fid: FSBDIL
+name: Community First Bank of the Heart
+ofxfail: '3'
+ofxhome_id: '1019'
+org: FundsXpress
+profile:
+  addr1: 117 N 10th St
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Mt. Vernon
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 618-899-5680
+  email: customer.service@commfirstbank.net
+  emailmsgset: 'true'
+  finame: Community First Bank of the Hear
+  postalcode: '62864'
+  signonmsgset: 'true'
+  state: IL
+  tsphone: 618-899-5680
+  url: http://www.commfirstbank.net
+url: https://ofx.fundsxpress.com/piles/ofx.pile/

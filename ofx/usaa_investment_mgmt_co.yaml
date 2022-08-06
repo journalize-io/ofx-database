@@ -1,0 +1,20 @@
+brokerid: USAA.COM
+fid: '24592'
+name: USAA Investment Mgmt Co
+ofxfail: '3'
+ofxhome_id: '665'
+org: USAA
+profile:
+  addr1: Attn:USAA BrokSvcs/MutualFunds
+  addr2: PO BOX 659453
+  city: San Antonio
+  country: USA
+  csphone: 800-531-8777
+  finame: USAA Investment Mgmt Co.
+  invstmtmsgset: 'true'
+  postalcode: 78265-9825
+  signonmsgset: 'true'
+  state: TX
+  tsphone: 877-632-3002
+  url: https://www.usaa.com/inet/gas_imco/ImMainMenu
+url: https://service2.usaa.com/ofx/OFXServlet

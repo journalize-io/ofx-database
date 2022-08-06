@@ -1,0 +1,19 @@
+fid: 031901097
+name: Royal Bank America
+ofxfail: '0'
+ofxhome_id: '1352'
+org: MZeroTwoFive
+profile:
+  addr1: 732 Montgonery Ave
+  bankmsgset: 'true'
+  city: Narberth
+  country: USA
+  csphone: 610-668-4700
+  email: noreply@royalbankamerica.com
+  finame: Royal Bank America
+  postalcode: '19072'
+  signonmsgset: 'true'
+  state: PA
+  tsphone: 610-668-4700
+  url: www.royalbankamerica.com
+url: https://ofx1.evault.ws/ofxserver/ofxsrvr.dll

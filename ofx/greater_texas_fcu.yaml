@@ -1,0 +1,19 @@
+fid: '12867'
+name: Greater Texas FCU
+ofxfail: '0'
+ofxhome_id: '1141'
+org: Greater Texas FCU
+profile:
+  addr1: 6411 North Lamar Blvd.
+  bankmsgset: 'true'
+  city: Austin
+  country: USA
+  csphone: 512-458-2558
+  email: NONE
+  finame: Greater Texas FCU
+  postalcode: '78752'
+  signonmsgset: 'true'
+  state: TX
+  tsphone: 512-458-2558
+  url: www.gtfcu.org
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

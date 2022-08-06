@@ -1,0 +1,19 @@
+fid: '51600'
+name: Star Bank
+ofxfail: '0'
+ofxhome_id: '1395'
+org: Cavion
+profile:
+  addr1: 201 2nd Avenue NW
+  bankmsgset: 'true'
+  city: Bertha
+  country: USA
+  csphone: '2189244055'
+  email: bertha@starbank.net
+  finame: Star Bank
+  postalcode: '56437'
+  signonmsgset: 'true'
+  state: MN
+  tsphone: '2189244055'
+  url: http://www.starbank.net/bertha.asp
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

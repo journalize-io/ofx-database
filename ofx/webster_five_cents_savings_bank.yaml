@@ -1,0 +1,19 @@
+fid: '11400'
+name: Webster Five Cents Savings Bank
+ofxfail: '0'
+ofxhome_id: '1501'
+org: Cavion
+profile:
+  addr1: 10 A St.
+  bankmsgset: 'true'
+  city: Auburn
+  country: USA
+  csphone: '18006969401'
+  email: webmaster@web5.com
+  finame: Webster Five Cents Savings Bank
+  postalcode: '01501'
+  signonmsgset: 'true'
+  state: MA
+  tsphone: '18006969401'
+  url: https://www.web5.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

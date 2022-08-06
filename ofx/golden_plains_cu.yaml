@@ -1,0 +1,20 @@
+fid: '301178181'
+name: Golden Plains CU
+ofxfail: '3'
+ofxhome_id: '1135'
+org: DI
+profile:
+  addr1: 1714 E Kansas Ave
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Garden City
+  country: USA
+  csphone: 620-275-2151
+  email: gponline@gpcu.org
+  finame: Golden Plains CU
+  postalcode: '67846'
+  signonmsgset: 'true'
+  state: KS
+  tsphone: 620-275-2151
+  url: www.gpcu.org
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

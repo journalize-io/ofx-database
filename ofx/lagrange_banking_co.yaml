@@ -1,0 +1,20 @@
+fid: 061121096
+name: LaGrange Banking Co
+ofxfail: '0'
+ofxhome_id: '950'
+org: DI
+profile:
+  addr1: 101 Calumet Center Road
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: LaGrange
+  country: USA
+  csphone: 706-884-6000
+  email: customerservice@lagrangebank.com
+  finame: LaGrange Banking Co
+  postalcode: '30241'
+  signonmsgset: 'true'
+  state: GA
+  tsphone: 706-443-7002
+  url: https://www.lagrangebankco.com/
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

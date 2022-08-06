@@ -1,0 +1,23 @@
+brokerid: CapFed
+fid: '1001'
+name: Capitol Federal Savings Bank
+ofxfail: '1'
+ofxhome_id: '789'
+org: CapFed
+profile:
+  addr1: P.O. Box 3505
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Topeka
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 888-822-7333
+  email: Unknown
+  emailmsgset: 'true'
+  finame: Capitol Federal Savings Bank
+  postalcode: 66601-3505
+  signonmsgset: 'true'
+  state: KS
+  tsphone: 505-237-3725
+  url: http://www.capfed.com
+url: https://ofx-prod.capfed.com/ofx/process.ofx

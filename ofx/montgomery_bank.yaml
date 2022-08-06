@@ -1,0 +1,19 @@
+fid: 081517761
+name: Montgomery Bank
+ofxfail: '0'
+ofxhome_id: '1258'
+org: MZeroFiveSix
+profile:
+  addr1: 1 Montgomery Bank Plaza
+  addr2: P O Box 948
+  bankmsgset: 'true'
+  city: Sikeston
+  country: USA
+  csphone: (800) 455-2275
+  email: noreply@montgomerybank.com
+  finame: Montgomery Bank
+  postalcode: '63801'
+  signonmsgset: 'true'
+  state: MO
+  url: https://www.montgomerybank.com
+url: https://ofx1.evault.ws/ofxserver/ofxsrvr.dll

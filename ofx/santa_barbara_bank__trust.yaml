@@ -1,0 +1,19 @@
+fid: '5524'
+name: Santa Barbara Bank & Trust
+ofxfail: '0'
+ofxhome_id: '659'
+org: pfm-l3g
+profile:
+  addr1: P. O. Box 60839
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Santa Barbara
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 1-888-400-7228
+  interxfermsgset: 'true'
+  postalcode: '93160'
+  signonmsgset: 'true'
+  state: CA
+  url: http://www.pcbancorp.com
+url: https://pfm.metavante.com/ofx/OFXServlet

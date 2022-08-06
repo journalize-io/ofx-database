@@ -1,0 +1,20 @@
+fid: '264279350'
+name: Eastman Credit Union
+ofxfail: '3'
+ofxhome_id: '1052'
+org: DI
+profile:
+  addr1: 201 S. Wilcox Drive
+  addr2: PO Box 1989
+  bankmsgset: 'true'
+  city: Kingsport
+  country: USA
+  csphone: 800-999-2328
+  email: ecenter@ecu.org
+  finame: Eastman Credit Union
+  postalcode: '37662'
+  signonmsgset: 'true'
+  state: TN
+  tsphone: 800-999-2328
+  url: www.eastmancu.org
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

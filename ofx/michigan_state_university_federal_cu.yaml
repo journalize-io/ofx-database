@@ -1,0 +1,19 @@
+fid: '272479663'
+name: Michigan State University Federal CU
+ofxfail: '0'
+ofxhome_id: '649'
+org: MSUFCU
+profile:
+  addr1: 3777 West Road
+  bankmsgset: 'true'
+  city: East Lansing
+  country: USA
+  csphone: 1-800-678-4968
+  email: eservices@msufcu.org
+  finame: Michigan State University FCU
+  postalcode: '48823'
+  signonmsgset: 'true'
+  state: MI
+  tsphone: 1-517-333-2310
+  url: https://www.msufcu.org
+url: https://ofx.msufcu.org/ofxserver/ofxsrvr.dll

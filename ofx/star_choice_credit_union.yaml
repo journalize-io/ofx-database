@@ -1,0 +1,19 @@
+fid: '6099'
+name: Star Choice Credit Union
+ofxfail: '0'
+ofxhome_id: '1396'
+org: Cavion
+profile:
+  addr1: 10750 France Ave S
+  bankmsgset: 'true'
+  city: Bloomington
+  country: USA
+  csphone: '9526987228'
+  email: infodept@starchoicecu.org
+  finame: Star Choice Credit Union
+  postalcode: '55431'
+  signonmsgset: 'true'
+  state: MN
+  tsphone: '9526987228'
+  url: https://www.starchoicecu.org
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

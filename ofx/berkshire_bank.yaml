@@ -1,0 +1,21 @@
+fid: '5544'
+name: Berkshire Bank
+ofxfail: '0'
+ofxhome_id: '920'
+org: 092
+profile:
+  addr1: 24 North Street
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Pittsfield
+  country: USA
+  csphone: 800-773-5601
+  email: support@brand.com
+  emailmsgset: 'true'
+  finame: Berkshire Bank
+  interxfermsgset: 'true'
+  postalcode: '01201'
+  signonmsgset: 'true'
+  state: MA
+  url: www.berkshirebank.com
+url: https://pfm.metavante.com/ofx/OFXServlet

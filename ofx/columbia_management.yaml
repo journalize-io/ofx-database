@@ -1,0 +1,17 @@
+brokerid: columbiafunds.com
+fid: '18468'
+name: Columbia Management
+ofxfail: '0'
+ofxhome_id: '1007'
+org: Columbia
+profile:
+  addr1: 1 Financial Center
+  city: Boston
+  country: USA
+  finame: Columbia Management
+  invstmtmsgset: 'true'
+  postalcode: '02111'
+  signonmsgset: 'true'
+  state: MA
+  url: https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=80214112012010800
+url: https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=80214112012010800

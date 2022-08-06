@@ -1,0 +1,22 @@
+fid: BPBTCMA
+name: Boston Private
+ofxfail: '0'
+ofxhome_id: '930'
+org: FundsXpress
+profile:
+  addr1: Ten Post Office Square
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Boston
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: Online and Mobile Banking Suppor
+  email: onlinebanking@bostonprivate.com
+  emailmsgset: 'true'
+  finame: Boston Private
+  postalcode: 02109
+  signonmsgset: 'true'
+  state: MA
+  tsphone: Online and Mobile Banking Suppor
+  url: http://www.bostonprivate.com
+url: https://ofx.fundsxpress.com/piles/ofx.pile

@@ -1,0 +1,19 @@
+fid: '211372925'
+name: Marthas Vineyard Savings Bank
+ofxfail: '0'
+ofxhome_id: '1231'
+org: 035T
+profile:
+  addr1: 78 Main Street
+  addr2: PO Box 1069
+  bankmsgset: 'true'
+  city: Edgartown
+  country: USA
+  csphone: 508-627-4266
+  email: noreply@mvbank.com
+  finame: Marthas Vineyard Savings Bank
+  postalcode: 02539
+  signonmsgset: 'true'
+  state: MA
+  url: https://www.mvbank.com
+url: https://ofx1.evault.ws/OFXServer/ofxsrvr.dll

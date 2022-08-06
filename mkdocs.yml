@@ -1,0 +1,8 @@
+site_name: OFX Details
+
+theme:
+  name: material
+
+markdown_extensions:
+  - tables
+  - meta

@@ -1,0 +1,20 @@
+fid: '14137'
+name: Morgan Stanley
+ofxfail: '0'
+ofxhome_id: '1259'
+org: msdw.com
+profile:
+  addr1: 1 New York Plaza
+  addr2: 11th Floor
+  bankmsgset: 'true'
+  city: New York
+  country: USA
+  csphone: (800) 531-1596
+  email: Alvaro.Mesa@ms.com
+  finame: Morgan Stanley
+  postalcode: '10004'
+  signonmsgset: 'true'
+  state: NY
+  tsphone: (800) 531-1596
+  url: www.morganstanleyclientserv.com
+url: https://ofx.morganstanleyclientserv.com/ofx/QuickenWin.ofx

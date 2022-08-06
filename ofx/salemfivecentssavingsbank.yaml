@@ -1,0 +1,22 @@
+fid: '5007'
+name: SalemFiveCentsSavingsBank
+ofxfail: '0'
+ofxhome_id: '1355'
+org: '126'
+profile:
+  addr1: 210 Essex Street
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Salem
+  country: USA
+  csphone: 800-332-2265
+  email: mail@salemfive.com
+  emailmsgset: 'true'
+  finame: SalemFiveCentsSavingsBank
+  interxfermsgset: 'true'
+  postalcode: 01970
+  signonmsgset: 'true'
+  state: MA
+  tsphone: 800-332-2265
+  url: www.salemfive.com
+url: https://pfm.metavante.com/ofx/OFXServlet

@@ -1,0 +1,20 @@
+fid: 031310219
+name: Juniata Valley Bank
+ofxfail: '0'
+ofxhome_id: '1438'
+org: DI
+profile:
+  addr1: 1 S Main St
+  addr2: PO Box 66
+  bankmsgset: 'true'
+  city: Mifflintown
+  country: US
+  csphone: (717) 436-3214
+  email: jvbonline@banking.com
+  finame: Juniata Valley Bank
+  postalcode: '17059'
+  signonmsgset: 'true'
+  state: PA
+  tsphone: (717) 436-3214
+  url: www.jvbonline.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

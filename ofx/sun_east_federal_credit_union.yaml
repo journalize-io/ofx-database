@@ -1,0 +1,20 @@
+fid: '231382209'
+name: Sun East Federal Credit Union
+ofxfail: '0'
+ofxhome_id: '1409'
+org: DI
+profile:
+  addr1: 4500 Pennell Road
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Aston
+  country: USA
+  csphone: 610-485-2960
+  email: OnlineServices@suneast.org
+  finame: Sun East Federal Credit Union
+  postalcode: '19014'
+  signonmsgset: 'true'
+  state: PA
+  tsphone: 610-485-2960
+  url: www.suneast.org
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

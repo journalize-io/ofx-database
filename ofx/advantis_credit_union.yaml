@@ -1,0 +1,18 @@
+fid: '323075097'
+name: Advantis Credit Union
+ofxfail: '0'
+ofxhome_id: '782'
+org: DI
+profile:
+  addr1: P.O. BOX 14220
+  bankmsgset: 'true'
+  city: Portland
+  country: USA
+  csphone: 503-785-2528 opt 5
+  email: advantiscu@advantiscu.org
+  postalcode: 97293-0220
+  signonmsgset: 'true'
+  state: OR
+  tsphone: 503-785-2528 opt 5
+  url: www.advantiscu.org
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

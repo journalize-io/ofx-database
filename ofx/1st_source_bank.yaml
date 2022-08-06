@@ -1,0 +1,20 @@
+fid: 071212128
+name: 1st Source Bank
+ofxfail: '0'
+ofxhome_id: '840'
+org: DI
+profile:
+  addr1: 205 W. Jefferson
+  addr2: Suite 404
+  bankmsgset: 'true'
+  city: South Bend
+  country: USA
+  csphone: 574-235-2250 or 1-888-258-3150
+  email: 1stsource@1stsource.com
+  finame: 1st Source Bank
+  postalcode: '46601'
+  signonmsgset: 'true'
+  state: IN
+  tsphone: 574-235-2250 or 1-888-258-3150
+  url: www.1stsourceonline.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

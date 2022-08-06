@@ -1,0 +1,19 @@
+fid: '63120'
+name: Unity One Credit Union
+ofxfail: '0'
+ofxhome_id: '827'
+org: Cavion
+profile:
+  addr1: 6701 Burlington Blvd
+  bankmsgset: 'true'
+  city: Fort Worth
+  country: USA
+  csphone: 817-306-3100
+  email: admin@unityone.org
+  finame: Unity One Credit Union - New
+  postalcode: '76131'
+  signonmsgset: 'true'
+  state: TX
+  tsphone: 817-306-3100
+  url: https://www.unityone.org/home.html
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

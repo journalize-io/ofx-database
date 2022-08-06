@@ -1,0 +1,18 @@
+fid: '8414'
+name: Summit State Bank BeB
+ofxfail: '0'
+ofxhome_id: '1408'
+org: bib101136
+profile:
+  addr1: 500 Bicentenial Way
+  bankmsgset: 'true'
+  city: Santa Rosa
+  country: USA
+  csphone: 707.283.1120
+  email: billpaysupport@summitstatebank.com
+  finame: Summit State Bank BeB
+  postalcode: '95403'
+  signonmsgset: 'true'
+  state: CA
+  url: www.summitstatebank.com
+url: https://pfm.metavante.com/ofx/OFXServlet

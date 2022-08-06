@@ -1,0 +1,20 @@
+fid: '307070050'
+name: Kirtland Federal Credit Union
+ofxfail: '0'
+ofxhome_id: '544'
+org: Kirtland Federal Credit Union
+profile:
+  addr1: 6440 Gibson Blvd SE
+  bankmsgset: 'true'
+  city: Albuquerque
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: (505)254-4369
+  email: membersv@kirtlandfcu.org
+  finame: Kirtland FCU
+  postalcode: '87108'
+  signonmsgset: 'true'
+  state: NM
+  tsphone: (505)254-4369
+  url: www.kirtlandfcu.org
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

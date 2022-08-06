@@ -1,0 +1,20 @@
+fid: '4679'
+name: California Bank and Trust
+ofxfail: '0'
+ofxhome_id: '946'
+org: '401'
+profile:
+  addr1: 7730 South Union Park Ave
+  addr2: Suite 250
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Midvale
+  country: USA
+  creditcardmsgset: 'true'
+  emailmsgset: 'true'
+  finame: California Bank and Trust
+  postalcode: '84047'
+  signonmsgset: 'true'
+  state: UT
+  url: http://www.calbanktrust.com/
+url: https://www.oasis.cfree.com/fip/genesis/prod/04679.ofx

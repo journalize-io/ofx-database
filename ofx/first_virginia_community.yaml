@@ -1,0 +1,19 @@
+fid: '6127'
+name: First Virginia Community
+ofxfail: '0'
+ofxhome_id: '1110'
+org: fis-6127
+profile:
+  addr1: 11325 Random Hills Road
+  addr2: Suite  240
+  bankmsgset: 'true'
+  city: Fairfax
+  country: USA
+  csphone: 703-656-7285
+  email: online@fvcbank.com
+  finame: First Virginia Community
+  postalcode: '22030'
+  signonmsgset: 'true'
+  state: VA
+  url: www.fvcbank.com
+url: https://pfm.metavante.com/ofx/OFXServlet

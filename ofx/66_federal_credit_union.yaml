@@ -1,0 +1,18 @@
+fid: '289'
+name: 66 Federal Credit Union
+ofxfail: '3'
+ofxhome_id: '553'
+org: SixySix
+profile:
+  addr1: 501 S. Johnstone
+  bankmsgset: 'true'
+  city: Bartlesville
+  country: USA
+  csphone: 918.336.7662
+  email: talk2us@66fcu.org
+  postalcode: '74003'
+  signonmsgset: 'true'
+  state: ok
+  tsphone: 918.337.7716
+  url: http://www.66fcu.org
+url: https://ofx.cuonlineaccounts.org

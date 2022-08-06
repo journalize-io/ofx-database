@@ -1,0 +1,18 @@
+fid: '122239270'
+name: Opus Bank
+ofxfail: '0'
+ofxhome_id: '1296'
+org: MEightSevenSix
+profile:
+  addr1: 19900 McArthur Blvd 12th Floor
+  bankmsgset: 'true'
+  city: Irvine
+  country: USA
+  csphone: 855-678-7226
+  email: noreply@opusbank.com
+  finame: Opus Bank
+  postalcode: '92612'
+  signonmsgset: 'true'
+  state: CA
+  url: www.opusbank.com
+url: https://ofx1.evault.ws/ofxserver/ofxsrvr.dll

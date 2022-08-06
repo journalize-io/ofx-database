@@ -1,0 +1,19 @@
+fid: '24327'
+name: Security State Bank of Lewiston
+ofxfail: '0'
+ofxhome_id: '1364'
+org: Cavion
+profile:
+  addr1: 225 East Main Street
+  bankmsgset: 'true'
+  city: Lewiston
+  country: USA
+  csphone: 800-523-2161
+  email: onlinebanking@securitysbank.com
+  finame: Security State Bank of Lewiston
+  postalcode: '55952'
+  signonmsgset: 'true'
+  state: MN
+  tsphone: 800-523-2161
+  url: http://www.securitysbank.com/
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

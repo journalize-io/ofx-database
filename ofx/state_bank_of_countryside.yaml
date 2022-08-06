@@ -1,0 +1,18 @@
+fid: 071924212
+name: State bank of Countryside
+ofxfail: '0'
+ofxhome_id: '1399'
+org: MEightEightZero
+profile:
+  addr1: 6734 Joliet Road
+  bankmsgset: 'true'
+  city: Countryside
+  country: USA
+  csphone: 708-485-3100
+  email: noreply@statebankofcountryside.com
+  finame: State bank of Countryside
+  postalcode: '60525'
+  signonmsgset: 'true'
+  state: IL
+  url: http://www.statebankofcountryside.com
+url: https://ofx1.evault.ws/OFXServer/ofxsrvr.dll

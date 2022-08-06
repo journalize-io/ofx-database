@@ -1,0 +1,19 @@
+fid: 074900356
+name: First Financial Bank
+ofxfail: '3'
+ofxhome_id: '1088'
+org: DI
+profile:
+  addr1: 643-645 Wabash Avenue
+  bankmsgset: 'true'
+  city: Terre Haute
+  country: USA
+  csphone: 812-238-6000
+  email: firstonline@first-online.com
+  finame: First Financial Bank
+  postalcode: '47808'
+  signonmsgset: 'true'
+  state: IN
+  tsphone: 812-238-6000
+  url: www.first-online.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

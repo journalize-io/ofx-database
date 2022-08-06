@@ -1,0 +1,19 @@
+fid: '7102'
+name: Discover Platinum
+ofxfail: '3'
+ofxhome_id: '684'
+org: Discover Financial Services
+profile:
+  addr1: 2500 Lake Cook Road
+  bankmsgset: 'true'
+  city: Riverwoods
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 1-800-DISCOVER
+  email: websupport@discovercard.com
+  postalcode: '60015'
+  signonmsgset: 'true'
+  state: IL
+  tsphone: 1-800-DISCOVER
+  url: http://www.discovercard.com
+url: https://ofx.discovercard.com/

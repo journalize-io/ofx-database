@@ -1,0 +1,22 @@
+fid: '5567'
+name: PacificWesternBank PFM
+ofxfail: '0'
+ofxhome_id: '1304'
+org: '634'
+profile:
+  addr1: 9701 Wilshire Boulevard
+  addr2: Suite 700
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Beverly Hills
+  country: USA
+  csphone: 1-800-350-3557
+  email: cebsupport@pacificwesternbank.com
+  emailmsgset: 'true'
+  finame: PacificWesternBank PFM
+  interxfermsgset: 'true'
+  postalcode: '90212'
+  signonmsgset: 'true'
+  state: CA
+  url: https://www.pacificwesternbank.com
+url: https://pfm.metavante.com/ofx/OFXServlet

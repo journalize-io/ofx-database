@@ -1,0 +1,7 @@
+fid: '1225'
+name: Melrose Cooperative Bank
+ofxfail: '0'
+ofxhome_id: '1236'
+org: COCC
+profile: {}
+url: https://ofx.myvirtualbranch.com/eftxweb/access.ofx

@@ -1,0 +1,20 @@
+brokerid: md:1023
+fid: '256078514'
+name: Apple FCU
+ofxfail: '0'
+ofxhome_id: '746'
+org: DI
+profile:
+  addr1: 4029 Ridge Top Road
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Fairfax
+  country: USA
+  csphone: 800-666-7996
+  email: '2'
+  postalcode: '22030'
+  signonmsgset: 'true'
+  state: VA
+  tsphone: 800-666-7996
+  url: https://www.applefcu.org
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

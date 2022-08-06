@@ -1,0 +1,19 @@
+fid: '231270353'
+name: OceanFirst Bank
+ofxfail: '0'
+ofxhome_id: '1284'
+org: DI
+profile:
+  addr1: 975 Hooper Avenue
+  bankmsgset: 'true'
+  city: Toms River
+  country: USA
+  csphone: 732-240-4500 x7710
+  email: application@oceanfirst.com
+  finame: OceanFirst Bank
+  postalcode: 08753
+  signonmsgset: 'true'
+  state: NJ
+  tsphone: 732-240-4500 x7710
+  url: www.oceanfirst.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

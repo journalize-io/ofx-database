@@ -1,0 +1,19 @@
+fid: '64584'
+name: Pineland State Bank
+ofxfail: '0'
+ofxhome_id: '1316'
+org: Cavion
+profile:
+  addr1: 257 N Broad St
+  bankmsgset: 'true'
+  city: Metter
+  country: USA
+  csphone: '9126852195'
+  email: customerservice@pinelandbank.com
+  finame: Pineland Bank
+  postalcode: '30439'
+  signonmsgset: 'true'
+  state: GA
+  tsphone: '9126852195'
+  url: http://pinelandbank.com/
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

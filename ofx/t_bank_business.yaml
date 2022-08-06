@@ -1,0 +1,19 @@
+fid: '8408'
+name: T Bank Business
+ofxfail: '0'
+ofxhome_id: '1415'
+org: bib101015
+profile:
+  addr1: 16200 Dallas Parkway
+  addr2: Suite 190
+  bankmsgset: 'true'
+  city: Dallas
+  country: USA
+  csphone: 972-720-9000
+  email: support@tbank.com
+  finame: T Bank Business
+  postalcode: '75248'
+  signonmsgset: 'true'
+  state: TX
+  url: www.tbank.com
+url: https://pfm.metavante.com/ofx/OFXServlet

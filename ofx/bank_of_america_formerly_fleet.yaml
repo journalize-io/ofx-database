@@ -1,0 +1,19 @@
+fid: '1803'
+name: Bank of America (Formerly Fleet)
+ofxfail: '0'
+ofxhome_id: '674'
+org: ISC
+profile:
+  addr1: MA CPK 04-02-08
+  addr2: P.O. Box 1924
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Boston
+  country: USA
+  emailmsgset: 'true'
+  finame: BankBoston
+  postalcode: 021059940
+  signonmsgset: 'true'
+  state: MA
+  url: http://www.bankboston.com/
+url: https://www.oasis.cfree.com/fip/genesis/prod/01803.ofx

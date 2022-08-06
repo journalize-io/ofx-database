@@ -1,0 +1,19 @@
+fid: '301180292'
+name: Meritrust Credit Union
+ofxfail: '0'
+ofxhome_id: '1241'
+org: DI
+profile:
+  addr1: 8710 East 32nd Street North
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Wichita
+  country: USA
+  csphone: 316-683-1199 or 800-342-9278
+  email: memberservices@meritrustcu.org
+  finame: Meritrust Credit Union
+  postalcode: '67226'
+  signonmsgset: 'true'
+  state: KS
+  url: www.meritrustcu.org
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

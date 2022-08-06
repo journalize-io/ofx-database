@@ -1,0 +1,19 @@
+fid: '5091'
+name: Two River Community Bank
+ofxfail: '0'
+ofxhome_id: '1472'
+org: HFS Cavion
+profile:
+  addr1: 1250 Highway 35 S
+  bankmsgset: 'true'
+  city: Middletown
+  country: USA
+  csphone: '7323899245'
+  email: webmaster@tworiverbank.com
+  finame: Two River Community Bank
+  postalcode: 07748
+  signonmsgset: 'true'
+  state: NJ
+  tsphone: '7323899245'
+  url: ibanking.tworiverbank.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

@@ -1,0 +1,19 @@
+fid: '6001'
+name: Bank One (Michigan and Florida)
+ofxfail: '0'
+ofxhome_id: '673'
+org: ISC
+profile:
+  addr1: P.O. Box 7082
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Troy
+  country: USA
+  creditcardmsgset: 'true'
+  emailmsgset: 'true'
+  finame: Bank One
+  postalcode: '480077082'
+  signonmsgset: 'true'
+  state: MI
+  url: http://www.bankone.com/
+url: https://www.oasis.cfree.com/fip/genesis/prod/06001.ofx

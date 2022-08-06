@@ -1,0 +1,19 @@
+fid: '8007527525'
+name: Mercer
+ofxfail: '1'
+ofxhome_id: '704'
+org: PutnamDefinedContributions
+profile:
+  addr1: Investors Way
+  city: Norwood
+  country: USA
+  csphone: (800) 926 9225
+  email: '2'
+  invstmtmsgset: 'true'
+  postalcode: '02062'
+  seclistmsgset: 'true'
+  signonmsgset: 'true'
+  state: MA
+  tsphone: (800) 926 9225
+  url: https://ofx.mercerhrs.com/eftxweb/access.ofx
+url: https://ofx.mercerhrs.com/eftxweb/access.ofx

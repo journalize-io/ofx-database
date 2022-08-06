@@ -1,0 +1,22 @@
+fid: PBSLTX
+name: Prosperity Bank
+ofxfail: '0'
+ofxhome_id: '1336'
+org: FundsXpress
+profile:
+  addr1: 80 Sugar Creek Center Blvd
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Sugar Land
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 800-531-1401
+  email: contactus@prosperitybankusa.com
+  emailmsgset: 'true'
+  finame: Prosperity Bank
+  postalcode: '77478'
+  signonmsgset: 'true'
+  state: TX
+  tsphone: 800-531-1401
+  url: https://www.prosperitybankusa.com
+url: https://ofx.fundsxpress.com/piles/ofx.pile/

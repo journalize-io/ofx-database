@@ -1,0 +1,20 @@
+fid: '168'
+name: Central Bank Audrain - Personal
+ofxfail: '3'
+ofxhome_id: '969'
+org: 081501489
+profile:
+  addr1: 203 East Liberty Street
+  bankmsgset: 'true'
+  city: Mexico
+  country: USA
+  csphone: 800-755-7009
+  email: twilla_duvall@centralbank.net
+  emailmsgset: 'true'
+  finame: Central Bank Audrain - Personal
+  postalcode: '65265'
+  signonmsgset: 'true'
+  state: MO
+  tsphone: 800-755-7009
+  url: https://www.centralbankac.net/
+url: https://ofx.centralbancompany.com/ofxserver/ofxsrvr.dll

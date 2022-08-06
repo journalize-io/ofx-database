@@ -1,0 +1,19 @@
+fid: 091917160
+name: Community Resource Bank
+ofxfail: '3'
+ofxhome_id: '600'
+org: CNB
+profile:
+  addr1: 1605 Heritage Drive
+  bankmsgset: 'true'
+  city: Northfield
+  country: USA
+  csphone: 800-250-8420
+  email: crb@community-resourcebank.com
+  emailmsgset: 'true'
+  finame: Community Resource Bank
+  postalcode: '55057'
+  signonmsgset: 'true'
+  state: MN
+  url: https://www.community-resourcebank.com
+url: https://www.cnbinternet.com/OFXServer/ofxsrvr.dll

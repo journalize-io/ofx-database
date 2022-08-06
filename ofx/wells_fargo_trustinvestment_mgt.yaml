@@ -1,0 +1,21 @@
+brokerid: Wells Fargo Trust
+fid: '6955'
+name: Wells Fargo Trust-Investment Mgt
+ofxfail: '0'
+ofxhome_id: '622'
+org: Wells Fargo Trust
+profile:
+  addr1: 733 Marquette Ave, 5th Floor
+  addr2: Security Control & Transfer
+  city: Minneapolis
+  country: USA
+  csphone: 1-800-352-3702
+  finame: Wells Fargo Trust
+  invstmtmsgset: 'true'
+  postalcode: '55479'
+  seclistmsgset: 'true'
+  signonmsgset: 'true'
+  state: MN
+  tsphone: 1-800-956-4442
+  url: www.wellsfargo.com
+url: https://ofxdc.wellsfargo.com/OFXTrustOnlineWebSite/process.ofx

@@ -1,0 +1,23 @@
+fid: NBDTX
+name: NexBank, SSB
+ofxfail: '0'
+ofxhome_id: '1270'
+org: FundsXpress Financial Network
+profile:
+  addr1: 2515 MCKINNEY AVENUE
+  addr2: SUITE 1100
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Dallas
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 24/7 Internet Banking Customer S
+  email: onlinebanking@nexbank.com
+  emailmsgset: 'true'
+  finame: NexBank
+  postalcode: '75201'
+  signonmsgset: 'true'
+  state: TX
+  tsphone: 24/7 Internet Banking Customer S
+  url: http://www.nexbank.com
+url: https://ofx.fundsxpress.com/piles/ofx.pile/

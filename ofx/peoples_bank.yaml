@@ -1,0 +1,22 @@
+fid: PBNNC
+name: Peoples Bank
+ofxfail: '0'
+ofxhome_id: '1309'
+org: FundsXpress, Inc
+profile:
+  addr1: PO Box 467
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Newton
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 877-802-1212
+  email: onlineservices@peoplesbanknc.com
+  emailmsgset: 'true'
+  finame: Peoples Bank
+  postalcode: '286580467'
+  signonmsgset: 'true'
+  state: NC
+  tsphone: 877-802-1212
+  url: https://peoplesbanknc.com
+url: https://ofx.fundsxpress.com/piles/ofx.pile/

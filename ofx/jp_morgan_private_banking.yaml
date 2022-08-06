@@ -1,0 +1,20 @@
+brokerid: jpmorgan.com
+fid: '0417'
+name: J.P. Morgan Private Banking
+ofxfail: '0'
+ofxhome_id: '740'
+org: jpmorgan.com
+profile:
+  addr1: 522 5th Ave
+  addr2: 'null'
+  city: New York
+  country: USA
+  email: jpmorgan2@jpmorgan.com
+  finame: jpmorgan.com
+  invstmtmsgset: 'true'
+  postalcode: '10036'
+  seclistmsgset: 'true'
+  signonmsgset: 'true'
+  state: NY
+  url: http://localhost:9080/ofx/JPMWebRedirector
+url: https://ofx.jpmorgan.com/jpmredirector

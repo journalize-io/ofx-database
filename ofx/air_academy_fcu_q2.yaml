@@ -1,0 +1,17 @@
+fid: '17551'
+name: Air Academy FCU Q2
+ofxfail: '0'
+ofxhome_id: '847'
+org: Q2 Software
+profile:
+  addr1: 9810 North Union Boulevard
+  bankmsgset: 'true'
+  city: Colorado Springs
+  country: USA
+  email: Contactus@aafcu.com
+  finame: Air Academy FCU Q2
+  postalcode: '80924'
+  signonmsgset: 'true'
+  state: CO
+  url: https://i-branch.aafcu.com/5009_directconnect/ofx.ashx
+url: https://i-branch.aafcu.com/5009_directconnect/ofx.ashx

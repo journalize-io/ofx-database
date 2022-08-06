@@ -1,0 +1,20 @@
+fid: '274970814'
+name: West End Bank, S.B.
+ofxfail: '0'
+ofxhome_id: '1504'
+org: DI
+profile:
+  addr1: 34 S 7th Street
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Richmond
+  country: USA
+  csphone: (765) 962-9587
+  email: support@westendbank.com
+  finame: West End Bank, S.B.
+  postalcode: '47374'
+  signonmsgset: 'true'
+  state: IN
+  tsphone: (765) 962-9587
+  url: https://www.westendbank.com/
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

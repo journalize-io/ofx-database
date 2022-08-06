@@ -1,0 +1,19 @@
+fid: '7113'
+name: Pacific Premier Bank
+ofxfail: '0'
+ofxhome_id: '1302'
+org: mfis-7113
+profile:
+  addr1: 1600 SUNFLOWER AVE
+  addr2: 2ND FLOOR
+  bankmsgset: 'true'
+  city: COSTA MESA
+  country: USA
+  csphone: 866-353-1476
+  email: olbsupport@ppbi.com
+  finame: Pacific Premier Bank
+  postalcode: '92626'
+  signonmsgset: 'true'
+  state: CA
+  url: www.ppbi.com
+url: https://pfm.metavante.com/ofx/OFXServlet

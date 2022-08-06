@@ -1,0 +1,19 @@
+fid: '1970'
+name: Aquesta Bank
+ofxfail: '0'
+ofxhome_id: '870'
+org: ep5076
+profile:
+  addr1: PO Box 700
+  addr2: 19510 Jetton Road
+  bankmsgset: 'true'
+  city: Cornelius
+  country: USA
+  csphone: 855-206-4945
+  email: aquestabank@billsupport.com
+  finame: Aquesta Bank
+  postalcode: '28031'
+  signonmsgset: 'true'
+  state: NC
+  url: www.aquestabank.com
+url: https://pfm.metavante.com/ofx/OFXServlet

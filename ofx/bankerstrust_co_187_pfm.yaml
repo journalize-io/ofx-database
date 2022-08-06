@@ -1,0 +1,22 @@
+fid: '5541'
+name: BankersTrust Co 187 PFM
+ofxfail: '0'
+ofxhome_id: '904'
+org: '187'
+profile:
+  addr1: 221 Third Avenue SE
+  addr2: Suite 150
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Cedar Rapids
+  country: USA
+  csphone: 800-626-5761
+  email: bib@bankerstrust.com
+  emailmsgset: 'true'
+  finame: BankersTrust Co 187 PFM
+  interxfermsgset: 'true'
+  postalcode: '52401'
+  signonmsgset: 'true'
+  state: IA
+  url: http://www.bankerstrust.com
+url: https://pfm.metavante.com/ofx/OFXServlet

@@ -1,0 +1,20 @@
+fid: '221180806'
+name: Sikorsky CU
+ofxfail: '0'
+ofxhome_id: '1375'
+org: DI
+profile:
+  addr1: 1000 Oronoque Lane
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Stratford
+  country: USA
+  csphone: 1-888-753-5553
+  email: '2'
+  finame: Sikorsky CU
+  postalcode: '06614'
+  signonmsgset: 'true'
+  state: CT
+  tsphone: 1-888-753-5553
+  url: www.sikorskycu.org
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

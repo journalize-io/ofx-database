@@ -1,0 +1,19 @@
+fid: '13017'
+name: First National Bank of Pasco
+ofxfail: '0'
+ofxhome_id: '1096'
+org: Cavion
+profile:
+  addr1: 13315 US Hwy 301 South
+  bankmsgset: 'true'
+  city: Dade City
+  country: USA
+  csphone: '8882394652'
+  email: dadecs@fnbpasco.com
+  finame: First National Bank of Pasco
+  postalcode: '35256'
+  signonmsgset: 'true'
+  state: FL
+  tsphone: '8882394652'
+  url: http://www.fnbpasco.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

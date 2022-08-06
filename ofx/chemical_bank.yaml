@@ -1,0 +1,18 @@
+fid: '072410013'
+name: Chemical Bank
+ofxfail: '1'
+ofxhome_id: '747'
+org: DI
+profile:
+  addr1: 333 E. Main Street
+  bankmsgset: 'true'
+  city: Midland
+  country: USA
+  csphone: 800-633-3800
+  email: ebanking@chemicalbankmi.com
+  postalcode: '48640'
+  signonmsgset: 'true'
+  state: MI
+  tsphone: 800-633-3800
+  url: www.chemicalbankmi.com
+url: https://ofxdi.diginsite.com/cmr/cmr.ofx

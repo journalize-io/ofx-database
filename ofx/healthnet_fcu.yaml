@@ -1,0 +1,19 @@
+fid: '22065'
+name: HealthNet FCU
+ofxfail: '0'
+ofxhome_id: '1158'
+org: Cavion
+profile:
+  addr1: 1591 Chickering Ln
+  bankmsgset: 'true'
+  city: Cordova
+  country: USA
+  csphone: '9012261111'
+  email: hnfcu@healthnetfcu.org
+  finame: HealthNet FCU
+  postalcode: '38016'
+  signonmsgset: 'true'
+  state: TN
+  tsphone: '9012261111'
+  url: http://www.healthnetfcu.org
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

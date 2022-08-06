@@ -1,0 +1,7 @@
+fid: 091901480
+name: SAC FEDERAL CREDIT UNION
+ofxfail: '1'
+ofxhome_id: '509'
+org: SAC Federal CU
+profile: {}
+url: https://pcu.sacfcu.com/scripts/isaofx.dll

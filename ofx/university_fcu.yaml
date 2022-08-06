@@ -1,0 +1,19 @@
+fid: '39276'
+name: University FCU
+ofxfail: '0'
+ofxhome_id: '1487'
+org: Cavion
+profile:
+  addr1: 2901 University AVE Stop 8222
+  bankmsgset: 'true'
+  city: Grand Forks
+  country: USA
+  csphone: 701-777-2274
+  email: creditunion@universityfcu.net
+  finame: University FCU
+  postalcode: '58202'
+  signonmsgset: 'true'
+  state: ND
+  tsphone: 701-777-2274
+  url: http://www.universityfederalcu.org/
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

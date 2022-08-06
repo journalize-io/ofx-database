@@ -1,0 +1,19 @@
+fid: '253177832'
+name: Truliant FCU
+ofxfail: '1'
+ofxhome_id: '426'
+org: DI
+profile:
+  addr1: 3200 Truliant Way
+  bankmsgset: 'true'
+  city: Winston-Salem
+  country: USA
+  csphone: 800-822-0382
+  email: '2'
+  finame: Truliant Federal Credit Union
+  postalcode: '27103'
+  signonmsgset: 'true'
+  state: NC
+  tsphone: 800-822-038
+  url: www.truliantfcu.org
+url: https://ofxdi.diginsite.com/cmr/cmr.ofx

@@ -1,0 +1,19 @@
+fid: '322275490'
+name: Xceed Financial Credit Union
+ofxfail: '0'
+ofxhome_id: '1518'
+org: DI
+profile:
+  addr1: 888 Nash St
+  bankmsgset: 'true'
+  city: El Segundo
+  country: USA
+  csphone: (800)932-8222
+  email: '2'
+  finame: Xceed Financial Credit Union
+  postalcode: 90245-2826
+  signonmsgset: 'true'
+  state: CA
+  tsphone: (800)932-8222
+  url: www.xfcu.org
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

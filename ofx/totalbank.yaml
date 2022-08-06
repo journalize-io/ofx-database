@@ -1,0 +1,19 @@
+fid: 066009155
+name: TotalBank
+ofxfail: '0'
+ofxhome_id: '1460'
+org: DI
+profile:
+  addr1: 2720 Coral Way
+  bankmsgset: 'true'
+  city: Miami
+  country: USA
+  csphone: 305-448-6500
+  email: '2'
+  finame: TotalBank
+  postalcode: '33145'
+  signonmsgset: 'true'
+  state: FL
+  tsphone: 305-448-6500
+  url: www.totalbankonline.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

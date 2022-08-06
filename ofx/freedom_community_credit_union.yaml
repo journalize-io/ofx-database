@@ -1,0 +1,19 @@
+fid: '46449'
+name: Freedom Community Credit Union
+ofxfail: '0'
+ofxhome_id: '1122'
+org: Cavion
+profile:
+  addr1: 2940 N UNIVERSITY DRIVE
+  bankmsgset: 'true'
+  city: Fargo
+  country: USA
+  csphone: '7012320828'
+  email: info@freedomccu.com
+  finame: Freedom Community Credit Union
+  postalcode: '58102'
+  signonmsgset: 'true'
+  state: ND
+  tsphone: '7012320828'
+  url: www.freedomccu.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

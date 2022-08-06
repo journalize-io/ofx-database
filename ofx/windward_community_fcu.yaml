@@ -1,0 +1,20 @@
+fid: '321380315'
+name: Windward Community FCU
+ofxfail: '3'
+ofxhome_id: '604'
+org: Windward Community FCU
+profile:
+  addr1: 1250 Drummers Ln.
+  bankmsgset: 'true'
+  city: Valley Forge
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 610-687-9400
+  email: admin@users.com
+  finame: USERS Credit Union
+  postalcode: '19482'
+  signonmsgset: 'true'
+  state: PA
+  tsphone: 610-687-9400
+  url: http://www.users.com
+url: https://wcfcu.online-cu.com/scripts/isaofx.dll

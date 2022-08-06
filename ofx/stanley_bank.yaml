@@ -1,0 +1,20 @@
+fid: '101110488'
+name: Stanley Bank
+ofxfail: '0'
+ofxhome_id: '1394'
+org: DI
+profile:
+  addr1: 7835 W 151st Street
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Stanley
+  country: USA
+  csphone: 913-681-8800
+  email: '2'
+  finame: Stanley Bank
+  postalcode: '66223'
+  signonmsgset: 'true'
+  state: KS
+  tsphone: 913-681-8800
+  url: www.stanleybank.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

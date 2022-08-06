@@ -1,0 +1,21 @@
+fid: '1002'
+name: TD Bank NEW
+ofxfail: '0'
+ofxhome_id: '836'
+org: CommerceBank
+profile:
+  addr1: Unknown
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Unknown
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 555-555-5555
+  email: Unknown
+  emailmsgset: 'true'
+  finame: CommerceBank
+  postalcode: '99999'
+  signonmsgset: 'true'
+  state: XX
+  url: Unknown
+url: https://ofx.tdbank.com/eftxweb/td.ofx

@@ -1,0 +1,19 @@
+fid: '231379199'
+name: First Commonwealth FCU
+ofxfail: '3'
+ofxhome_id: '488'
+org: FirstCommonwealthFCU
+profile:
+  addr1: P.O. Box 20450
+  bankmsgset: 'true'
+  city: Lehigh Valley
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 610-821-2403
+  email: memserv@firstcomcu.org
+  postalcode: '18002'
+  signonmsgset: 'true'
+  state: PA
+  tsphone: 610-821-2403
+  url: https://www.firstcomcu.org
+url: https://pcu.firstcomcu.org/scripts/isaofx.dll

@@ -1,0 +1,19 @@
+fid: 00FWQ
+name: NATIONWIDE BANK
+ofxfail: '3'
+ofxhome_id: '1263'
+org: Nationwide FCU
+profile:
+  addr1: ONE NATIONWIDE PLAZA
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: COLUMBUS
+  country: US
+  csphone: '8003367219'
+  emailmsgset: 'true'
+  finame: NATIONWIDE BANK
+  postalcode: '43215'
+  signonmsgset: 'true'
+  state: OH
+  url: https://www.financial-net.com/nfcu
+url: https://www.netit.financial-net.com/ofx

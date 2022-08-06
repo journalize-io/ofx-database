@@ -1,0 +1,20 @@
+fid: '111904503'
+name: Navy Army Federal Credit Union
+ofxfail: '3'
+ofxhome_id: '551'
+org: Navy Army Federal Credit Union
+profile:
+  addr1: 5725 Spohn Drive
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Corpus Christi
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 361-986-4500
+  email: general@navyarmyccu.com
+  postalcode: '78414'
+  signonmsgset: 'true'
+  state: TX
+  tsphone: 800-622-3631
+  url: http://www.navyarmyccu.com
+url: https://mybranch.navyarmyfcu.com/scripts/isaofx.dll

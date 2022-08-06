@@ -1,0 +1,21 @@
+fid: '1451'
+name: Alpine Banks of Colorado
+ofxfail: '3'
+ofxhome_id: '643'
+org: JackHenry
+profile:
+  addr1: 2200 GRAND AVE
+  addr2: GLENWOOD SPRINGS, CO  81601
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: GRAND JUNCTION
+  country: USA
+  csphone: (970) 254-2747
+  email: donotreply@alpinebank.com
+  finame: ALPINE BANK
+  postalcode: '815010000'
+  signonmsgset: 'true'
+  state: CO
+  tsphone: 800-551-6098
+  url: http://www.alpinebank.com
+url: https://directline.netteller.com

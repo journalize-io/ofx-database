@@ -1,0 +1,19 @@
+fid: '2601'
+name: M & T Bank
+ofxfail: '0'
+ofxhome_id: '702'
+org: ISC
+profile:
+  addr1: P.O. Box 4627
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Buffalo
+  country: USA
+  creditcardmsgset: 'true'
+  emailmsgset: 'true'
+  finame: M&T Bank
+  postalcode: '142409915'
+  signonmsgset: 'true'
+  state: NY
+  url: http://www.MandTBank.com/
+url: https://www.oasis.cfree.com/fip/genesis/prod/02601.ofx

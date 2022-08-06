@@ -1,0 +1,19 @@
+fid: '274972744'
+name: Indiana University Credit Union
+ofxfail: '3'
+ofxhome_id: '1185'
+org: DI
+profile:
+  addr1: P.O. Box 368
+  bankmsgset: 'true'
+  city: Bloomington
+  country: USA
+  csphone: 812-855-7823
+  email: memberservice@iucu.org
+  finame: Indiana University Credit Union
+  postalcode: '47402'
+  signonmsgset: 'true'
+  state: IN
+  tsphone: 812-855-7823
+  url: www.iucu.org
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

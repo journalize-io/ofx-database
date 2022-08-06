@@ -1,0 +1,22 @@
+fid: '5010'
+name: City National
+ofxfail: '0'
+ofxhome_id: '999'
+org: '309'
+profile:
+  addr1: 400 N Roxbury Dr
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Beverly Hills
+  country: USA
+  csphone: 800-773-7100
+  email: onlinebanking@cnb.com
+  emailmsgset: 'true'
+  finame: City National
+  interxfermsgset: 'true'
+  postalcode: '90210'
+  signonmsgset: 'true'
+  state: CA
+  tsphone: 800-773-7100
+  url: www.cnb.com
+url: https://pfm.metavante.com/ofx/OFXServlet

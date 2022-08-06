@@ -1,0 +1,19 @@
+fid: '51576'
+name: Horizon Financial Bank
+ofxfail: '0'
+ofxhome_id: '1174'
+org: Cavion
+profile:
+  addr1: Po Box 9
+  bankmsgset: 'true'
+  city: Munich
+  country: USA
+  csphone: '8008592035'
+  email: customerservice@horizonfinancialbank.com
+  finame: Horizon Financial Bank
+  postalcode: '58352'
+  signonmsgset: 'true'
+  state: ND
+  tsphone: '8008592035'
+  url: http://www.horizonfinancialbank.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

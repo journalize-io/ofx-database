@@ -1,0 +1,20 @@
+fid: 064108236
+name: Bank of Dickson
+ofxfail: '0'
+ofxhome_id: '889'
+org: DI
+profile:
+  addr1: 466 Highway 46 S
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Dickson
+  country: USA
+  csphone: 615-446-3732
+  email: '2'
+  finame: Bank of Dickson
+  postalcode: '37056'
+  signonmsgset: 'true'
+  state: TN
+  tsphone: 615-446-3732
+  url: www.bankofdickson.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

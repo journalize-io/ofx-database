@@ -1,0 +1,21 @@
+fid: '211489656'
+name: Service Credit Union
+ofxfail: '0'
+ofxhome_id: '1369'
+org: DI
+profile:
+  addr1: 3003 Lafayette Road
+  addr2: PO Box 1268
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Portsmouth
+  country: USA
+  csphone: 800-936-7730
+  email: scu@servicecu.org
+  finame: Service Credit Union
+  postalcode: 0380-1268
+  signonmsgset: 'true'
+  state: NH
+  tsphone: 800-936-7730
+  url: www.servicecu.org
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

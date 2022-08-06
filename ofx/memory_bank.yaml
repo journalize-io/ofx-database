@@ -1,0 +1,19 @@
+fid: 091017620
+name: Memory Bank
+ofxfail: '0'
+ofxhome_id: '1533'
+org: DI
+profile:
+  addr1: 601 West Market Street
+  bankmsgset: 'true'
+  city: Louisville
+  country: USA
+  csphone: 877-757-3400
+  email: clientservice@mymemorybank.com
+  finame: Memory Bank
+  postalcode: '40202'
+  signonmsgset: 'true'
+  state: KY
+  tsphone: 877-757-3400
+  url: https://www.mymemorybank.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

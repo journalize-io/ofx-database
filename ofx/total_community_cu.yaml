@@ -1,0 +1,19 @@
+fid: '53325'
+name: Total Community CU
+ofxfail: '0'
+ofxhome_id: '1459'
+org: Cavion
+profile:
+  addr1: 25155 Goddard Road, P.O. Box 547
+  bankmsgset: 'true'
+  city: Taylor
+  country: USA
+  csphone: '8002913003'
+  email: pmatous@tccu.us
+  finame: Total Community CU
+  postalcode: '48180'
+  signonmsgset: 'true'
+  state: MI
+  tsphone: '8002913003'
+  url: http://www.tccu.us
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

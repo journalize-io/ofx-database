@@ -1,0 +1,18 @@
+fid: '10913'
+name: Deer Valley Credit Union
+ofxfail: '1'
+ofxhome_id: '1039'
+org: Deer Valley Credit Union
+profile:
+  addr1: 16215 N 28th Avenue
+  bankmsgset: 'true'
+  city: Phoenix
+  country: USA
+  csphone: (602) 375-7300
+  email: info@dvcu.org
+  finame: Deer Valley Credit Union
+  postalcode: '85053'
+  signonmsgset: 'true'
+  state: AZ
+  url: https://remotebanking.dvcu.org
+url: https://remotebanking.dvcu.org/ofx/ofx.dll

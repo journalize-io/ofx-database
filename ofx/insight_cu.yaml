@@ -1,0 +1,17 @@
+fid: '10764'
+name: Insight CU
+ofxfail: '3'
+ofxhome_id: '697'
+org: Insight Credit Union
+profile:
+  addr1: 480 S Keller Rd
+  bankmsgset: 'true'
+  city: Orlando
+  country: USA
+  csphone: 407-426-6000
+  email: moneycoach@insightcreditunion.com
+  postalcode: '32810'
+  signonmsgset: 'true'
+  state: FL
+  url: https://insightcreditunion.com
+url: https://secure.insightcreditunion.com/ofx/ofx.dll

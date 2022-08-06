@@ -1,0 +1,22 @@
+fid: NBMPA
+name: The National Bank of Malvern
+ofxfail: '0'
+ofxhome_id: '1440'
+org: FundsXpress
+profile:
+  addr1: PO Box 39
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Malvern
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 610-647-0100
+  email: info@natbankmal.com
+  emailmsgset: 'true'
+  finame: The National Bank of Malvern
+  postalcode: '193550039'
+  signonmsgset: 'true'
+  state: PA
+  tsphone: 610-647-0100
+  url: https://www.natbankmal.com
+url: https://ofx.fundsxpress.com/piles/ofx.pile/

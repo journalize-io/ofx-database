@@ -1,0 +1,19 @@
+fid: '54276'
+name: The First and Farmers Bank
+ofxfail: '0'
+ofxhome_id: '1432'
+org: Cavion
+profile:
+  addr1: Park And Morrison Avenue
+  bankmsgset: 'true'
+  city: Portland
+  country: USA
+  csphone: 701-788-3791
+  email: lkempf@ffbnk.com
+  finame: The First and Farmers Bank
+  postalcode: '58274'
+  signonmsgset: 'true'
+  state: ND
+  tsphone: 701-788-3791
+  url: http://www.ffbnk.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

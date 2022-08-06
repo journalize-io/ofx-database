@@ -1,0 +1,21 @@
+fid: '5537'
+name: Country Club Bank PFM
+ofxfail: '0'
+ofxhome_id: '1027'
+org: '582'
+profile:
+  addr1: 414 Nichols Road
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Kansas City
+  country: USA
+  csphone: 855-259-3192
+  email: contactus@countryclubbank.com
+  emailmsgset: 'true'
+  finame: Country Club Bank PFM
+  interxfermsgset: 'true'
+  postalcode: '64112'
+  signonmsgset: 'true'
+  state: MO
+  url: www.countryclubbank.com
+url: https://pfm.metavante.com/ofx/OFXServlet

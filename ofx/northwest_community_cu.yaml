@@ -1,0 +1,19 @@
+fid: '1948'
+name: Northwest Community CU
+ofxfail: '0'
+ofxhome_id: '741'
+org: Cavion
+profile:
+  addr1: P.O BOX 70225
+  bankmsgset: 'true'
+  city: Eugene
+  country: USA
+  csphone: '8004529515'
+  email: callcenter@nwcu.com
+  finame: Northwest Community FCU
+  postalcode: '97401'
+  signonmsgset: 'true'
+  state: OR
+  tsphone: '8004529515'
+  url: http://www.nwcu.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

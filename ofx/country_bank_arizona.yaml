@@ -1,0 +1,19 @@
+fid: '12093'
+name: Country Bank Arizona
+ofxfail: '0'
+ofxhome_id: '1025'
+org: Cavion
+profile:
+  addr1: 107 Willis Street
+  bankmsgset: 'true'
+  city: Prescott
+  country: USA
+  csphone: 928-443-9595
+  email: kathyf@countryaz.com
+  finame: Country Bank Arizona
+  postalcode: '86301'
+  signonmsgset: 'true'
+  state: AZ
+  tsphone: 928-443-9595
+  url: http://www.countrybankaz.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

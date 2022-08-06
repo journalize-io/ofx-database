@@ -1,0 +1,19 @@
+fid: '16307'
+name: Manufacturers Bank and Trust
+ofxfail: '0'
+ofxhome_id: '1230'
+org: HFS -Cavion
+profile:
+  addr1: 245 E J Street
+  bankmsgset: 'true'
+  city: Forst City
+  country: USA
+  csphone: 641.585.4514
+  email: mbtresearch@mbtbank.com
+  finame: Manufacturers Bank and Trust
+  postalcode: '50436'
+  signonmsgset: 'true'
+  state: IA
+  tsphone: 641.585.4514
+  url: http://www.mbtbank.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

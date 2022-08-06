@@ -1,0 +1,19 @@
+fid: '57591'
+name: Brunswick Bank and Trust
+ofxfail: '0'
+ofxhome_id: '935'
+org: Cavion
+profile:
+  addr1: 439 Livingston Avenue
+  bankmsgset: 'true'
+  city: New Brunswick
+  country: USA
+  csphone: 732-247-5800
+  email: lcabrerai@brunswickbank.com
+  finame: Brunswick Bank and Trust
+  postalcode: 08901
+  signonmsgset: 'true'
+  state: NJ
+  tsphone: 732-247-5800
+  url: http://www.brunswickbank.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

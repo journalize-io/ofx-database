@@ -1,0 +1,19 @@
+fid: '58977'
+name: Ohio University CU
+ofxfail: '0'
+ofxhome_id: '1286'
+org: Ohio University CU
+profile:
+  addr1: 944 E. State St
+  bankmsgset: 'true'
+  city: Athens
+  country: USA
+  csphone: 740-597-2800
+  email: memberservices@oucu.org
+  finame: Ohio University CU
+  postalcode: '45701'
+  signonmsgset: 'true'
+  state: OH
+  tsphone: 740-597-2894
+  url: https://www.oucu.org
+url: https://mobileolb.oucu.org/ofx/ofxserver.aspx

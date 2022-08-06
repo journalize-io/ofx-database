@@ -1,0 +1,20 @@
+brokerid: Wells Fargo Advisors
+fid: '12748'
+name: Wells Fargo Advisors
+ofxfail: '0'
+ofxhome_id: '737'
+org: WF
+profile:
+  addr1: P.O. Box 6808
+  city: Concord
+  country: USA
+  csphone: 1-800-956-4442
+  finame: Wells Fargo Bank
+  invstmtmsgset: 'true'
+  postalcode: '94524'
+  seclistmsgset: 'true'
+  signonmsgset: 'true'
+  state: CA
+  tsphone: 1-800-956-4442
+  url: https://online.wellsfargo.com/
+url: https://ofxdc.wellsfargo.com/ofxbrokerage/process.ofx

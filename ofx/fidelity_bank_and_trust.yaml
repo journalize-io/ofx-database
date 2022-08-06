@@ -1,0 +1,19 @@
+fid: '53823'
+name: Fidelity Bank and Trust
+ofxfail: '0'
+ofxhome_id: '1074'
+org: Cavion
+profile:
+  addr1: 4250 Asbury Road
+  bankmsgset: 'true'
+  city: Dubuque
+  country: USA
+  csphone: '8004038333'
+  email: dyersville@bankfidelity.com
+  finame: Fidelity Bank and Trust
+  postalcode: '52002'
+  signonmsgset: 'true'
+  state: IA
+  tsphone: '8004038333'
+  url: http://www.bankfidelity.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

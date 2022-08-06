@@ -1,0 +1,19 @@
+fid: '69'
+name: Ruby Valley National Bank
+ofxfail: '0'
+ofxhome_id: '1353'
+org: Cavion
+profile:
+  addr1: 107 South Main
+  bankmsgset: 'true'
+  city: Twin Bridges
+  country: USA
+  csphone: '8002811031'
+  email: ktown@rubyvalleybank.com
+  finame: Ruby Valley National Bank
+  postalcode: '59754'
+  signonmsgset: 'true'
+  state: MT
+  tsphone: '8002811031'
+  url: http://www.rubyvalleybank.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

@@ -1,0 +1,19 @@
+fid: '10888'
+name: One Nevada Credit Union
+ofxfail: '0'
+ofxhome_id: '1531'
+org: PSI
+profile:
+  addr1: 2645 South Mojave
+  bankmsgset: 'true'
+  city: Las Vegas
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: (701) 457-1000
+  email: oncusupport@onenevada.org
+  finame: One Nevada Credit Union
+  postalcode: '98121'
+  signonmsgset: 'true'
+  state: NV
+  url: https://ssl8.onenevada.org/silverlink/login.asp
+url: https://ssl8.onenevada.org/ofxdirect/ofxrqst.aspx

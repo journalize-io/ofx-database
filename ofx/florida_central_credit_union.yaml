@@ -1,0 +1,19 @@
+fid: '12550'
+name: Florida Central Credit Union
+ofxfail: '0'
+ofxhome_id: '1116'
+org: Connect
+profile:
+  addr1: 3333 Henderson Blvd
+  bankmsgset: 'true'
+  city: Tampa
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 1-800-8528-3330
+  email: info@floridacentralcu.com
+  finame: Florida Central Credit Union
+  postalcode: '33609'
+  signonmsgset: 'true'
+  state: FL
+  url: https://www.floridacentralcu.com/home/home
+url: https://banking.floridacentralcu.com/internetbankingOFX/Ofxrqst.aspx

@@ -1,0 +1,19 @@
+fid: '13524'
+name: Dakota Western Bank
+ofxfail: '0'
+ofxhome_id: '1034'
+org: Cavion
+profile:
+  addr1: 202 South Main Street
+  bankmsgset: 'true'
+  city: Bowman
+  country: USA
+  csphone: '7015235803'
+  email: info@dakotawesternbank.com
+  finame: Dakota Western Bank
+  postalcode: '58623'
+  signonmsgset: 'true'
+  state: ND
+  tsphone: '7015235803'
+  url: http://www.dakotawesternbank.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

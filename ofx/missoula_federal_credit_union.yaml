@@ -1,0 +1,17 @@
+fid: '5097'
+name: Missoula Federal Credit Union
+ofxfail: '1'
+ofxhome_id: '706'
+org: Missoula Federal Credit Union
+profile:
+  addr1: 3600 Brooks St
+  bankmsgset: 'true'
+  city: Missoula
+  country: USA
+  csphone: (406)523-3300
+  email: memberservice@missoulafcu.org
+  postalcode: '59801'
+  signonmsgset: 'true'
+  state: MT
+  url: https://secure.missoulafcu.org
+url: https://secure.missoulafcu.org/ofx/ofx.dll

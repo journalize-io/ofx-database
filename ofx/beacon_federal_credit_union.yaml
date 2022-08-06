@@ -1,0 +1,19 @@
+fid: '12309'
+name: Beacon Federal Credit Union
+ofxfail: '0'
+ofxhome_id: '917'
+org: CAVION
+profile:
+  addr1: 2901 Sens Road
+  bankmsgset: 'true'
+  city: La Porte
+  country: USA
+  csphone: 281-471-1782
+  email: mmaslonka@beaconfed.org
+  finame: Beacon Federal Credit Union
+  postalcode: '77571'
+  signonmsgset: 'true'
+  state: TX
+  tsphone: 281-471-1782
+  url: www.beaconfed.org
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

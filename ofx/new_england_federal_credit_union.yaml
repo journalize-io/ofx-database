@@ -1,0 +1,17 @@
+fid: '2104'
+name: New England Federal Credit Union
+ofxfail: '0'
+ofxhome_id: '709'
+org: DI
+profile:
+  addr1: 141 Harvest Lane
+  bankmsgset: 'true'
+  city: Williston
+  country: USA
+  csphone: 800 400-8790
+  email: online@nefcu.com
+  postalcode: 05495
+  signonmsgset: 'true'
+  state: VT
+  url: http://www.nefcu.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

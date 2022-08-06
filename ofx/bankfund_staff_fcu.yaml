@@ -1,0 +1,7 @@
+fid: '2'
+name: Bank-Fund Staff FCU
+ofxfail: '3'
+ofxhome_id: '520'
+org: Bank Fund Staff FCU
+profile: {}
+url: https://secure.bfsfcu.org/ofx/ofx.dll

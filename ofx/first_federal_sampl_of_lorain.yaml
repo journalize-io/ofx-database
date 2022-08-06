@@ -1,0 +1,18 @@
+fid: '241271342'
+name: First Federal S&amp;L of Lorain
+ofxfail: '0'
+ofxhome_id: '1086'
+org: 095D
+profile:
+  addr1: 3721 Oberlin Avenue
+  bankmsgset: 'true'
+  city: Lorain
+  country: USA
+  csphone: 440-282-6188
+  email: customersupport@firstfedlorain.com
+  finame: First Federal S&L of Lorain
+  postalcode: '44053'
+  signonmsgset: 'true'
+  state: OH
+  url: http://www.firstfedlorain.com/
+url: https://ofx1.evault.ws/OFXServer/ofxsrvr.dll

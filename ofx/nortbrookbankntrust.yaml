@@ -1,0 +1,22 @@
+fid: '5513'
+name: NortbrookBankNTrust
+ofxfail: '0'
+ofxhome_id: '1273'
+org: '870'
+profile:
+  addr1: 1100 Waukegan Road
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Northbrook
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 877-243-7361
+  email: customer_service@northbrookbank.com
+  emailmsgset: 'true'
+  finame: NortbrookBankNTrust
+  interxfermsgset: 'true'
+  postalcode: '60062'
+  signonmsgset: 'true'
+  state: IL
+  url: http://www.northbrookbank.com
+url: https://pfm.metavante.com/ofx/OFXServlet

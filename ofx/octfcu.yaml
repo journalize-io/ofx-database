@@ -1,0 +1,18 @@
+fid: '17600'
+name: OCTFCU
+ofxfail: '3'
+ofxhome_id: '587'
+org: OCTFCU
+profile:
+  addr1: 15442 Del Amo Ave
+  bankmsgset: 'true'
+  city: Tustin
+  country: USA
+  csphone: 714.258.8700
+  email: info@octfcu.org
+  postalcode: '92780'
+  signonmsgset: 'true'
+  state: CA
+  tsphone: 714.258.8700
+  url: http://www.octfcu.org
+url: https://ofx.octfcu.org

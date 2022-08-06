@@ -1,0 +1,18 @@
+fid: '102301513'
+name: Pinnacle Bank of Wyoming QN DC
+ofxfail: '0'
+ofxhome_id: '1319'
+org: PinnacleBankWyoming
+profile:
+  addr1: 2000 Main St
+  bankmsgset: 'true'
+  city: Torrington
+  country: USA
+  csphone: 800-227-7115
+  email: customerservice@wypinnbank.com
+  finame: Pinnacle Bank of Wyoming QN DC
+  postalcode: '88240'
+  signonmsgset: 'true'
+  state: WY
+  url: https://ofx.secureinternetbank.com/OFXServer/ofxsrvr.dll
+url: https://ofx.secureinternetbank.com/ofxserver/ofxsrvr.dll

@@ -1,0 +1,19 @@
+fid: '265476440'
+name: Essential Federal Credit Union
+ofxfail: '0'
+ofxhome_id: '1066'
+org: DI
+profile:
+  addr1: 21925 LA Hwy. 1 South
+  bankmsgset: 'true'
+  city: Plaquemine
+  country: USA
+  csphone: 888-369-2207
+  email: support@essentialfcu.org
+  finame: Essential Federal Credit Union
+  postalcode: '70764'
+  signonmsgset: 'true'
+  state: LA
+  tsphone: 888-369-2207
+  url: www.essentialfcu.org
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

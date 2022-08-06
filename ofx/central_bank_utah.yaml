@@ -1,0 +1,20 @@
+brokerid: '102'
+fid: '124300327'
+name: Central Bank Utah
+ofxfail: '3'
+ofxhome_id: '820'
+org: DI
+profile:
+  addr1: 75 N University Avenue
+  bankmsgset: 'true'
+  city: Provo
+  country: USA
+  csphone: 801-655-2116
+  email: online1@cbutah.com
+  finame: Central Bank Utah
+  postalcode: '84601'
+  signonmsgset: 'true'
+  state: UT
+  tsphone: 801-655-2116
+  url: www.centralbankutah.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

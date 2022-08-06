@@ -1,0 +1,21 @@
+fid: '114912589'
+name: San Antonio National Bank
+ofxfail: '0'
+ofxhome_id: '1356'
+org: DI
+profile:
+  addr1: 45 NE Loop 410
+  addr2: Suite 500
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: San Antonio
+  country: USA
+  csphone: 1-866-580-7262
+  email: support@sanb.com
+  finame: San Antonio National Bank
+  postalcode: '78216'
+  signonmsgset: 'true'
+  state: TX
+  tsphone: 1-866-580-7262
+  url: www.sanb.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

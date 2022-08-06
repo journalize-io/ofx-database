@@ -1,0 +1,19 @@
+fid: '56979'
+name: Citizens Savings Bank
+ofxfail: '0'
+ofxhome_id: '992'
+org: Cavion
+profile:
+  addr1: 1725 Sullivan Drive
+  bankmsgset: 'true'
+  city: Bogalusa
+  country: USA
+  csphone: (985) 735-6555
+  email: joe.sumrall@citizenssb.com
+  finame: Citizens Savings Bank
+  postalcode: '70427'
+  signonmsgset: 'true'
+  state: La
+  tsphone: (985) 735-6555
+  url: http://www.citizenssb.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

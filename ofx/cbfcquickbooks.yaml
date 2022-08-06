@@ -1,0 +1,19 @@
+fid: 061104929
+name: CBFC-Quickbooks
+ofxfail: '0'
+ofxhome_id: '962'
+org: PZeroFiveSix
+profile:
+  addr1: 651 Veterans Memorial Blvd
+  bankmsgset: 'true'
+  city: Cumming
+  country: USA
+  csphone: 770-886-9500
+  email: customerservice@citizbank.com
+  finame: CBFC-Quickbooks
+  postalcode: '30040'
+  signonmsgset: 'true'
+  state: GA
+  tsphone: 770-886-9500
+  url: http://www.citizbank.com
+url: https://ofx.secureinternetbank.com/ofxserver/ofxsrvr.dll

@@ -1,0 +1,17 @@
+fid: '15990'
+name: The Bennington State Bank
+ofxfail: '0'
+ofxhome_id: '919'
+org: Automated Systems
+profile:
+  addr1: 2130 S. Ohio
+  bankmsgset: 'true'
+  city: Salina
+  country: USA
+  email: services@bsbks.com
+  finame: The Bennington State Bank
+  postalcode: '67401'
+  signonmsgset: 'true'
+  state: KS
+  url: https://onlinebanking.bsbks.com/
+url: https://onlinebanking.bsbks.com/pages/olb.ofx.1_0_3.axd

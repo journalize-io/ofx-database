@@ -1,0 +1,22 @@
+fid: '5516'
+name: FinemarkNationalBNTPFM
+ofxfail: '0'
+ofxhome_id: '1077'
+org: '829'
+profile:
+  addr1: 12995 S. Cleveland Ave Ste 145
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Ft. Myers
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 877-461-5901
+  email: clientservice@finemarkbank.com
+  emailmsgset: 'true'
+  finame: FinemarkNationalBNTPFM
+  interxfermsgset: 'true'
+  postalcode: '33907'
+  signonmsgset: 'true'
+  state: FL
+  url: www.finemarkbank.com
+url: https://pfm.metavante.com/ofx/OFXServlet

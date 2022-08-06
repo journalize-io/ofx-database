@@ -1,0 +1,21 @@
+brokerid: penson.com
+fid: '10780'
+name: Penson Financial Services
+ofxfail: '3'
+ofxhome_id: '570'
+org: Penson Financial Services Inc
+profile:
+  addr1: 1700 Pacific Ave
+  addr2: Suite 1400
+  city: Dallas
+  country: USA
+  csphone: 214.765.1100
+  email: conversions@penson.com
+  invstmtmsgset: 'true'
+  postalcode: '75201'
+  seclistmsgset: 'true'
+  signonmsgset: 'true'
+  state: TX
+  tsphone: 214.765.1100
+  url: http://www.penson.com
+url: https://ofx.penson.com

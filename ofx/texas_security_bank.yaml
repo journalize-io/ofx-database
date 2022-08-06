@@ -1,0 +1,7 @@
+fid: '1582'
+name: Texas Security Bank
+ofxfail: '0'
+ofxhome_id: '1422'
+org: clk-3428
+profile: {}
+url: https://pfm.metavante.com/ofx/OFXServlet

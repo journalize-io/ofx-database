@@ -1,0 +1,22 @@
+fid: BBUBDFL
+name: Banesco USA
+ofxfail: '0'
+ofxhome_id: '881'
+org: FundsXpress, Inc
+profile:
+  addr1: 9500 NW 41st Street
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Doral
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 786-552-0524
+  email: Onlinebanking@BanescoUSA.com
+  emailmsgset: 'true'
+  finame: Banesco USA
+  postalcode: '33178'
+  signonmsgset: 'true'
+  state: FL
+  tsphone: 786-552-0524
+  url: http://www.banescousa.com
+url: https://ofx.fundsxpress.com/piles/ofx.pile/

@@ -1,0 +1,20 @@
+fid: '1180'
+name: Mid Oregon Federal Credit Union
+ofxfail: '0'
+ofxhome_id: '1247'
+org: Cavion
+profile:
+  addr1: Post Office Box 6749
+  bankmsgset: 'true'
+  city: Bend
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: '5413821795'
+  email: info@midoregon.com
+  finame: Mid Oregon Federal Credit Union
+  postalcode: '97708'
+  signonmsgset: 'true'
+  state: OR
+  tsphone: '5413821795'
+  url: http://www.midoregon.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

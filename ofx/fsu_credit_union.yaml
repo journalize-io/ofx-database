@@ -1,0 +1,20 @@
+fid: '263182545'
+name: FSU Credit Union
+ofxfail: '1'
+ofxhome_id: '1114'
+org: Users, Inc.
+profile:
+  addr1: 1612 Captial Circle NE
+  bankmsgset: 'true'
+  city: Tallahassee
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 610-687-9400
+  email: admin@users.com
+  finame: FSU Credit Union
+  postalcode: '32308'
+  signonmsgset: 'true'
+  state: FL
+  tsphone: 610-687-9400
+  url: http://www.users.com
+url: https://fsucuebranch.org/scripts/isaofx.dll

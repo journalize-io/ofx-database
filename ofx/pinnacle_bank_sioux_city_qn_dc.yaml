@@ -1,0 +1,19 @@
+fid: 073900739
+name: Pinnacle Bank Sioux City QN DC
+ofxfail: '0'
+ofxhome_id: '1317'
+org: ThreeFiveZeroSeven
+profile:
+  addr1: 1901 Morningside Avenue
+  bankmsgset: 'true'
+  city: Sioux City
+  country: USA
+  csphone: 800-227-7715
+  email: zachary.borg@fiserv.com
+  finame: Pinnacle Bank Sioux City QN DC
+  postalcode: '51106'
+  signonmsgset: 'true'
+  state: IA
+  tsphone: 800-789-7156
+  url: www.pinnbanksc.com
+url: https://ofx.secureinternetbank.com/ofxserver/ofxsrvr.dll

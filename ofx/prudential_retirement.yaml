@@ -1,0 +1,22 @@
+brokerid: prudential.com
+fid: '1271'
+name: Prudential Retirement
+ofxfail: '0'
+ofxhome_id: '567'
+org: Prudential Retirement Services
+profile:
+  addr1: Gateway Center 3
+  addr2: 11th Floor
+  city: Newark
+  country: USA
+  csphone: (800)562-8838
+  email: rsofeedback@prudential.com
+  finame: Prudential Inc.
+  invstmtmsgset: 'true'
+  postalcode: '07102'
+  seclistmsgset: 'true'
+  signonmsgset: 'true'
+  state: NJ
+  tsphone: (732)482-6356
+  url: www.prudential.com/online/retirement/
+url: https://ofx.prudential.com/eftxweb/EFTXWebRedirector

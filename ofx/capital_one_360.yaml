@@ -1,0 +1,7 @@
+fid: '031176110'
+name: Capital One 360
+ofxfail: '3'
+ofxhome_id: '783'
+org: ING DIRECT
+profile: {}
+url: https://ofx.capitalone360.com/OFX/ofx.html

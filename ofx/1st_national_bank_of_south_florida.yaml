@@ -1,0 +1,19 @@
+fid: '18246'
+name: 1st National Bank Of South Florida
+ofxfail: '0'
+ofxhome_id: '838'
+org: HFS-Cavion
+profile:
+  addr1: 1550 N KROME AVE
+  bankmsgset: 'true'
+  city: HOMESTEAD
+  country: USA
+  csphone: '3052475541'
+  email: cs@1stnatbank.com
+  finame: 1st National Bank Of South Florida
+  postalcode: '33030'
+  signonmsgset: 'true'
+  state: FL
+  tsphone: '3052475541'
+  url: http://www.1stnatbank.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

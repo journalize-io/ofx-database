@@ -1,0 +1,20 @@
+brokerid: JPMORGAN
+fid: '6313'
+name: JPMorgan Retirement Plan Services
+ofxfail: '3'
+ofxhome_id: '617'
+org: JPMORGAN
+profile:
+  addr1: 9300 Ward Parkway
+  city: Kansas City
+  country: USA
+  csphone: 1-800-345-2345
+  email: '2'
+  invstmtmsgset: 'true'
+  postalcode: '64114'
+  seclistmsgset: 'true'
+  signonmsgset: 'true'
+  state: MO
+  tsphone: 1-800-345-2345
+  url: http://www.retireonline.com
+url: https://ofx.retireonline.com/eftxweb/access.ofx

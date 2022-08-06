@@ -1,0 +1,22 @@
+fid: '5525'
+name: JeffersonBank
+ofxfail: '0'
+ofxhome_id: '1190'
+org: '222'
+profile:
+  addr1: '3711 Tampa Road #101'
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Oldsmar
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 877-203-6715
+  email: ebanking@jeffersonbankfl.com
+  emailmsgset: 'true'
+  finame: JeffersonBank
+  interxfermsgset: 'true'
+  postalcode: '34677'
+  signonmsgset: 'true'
+  state: FL
+  url: www.jeffersonbankfl.com
+url: https://pfm.metavante.com/ofx/OFXServlet

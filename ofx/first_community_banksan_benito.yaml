@@ -1,0 +1,19 @@
+fid: '5133'
+name: First Community Bank-San Benito
+ofxfail: '0'
+ofxhome_id: '1083'
+org: First Community Bank-San Benito
+profile:
+  addr1: 1151 W. Highway 77
+  bankmsgset: 'true'
+  city: San Benito
+  country: USA
+  csphone: 1-877-399-3331
+  email: service@firstcommunitybanktx.com
+  finame: First Community Bank-San Benito
+  postalcode: '78586'
+  signonmsgset: 'true'
+  state: TX
+  tsphone: 1-877-399-3331
+  url: https://www.fcbweb.net/
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

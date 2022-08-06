@@ -1,0 +1,18 @@
+fid: '322484265'
+name: Silver State Schools CU
+ofxfail: '3'
+ofxhome_id: '624'
+org: SSSCU
+profile:
+  addr1: 4221 South McLeod
+  bankmsgset: 'true'
+  city: Las Vegas
+  country: USA
+  csphone: 800-357-9654
+  email: support@silverstatecu.com
+  emailmsgset: 'true'
+  postalcode: '89121'
+  signonmsgset: 'true'
+  state: NV
+  url: www.silverstatecu.com
+url: https://www.silverstatecu.com/OFXServer/ofxsrvr.dll

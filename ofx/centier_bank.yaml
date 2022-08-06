@@ -1,0 +1,19 @@
+fid: 071902878
+name: Centier Bank
+ofxfail: '0'
+ofxhome_id: '834'
+org: DI
+profile:
+  addr1: 600 East 84th Ave
+  bankmsgset: 'true'
+  city: Merrillville
+  country: USA
+  csphone: 219-755-4690
+  email: '2'
+  finame: Centier Bank
+  postalcode: '46410'
+  signonmsgset: 'true'
+  state: IN
+  tsphone: 219-755-4690
+  url: www.centierhb.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

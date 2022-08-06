@@ -1,0 +1,19 @@
+fid: '6505'
+name: EAB
+ofxfail: '0'
+ofxhome_id: '685'
+org: ISC
+profile:
+  addr1: Electronic Banking Dept 2839
+  addr2: 1 EAB Plaze
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Uniondale
+  country: USA
+  emailmsgset: 'true'
+  finame: EAB
+  postalcode: '11555'
+  signonmsgset: 'true'
+  state: NY
+  url: http://www.eab.com/
+url: https://www.oasis.cfree.com/fip/genesis/prod/06505.ofx

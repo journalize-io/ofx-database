@@ -1,0 +1,20 @@
+brokerid: smithbarney.com
+fid: '5207'
+name: Morgan Stanley (Smith Barney)
+ofxfail: '3'
+ofxhome_id: '707'
+org: Smithbarney.com
+profile:
+  addr1: 250 West Str
+  city: New York
+  country: USA
+  csphone: 1-212-723-2898
+  email: alex_shnir@smb.com
+  invstmtmsgset: 'true'
+  postalcode: '10005'
+  seclistmsgset: 'true'
+  signonmsgset: 'true'
+  state: NY
+  tsphone: 1-212-723-2898
+  url: http://ofx.smithbarney.com
+url: https://ofx.smithbarney.com/app-bin/ofx/servlets/access.ofx

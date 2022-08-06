@@ -1,0 +1,22 @@
+fid: '5529'
+name: CentralFloridaBank
+ofxfail: '0'
+ofxhome_id: '886'
+org: '827'
+profile:
+  addr1: 101 South Florida Ave
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Lakeland
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 866-211-1512
+  email: Intelligent.eBanking@bankofcentralflorida.com
+  emailmsgset: 'true'
+  finame: CentralFloridaBank
+  interxfermsgset: 'true'
+  postalcode: '33801'
+  signonmsgset: 'true'
+  state: FL
+  url: www.bankofcentralflorida.com
+url: https://pfm.metavante.com/ofx/OFXServlet

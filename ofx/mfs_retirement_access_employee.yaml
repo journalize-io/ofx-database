@@ -1,0 +1,17 @@
+fid: '3045'
+name: MFS Retirement Access (Employee)
+ofxfail: '0'
+ofxhome_id: '1345'
+org: MFSEMPLOYEE
+profile:
+  addr1: 500 Boylston Street
+  city: Boston
+  country: USA
+  finame: MFS Retirement Access (Employee)
+  invstmtmsgset: 'true'
+  postalcode: '02116'
+  seclistmsgset: 'true'
+  signonmsgset: 'true'
+  state: MA
+  url: https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=3120518
+url: https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=3120518

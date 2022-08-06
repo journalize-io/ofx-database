@@ -1,0 +1,18 @@
+fid: '1739'
+name: Tri Valley Bank
+ofxfail: '0'
+ofxhome_id: '1467'
+org: mfis-1739
+profile:
+  addr1: 2404 San Ramon Valley Blvd
+  bankmsgset: 'true'
+  city: San Ramon
+  country: USA
+  csphone: 925-791-4340
+  email: BillPaymentNotification@trivalleybank.com
+  finame: Tri Valley Bank
+  postalcode: '94583'
+  signonmsgset: 'true'
+  state: CA
+  url: http://www.trivalleybank.com
+url: https://pfm.metavante.com/ofx/OFXServlet

@@ -1,0 +1,19 @@
+fid: '255076944'
+name: NIH Federal Credit Union
+ofxfail: '0'
+ofxhome_id: '1271'
+org: DI
+profile:
+  addr1: 111 Rockville Pike
+  addr2: Suite 500
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Rockville
+  country: USA
+  email: '2'
+  finame: NIH Federal Credit Union
+  postalcode: '20850'
+  signonmsgset: 'true'
+  state: MD
+  url: www.nihfcu.org
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

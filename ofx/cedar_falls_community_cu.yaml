@@ -1,0 +1,20 @@
+fid: '22071'
+name: Cedar Falls Community CU
+ofxfail: '0'
+ofxhome_id: '964'
+org: Harland
+profile:
+  addr1: 123 W. 4th Street
+  addr2: P.O. Box 1009
+  bankmsgset: 'true'
+  city: Cedar Falls
+  country: USA
+  csphone: 1-800-615-3603
+  email: jim@cfccu.org
+  finame: Cedar Falls Community CU
+  postalcode: '50613'
+  signonmsgset: 'true'
+  state: IA
+  tsphone: 1-800-615-3603
+  url: http://www.cfccu.org
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

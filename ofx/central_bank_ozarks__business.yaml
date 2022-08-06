@@ -1,0 +1,20 @@
+fid: '761'
+name: Central Bank Ozarks - Business
+ofxfail: '3'
+ofxhome_id: '1056'
+org: 086518477
+profile:
+  addr1: 1800 South Glenstone
+  bankmsgset: 'true'
+  city: Springfield
+  country: USA
+  csphone: 866-777-3856
+  email: twilla_duvall@centralbank.net
+  emailmsgset: 'true'
+  finame: Central Bank Ozarks - Business
+  postalcode: '65804'
+  signonmsgset: 'true'
+  state: MO
+  tsphone: 866-777-3856
+  url: https://www.centralbankozarks.net/
+url: https://ofx.centralbancompany.com/ofxserver/ofxsrvr.dll

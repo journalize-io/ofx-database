@@ -1,0 +1,23 @@
+fid: '1115'
+name: Zions Bank
+ofxfail: '0'
+ofxhome_id: '630'
+org: 244-3
+profile:
+  addr1: 2200 South 3270 West
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: West Valley City
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 1-888-440-0339
+  email: zionspfm@zionsbank.com
+  emailmsgset: 'true'
+  finame: ZionsBank
+  interxfermsgset: 'true'
+  postalcode: '84119'
+  signonmsgset: 'true'
+  state: UT
+  tsphone: 1-888-440-0339
+  url: www.zionsbank.com
+url: https://quicken.metavante.com/ofx/OFXServlet

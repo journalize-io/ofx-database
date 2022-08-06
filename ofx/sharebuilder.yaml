@@ -1,0 +1,20 @@
+brokerid: sharebuilder.com
+fid: '5575'
+name: ShareBuilder
+ofxfail: '3'
+ofxhome_id: '614'
+org: ShareBuilder
+profile:
+  addr1: 1445 120th Ave NE
+  city: Bellevue
+  country: USA
+  csphone: (800) 747-2537
+  email: customercare@sharebuilder.com
+  finame: ShareBuilder
+  invstmtmsgset: 'true'
+  postalcode: '98005'
+  seclistmsgset: 'true'
+  signonmsgset: 'true'
+  state: WA
+  url: http://www.sharebuilder.com
+url: https://ofx.sharebuilder.com

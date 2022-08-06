@@ -1,0 +1,19 @@
+fid: '252076565'
+name: Point Breeze Credit Union
+ofxfail: '0'
+ofxhome_id: '1323'
+org: DI
+profile:
+  addr1: 11104 McCormick Rd
+  bankmsgset: 'true'
+  city: Hunt Valley
+  country: USA
+  csphone: (410)584-7228
+  email: mail@pbcu.com
+  finame: Point Breeze Credit Union
+  postalcode: '21031'
+  signonmsgset: 'true'
+  state: MD
+  tsphone: (410)584-7228
+  url: www.pbcu.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

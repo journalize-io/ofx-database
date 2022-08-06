@@ -1,0 +1,20 @@
+fid: '18330'
+name: Broward Bank of Commerce
+ofxfail: '0'
+ofxhome_id: '934'
+org: Cavion
+profile:
+  addr1: 101 NE 3rd Ave
+  addr2: Tower 101, Suite 2100
+  bankmsgset: 'true'
+  city: Fort Lauderdale
+  country: USA
+  csphone: 954.761.4900
+  email: customerservice@browardbankofcommerce.co
+  finame: Broward Bank of Commerce
+  postalcode: '33301'
+  signonmsgset: 'true'
+  state: FL
+  tsphone: 954.761.4900
+  url: http://www.browardbankofcommerce.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

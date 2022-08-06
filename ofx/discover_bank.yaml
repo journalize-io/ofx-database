@@ -1,0 +1,18 @@
+fid: '12610'
+name: Discover Bank
+ofxfail: '3'
+ofxhome_id: '726'
+org: Discover Bank
+profile:
+  addr1: 2500 Lake Cook Road
+  bankmsgset: 'true'
+  city: Riverwoods
+  country: USA
+  csphone: 1-800-DISCOVER
+  email: websupport@discoverbank.com
+  postalcode: '60015'
+  signonmsgset: 'true'
+  state: IL
+  tsphone: 1-800-DISCOVER
+  url: https://www.discover.com
+url: https://ofx.discovercard.com

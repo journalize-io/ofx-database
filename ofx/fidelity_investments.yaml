@@ -1,0 +1,23 @@
+brokerid: fidelity.com
+fid: '7776'
+name: Fidelity Investments
+ofxfail: '0'
+ofxhome_id: '449'
+org: fidelity.com
+profile:
+  addr1: Fidelity Brokerage Services, Inc
+  addr2: 82 Devonshire Street
+  bankmsgset: 'true'
+  city: Boston
+  country: USA
+  csphone: 1-800-544-7931
+  finame: Fidelity Distributors Corp.
+  invstmtmsgset: 'true'
+  notes: Set username to your fidelity Customer ID Automatically imports 3 months
+    of transactions
+  postalcode: '2109'
+  seclistmsgset: 'true'
+  signonmsgset: 'true'
+  state: MA
+  url: http://www.fidelity.com
+url: https://ofx.fidelity.com/ftgw/OFX/clients/download

@@ -1,0 +1,19 @@
+fid: '211370998'
+name: Athol Savings Bank DC Quicken
+ofxfail: '0'
+ofxhome_id: '874'
+org: DI
+profile:
+  addr1: 444 Main St
+  bankmsgset: 'true'
+  city: Athol
+  country: US
+  csphone: 978-249-3200
+  email: info@atholsb.com
+  finame: Athol Savings Bank DC Quicken
+  postalcode: 01331-1819
+  signonmsgset: 'true'
+  state: MA
+  tsphone: 978-249-3200
+  url: www.atholsb.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

@@ -1,0 +1,21 @@
+fid: '13774'
+name: Fifth Third Bank
+ofxfail: '3'
+ofxhome_id: '1075'
+org: Fifth Third Bank
+profile:
+  addr1: Madisonville Operations Center
+  addr2: MD 1MOC3A
+  city: Cincinnati
+  country: USA
+  csphone: 800-972-3030
+  email: 53_GeneralInquiries@53.com
+  finame: Fifth Third Bank
+  invstmtmsgset: 'true'
+  postalcode: '45263'
+  seclistmsgset: 'true'
+  signonmsgset: 'true'
+  state: OH
+  tsphone: 800-972-3030
+  url: http://www.53.com/
+url: https://trust-ofx.53.com/eftxweb/access.ofx

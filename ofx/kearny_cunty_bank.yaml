@@ -1,0 +1,20 @@
+fid: '101106625'
+name: Kearny Cunty Bank
+ofxfail: '0'
+ofxhome_id: '1195'
+org: DI
+profile:
+  addr1: 211 N Main Street
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Lakin
+  country: USA
+  csphone: 620-355-6222
+  email: kcblarkin@kearnycountybank.com
+  finame: Kearny Cunty Bank
+  postalcode: '67860'
+  signonmsgset: 'true'
+  state: KS
+  tsphone: 620-355-6222
+  url: www.kearnycountybank.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

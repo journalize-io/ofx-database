@@ -1,0 +1,19 @@
+fid: '8287'
+name: First Merchants
+ofxfail: '0'
+ofxhome_id: '1091'
+org: bib101092
+profile:
+  addr1: 9301 Innovation Dr
+  addr2: Suite 200
+  bankmsgset: 'true'
+  city: Daleville
+  country: USA
+  csphone: 866-833-0050
+  email: businesssolutions@firstmerchants.com
+  finame: First Merchants
+  postalcode: '47334'
+  signonmsgset: 'true'
+  state: IN
+  url: www.firstmerchants.com
+url: https://pfm.metavante.com/ofx/OFXServlet

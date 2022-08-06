@@ -1,0 +1,22 @@
+fid: IFCUFL
+name: Innovations FCU
+ofxfail: '0'
+ofxhome_id: '1526'
+org: FundsXpress
+profile:
+  addr1: P.O. Box 15529
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Panama City
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 24 X 7 Internet Banking Customer
+  email: support@innovationsfcu.org
+  emailmsgset: 'true'
+  finame: Innovations FCU
+  postalcode: '32406'
+  signonmsgset: 'true'
+  state: FL
+  tsphone: 24 X 7 Internet Banking Customer
+  url: http://www.innovationsfcu.org
+url: https://ofx.fundsxpress.com/piles/ofx.pile/

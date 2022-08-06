@@ -1,0 +1,19 @@
+fid: '51036'
+name: DuPont Goodrich FCU
+ofxfail: '0'
+ofxhome_id: '1046'
+org: Cavion
+profile:
+  addr1: P.O. Box 12899
+  bankmsgset: 'true'
+  city: Beaumont
+  country: USA
+  csphone: '4098993430'
+  email: dugood@dugood.org
+  finame: DuPont Goodrich FCU
+  postalcode: '77726'
+  signonmsgset: 'true'
+  state: TX
+  tsphone: '4098993430'
+  url: www.dugood.org
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

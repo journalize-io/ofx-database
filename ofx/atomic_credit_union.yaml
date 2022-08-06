@@ -1,0 +1,19 @@
+fid: '59379'
+name: Atomic Credit Union
+ofxfail: '0'
+ofxhome_id: '878'
+org: Cavion
+profile:
+  addr1: 711 Beaver Creek Rd
+  bankmsgset: 'true'
+  city: Piketon
+  country: USA
+  csphone: '8006522328'
+  email: info@2mycu.com
+  finame: Atomic Credit Union
+  postalcode: '45661'
+  signonmsgset: 'true'
+  state: OH
+  tsphone: '8006522328'
+  url: www.2mycu.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

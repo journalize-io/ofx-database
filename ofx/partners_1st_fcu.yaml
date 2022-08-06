@@ -1,0 +1,19 @@
+fid: '16465'
+name: Partners 1st FCU
+ofxfail: '0'
+ofxhome_id: '1305'
+org: Partners 1st FCU
+profile:
+  addr1: 1330 Directors Row
+  bankmsgset: 'true'
+  city: Fort Wayne
+  country: USA
+  csphone: 260-471-8336
+  email: partners1st@partners1stcu.org
+  finame: Partners 1st FCU
+  postalcode: '46808'
+  signonmsgset: 'true'
+  state: IN
+  tsphone: 260-471-8336
+  url: https://www.partners1stcu.org
+url: https://m.partners1stcu.org/OFX/OFXServer.aspx

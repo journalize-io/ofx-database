@@ -1,0 +1,19 @@
+fid: '53409'
+name: First Illinois CU
+ofxfail: '0'
+ofxhome_id: '1089'
+org: Cavion
+profile:
+  addr1: 323 N. Gilbert Street
+  bankmsgset: 'true'
+  city: Danville
+  country: USA
+  csphone: '2174462125'
+  email: ask@1stillinoiscu.org
+  finame: First Illinois CU
+  postalcode: '61832'
+  signonmsgset: 'true'
+  state: IL
+  tsphone: '2174462125'
+  url: http://www.1stillinoiscu.org/
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

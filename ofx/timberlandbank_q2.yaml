@@ -1,0 +1,16 @@
+fid: '10198'
+name: TimberlandBank Q2
+ofxfail: '3'
+ofxhome_id: '1456'
+org: Q2 Software
+profile:
+  addr1: 624 Simpson Avenue
+  bankmsgset: 'true'
+  city: Hoquiam
+  country: USA
+  finame: TimberlandBank Q2
+  postalcode: '98550'
+  signonmsgset: 'true'
+  state: WA
+  url: https://tbonlinebanking.com/3344_directconnect/ofx.ashx
+url: https://tbonlinebanking.com/3344_directconnect/ofx.ashx

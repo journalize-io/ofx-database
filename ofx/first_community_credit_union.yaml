@@ -1,0 +1,20 @@
+fid: '281081877'
+name: First Community Credit Union
+ofxfail: '0'
+ofxhome_id: '1084'
+org: DI
+profile:
+  addr1: 17151 Chesterfield Airport Road
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Chesterfield
+  country: US
+  csphone: 800-767-8880 x1372
+  email: support@firstcommunity.com
+  finame: First Community Credit Union
+  postalcode: '63005'
+  signonmsgset: 'true'
+  state: MO
+  tsphone: 800-767-8880 x1372
+  url: www.firstcommunity.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

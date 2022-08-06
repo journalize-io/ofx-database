@@ -1,0 +1,22 @@
+fid: '5504'
+name: LibertyvilleBank
+ofxfail: '0'
+ofxhome_id: '1221'
+org: '158'
+profile:
+  addr1: 507 N. Milwaukee Ave
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Libertyville
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 866-564-7330
+  email: customer_service@libertyville.com
+  emailmsgset: 'true'
+  finame: LibertyvilleBank
+  interxfermsgset: 'true'
+  postalcode: '60048'
+  signonmsgset: 'true'
+  state: IL
+  url: http://www.libertyvillebank.com
+url: https://pfm.metavante.com/ofx/OFXServlet

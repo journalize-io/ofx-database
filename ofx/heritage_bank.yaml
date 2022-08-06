@@ -1,0 +1,19 @@
+fid: '325170835'
+name: Heritage Bank
+ofxfail: '3'
+ofxhome_id: '1159'
+org: DI
+profile:
+  addr1: 201 5th Avenue SW
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Olympia
+  country: USA
+  csphone: 360-9431500
+  email: '2'
+  finame: Heritage Bank
+  postalcode: '98501'
+  signonmsgset: 'true'
+  state: WA
+  url: www.heritagebankwaonline2.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

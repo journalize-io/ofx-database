@@ -1,0 +1,19 @@
+fid: '50688'
+name: Partners 1st Federal Credit Union
+ofxfail: '0'
+ofxhome_id: '1528'
+org: Cavion
+profile:
+  addr1: 1330 Directors ROW
+  bankmsgset: 'true'
+  city: Fort Wayne
+  country: USA
+  csphone: '2194718336'
+  email: cbienz@partners1stcu.org
+  finame: Partners 1st Federal Credit Union
+  postalcode: '46808'
+  signonmsgset: 'true'
+  state: IN
+  tsphone: '2194718336'
+  url: www.partners1stcu.org
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

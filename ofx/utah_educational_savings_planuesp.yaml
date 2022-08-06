@@ -1,0 +1,20 @@
+brokerid: UHEAAUESP
+fid: '1'
+name: Utah Educational Savings Plan-UESP
+ofxfail: '3'
+ofxhome_id: '1534'
+org: UHEAAUESP
+profile:
+  addr1: PO Box 145100
+  city: Salt Lake City
+  country: USA
+  csphone: 800.418.2551
+  email: info@uesp.org
+  finame: Utah Educational Savings Plan
+  invstmtmsgset: 'true'
+  postalcode: '84114'
+  signonmsgset: 'true'
+  state: UT
+  tsphone: 800.418.2551
+  url: http://www.uesp.org
+url: https://ofx.my529.org/ofx.ashx

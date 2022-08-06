@@ -1,0 +1,7 @@
+fid: '122041235'
+name: BBCN Bank - Direct Connect
+ofxfail: '0'
+ofxhome_id: '916'
+org: MEightSixtyFive
+profile: {}
+url: https://ofx1.evault.ws/ofxserver/ofxsrvr.dll

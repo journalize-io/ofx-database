@@ -1,0 +1,19 @@
+fid: '107001012'
+name: Los Alamos National Bank
+ofxfail: '3'
+ofxhome_id: '476'
+org: LANB
+profile:
+  addr1: 1200 Trinity Drive
+  bankmsgset: 'true'
+  city: Los Alamos
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: '5056625171'
+  email: lanb@lanb.com
+  postalcode: '87544'
+  signonmsgset: 'true'
+  state: NM
+  tsphone: '5056620239'
+  url: WWW.LANB.COM
+url: https://ofx.lanb.com/ofx/ofxrelay.dll

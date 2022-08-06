@@ -1,0 +1,7 @@
+fid: '7213'
+name: Bank of Commerce Charlotte NC- DC
+ofxfail: '0'
+ofxhome_id: '888'
+org: fis-7213
+profile: {}
+url: https://pfm.metavante.com/ofx/OFXServlet

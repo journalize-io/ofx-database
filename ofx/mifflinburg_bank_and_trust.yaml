@@ -1,0 +1,19 @@
+fid: 031309686
+name: Mifflinburg Bank and Trust
+ofxfail: '0'
+ofxhome_id: '1251'
+org: DI
+profile:
+  addr1: 250 East Chestnut Street
+  bankmsgset: 'true'
+  city: Mifflinburg
+  country: USA
+  csphone: (570)966-1041
+  email: achdept@miffbank.com
+  finame: Mifflinburg Bank and Trust
+  postalcode: '17844'
+  signonmsgset: 'true'
+  state: PA
+  tsphone: (570)966-1041
+  url: www.mbtc.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

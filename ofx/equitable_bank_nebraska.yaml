@@ -1,0 +1,19 @@
+fid: '19971'
+name: Equitable Bank, Nebraska
+ofxfail: '0'
+ofxhome_id: '1065'
+org: Cavion
+profile:
+  addr1: 113 North Locust St
+  bankmsgset: 'true'
+  city: Grand Island
+  country: USA
+  csphone: '18006415046'
+  email: support@equitableonline.com
+  finame: Equitable Bank, Nebraska
+  postalcode: '68801'
+  signonmsgset: 'true'
+  state: NE
+  tsphone: '18006415046'
+  url: http://wwwequitableonline.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

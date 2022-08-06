@@ -1,0 +1,21 @@
+brokerid: etrade.com
+fid: fldProv_mProvBankId
+name: E*TRADE
+ofxfail: '1'
+ofxhome_id: '446'
+org: fldProv_mId
+profile:
+  addr1: 4500 Bohannon Drive
+  city: Menlo Park
+  country: USA
+  csphone: 1-800-786-2575
+  email: service@etrade.com
+  finame: E*TRADE Financial
+  invstmtmsgset: 'true'
+  postalcode: '94025'
+  seclistmsgset: 'true'
+  signonmsgset: 'true'
+  state: CA
+  tsphone: 1-800-786-2575
+  url: http://www.etrade.com
+url: https://ofx.etrade.com/cgi-ofx/etradeofx

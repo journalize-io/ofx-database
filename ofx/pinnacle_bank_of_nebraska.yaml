@@ -1,0 +1,18 @@
+fid: '104913912'
+name: Pinnacle Bank of Nebraska
+ofxfail: '0'
+ofxhome_id: '835'
+org: PinnacleBankNebraska
+profile:
+  addr1: 1401 N Street
+  bankmsgset: 'true'
+  city: Lincoln
+  country: USA
+  csphone: 800-227-7715
+  email: customerservice@pinnbank.com
+  finame: Pinnacle Bank of Nebraska QN DC
+  postalcode: '68508'
+  signonmsgset: 'true'
+  state: NE
+  url: https://ofx.secureinternetbank.com/OFXServer/ofxsrvr.dll
+url: https://ofx.secureinternetbank.com/OFXServer/ofxsrvr.dll

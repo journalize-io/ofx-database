@@ -1,0 +1,7 @@
+fid: '221276011'
+name: United Teletech Financial
+ofxfail: '1'
+ofxhome_id: '470'
+org: DI
+profile: {}
+url: https://ofxcore.digitalinsight.com:443/servlet/OFXCoreServlet

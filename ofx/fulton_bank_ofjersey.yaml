@@ -1,0 +1,20 @@
+fid: '031207636'
+name: Fulton Bank ofJersey
+ofxfail: '3'
+ofxhome_id: '1126'
+org: DI
+profile:
+  addr1: 1100 Old Broadway
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Woodbury
+  country: USA
+  csphone: 1-855-900-3265
+  email: customerservice@fultonbanknj.com
+  finame: Fulton Bank of New Jersey
+  postalcode: 08096
+  signonmsgset: 'true'
+  state: NJ
+  tsphone: 1-855-900-3265
+  url: www.fultonbanknj.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

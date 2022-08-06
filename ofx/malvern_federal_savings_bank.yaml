@@ -1,0 +1,19 @@
+fid: '231373179'
+name: Malvern Federal Savings Bank
+ofxfail: '0'
+ofxhome_id: '1229'
+org: DI
+profile:
+  addr1: 42 E. Lancaster Ave.
+  bankmsgset: 'true'
+  city: Paoli
+  country: USA
+  csphone: 610-695-3632
+  email: kroyer@malvernfederal.com
+  finame: Malvern Federal Savings Bank
+  postalcode: 19301-1420
+  signonmsgset: 'true'
+  state: PA
+  tsphone: 610-695-3632
+  url: www.malvernfederal.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

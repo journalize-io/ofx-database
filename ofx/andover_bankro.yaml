@@ -1,0 +1,18 @@
+fid: 041208719
+name: Andover Bank-RO
+ofxfail: '0'
+ofxhome_id: '867'
+org: PZeroFiveEight
+profile:
+  addr1: 19 Public Square
+  bankmsgset: 'true'
+  city: Andover
+  country: USA
+  csphone: 440-293-7605
+  email: noreply@andoverbankohio.com
+  finame: Andover Bank-RO
+  postalcode: '44003'
+  signonmsgset: 'true'
+  state: OH
+  url: www.andoverbankohio.com
+url: https://ofx.secureinternetbank.com/ofxserver/ofxsrvr.dll

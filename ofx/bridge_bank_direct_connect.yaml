@@ -1,0 +1,21 @@
+fid: '5547'
+name: Bridge Bank Direct Connect
+ofxfail: '0'
+ofxhome_id: '931'
+org: '681'
+profile:
+  addr1: 55 Almaden Blvd
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: San Jose
+  country: USA
+  csphone: 408-556-8355
+  email: ebanking@bridgebank.com
+  emailmsgset: 'true'
+  finame: Bridge Bank Direct Connect
+  interxfermsgset: 'true'
+  postalcode: '95113'
+  signonmsgset: 'true'
+  state: CA
+  url: http://www.bridgebank.com
+url: https://pfm.metavante.com/ofx/OFXServlet

@@ -1,0 +1,19 @@
+fid: '2400'
+name: Rumson-Fair Haven Bank
+ofxfail: '0'
+ofxhome_id: '1354'
+org: Cavion
+profile:
+  addr1: 20 Bingham Avenue
+  bankmsgset: 'true'
+  city: Rumson
+  country: USA
+  csphone: '7329334445'
+  email: asmith@rfhbank.com
+  finame: Rumson-Fair Haven Bank
+  postalcode: '07760'
+  signonmsgset: 'true'
+  state: NJ
+  tsphone: '7329334445'
+  url: http://www.rfhbank.com/
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

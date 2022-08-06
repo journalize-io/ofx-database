@@ -1,0 +1,19 @@
+fid: '4464'
+name: Arkansas Best FCU
+ofxfail: '0'
+ofxhome_id: '871'
+org: Cavion
+profile:
+  addr1: PO BOX 17020
+  bankmsgset: 'true'
+  city: Fort Smith
+  country: USA
+  csphone: 479-649-2060
+  email: comments@abfcu.org
+  finame: Arkansas Best FCU
+  postalcode: '72917'
+  signonmsgset: 'true'
+  state: AR
+  tsphone: 479-649-2060
+  url: www.abfcu.org
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

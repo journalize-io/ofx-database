@@ -1,0 +1,22 @@
+fid: CBTGAL
+name: Citizens Bank and Trust
+ofxfail: '0'
+ofxhome_id: '990'
+org: FundsXpress
+profile:
+  addr1: PO Box 250
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Guntersville
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 256-505-4600
+  email: customersupport@citizensbanktrust.com
+  emailmsgset: 'true'
+  finame: Citizens Bank and Trust
+  postalcode: '35976'
+  signonmsgset: 'true'
+  state: AL
+  tsphone: 256-505-4600
+  url: http://www.citizensbanktrust.com/
+url: https://ofx.fundsxpress.com/piles/ofx.pile/

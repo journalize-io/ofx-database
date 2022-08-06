@@ -1,0 +1,19 @@
+fid: '254074785'
+name: FedChoice FCU
+ofxfail: '1'
+ofxhome_id: '688'
+org: FEDCHOICE
+profile:
+  addr1: 10001 Willowdale Rd.
+  bankmsgset: 'true'
+  city: Lanham
+  country: USA
+  csphone: 301 699 6151
+  email: financialadvisorycenter@fedchoice.org
+  finame: FedChoice Federal Credit Union
+  postalcode: '20706'
+  signonmsgset: 'true'
+  state: MD
+  tsphone: 301 699 6900
+  url: www.fedchoice.org
+url: https://ofx.fedchoice.org/ofxserver/ofxsrvr.dll

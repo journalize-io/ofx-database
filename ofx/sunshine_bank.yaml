@@ -1,0 +1,18 @@
+fid: '263185018'
+name: Sunshine Bank
+ofxfail: '1'
+ofxhome_id: '1410'
+org: 015G
+profile:
+  addr1: 102 WEST BAKER STREET
+  bankmsgset: 'true'
+  city: Plant City
+  country: USA
+  csphone: 813-752-6193
+  email: customerservice@sunshinestatefederal.com
+  finame: Sunshine Bank
+  postalcode: '33563'
+  signonmsgset: 'true'
+  state: FL
+  url: www.mysunshinebank.com
+url: https://ofx1.evault.ws/OFXServer/ofxsrvr.dll

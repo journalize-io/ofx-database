@@ -1,0 +1,20 @@
+fid: '35211'
+name: Fortress
+ofxfail: '0'
+ofxhome_id: '1106'
+org: Cavion
+profile:
+  addr1: 128 East Main St
+  addr2: PO Box 507
+  bankmsgset: 'true'
+  city: LA Harpe
+  country: USA
+  csphone: '8666597776'
+  email: internetbanking@bankfortress.com
+  finame: Fortress
+  postalcode: '61450'
+  signonmsgset: 'true'
+  state: IL
+  tsphone: '8666597776'
+  url: http://www.firststateil.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

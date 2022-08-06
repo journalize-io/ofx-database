@@ -1,0 +1,7 @@
+fid: CTZBK
+name: Citizens Bank - Consumer
+ofxfail: '0'
+ofxhome_id: '527'
+org: CheckFree OFX
+profile: {}
+url: https://www.oasis.cfree.com/0CTZBK.ofxgp

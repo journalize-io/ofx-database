@@ -1,0 +1,19 @@
+fid: '54084'
+name: Valley Bank and Trust
+ofxfail: '0'
+ofxhome_id: '1489'
+org: Cavion
+profile:
+  addr1: 1425 10th Street
+  bankmsgset: 'true'
+  city: Gering
+  country: USA
+  csphone: '8004168281'
+  email: customerserve@valleybankne.com
+  finame: Valley Bank and Trust
+  postalcode: '69341'
+  signonmsgset: 'true'
+  state: NE
+  tsphone: '8004168281'
+  url: http://www.valleybankne.com/
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

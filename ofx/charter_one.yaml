@@ -1,0 +1,18 @@
+fid: '4669'
+name: Charter One
+ofxfail: '0'
+ofxhome_id: '982'
+org: FiServ CheckFree
+profile:
+  addr1: One Citizens Plaza
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Providence
+  country: USA
+  emailmsgset: 'true'
+  finame: Charter One
+  postalcode: 02903
+  signonmsgset: 'true'
+  state: RI
+  url: http://www.charterone.com
+url: https://www.oasis.cfree.com/fip/genesis/prod/04669.ofx

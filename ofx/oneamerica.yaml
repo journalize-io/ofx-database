@@ -1,0 +1,22 @@
+brokerid: oneamerica.com
+fid: '4620'
+name: OneAmerica
+ofxfail: '0'
+ofxhome_id: '1292'
+org: oneamerica.com
+profile:
+  addr1: One America Square
+  addr2: P.O. Box 368
+  city: Indianapolis
+  country: USA
+  csphone: 1-800-249-6269
+  email: Retirement.Services@oneamerica.c
+  finame: OneAmerica
+  invstmtmsgset: 'true'
+  postalcode: '46206'
+  seclistmsgset: 'true'
+  signonmsgset: 'true'
+  state: IN
+  tsphone: 1-800-249-6269
+  url: www.oneamerica.com
+url: https://ofx.oneamerica.com/eftxweb/access.ofx

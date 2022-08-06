@@ -1,0 +1,24 @@
+fid: '5959'
+name: Bank of America - access.ofx
+ofxfail: '0'
+ofxhome_id: '790'
+org: HAN
+profile:
+  addr1: Interactive Banking
+  addr2: TX1-854-06-12
+  addr3: P.O. Box 655961
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Dallas
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: (800) 933-6262
+  email: '-'
+  emailmsgset: 'true'
+  finame: Bank of America
+  postalcode: 75265-9964
+  signonmsgset: 'true'
+  state: TX
+  tsphone: (800) 933-6262
+  url: http://www.bankofamerica.com
+url: https://eftx.bankofamerica.com/eftxweb/access.ofx

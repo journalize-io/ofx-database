@@ -1,0 +1,19 @@
+fid: '9421'
+name: City County Credit Union
+ofxfail: '0'
+ofxhome_id: '996'
+org: Connect
+profile:
+  addr1: 144 11th Street East
+  bankmsgset: 'true'
+  city: St. Paul
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: (651) 225-2700
+  email: info@cccu.com
+  finame: City County Credit Union
+  postalcode: 55101-2380
+  signonmsgset: 'true'
+  state: MN
+  url: https://www.cccu.com
+url: https://pcfirst.cccu.com/PCFirstofx/ofxrqst.aspx

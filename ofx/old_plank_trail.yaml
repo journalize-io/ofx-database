@@ -1,0 +1,22 @@
+fid: '5500'
+name: Old Plank Trail
+ofxfail: '0'
+ofxhome_id: '1288'
+org: '924'
+profile:
+  addr1: 352 Maple Street
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: New Lenox
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 877-810-2324
+  email: customer_service@oldplanktrailbank.com
+  emailmsgset: 'true'
+  finame: Old Plank Trail
+  interxfermsgset: 'true'
+  postalcode: '60451'
+  signonmsgset: 'true'
+  state: IL
+  url: http://www.oldplanktrailbank.com
+url: https://pfm.metavante.com/ofx/OFXServlet

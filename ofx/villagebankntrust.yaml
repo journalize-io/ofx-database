@@ -1,0 +1,22 @@
+fid: '5512'
+name: VillageBankNTrust
+ofxfail: '0'
+ofxhome_id: '1495'
+org: '629'
+profile:
+  addr1: 234 West Northwest Highway
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Arlington Heights
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 877-650-9907
+  email: info@bankatvillage.com
+  emailmsgset: 'true'
+  finame: VillageBankNTrust
+  interxfermsgset: 'true'
+  postalcode: '60004'
+  signonmsgset: 'true'
+  state: IL
+  url: http://www.bankatvillage.com
+url: https://pfm.metavante.com/ofx/OFXServlet

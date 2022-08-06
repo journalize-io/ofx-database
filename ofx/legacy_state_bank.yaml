@@ -1,0 +1,18 @@
+fid: '7458'
+name: LEGACY STATE BANK
+ofxfail: '0'
+ofxhome_id: '1218'
+org: mfis-7458
+profile:
+  addr1: 3825 Harrison Road
+  bankmsgset: 'true'
+  city: Loganville
+  country: USA
+  csphone: 877-203-6717
+  email: legacystatebank@billsupport.com
+  finame: LEGACY STATE BANK
+  postalcode: '30052'
+  signonmsgset: 'true'
+  state: GA
+  url: www.legacystatebank.com
+url: https://pfm.metavante.com/ofx/OFXServlet

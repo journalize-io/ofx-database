@@ -1,0 +1,19 @@
+fid: 122287251N
+name: NetBank
+ofxfail: '0'
+ofxhome_id: '1266'
+org: Intuit Financial Services
+profile:
+  addr1: 12777 High Bluff Dr, Ste.100
+  bankmsgset: 'true'
+  city: San Diego
+  country: USA
+  csphone: 866-759-7661
+  email: customerservice@netbank.com
+  finame: NetBank
+  postalcode: '92130'
+  signonmsgset: 'true'
+  state: CA
+  tsphone: 866-759-7661
+  url: www.NetBankOnlineBanking.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

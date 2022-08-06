@@ -1,0 +1,22 @@
+fid: '63399'
+name: Central Bank
+ofxfail: '1'
+ofxhome_id: '965'
+org: CNETCB
+profile:
+  addr1: 300 West Vine Street
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Lexington
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 800-637-6884
+  email: centralnet@centralbank.com
+  emailmsgset: 'true'
+  finame: Central Bank
+  postalcode: '40507'
+  signonmsgset: 'true'
+  state: KY
+  tsphone: 800-637-6884
+  url: https://www.centralbank.com
+url: https://cnetcb.centralbank.com/ofx/ofx.ofx

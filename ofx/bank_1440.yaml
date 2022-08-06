@@ -1,0 +1,21 @@
+fid: '122106251'
+name: Bank 1440
+ofxfail: '0'
+ofxhome_id: '883'
+org: DI
+profile:
+  addr1: 14155 North 83rd Avenue
+  addr2: Suite 117
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Peoria
+  country: USA
+  csphone: 623-463-1440
+  email: ebanking@bank1440.com
+  finame: Bank 1440
+  postalcode: '85381'
+  signonmsgset: 'true'
+  state: AZ
+  tsphone: 623-463-1440
+  url: www.bank1440online.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

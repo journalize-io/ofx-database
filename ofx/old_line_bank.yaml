@@ -1,0 +1,22 @@
+fid: DCBDMD
+name: Old Line Bank
+ofxfail: '3'
+ofxhome_id: '1036'
+org: FundsXpress
+profile:
+  addr1: 26500 Ridge Road
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Damascus
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 301-368-9105
+  email: pcbanking@OldLineBank.com
+  emailmsgset: 'true'
+  finame: Old Line Bank
+  postalcode: '20872'
+  signonmsgset: 'true'
+  state: MD
+  tsphone: 301-368-9105
+  url: http://www.OldLineBank.com
+url: https://ofx.fundsxpress.com/piles/ofx.pile/

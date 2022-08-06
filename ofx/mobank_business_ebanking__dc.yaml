@@ -1,0 +1,7 @@
+fid: '8243'
+name: MoBank Business eBanking - DC
+ofxfail: '0'
+ofxhome_id: '1255'
+org: bib100826
+profile: {}
+url: https://pfm.metavante.com/ofx/OFXServlet

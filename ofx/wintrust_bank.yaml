@@ -1,0 +1,22 @@
+fid: '5509'
+name: Wintrust Bank
+ofxfail: '0'
+ofxhome_id: '1272'
+org: '380'
+profile:
+  addr1: 1145 Wilmette Avenue
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Wilmette
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 877-650-9905
+  email: customer_service@wintrustbank.com
+  emailmsgset: 'true'
+  finame: Wintrust Bank
+  interxfermsgset: 'true'
+  postalcode: '60091'
+  signonmsgset: 'true'
+  state: IL
+  url: www.wintrustbank.com
+url: https://pfm.metavante.com/ofx/OFXServlet

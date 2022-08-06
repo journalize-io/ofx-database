@@ -1,0 +1,19 @@
+fid: '322270770'
+name: EdwardsFederalCreditUnion
+ofxfail: '3'
+ofxhome_id: '1054'
+org: DI
+profile:
+  addr1: 10SouthMuroc
+  bankmsgset: 'true'
+  city: Edwards
+  country: USA
+  csphone: 661-952-5945
+  email: ememberservice@edwardsfcu.org
+  finame: EdwardsFederalCreditUnion
+  postalcode: '93524'
+  signonmsgset: 'true'
+  state: CA
+  tsphone: 661-952-5945
+  url: www.edwardsfcu.org
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

@@ -1,0 +1,19 @@
+fid: '16471'
+name: Live Oak - QA
+ofxfail: '0'
+ofxhome_id: '1222'
+org: Live Oak Bank
+profile:
+  addr1: 1741 Tiburon Dr
+  bankmsgset: 'true'
+  city: Wilmington
+  country: USA
+  csphone: 910.777.5738
+  email: support@liveoakbank.com
+  finame: Live Oak - QA
+  postalcode: '28403'
+  signonmsgset: 'true'
+  state: NC
+  tsphone: 910.777.5738
+  url: liveoakbank.com
+url: https://fs-services.1fsapi.com/eftxweb/liveoak.ofx

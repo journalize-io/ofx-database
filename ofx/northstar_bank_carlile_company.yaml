@@ -1,0 +1,19 @@
+fid: '111904817'
+name: Northstar Bank Carlile Company
+ofxfail: '0'
+ofxhome_id: '1274'
+org: MEightZeroFive
+profile:
+  addr1: 400 N Carroll Blvd
+  bankmsgset: 'true'
+  city: Denton
+  country: USA
+  csphone: (940) 565-5177
+  email: noreply@nstarbank.com
+  finame: Northstar Bank Carlile Company
+  postalcode: '76201'
+  signonmsgset: 'true'
+  state: TX
+  tsphone: (940) 383-6233
+  url: http://www.nstarbank.com
+url: https://ofx1.evault.ws/OFXServer/ofxsrvr.dll

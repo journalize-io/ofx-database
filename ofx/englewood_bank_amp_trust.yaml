@@ -1,0 +1,22 @@
+fid: EBEFL
+name: Englewood Bank &amp; Trust
+ofxfail: '0'
+ofxhome_id: '1061'
+org: '067013247'
+profile:
+  addr1: 1111 S McCall Road
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Englewood
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 941-475-6771
+  email: customerservice@ebtfl.com
+  emailmsgset: 'true'
+  finame: Englewood Bank & Trust
+  postalcode: '34223'
+  signonmsgset: 'true'
+  state: FL
+  tsphone: 941-475-6771
+  url: http://www.englewoodbankandtrust.com
+url: https://ofx.fundsxpress.com/piles/ofx.pile/

@@ -1,0 +1,22 @@
+fid: '1001'
+name: UW Credit Union
+ofxfail: '1'
+ofxhome_id: '638'
+org: UWCU
+profile:
+  addr1: 3500 University Avenue
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Madison
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 800-533-6773
+  email: contactus@uwcu.org
+  emailmsgset: 'true'
+  finame: UW Credit Union
+  postalcode: '53744'
+  signonmsgset: 'true'
+  state: WI
+  tsphone: 505-237-3725
+  url: http://www.uwcu.org/
+url: https://ofx.uwcu.org/serverext.dll

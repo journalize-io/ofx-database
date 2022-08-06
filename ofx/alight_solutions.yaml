@@ -1,0 +1,22 @@
+fid: '242'
+name: Alight Solutions
+ofxfail: '0'
+ofxhome_id: '1536'
+org: alight.com
+profile:
+  addr1: 100 Half Day Road
+  addr2: NONE
+  addr3: NONE
+  city: Lincolnshire
+  country: USA
+  csphone: YOUR 401(K) PLAN
+  email: '2'
+  finame: Hewitt Associates
+  invstmtmsgset: 'true'
+  postalcode: '60069'
+  seclistmsgset: 'true'
+  signonmsgset: 'true'
+  state: IL
+  tsphone: YOUR 401(K) PLAN
+  url: www.hewitt.com
+url: https://seven.was.alight.com/eftxweb/access.ofx

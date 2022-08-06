@@ -1,0 +1,20 @@
+fid: '762'
+name: Central Bank St Louis - Business
+ofxfail: '3'
+ofxhome_id: '839'
+org: 081004601
+profile:
+  addr1: 7707 Forsyth Boulevard
+  bankmsgset: 'true'
+  city: Clayton
+  country: USA
+  csphone: 866-777-8501
+  email: twilla_duvall@centralbank.net
+  emailmsgset: 'true'
+  finame: Central Bank St Louis - Business
+  postalcode: '63105'
+  signonmsgset: 'true'
+  state: MO
+  tsphone: 866-777-8501
+  url: https://www.centralbankstl.net/
+url: https://ofx.centralbancompany.com/ofxserver/ofxsrvr.dll

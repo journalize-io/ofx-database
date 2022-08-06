@@ -1,0 +1,22 @@
+fid: SSNBLOH
+name: Standing Stone Bank
+ofxfail: '3'
+ofxhome_id: '1393'
+org: FundsXpress, Inc
+profile:
+  addr1: P.O. Box 2610
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Lancaster
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: (740)653-5115
+  email: ibinfo@standingstonebank.com
+  emailmsgset: 'true'
+  finame: Standing Stone Bank
+  postalcode: '43130'
+  signonmsgset: 'true'
+  state: OH
+  tsphone: (740)653-5115
+  url: http://www.standingstonebank.com
+url: https://ofx.fundsxpress.com/piles/ofx.pile/

@@ -1,0 +1,17 @@
+fid: '36531'
+name: The State Bank of Table Rock
+ofxfail: '0'
+ofxhome_id: '1400'
+org: State Bank of Table Rock
+profile:
+  addr1: 402 Houston Street
+  bankmsgset: 'true'
+  city: Table Rock
+  country: USA
+  email: bankmail@tablerockbank.com
+  finame: The State Bank of Table Rock
+  postalcode: '68447'
+  signonmsgset: 'true'
+  state: NE
+  url: https://onlinebanking.tablerockbank.com/
+url: https://onlinebanking.tablerockbank.com/pages/olb.ofx.1_0_3.axd

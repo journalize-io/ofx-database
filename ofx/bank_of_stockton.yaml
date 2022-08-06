@@ -1,0 +1,7 @@
+fid: '3901'
+name: Bank of Stockton
+ofxfail: '1'
+ofxhome_id: '429'
+org: BOS
+profile: {}
+url: https://internetbanking.bankofstockton.com/scripts/serverext.dll

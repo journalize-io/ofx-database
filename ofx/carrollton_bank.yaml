@@ -1,0 +1,18 @@
+fid: 081906013
+name: Carrollton Bank
+ofxfail: '0'
+ofxhome_id: '958'
+org: MTwoZeroFour
+profile:
+  addr1: 315 6th street
+  bankmsgset: 'true'
+  city: Carrollton
+  country: USA
+  csphone: 217-942-9106
+  email: noreply@carrolltonbanking.com
+  finame: Carrollton Bank
+  postalcode: '62016'
+  signonmsgset: 'true'
+  state: IL
+  url: carrolltonbanking.com
+url: https://ofx1.evault.ws/ofxserver/ofxsrvr.dll

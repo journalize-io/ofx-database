@@ -1,0 +1,19 @@
+fid: '322172797'
+name: Arizona Federal Credit Union
+ofxfail: '0'
+ofxhome_id: '637'
+org: DI
+profile:
+  addr1: 333 N 44th Street
+  bankmsgset: 'true'
+  city: Phoenix
+  country: USA
+  csphone: 800-523-4603
+  email: member.services@azfcu.org
+  finame: Arizona FCU
+  postalcode: '85008'
+  signonmsgset: 'true'
+  state: AZ
+  tsphone: 800-523-4603
+  url: www.azfcu.org
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

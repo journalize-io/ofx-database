@@ -1,0 +1,20 @@
+fid: '263181779'
+name: Buckeye Community FCU
+ofxfail: '0'
+ofxhome_id: '938'
+org: DI
+profile:
+  addr1: 1825 S. Jefferson St.
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Perry
+  country: USA
+  csphone: 850-223-7100
+  email: directconnect@bcfcu.coop
+  finame: Buckeye Community FCU
+  postalcode: '32348'
+  signonmsgset: 'true'
+  state: FL
+  tsphone: 850-223-7100
+  url: www.bcfcu.coop
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

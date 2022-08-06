@@ -1,0 +1,20 @@
+fid: '251480563'
+name: 1st Advantage FCU
+ofxfail: '1'
+ofxhome_id: '542'
+org: 1st Advantage FCU
+profile:
+  addr1: 12891 Jefferson Avenue
+  bankmsgset: 'true'
+  city: Newport News
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 757-877-2444
+  email: coresystemssupport@1stadvantage.org
+  finame: 1st Advantage Federal Credit Uni
+  postalcode: '23608'
+  signonmsgset: 'true'
+  state: VA
+  tsphone: 757-877-2444
+  url: http://www.1stadvantage.org
+url: https://members.1stadvantage.org/scripts/isaofx.dll

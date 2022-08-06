@@ -1,0 +1,17 @@
+fid: '1000'
+name: CheckFree Direct
+ofxfail: '0'
+ofxhome_id: '984'
+org: ISC
+profile:
+  addr1: 6000 Perimeter Dr.
+  billpaymsgset: 'true'
+  city: Dublin
+  country: USA
+  emailmsgset: 'true'
+  finame: CheckFree Direct
+  postalcode: '43017'
+  signonmsgset: 'true'
+  state: OH
+  url: http://www.checkfree.com/
+url: https://www.oasis.cfree.com/fip/genesis/prod/01000.ofx

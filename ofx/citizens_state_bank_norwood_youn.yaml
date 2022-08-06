@@ -1,0 +1,19 @@
+fid: '27897'
+name: Citizens State Bank Norwood Youn
+ofxfail: '0'
+ofxhome_id: '994'
+org: Cavion
+profile:
+  addr1: 409 Faxon Road
+  bankmsgset: 'true'
+  city: Norwood Young America
+  country: USA
+  csphone: 952-467-3000
+  email: timm@csbnya.com
+  finame: Citizens State Bank Norwood Youn
+  postalcode: '55368'
+  signonmsgset: 'true'
+  state: MN
+  tsphone: 952-467-3000
+  url: http://www.citizensstatebanknya.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

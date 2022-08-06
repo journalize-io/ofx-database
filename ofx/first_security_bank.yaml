@@ -1,0 +1,22 @@
+fid: SZFSBSA
+name: First Security Bank
+ofxfail: '0'
+ofxhome_id: '1103'
+org: FundsXpress, Inc.
+profile:
+  addr1: PO BOX 1009
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Searcy
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 877-611-3118
+  email: onlinebanking@fsbank.com
+  emailmsgset: 'true'
+  finame: First Security Bank
+  postalcode: '721451009'
+  signonmsgset: 'true'
+  state: AR
+  tsphone: 877-611-3118
+  url: http://www.fsbank.com
+url: https://ofx.fundsxpress.com/piles/ofx.pile/

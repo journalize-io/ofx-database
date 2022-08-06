@@ -1,0 +1,18 @@
+fid: 053200983
+name: South Carolina Bank and Trust
+ofxfail: '0'
+ofxhome_id: '755'
+org: MZeroOneZeroSCBT
+profile:
+  addr1: PO BOX 1287
+  bankmsgset: 'true'
+  city: Orangeburg
+  country: USA
+  csphone: 1-877-277-2185
+  email: noreply@scbtonline.com
+  finame: South Carolina Bank & Trust
+  postalcode: '29116'
+  signonmsgset: 'true'
+  state: NC
+  url: http://www.scbtonline.com
+url: https://ofx1.evault.ws/ofxserver/ofxsrvr.dll

@@ -1,0 +1,21 @@
+fid: '11540'
+name: RaboBank America
+ofxfail: '3'
+ofxhome_id: '744'
+org: RBB
+profile:
+  addr1: PO Box 6002
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Arroyo Grande
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 800-959-2399
+  email: ebanking@rabobank.com
+  emailmsgset: 'true'
+  postalcode: '93420'
+  signonmsgset: 'true'
+  state: CA
+  tsphone: 800-959-2399
+  url: http://www.rabobankamerica.com
+url: https://ofx.rabobankamerica.com/ofx/process.ofx

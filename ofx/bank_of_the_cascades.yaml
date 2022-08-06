@@ -1,0 +1,20 @@
+fid: '4751'
+name: Bank of the Cascades
+ofxfail: '3'
+ofxhome_id: '430'
+org: JackHenry
+profile:
+  addr1: PO Box 369
+  addr2: Bend, OR 97709
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: BEND
+  country: USA
+  csphone: (877) 617-3400
+  email: Cust_Srv_Speclst@botc.com
+  postalcode: '977010000'
+  signonmsgset: 'true'
+  state: OR
+  tsphone: 1-877-617-3400
+  url: https://www.botc.com
+url: https://directline.netteller.com

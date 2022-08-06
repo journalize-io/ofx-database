@@ -1,0 +1,22 @@
+fid: '17098'
+name: Hancock Whitney Bank - Retail
+ofxfail: '3'
+ofxhome_id: '1151'
+org: Hancock Whitney Bank
+profile:
+  addr1: 1 Hancock Place
+  addr2: NONE
+  addr3: NONE
+  bankmsgset: 'true'
+  city: Gulfport
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 800-448-8812
+  email: contactservicecenter@hancockwhitney.com
+  finame: Hancock Whitney Bank - Retail
+  postalcode: '39501'
+  signonmsgset: 'true'
+  state: MS
+  tsphone: 800-448-8812
+  url: www.hancockwhitney.com
+url: https://fs-services.1fsapi.com/eftxweb/hancock.ofx

@@ -1,0 +1,22 @@
+fid: '1121'
+name: Nevada State Bank - New
+ofxfail: '0'
+ofxhome_id: '458'
+org: 295-3
+profile:
+  addr1: PO Box 990
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Las Vegas
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 1-888-835-0551
+  email: nsbankpfm@nsbank.com
+  emailmsgset: 'true'
+  interxfermsgset: 'true'
+  postalcode: 89125-0990
+  signonmsgset: 'true'
+  state: NV
+  tsphone: 1-888-835-0551
+  url: http://nsbank.com/contact/index.jsp
+url: https://quicken.metavante.com/ofx/OFXServlet

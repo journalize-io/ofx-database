@@ -1,0 +1,22 @@
+fid: OCBAL
+name: Oakworth Capital Bank
+ofxfail: '0'
+ofxhome_id: '1282'
+org: FundsXpress, Inc.
+profile:
+  addr1: 850 Shades Creek Pkwy
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Birmingham
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 205-263-4700
+  email: support@oakworthcapital.com
+  emailmsgset: 'true'
+  finame: Oakworth Capital Bank
+  postalcode: '35209'
+  signonmsgset: 'true'
+  state: AL
+  tsphone: 205-263-4700
+  url: http://www.oakworth.com
+url: https://ofx.fundsxpress.com/piles/ofx.pile/

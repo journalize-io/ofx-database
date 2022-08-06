@@ -1,0 +1,18 @@
+fid: '12541'
+name: Consumers Credit Union
+ofxfail: '0'
+ofxhome_id: '680'
+org: Consumers Credit Union
+profile:
+  addr1: 7040 Stadium Dr.
+  bankmsgset: 'true'
+  city: Oshtemo
+  country: USA
+  csphone: '2693457804'
+  email: ccu@consumerscu.org
+  postalcode: '49077'
+  signonmsgset: 'true'
+  state: MI
+  tsphone: '2693457804'
+  url: http://www.consumerscu.org
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

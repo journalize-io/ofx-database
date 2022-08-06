@@ -1,0 +1,21 @@
+fid: '2212'
+name: SEI Investments
+ofxfail: '0'
+ofxhome_id: '1366'
+org: SEI
+profile:
+  addr1: 1 Freedom Valley Drive
+  addr2: Oaks
+  city: Oaks
+  country: USA
+  csphone: '6106761000'
+  email: support@seic.com
+  finame: SEI Investments
+  invstmtmsgset: 'true'
+  postalcode: '19456'
+  seclistmsgset: 'true'
+  signonmsgset: 'true'
+  state: PA
+  tsphone: '6106761000'
+  url: www.seic.com
+url: https://p05ofx.gws.seic.com/financial-exchange-auth/quickenOfxRequest

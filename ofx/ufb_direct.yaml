@@ -1,0 +1,19 @@
+fid: 122287251U
+name: UFB Direct
+ofxfail: '3'
+ofxhome_id: '1474'
+org: DI
+profile:
+  addr1: '12777 High Bluff Drive #100'
+  bankmsgset: 'true'
+  city: San Diego
+  country: USA
+  csphone: 877-472-9200
+  email: customerservice@UFBDirect.com
+  finame: UFB Direct
+  postalcode: '92130'
+  signonmsgset: 'true'
+  state: CA
+  tsphone: 877-472-9200
+  url: www.ufbdirect.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

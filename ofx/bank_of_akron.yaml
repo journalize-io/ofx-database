@@ -1,0 +1,19 @@
+fid: '52698'
+name: Bank of Akron
+ofxfail: '0'
+ofxhome_id: '885'
+org: Cavion
+profile:
+  addr1: 46 Main Street
+  bankmsgset: 'true'
+  city: Akron
+  country: USA
+  csphone: 716-542-5401
+  email: bankofakron@bankofakron.com
+  finame: Bank of Akron
+  postalcode: '14001'
+  signonmsgset: 'true'
+  state: NY
+  tsphone: 716-542-5401
+  url: http://www.bankofakron.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

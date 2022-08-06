@@ -1,0 +1,19 @@
+fid: '026014135'
+name: Spring Bank
+ofxfail: '0'
+ofxhome_id: '1386'
+org: MNineOneFive
+profile:
+  addr1: 69 East 167th Street
+  bankmsgset: 'true'
+  city: Bronx
+  country: USA
+  csphone: 718-879-5000
+  email: noreply@springbankny.com
+  finame: Spring Bank
+  postalcode: '10452'
+  signonmsgset: 'true'
+  state: NY
+  tsphone: 718-879-5000
+  url: http://www.springbankny.com/
+url: https://ofx1.evault.ws/ofxserver/ofxsrvr.dll

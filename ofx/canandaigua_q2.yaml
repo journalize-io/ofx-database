@@ -1,0 +1,16 @@
+fid: '5970'
+name: Canandaigua Q2
+ofxfail: '3'
+ofxhome_id: '952'
+org: Q2 Software
+profile:
+  addr1: 72 South Main Street
+  bankmsgset: 'true'
+  city: Canandaigua
+  country: USA
+  finame: Canandaigua Q2
+  postalcode: '14424'
+  signonmsgset: 'true'
+  state: NY
+  url: https://secure-cnbank.com/3200_directconnect/ofx.ashx
+url: https://secure-cnbank.com/3200_directconnect/ofx.ashx

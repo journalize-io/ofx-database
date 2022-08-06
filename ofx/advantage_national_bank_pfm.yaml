@@ -1,0 +1,21 @@
+fid: '5538'
+name: Advantage National Bank PFM
+ofxfail: '0'
+ofxhome_id: '1359'
+org: '318'
+profile:
+  addr1: 75 E TURNER AVE
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: ELK GROVE VILLAGE
+  country: USA
+  csphone: 877-386-3344
+  email: info@advantagenationalbank.com
+  emailmsgset: 'true'
+  finame: Advantage National Bank PFM
+  interxfermsgset: 'true'
+  postalcode: '60007'
+  signonmsgset: 'true'
+  state: IL
+  url: www.advantagenationalbank.com
+url: https://pfm.metavante.com/ofx/OFXServlet

@@ -1,0 +1,20 @@
+fid: '944'
+name: SVB
+ofxfail: '0'
+ofxhome_id: '791'
+org: SVB
+profile:
+  addr1: 3003 Tasman Drive
+  bankmsgset: 'true'
+  city: Santa Clara
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 1-408-654-7400
+  email: Support@svb.com
+  finame: Silicon Valley Bank
+  postalcode: '95054'
+  signonmsgset: 'true'
+  state: CA
+  tsphone: 1-408-654-7400
+  url: http://www.svb.com
+url: https://ofx.svbconnect.com/eftxweb/access.ofx

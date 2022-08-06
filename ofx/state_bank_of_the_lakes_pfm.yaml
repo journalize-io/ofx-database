@@ -1,0 +1,21 @@
+fid: '5540'
+name: State Bank of the Lakes PFM
+ofxfail: '0'
+ofxhome_id: '1401'
+org: '669'
+profile:
+  addr1: 440 LAKE STREET
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Antioch
+  country: USA
+  csphone: 888-249-7563
+  email: info@sbotl.com
+  emailmsgset: 'true'
+  finame: State Bank of the Lakes PFM
+  interxfermsgset: 'true'
+  postalcode: '60002'
+  signonmsgset: 'true'
+  state: IL
+  url: http://www.sbotl.com/
+url: https://pfm.metavante.com/ofx/OFXServlet

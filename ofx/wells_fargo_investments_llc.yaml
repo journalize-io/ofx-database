@@ -1,0 +1,19 @@
+brokerid: wellsfargo.com
+fid: '10762'
+name: Wells Fargo Investments, LLC
+ofxfail: '3'
+ofxhome_id: '568'
+org: wellsfargo.com
+profile:
+  addr1: 420 Montgomery Street
+  city: San Francisco
+  country: USA
+  csphone: 1-877-823-7782
+  invstmtmsgset: 'true'
+  postalcode: '94104'
+  seclistmsgset: 'true'
+  signonmsgset: 'true'
+  state: CA
+  tsphone: 1-800-956-4442
+  url: www.wellsfargo.com
+url: https://invmnt.wellsfargo.com/inv/directConnect

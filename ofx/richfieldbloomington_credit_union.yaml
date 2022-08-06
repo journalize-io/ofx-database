@@ -1,0 +1,19 @@
+fid: '11814'
+name: RichfieldBloomington Credit Union
+ofxfail: '0'
+ofxhome_id: '1347'
+org: Cavion
+profile:
+  addr1: 345 E 77TH STREET
+  bankmsgset: 'true'
+  city: Richfield
+  country: USA
+  csphone: '6128691037'
+  email: websupport@rbcu.org
+  finame: RichfieldBloomington Credit Union
+  postalcode: '55423'
+  signonmsgset: 'true'
+  state: MN
+  tsphone: '6128691037'
+  url: http://www.rbcu.org/
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

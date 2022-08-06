@@ -1,0 +1,19 @@
+fid: '4201'
+name: American National Bank
+ofxfail: '0'
+ofxhome_id: '669'
+org: ISC
+profile:
+  addr1: 33 N. Lasalle
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Chicago
+  country: USA
+  creditcardmsgset: 'true'
+  emailmsgset: 'true'
+  finame: American National Bank
+  postalcode: '60602'
+  signonmsgset: 'true'
+  state: IL
+  url: http://www.americannationalbank.com/
+url: https://www.oasis.cfree.com/fip/genesis/prod/04201.ofx

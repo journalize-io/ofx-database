@@ -1,0 +1,19 @@
+fid: '121143558'
+name: United American Bank
+ofxfail: '0'
+ofxhome_id: '1482'
+org: Fidelity
+profile:
+  addr1: 101. S. Ellsworth Avenue
+  addr2: St 101
+  bankmsgset: 'true'
+  city: San Mateo
+  country: USA
+  csphone: 650 579 1500
+  email: CashMgmt@unitedamericanbank.com
+  finame: United American Bank
+  postalcode: '94401'
+  signonmsgset: 'true'
+  state: CA
+  url: www.unitedamericanbank.com
+url: https://pfm.metavante.com/ofx/OFXServlet

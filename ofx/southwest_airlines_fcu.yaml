@@ -1,0 +1,7 @@
+fid: '311090673'
+name: Southwest Airlines FCU
+ofxfail: '3'
+ofxhome_id: '465'
+org: Southwest Airlines EFCU
+profile: {}
+url: https://www.swacuflashbp.org/scripts/isaofx.dll

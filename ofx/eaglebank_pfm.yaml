@@ -1,0 +1,21 @@
+fid: '5336'
+name: EagleBank PFM
+ofxfail: '0'
+ofxhome_id: '1047'
+org: '975'
+profile:
+  addr1: 7815 Woodmont Ave
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Bethesda
+  country: USA
+  csphone: 301-628-4708
+  email: onlinebanking@eaglebankcorp.com
+  emailmsgset: 'true'
+  finame: EagleBank PFM
+  interxfermsgset: 'true'
+  postalcode: '20814'
+  signonmsgset: 'true'
+  state: MD
+  url: www.eaglebankcorp.com
+url: https://pfm.metavante.com/ofx/OFXServlet

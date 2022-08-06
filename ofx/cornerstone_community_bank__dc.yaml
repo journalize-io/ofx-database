@@ -1,0 +1,7 @@
+fid: '7204'
+name: Cornerstone Community Bank - DC
+ofxfail: '0'
+ofxhome_id: '1024'
+org: fis-7204
+profile: {}
+url: https://pfm.metavante.com/ofx/OFXServlet

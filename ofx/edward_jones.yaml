@@ -1,0 +1,25 @@
+brokerid: www.edwardjones.com
+fid: '823'
+name: Edward Jones
+ofxfail: '0'
+ofxhome_id: '608'
+org: Edward Jones
+profile:
+  addr1: 12555 Manchester Road
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Saint Louis
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 800.441.0503
+  email: accountaccess@edwardjones.com
+  emailmsgset: 'true'
+  finame: Edward Jones
+  invstmtmsgset: 'true'
+  postalcode: '63131'
+  seclistmsgset: 'true'
+  signonmsgset: 'true'
+  state: MO
+  tsphone: 800.441.0503
+  url: https://www.edwardjones.com
+url: https://ofx.edwardjones.com

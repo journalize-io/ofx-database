@@ -1,0 +1,20 @@
+fid: '271972899'
+name: bankfinancial
+ofxfail: '0'
+ofxhome_id: '762'
+org: DI
+profile:
+  addr1: 21110 S. Western Ave.
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Olympia Fields
+  country: USA
+  csphone: 800-894-6900
+  email: Please use Phone.
+  finame: BankFinancial
+  postalcode: '60461'
+  signonmsgset: 'true'
+  state: IL
+  tsphone: 800-894-6900
+  url: www.bankfinancial.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

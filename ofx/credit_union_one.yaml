@@ -1,0 +1,17 @@
+fid: '14412'
+name: Credit Union ONE
+ofxfail: '3'
+ofxhome_id: '618'
+org: Credit Union ONE
+profile:
+  addr1: 400 E. Nine Mile Road
+  bankmsgset: 'true'
+  city: Ferndale
+  country: USA
+  csphone: 800-451-4292
+  email: cuomembers@cuone.org
+  postalcode: '48220'
+  signonmsgset: 'true'
+  state: MI
+  url: http://www.cuone.org
+url: https://cuhome.cuone.org/ofx/ofx.dll

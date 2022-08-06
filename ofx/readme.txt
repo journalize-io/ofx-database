@@ -1,0 +1,1 @@
+This folder contains a YAML file for each OFX connection.

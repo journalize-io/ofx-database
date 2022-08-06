@@ -1,0 +1,20 @@
+fid: '111901234'
+name: LegacyTexas Bank
+ofxfail: '0'
+ofxhome_id: '1219'
+org: DI
+profile:
+  addr1: 5000 Legacy Drive
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Plano
+  country: USA
+  csphone: (972)461-1300
+  email: customermail@legacytexas.com
+  finame: LegacyTexas Bank
+  postalcode: '75074'
+  signonmsgset: 'true'
+  state: TX
+  tsphone: (972)461-1300
+  url: www.legacytexasbank.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

@@ -1,0 +1,19 @@
+fid: '15445'
+name: Missoula FCU
+ofxfail: '1'
+ofxhome_id: '1254'
+org: Missoula Federal Credit Union
+profile:
+  addr1: 3600 Brooks St
+  bankmsgset: 'true'
+  city: Missoula
+  country: United States
+  csphone: (406) 523-3300
+  email: service@clearwatercreditunion.org
+  finame: Missoula FCU
+  postalcode: '59801'
+  signonmsgset: 'true'
+  state: MT
+  tsphone: (406) 523-3300
+  url: https://www.missoulafcu.org
+url: https://mb.missoulafcu.org/OFX/OFXServer.aspx

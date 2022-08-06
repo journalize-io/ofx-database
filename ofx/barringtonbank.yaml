@@ -1,0 +1,22 @@
+fid: '5505'
+name: BarringtonBank
+ofxfail: '0'
+ofxhome_id: '913'
+org: '167'
+profile:
+  addr1: 201 South Hough Street
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Barrington
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 847-842-4500
+  email: customer_service@barringtonbank.com
+  emailmsgset: 'true'
+  finame: BarringtonBank
+  interxfermsgset: 'true'
+  postalcode: '60010'
+  signonmsgset: 'true'
+  state: IL
+  url: http://www.barringtonbank.com
+url: https://pfm.metavante.com/ofx/OFXServlet

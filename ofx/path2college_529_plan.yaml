@@ -1,0 +1,17 @@
+brokerid: path2college.com
+fid: '52902'
+name: Path2College 529 Plan
+ofxfail: '3'
+ofxhome_id: '1306'
+org: tiaaga
+profile:
+  addr1: PO Box 105307
+  city: Atlanta
+  country: USA
+  finame: Path2College 529 Plan
+  invstmtmsgset: 'true'
+  postalcode: 30348-5307
+  signonmsgset: 'true'
+  state: GA
+  url: https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=719080000270600
+url: https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=719080000270600

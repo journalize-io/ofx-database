@@ -1,0 +1,18 @@
+fid: '2701'
+name: United California Bank
+ofxfail: '0'
+ofxhome_id: '718'
+org: ISC
+profile:
+  addr1: P.O. Box 3567
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Los Angeles
+  country: USA
+  emailmsgset: 'true'
+  finame: Sanwa Bank California
+  postalcode: '900519738'
+  signonmsgset: 'true'
+  state: CA
+  url: http://www.sanwabank.com/
+url: https://www.oasis.cfree.com/fip/genesis/prod/02701.ofx

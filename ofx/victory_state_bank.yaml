@@ -1,0 +1,19 @@
+fid: '11063'
+name: Victory State Bank
+ofxfail: '0'
+ofxhome_id: '1494'
+org: Cavion
+profile:
+  addr1: 4142 Hyland Blvd
+  bankmsgset: 'true'
+  city: Staten Island
+  country: USA
+  csphone: 718-815-1100
+  email: Izahavi@victorystatebank.com
+  finame: Victory State Bank
+  postalcode: '10308'
+  signonmsgset: 'true'
+  state: NY
+  tsphone: 718-815-1100
+  url: http://www.vicotrystatebank.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

@@ -1,0 +1,19 @@
+fid: '59019'
+name: IBM Southeast EFCU
+ofxfail: '1'
+ofxhome_id: '1176'
+org: IBM Southeast EFCU -New
+profile:
+  addr1: 790 Park of Commerce Blvd
+  bankmsgset: 'true'
+  city: Boca Raton
+  country: USA
+  csphone: 800-873-5100
+  email: serviceplus@ibmse.org
+  finame: IBM Southeast EFCU -New
+  postalcode: '33487'
+  signonmsgset: 'true'
+  state: FL
+  tsphone: 800-873-5100
+  url: https://www.ibmsecu.org
+url: https://mobilebanking.ibmsecu.org/ofx/ofxserver.aspx

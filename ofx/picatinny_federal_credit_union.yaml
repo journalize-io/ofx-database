@@ -1,0 +1,20 @@
+fid: '221275216'
+name: Picatinny Federal Credit Union
+ofxfail: '3'
+ofxhome_id: '508'
+org: Picatinny Federal Credit Union
+profile:
+  addr1: 100 Mineral Springs Drive
+  bankmsgset: 'true'
+  city: Dover
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 973-361-5225
+  email: homebanking@picacreditunion.com
+  finame: Picatinny Federal Credit Union
+  postalcode: 07801
+  signonmsgset: 'true'
+  state: NJ
+  tsphone: 973-361-5225
+  url: http://www.picacreditunion.com
+url: https://personalfinance.picacreditunion.com/scripts/isaofx.dll

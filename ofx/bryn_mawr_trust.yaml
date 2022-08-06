@@ -1,0 +1,22 @@
+fid: '63060'
+name: Bryn Mawr Trust
+ofxfail: '3'
+ofxhome_id: '936'
+org: BMTC
+profile:
+  addr1: 801 W. Lancaster Avenue
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Bryn Mawr
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 610-525-1700
+  email: telebank@bmtc.com
+  emailmsgset: 'true'
+  finame: Bryn Mawr Trust
+  postalcode: '19010'
+  signonmsgset: 'true'
+  state: PA
+  tsphone: 610-525-1700
+  url: http://www.bmtc.com
+url: https://online.bmtc.com/ofx/ofx.ofx

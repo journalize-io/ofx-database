@@ -1,0 +1,19 @@
+fid: '23595'
+name: Oregon Community Bank and Trust
+ofxfail: '0'
+ofxhome_id: '1297'
+org: Cavion
+profile:
+  addr1: 733 N Main Street
+  bankmsgset: 'true'
+  city: Oregon
+  country: USA
+  csphone: '6088353168'
+  email: customersupport@oregoncommunitybank.com
+  finame: Oregon Community Bank and Trust
+  postalcode: '53575'
+  signonmsgset: 'true'
+  state: WI
+  tsphone: '6088353168'
+  url: http://www.oregoncommunitybank.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

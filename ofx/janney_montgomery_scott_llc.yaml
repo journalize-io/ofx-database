@@ -1,0 +1,18 @@
+brokerid: https://jmsofx.automat
+fid: '11326'
+name: Janney Montgomery Scott LLC
+ofxfail: '1'
+ofxhome_id: '698'
+org: AFS
+profile:
+  addr1: 50 Broadway
+  city: New York
+  country: USA
+  finame: AFS
+  invstmtmsgset: 'true'
+  postalcode: '10004'
+  seclistmsgset: 'true'
+  signonmsgset: 'true'
+  state: NY
+  url: https://jmsofx.automatedfinancial.com
+url: https://jmsofx.automatedfinancial.com

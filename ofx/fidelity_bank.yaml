@@ -1,0 +1,19 @@
+fid: '211370707'
+name: Fidelity Bank
+ofxfail: '3'
+ofxhome_id: '1073'
+org: DI
+profile:
+  addr1: 9 Leominster Connector
+  bankmsgset: 'true'
+  city: Leominster
+  country: USA
+  csphone: 1-800-581-5363
+  email: info@fidelitybankonline.com
+  finame: Fidelity Bank
+  postalcode: '01453'
+  signonmsgset: 'true'
+  state: MA
+  tsphone: 1-800-581-5363
+  url: www.fidelitybankonline.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

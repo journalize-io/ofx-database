@@ -1,0 +1,23 @@
+fid: '1304'
+name: TIAA-CREF Retirement Services
+ofxfail: '0'
+ofxhome_id: '797'
+org: TIAA-CREF
+profile:
+  addr1: 730 Third Avenue
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: New York
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 800-842-2776
+  emailmsgset: 'true'
+  finame: TIAA-CREF
+  invstmtmsgset: 'true'
+  postalcode: '10017'
+  seclistmsgset: 'true'
+  signonmsgset: 'true'
+  state: NY
+  tsphone: 800-842-2776
+  url: http://www.tiaa-cref.org
+url: https://ofx-service.tiaa-cref.org/public/ofx

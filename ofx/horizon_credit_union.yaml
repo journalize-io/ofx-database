@@ -1,0 +1,19 @@
+fid: '325182506'
+name: Horizon Credit Union
+ofxfail: '0'
+ofxhome_id: '1173'
+org: DI
+profile:
+  addr1: 13224 E Mansfield Ave Suite 300
+  bankmsgset: 'true'
+  city: Spokane Valley
+  country: USA
+  csphone: 800-852-5316
+  email: hzcu@hzcu.org
+  finame: Horizon Credit Union
+  postalcode: '99216'
+  signonmsgset: 'true'
+  state: WA
+  tsphone: 800-852-5316
+  url: www.hzcu.org
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

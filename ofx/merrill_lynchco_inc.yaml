@@ -1,0 +1,22 @@
+brokerid: www.mldirect.ml.com
+fid: '5550'
+name: Merrill Lynch&Co., Inc.
+ofxfail: '0'
+ofxhome_id: '510'
+org: Merrill Lynch & Co., Inc.
+profile:
+  addr1: 55 Broad Street
+  addr2: 2nd Floor
+  city: New York
+  country: USA
+  csphone: 212 344 2000
+  email: support@joineei.com
+  finame: Merrill Lynch
+  invstmtmsgset: 'true'
+  postalcode: '10004'
+  seclistmsgset: 'true'
+  signonmsgset: 'true'
+  state: NY
+  tsphone: 212 344 2000
+  url: www.joineei.com
+url: https://taxcert.mlol.ml.com/eftxweb/access.ofx

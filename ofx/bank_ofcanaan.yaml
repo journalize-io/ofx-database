@@ -1,0 +1,19 @@
+fid: '50298'
+name: Bank OfCanaan
+ofxfail: '0'
+ofxhome_id: '894'
+org: Cavion
+profile:
+  addr1: 208 Elm Street
+  bankmsgset: 'true'
+  city: New Canaan
+  country: USA
+  csphone: '2039723838'
+  email: sgelin@bankofnewcanaan.com
+  finame: Bank Of New Canaan
+  postalcode: 06840
+  signonmsgset: 'true'
+  state: CT
+  tsphone: '2039723838'
+  url: http://www.bankofnewcanaan.com/
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

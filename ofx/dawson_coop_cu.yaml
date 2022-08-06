@@ -1,0 +1,19 @@
+fid: '22089'
+name: Dawson Co-op CU
+ofxfail: '0'
+ofxhome_id: '1038'
+org: Cavion
+profile:
+  addr1: 711 6th Street
+  bankmsgset: 'true'
+  city: Dawson
+  country: USA
+  csphone: '8002760025'
+  email: kathy@dawsonco-opcu.com
+  finame: Dawson Co-op CU
+  postalcode: '56232'
+  signonmsgset: 'true'
+  state: MN
+  tsphone: '8002760025'
+  url: https://www.dawsonco-opcu.com/
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

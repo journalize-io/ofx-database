@@ -1,0 +1,19 @@
+fid: '211870980'
+name: Country Bank for Savings
+ofxfail: '0'
+ofxhome_id: '1026'
+org: Cavion
+profile:
+  addr1: 75 Main Street
+  bankmsgset: 'true'
+  city: Ware
+  country: USA
+  csphone: '8003228233'
+  email: info@countrybank.com
+  finame: Country Bank for Savings - New
+  postalcode: 01082
+  signonmsgset: 'true'
+  state: MA
+  tsphone: '8003228233'
+  url: http://www.countrybank.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

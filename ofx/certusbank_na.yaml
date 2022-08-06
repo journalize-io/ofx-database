@@ -1,0 +1,18 @@
+fid: 053208118
+name: CertusBank, NA
+ofxfail: '0'
+ofxhome_id: '976'
+org: MEightEightThree
+profile:
+  addr1: 2100 Rexford Road Suite 100
+  bankmsgset: 'true'
+  city: Charlotte
+  country: USA
+  csphone: 864-414-5038
+  email: noreply@certusbank.com
+  finame: CertusBank, NA
+  postalcode: '28211'
+  signonmsgset: 'true'
+  state: NC
+  url: www.certusbank.com
+url: https://ofx1.evault.ws/ofxserver/ofxsrvr.dll

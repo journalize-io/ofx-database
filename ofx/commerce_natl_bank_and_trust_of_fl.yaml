@@ -1,0 +1,19 @@
+fid: '17793'
+name: Commerce Natl Bank and Trust of FL
+ofxfail: '0'
+ofxhome_id: '1009'
+org: HFS-Phoenix
+profile:
+  addr1: 1201 South Orlando Avenue
+  bankmsgset: 'true'
+  city: Winter Park
+  country: USA
+  csphone: 407-622-8181
+  email: psideman@cnbt-fl.com
+  finame: Commerce Natl Bank and Trust of FL
+  postalcode: '32789'
+  signonmsgset: 'true'
+  state: FL
+  tsphone: 407-622-8181
+  url: http://www.cnbt-fl.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

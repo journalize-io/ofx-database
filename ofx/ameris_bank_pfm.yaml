@@ -1,0 +1,21 @@
+fid: '5548'
+name: Ameris Bank PFM
+ofxfail: '0'
+ofxhome_id: '863'
+org: '466'
+profile:
+  addr1: 310 First Street SE
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Moultrie
+  country: USA
+  csphone: 866-818-7016
+  email: ibsupport@amerisbank.com
+  emailmsgset: 'true'
+  finame: Ameris Bank PFM
+  interxfermsgset: 'true'
+  postalcode: '31768'
+  signonmsgset: 'true'
+  state: GA
+  url: www.amerisbank.com/
+url: https://pfm.metavante.com/ofx/OFXServlet

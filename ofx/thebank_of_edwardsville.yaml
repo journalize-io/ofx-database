@@ -1,0 +1,20 @@
+fid: 081004070
+name: TheBANK of Edwardsville
+ofxfail: '3'
+ofxhome_id: '1450'
+org: '1143'
+profile:
+  addr1: 330 West Vandalia
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Edwardsville
+  country: USA
+  csphone: (618)656-0098
+  email: customerservice@4thebank.com
+  finame: TheBANK of Edwardsville
+  postalcode: '62025'
+  signonmsgset: 'true'
+  state: IL
+  tsphone: (618)656-0098
+  url: www.magiconlinebanking.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

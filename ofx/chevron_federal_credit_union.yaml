@@ -1,0 +1,20 @@
+fid: '321075947'
+name: Chevron Federal Credit Union
+ofxfail: '0'
+ofxhome_id: '987'
+org: DI
+profile:
+  addr1: P.O. Box 2069
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Oakland
+  country: USA
+  csphone: 800-232-8101
+  email: '2'
+  finame: Chevron Federal Credit Union
+  postalcode: '94612'
+  signonmsgset: 'true'
+  state: CA
+  tsphone: 800-232-8101
+  url: www.chevronfcu.org
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

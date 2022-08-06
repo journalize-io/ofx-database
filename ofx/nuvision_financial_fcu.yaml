@@ -1,0 +1,19 @@
+fid: '322282399'
+name: nuVision Financial FCU
+ofxfail: '1'
+ofxhome_id: '821'
+org: DI
+profile:
+  addr1: 7812 Edinger Ave
+  bankmsgset: 'true'
+  city: Huntington Beach
+  country: USA
+  csphone: 714-375-8000
+  email: webmaster@nuvision.coop
+  finame: nuVision Financial FCU
+  postalcode: '92647'
+  signonmsgset: 'true'
+  state: CA
+  tsphone: 714-375-8000
+  url: www.nuvisionfinancial.org
+url: https://ofxdi.diginsite.com/cmr/cmr.ofx

@@ -1,0 +1,22 @@
+fid: '5006'
+name: California Bank&Trust
+ofxfail: '0'
+ofxhome_id: '487'
+org: '401'
+profile:
+  addr1: 11000 Lake Park Dr.
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Milwaukee
+  country: USA
+  csphone: 800-823-7555
+  email: columbiabankonline@billsupport.com
+  emailmsgset: 'true'
+  finame: COLUMBIA BANK
+  interxfermsgset: 'true'
+  postalcode: '53244'
+  signonmsgset: 'true'
+  state: WI
+  tsphone: 888-217-1265
+  url: https://digitalinsight.presentment.com/csp/
+url: https://pfm.metavante.com/ofx/OFXServlet

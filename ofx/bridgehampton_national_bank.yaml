@@ -1,0 +1,19 @@
+fid: '021406667'
+name: Bridgehampton National Bank
+ofxfail: '0'
+ofxhome_id: '932'
+org: MSevenTwentyThree
+profile:
+  addr1: 2200 Montauk Highway
+  bankmsgset: 'true'
+  city: Bridgehampton
+  country: USA
+  csphone: 631-537-7402
+  email: noreply@bridgenb.com
+  finame: Bridgehampton National Bank
+  postalcode: '11978'
+  signonmsgset: 'true'
+  state: NY
+  tsphone: 631-537-7402
+  url: https://www.bridgenb.com
+url: https://ofx1.evault.ws/OFXServer/ofxsrvr.dll

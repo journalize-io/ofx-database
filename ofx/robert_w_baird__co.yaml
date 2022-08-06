@@ -1,0 +1,21 @@
+brokerid: rwbaird.com
+fid: '1109'
+name: Robert W. Baird & Co.
+ofxfail: '0'
+ofxhome_id: '714'
+org: Robert W. Baird & Co.
+profile:
+  addr1: 777 East Wisconsin Avenue
+  city: Milwaukee
+  country: USA
+  csphone: 414.765.3500
+  email: info@rwbaird.com
+  finame: Robert W. Baird & Co.
+  invstmtmsgset: 'true'
+  postalcode: '53202'
+  seclistmsgset: 'true'
+  signonmsgset: 'true'
+  state: WI
+  tsphone: 414.765.3500
+  url: http://www.rwbaird.com
+url: https://ofx.rwbaird.com

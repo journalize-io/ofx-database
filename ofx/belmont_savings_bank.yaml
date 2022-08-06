@@ -1,0 +1,19 @@
+brokerid: '9460'
+fid: '211371764'
+name: Belmont Savings Bank
+ofxfail: '0'
+ofxhome_id: '775'
+org: DI
+profile:
+  addr1: 2 Leonard Street
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Belmont
+  country: USA
+  email: '2'
+  finame: Belmont Savings Bank
+  postalcode: 02478
+  signonmsgset: 'true'
+  state: MA
+  url: www.belmontsavings.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

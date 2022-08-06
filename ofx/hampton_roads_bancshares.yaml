@@ -1,0 +1,19 @@
+fid: 051405188
+name: Hampton Roads Bancshares
+ofxfail: '0'
+ofxhome_id: '1150'
+org: MSevenNineteen
+profile:
+  addr1: 1145 North Road Street
+  bankmsgset: 'true'
+  city: Elizabeth City
+  country: USA
+  csphone: 252-334-1511
+  email: noreply@gatewaybankandtrust.com
+  finame: Hampton Roads Bancshares
+  postalcode: '27909'
+  signonmsgset: 'true'
+  state: NC
+  tsphone: 252-334-1511
+  url: http://www.gatewaybankandtrust.com
+url: https://ofx1.evault.ws/ofxserver/ofxsrvr.dll

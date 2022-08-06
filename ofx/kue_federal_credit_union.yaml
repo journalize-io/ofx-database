@@ -1,0 +1,18 @@
+fid: 3XVNH
+name: KUE FEDERAL CREDIT UNION
+ofxfail: '3'
+ofxhome_id: '1202'
+org: KUE Federal Credit Union
+profile:
+  addr1: ONE QUALITY ST.
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: LEXINGTON
+  country: US
+  emailmsgset: 'true'
+  finame: KUE FEDERAL CREDIT UNION
+  postalcode: '40507'
+  signonmsgset: 'true'
+  state: KY
+  url: https://kuefcu-dn.financial-net.com/web
+url: https://www.netit.financial-net.com/ofx

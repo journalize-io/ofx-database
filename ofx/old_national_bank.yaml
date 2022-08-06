@@ -1,0 +1,20 @@
+fid: '11638'
+name: Old National Bank
+ofxfail: '3'
+ofxhome_id: '526'
+org: ONB
+profile:
+  addr1: 420 Main Street
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Evansville
+  country: USA
+  csphone: 800-844-1720
+  email: eftservices@oldnational.com
+  emailmsgset: 'true'
+  postalcode: '47708'
+  signonmsgset: 'true'
+  state: IN
+  tsphone: 800-844-1720
+  url: http://www.oldnational.com
+url: https://www.ofx.oldnational.com/ofxpreprocess.asp

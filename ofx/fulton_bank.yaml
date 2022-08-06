@@ -1,0 +1,20 @@
+fid: '031301422'
+name: Fulton Bank
+ofxfail: '0'
+ofxhome_id: '1125'
+org: DI
+profile:
+  addr1: One Penn Squarer
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Lancaster
+  country: USA
+  csphone: 800.385.8664
+  email: customerservice@fultonbank.com
+  finame: Fulton Bank
+  postalcode: '17602'
+  signonmsgset: 'true'
+  state: PA
+  tsphone: 800.385.8664
+  url: www.fultonbank.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

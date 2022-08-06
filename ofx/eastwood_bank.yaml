@@ -1,0 +1,19 @@
+fid: '825'
+name: Eastwood Bank
+ofxfail: '0'
+ofxhome_id: '1053'
+org: Eastwood Bank
+profile:
+  addr1: 5125 Highway 52
+  bankmsgset: 'true'
+  city: North Rochester
+  country: USA
+  csphone: '5072522851'
+  email: support@eastwoodbank.com
+  finame: Eastwood Bank
+  postalcode: '55901'
+  signonmsgset: 'true'
+  state: MN
+  tsphone: '5072522851'
+  url: http://www.eastwoodbank.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

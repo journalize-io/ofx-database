@@ -1,0 +1,7 @@
+fid: '321173742'
+name: Safe Credit Union - OFX Beta
+ofxfail: '1'
+ofxhome_id: '422'
+org: DI
+profile: {}
+url: https://ofxcert.diginsite.com/cmr/cmr.ofx

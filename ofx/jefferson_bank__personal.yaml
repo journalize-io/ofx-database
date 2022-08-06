@@ -1,0 +1,20 @@
+fid: '163'
+name: Jefferson Bank - Personal
+ofxfail: '3'
+ofxhome_id: '1189'
+org: 086501578
+profile:
+  addr1: 700 Southwest Boulevard
+  bankmsgset: 'true'
+  city: Jefferson City
+  country: USA
+  csphone: 800-749-8072
+  email: twilla_duvall@centralbank.net
+  emailmsgset: 'true'
+  finame: Jefferson Bank - Personal
+  postalcode: '65101'
+  signonmsgset: 'true'
+  state: MO
+  tsphone: 800-749-8072
+  url: https://www.jefferson-bank.com/
+url: https://ofx.centralbancompany.com/ofxserver/ofxsrvr.dll

@@ -1,0 +1,20 @@
+brokerid: strong.com
+fid: '1030'
+name: Wells Fargo Advisor
+ofxfail: '3'
+ofxhome_id: '516'
+org: strong.com
+profile:
+  addr1: 100 Heritage Reserve
+  city: Menomonee Falls
+  country: USA
+  csphone: 1-800-359-3379
+  email: fundservice@wellsfargo.com
+  invstmtmsgset: 'true'
+  postalcode: '53051'
+  seclistmsgset: 'true'
+  signonmsgset: 'true'
+  state: WI
+  tsphone: 1-800-359-3379
+  url: www.wellsfargoadvantagefunds.com
+url: https://ofx.wellsfargoadvantagefunds.com/eftxWeb/Access.ofx

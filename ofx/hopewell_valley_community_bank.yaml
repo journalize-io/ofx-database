@@ -1,0 +1,19 @@
+fid: '54222'
+name: Hopewell Valley Community Bank
+ofxfail: '0'
+ofxhome_id: '1172'
+org: Cavion
+profile:
+  addr1: 4 Route 31 South
+  bankmsgset: 'true'
+  city: Pennington
+  country: USA
+  csphone: '6097375915'
+  email: help@hvcbonline.com
+  finame: Hopewell Valley Community Bank
+  postalcode: 08534
+  signonmsgset: 'true'
+  state: NJ
+  tsphone: '6097375915'
+  url: http://www.hvcbonline.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

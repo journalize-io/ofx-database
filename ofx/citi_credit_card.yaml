@@ -1,0 +1,18 @@
+fid: '24909'
+name: Citi Credit Card
+ofxfail: '1'
+ofxhome_id: '629'
+org: Citigroup
+profile:
+  addr1: 8787 Baypine Road
+  city: Jacksonville
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 1-800-950-5114
+  finame: Citigroup
+  postalcode: '32256'
+  signonmsgset: 'true'
+  state: FL
+  tsphone: 1-800-347-4934
+  url: http://www.citicards.com
+url: https://www.accountonline.com/cards/svc/CitiOfxManager.do

@@ -1,0 +1,17 @@
+fid: '16138'
+name: Northwest Bank Q2
+ofxfail: '1'
+ofxhome_id: '1275'
+org: Northwest Bank Q2
+profile:
+  addr1: P.O. Box 128
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Warren
+  country: USA
+  finame: Northwest Bank Q2
+  postalcode: 16365-0128
+  signonmsgset: 'true'
+  state: PA
+  url: https://securebanking.northwest.com/3391_DirectConnect/ofx.ashx
+url: https://securebanking.northwest.com/3391_DirectConnect/ofx.ashx

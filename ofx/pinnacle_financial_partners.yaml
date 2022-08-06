@@ -1,0 +1,23 @@
+fid: PFPNTN
+name: Pinnacle Financial Partners
+ofxfail: '0'
+ofxhome_id: '1320'
+org: FundsXpress
+profile:
+  addr1: 150 3rd Avenue South
+  addr2: Suite 900
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Nashville
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 615-744-3700 or 800-264-3613
+  email: support@pnfp.com
+  emailmsgset: 'true'
+  finame: Pinnacle Financial Partners
+  postalcode: '37201'
+  signonmsgset: 'true'
+  state: TN
+  tsphone: 615-744-3700 or 800-264-3613
+  url: http://www.pnfp.com
+url: https://ofx.fundsxpress.com/piles/ofx.pile/

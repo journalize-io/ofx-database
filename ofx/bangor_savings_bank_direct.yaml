@@ -1,0 +1,20 @@
+fid: '211274382'
+name: Bangor Savings Bank Direct
+ofxfail: '0'
+ofxhome_id: '882'
+org: DI
+profile:
+  addr1: 19 Maine Ave
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Bangor
+  country: USA
+  csphone: 1-877-226-4671
+  email: customercare@bangor.com
+  finame: Bangor Savings Bank Direct
+  postalcode: '04401'
+  signonmsgset: 'true'
+  state: ME
+  tsphone: 1-877-226-4671
+  url: www.bangor.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

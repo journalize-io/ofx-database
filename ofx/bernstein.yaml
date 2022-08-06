@@ -1,0 +1,20 @@
+brokerid: Bernstein.com
+fid: '0013'
+name: Bernstein
+ofxfail: '0'
+ofxhome_id: '921'
+org: BGWM
+profile:
+  addr1: 1345 Avenue of the Americas
+  city: New York
+  country: USA
+  csphone: 914-993-2560
+  email: ContactUsClient@Bernstein.com
+  finame: Bernstein
+  invstmtmsgset: 'true'
+  postalcode: '10105'
+  seclistmsgset: 'true'
+  signonmsgset: 'true'
+  state: NY
+  url: www.bernstein.com
+url: https://ofx.bernstein.com/ofxserver/ofxsrvr.dll

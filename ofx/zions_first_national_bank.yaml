@@ -1,0 +1,20 @@
+fid: '4676'
+name: Zions First National Bank
+ofxfail: '0'
+ofxhome_id: '1521'
+org: 244-3
+profile:
+  addr1: 7730 South Union Park Ave
+  addr2: Suite 250
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Midvale
+  country: USA
+  creditcardmsgset: 'true'
+  emailmsgset: 'true'
+  finame: Zions First National Bank
+  postalcode: '84047'
+  signonmsgset: 'true'
+  state: UT
+  url: http://www.zionsbank.com/
+url: https://www.oasis.cfree.com/fip/genesis/prod/04676.ofx

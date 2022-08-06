@@ -1,0 +1,22 @@
+fid: LGWMTN
+name: LG&amp;W Federal Credit Union
+ofxfail: '0'
+ofxhome_id: '1203'
+org: FundsXpress
+profile:
+  addr1: 1616 Whitten Road
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Memphis
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: (901)680-7995
+  email: helpdesk@lgwfcu.com
+  emailmsgset: 'true'
+  finame: LG&W Federal Credit Union
+  postalcode: '38134'
+  signonmsgset: 'true'
+  state: TN
+  tsphone: (901)680-7995
+  url: http://www.lgwfcu.com
+url: https://ofx.fundsxpress.com/piles/ofx.pile

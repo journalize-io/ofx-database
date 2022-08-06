@@ -1,0 +1,21 @@
+brokerid: www.dreyfus.com
+fid: null
+name: Dreyfus
+ofxfail: '3'
+ofxhome_id: '445'
+org: DST
+profile:
+  addr1: P.O. Box 173375
+  bankmsgset: 'true'
+  city: Denver
+  country: USA
+  csphone: 816.345.7645
+  email: service@americancentury.com
+  invstmtmsgset: 'true'
+  postalcode: '80217'
+  seclistmsgset: 'true'
+  signonmsgset: 'true'
+  state: CO
+  tsphone: 816.345.7645
+  url: https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=50900132018
+url: https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=703170424052018

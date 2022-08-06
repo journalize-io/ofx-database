@@ -1,0 +1,16 @@
+fid: '53532'
+name: ScholarShare CSP
+ofxfail: '3'
+ofxhome_id: '1360'
+org: tiaaca
+profile:
+  addr1: PO Box 55205
+  city: Boston
+  country: USA
+  finame: ScholarShare CSP
+  invstmtmsgset: 'true'
+  postalcode: 02205-5205
+  signonmsgset: 'true'
+  state: MA
+  url: https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=719080000270200
+url: https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=719080000270200

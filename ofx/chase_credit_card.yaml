@@ -1,0 +1,24 @@
+fid: '10898'
+name: Chase (credit card)
+ofxfail: '0'
+ofxhome_id: '636'
+org: B1
+profile:
+  addr1: Bank One Plaza
+  addr2: Suite IL1-0852
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Chicago
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 800-482-3675
+  email: Unknown
+  emailmsgset: 'true'
+  finame: Chase
+  postalcode: '60670'
+  seclistmsgset: 'true'
+  signonmsgset: 'true'
+  state: IL
+  tsphone: 800-482-3675
+  url: https://www.chase.com
+url: https://ofx.chase.com

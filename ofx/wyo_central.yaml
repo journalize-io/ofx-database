@@ -1,0 +1,19 @@
+fid: '4458'
+name: Wyo Central
+ofxfail: '0'
+ofxhome_id: '1516'
+org: Cavion
+profile:
+  addr1: 190 S David
+  bankmsgset: 'true'
+  city: Casper
+  country: USA
+  csphone: '3072345401'
+  email: wcfcu@wyocentral.org
+  finame: Wyo Central
+  postalcode: '82601'
+  signonmsgset: 'true'
+  state: WY
+  tsphone: '3072345401'
+  url: www.wyocentral.org
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

@@ -1,0 +1,22 @@
+fid: FSBAFL
+name: First State Bank of Arcadia
+ofxfail: '3'
+ofxhome_id: '1107'
+org: FundsXpress, Inc.
+profile:
+  addr1: 400 N Brevard Ave
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Arcadia
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: '863-494-2220 or Toll Free: 888-4'
+  email: customerservice@fsbarcadia.com
+  emailmsgset: 'true'
+  finame: First State Bank of Arcadia
+  postalcode: '34266'
+  signonmsgset: 'true'
+  state: FL
+  tsphone: '863-494-2220 or Toll Free: 888-4'
+  url: http://www.fsbarcadia.com
+url: https://ofx.fundsxpress.com/piles/ofx.pile/

@@ -1,0 +1,19 @@
+fid: '54648'
+name: Altra Federal Credit Union
+ofxfail: '0'
+ofxhome_id: '856'
+org: Connect
+profile:
+  addr1: PO Box 433
+  bankmsgset: 'true'
+  city: La Crosse
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: (608)787-4500
+  email: info@altra.org
+  finame: Altra Federal Credit Union
+  postalcode: '54602'
+  signonmsgset: 'true'
+  state: WI
+  url: https://www.altra.org
+url: https://www.altraonline.org/altra_ofxdirect/ofxrqst.aspx

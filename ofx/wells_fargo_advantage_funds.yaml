@@ -1,0 +1,22 @@
+brokerid: dstsystems.com
+fid: null
+name: Wells Fargo Advantage Funds
+ofxfail: '0'
+ofxhome_id: '591'
+org: DST
+profile:
+  addr1: P.O. Box 8266
+  bankmsgset: 'true'
+  city: Boston
+  country: USA
+  csphone: 816.345.7645
+  email: service@americancentury.com
+  finame: Allspring Global Investments
+  invstmtmsgset: 'true'
+  postalcode: 02266-8266
+  seclistmsgset: 'true'
+  signonmsgset: 'true'
+  state: MA
+  tsphone: 816.345.7645
+  url: https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=6181917141306
+url: https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=6181917141306

@@ -1,0 +1,7 @@
+fid: '1055'
+name: Eastern Savings Bank
+ofxfail: '0'
+ofxhome_id: '1051'
+org: COCC
+profile: {}
+url: https://ofx.myvirtualbranch.com/eftxweb/access.ofx

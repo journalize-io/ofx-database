@@ -1,0 +1,19 @@
+fid: '19071'
+name: Clarke County State Bank
+ofxfail: '0'
+ofxhome_id: '1001'
+org: HFS-Cavion
+profile:
+  addr1: 139 S MAIN
+  bankmsgset: 'true'
+  city: OSCEOLA
+  country: USA
+  csphone: '6413426581'
+  email: ccsb@clarkebank.com
+  finame: Clarke County State Bank
+  postalcode: '50213'
+  signonmsgset: 'true'
+  state: IA
+  tsphone: '6413426581'
+  url: http://www.clarkebank.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

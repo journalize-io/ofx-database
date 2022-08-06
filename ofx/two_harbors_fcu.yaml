@@ -1,0 +1,19 @@
+fid: '50229'
+name: Two harbors FCU
+ofxfail: '0'
+ofxhome_id: '1471'
+org: Two Harbors Federal Credit Union
+profile:
+  addr1: 626 Second Avenue
+  bankmsgset: 'true'
+  city: Two Harbors
+  country: USA
+  csphone: '2188342266'
+  email: NONE
+  finame: Two harbors FCU
+  postalcode: '55616'
+  signonmsgset: 'true'
+  state: MN
+  tsphone: '2188342266'
+  url: http://www.thfcu.org
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

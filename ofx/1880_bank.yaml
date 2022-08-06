@@ -1,0 +1,22 @@
+fid: NBCCMD
+name: 1880 Bank
+ofxfail: '0'
+ofxhome_id: '837'
+org: FundsXpress Financial Network
+profile:
+  addr1: 304 High Street
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Cambridge
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: (410)228-5600
+  email: bankmail@1880bank.com
+  emailmsgset: 'true'
+  finame: 1880 Bank
+  postalcode: '21613'
+  signonmsgset: 'true'
+  state: MD
+  tsphone: (410)228-5600
+  url: https://www.1880bank.com/
+url: https://ofx.fundsxpress.com/piles/ofx.pile/

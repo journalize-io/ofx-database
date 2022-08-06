@@ -1,0 +1,7 @@
+fid: '1124'
+name: Vectra Bank of Colorado - Direct
+ofxfail: '0'
+ofxhome_id: '1492'
+org: 276-3
+profile: {}
+url: https://quicken.metavante.com/ofx/OFXServlet

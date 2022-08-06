@@ -1,0 +1,18 @@
+fid: '111903517'
+name: Pinnacle Bank of Texas QN DC
+ofxfail: '0'
+ofxhome_id: '1318'
+org: PinnacleBankTexas
+profile:
+  addr1: 309 S Old Betsy Rd
+  bankmsgset: 'true'
+  city: Keene
+  country: USA
+  csphone: 800-227-7715
+  email: customerservice@pinnbanktx.com
+  finame: Pinnacle Bank of Texas QN DC
+  postalcode: '76059'
+  signonmsgset: 'true'
+  state: TX
+  url: https://ofx.secureinternetbank.com/OFXServer/ofxsrvr.dll
+url: https://ofx.secureinternetbank.com/ofxserver/ofxsrvr.dll

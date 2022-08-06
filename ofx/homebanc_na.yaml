@@ -1,0 +1,19 @@
+fid: '49533'
+name: HomeBanc N.A.
+ofxfail: '0'
+ofxhome_id: '1167'
+org: Harland - Cavion
+profile:
+  addr1: 3701 West Lake Mary Boulevard
+  bankmsgset: 'true'
+  city: Lake Mary
+  country: USA
+  csphone: 407-278-0270
+  email: tony.apicella@homebanc.com
+  finame: HomeBanc N.A.
+  postalcode: '32746'
+  signonmsgset: 'true'
+  state: FL
+  tsphone: 407-278-0270
+  url: http://www.homebanc.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

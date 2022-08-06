@@ -1,0 +1,19 @@
+fid: '267090594'
+name: BankUnited
+ofxfail: '0'
+ofxhome_id: '909'
+org: DI
+profile:
+  addr1: 7815 NW 148th Street
+  bankmsgset: 'true'
+  city: Miami Lakes
+  country: USA
+  csphone: 305-569-2000
+  email: ebanking@bankunited.com
+  finame: BankUnited
+  postalcode: '33016'
+  signonmsgset: 'true'
+  state: FL
+  tsphone: 305-569-2000
+  url: www.bankunitedonlinebanking.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

@@ -1,0 +1,19 @@
+fid: '253177887'
+name: Allegacy Federal Credit Union
+ofxfail: '0'
+ofxhome_id: '849'
+org: DI
+profile:
+  addr1: PO Box 26043
+  bankmsgset: 'true'
+  city: Winston-Salem
+  country: USA
+  csphone: 336-774-3400
+  email: allegacy@allegacyfcu.org
+  finame: Allegacy Federal Credit Union
+  postalcode: 27114-6043
+  signonmsgset: 'true'
+  state: NC
+  tsphone: 336-774-3400
+  url: www.allegacyfcu.org
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

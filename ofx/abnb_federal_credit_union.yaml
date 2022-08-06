@@ -1,0 +1,19 @@
+fid: '251481627'
+name: ABNB Federal Credit Union
+ofxfail: '1'
+ofxhome_id: '530'
+org: ABNB Federal Credit Union
+profile:
+  addr1: 830 Greenbrier Circle
+  bankmsgset: 'true'
+  city: Chesapeake
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 757-523-5300
+  email: services@abnb.org
+  postalcode: '23320'
+  signonmsgset: 'true'
+  state: VA
+  tsphone: 757-523-5300
+  url: http://www.abnbfcu.org
+url: https://cuathome.abnbfcu.org/scripts/isaofx.dll

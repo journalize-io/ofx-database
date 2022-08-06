@@ -1,0 +1,21 @@
+brokerid: oppenheimerfunds.com
+fid: '6726'
+name: Oppenheimer Funds
+ofxfail: '3'
+ofxhome_id: '1295'
+org: oppenheimerfunds.com
+profile:
+  addr1: Two World Financial Center
+  addr2: 225 Liberty Street
+  city: New York
+  country: USA
+  csphone: 1-888-470-0862
+  email: '2'
+  finame: Oppenheimer Funds
+  invstmtmsgset: 'true'
+  postalcode: '102811008'
+  seclistmsgset: 'true'
+  signonmsgset: 'true'
+  state: NY
+  url: www.oppenheimerfunds.com
+url: https://webofx.oppenheimerfunds.com/eftxweb/access.ofx

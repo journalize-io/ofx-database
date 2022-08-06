@@ -1,0 +1,19 @@
+fid: 011500858
+name: The Washington Trust Company
+ofxfail: '3'
+ofxhome_id: '1449'
+org: DI
+profile:
+  addr1: 23 Broad St
+  bankmsgset: 'true'
+  city: Westerly
+  country: USA
+  csphone: 401-348-1310
+  email: mrauh@washtrust.com
+  finame: The Washington Trust Company
+  postalcode: 02891
+  signonmsgset: 'true'
+  state: RI
+  tsphone: 401-348-1310
+  url: www.washingtontrust2.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

@@ -1,0 +1,21 @@
+fid: '5542'
+name: BankersTrust Co 769 PFM
+ofxfail: '0'
+ofxhome_id: '905'
+org: '769'
+profile:
+  addr1: 453 7th Street
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Des Moines
+  country: USA
+  csphone: 800-626-5761
+  email: bib@bankerstrust.com
+  emailmsgset: 'true'
+  finame: BankersTrust Co 769 PFM
+  interxfermsgset: 'true'
+  postalcode: '50309'
+  signonmsgset: 'true'
+  state: IA
+  url: http://www.bankerstrust.com
+url: https://pfm.metavante.com/ofx/OFXServlet

@@ -1,0 +1,17 @@
+fid: '4501'
+name: PNC Banking Online
+ofxfail: '0'
+ofxhome_id: '818'
+org: ISC
+profile:
+  addr1: P.O. Box 339
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Pittsburgh
+  country: USA
+  emailmsgset: 'true'
+  postalcode: '152309736'
+  signonmsgset: 'true'
+  state: PA
+  url: http://www.pncbank.com/
+url: https://www.oasis.cfree.com/4501.ofx

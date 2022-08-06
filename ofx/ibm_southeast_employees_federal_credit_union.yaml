@@ -1,0 +1,17 @@
+fid: '1779'
+name: IBM Southeast Employees Federal Credit Union
+ofxfail: '3'
+ofxhome_id: '696'
+org: IBM Southeast EFCU
+profile:
+  addr1: 790 Park of Commerce Blvd
+  bankmsgset: 'true'
+  city: Boca Raton
+  country: USA
+  csphone: '8008735100'
+  email: ktobias@ibmsecu.org
+  postalcode: '33487'
+  signonmsgset: 'true'
+  state: FL
+  url: https://rb.ibmsecu.org
+url: https://rb.ibmsecu.org/ofx/ofx.dll

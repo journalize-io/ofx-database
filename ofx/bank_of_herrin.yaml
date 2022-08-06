@@ -1,0 +1,19 @@
+fid: 081203318
+name: Bank of Herrin
+ofxfail: '0'
+ofxhome_id: '892'
+org: DI
+profile:
+  addr1: 101 S Park Avenue
+  bankmsgset: 'true'
+  city: Herrin
+  country: US
+  csphone: 618-942-6666
+  email: mymoney@bankofherrin.com
+  finame: Bank of Herrin
+  postalcode: '62948'
+  signonmsgset: 'true'
+  state: IL
+  tsphone: 618-942-6666
+  url: www.bankofherrin.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

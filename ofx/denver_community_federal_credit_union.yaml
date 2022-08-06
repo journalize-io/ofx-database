@@ -1,0 +1,17 @@
+fid: '10524'
+name: Denver Community Federal Credit Union
+ofxfail: '3'
+ofxhome_id: '683'
+org: Denver Community FCU
+profile:
+  addr1: 1075 Acoma Street
+  bankmsgset: 'true'
+  city: Denver
+  country: USA
+  csphone: '3035731170'
+  email: memberservices@dcfcu.coop
+  postalcode: '80204'
+  signonmsgset: 'true'
+  state: CO
+  url: http://www.dcfcu.coop
+url: https://pccu.dcfcu.coop/ofx/ofx.dll

@@ -1,0 +1,17 @@
+fid: '9909'
+name: Velocity Credit Union
+ofxfail: '3'
+ofxhome_id: '723'
+org: Velocity Credit Union
+profile:
+  addr1: P.O. Box 1089
+  bankmsgset: 'true'
+  city: Austin
+  country: USA
+  csphone: 512-469-7000
+  email: msc@velocitycu.com
+  postalcode: 78767-1089
+  signonmsgset: 'true'
+  state: TX
+  url: https://www.velocitycu.com
+url: https://rbserver.velocitycu.com/ofx/ofx.dll

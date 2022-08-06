@@ -1,0 +1,17 @@
+fid: '114'
+name: FAA Credit Union
+ofxfail: '3'
+ofxhome_id: '686'
+org: FAA Credit Union
+profile:
+  addr1: P.O. Box 26406
+  bankmsgset: 'true'
+  city: Oklahoma City
+  country: USA
+  csphone: 405-682-1990
+  email: info@faaecu.org
+  postalcode: '73126'
+  signonmsgset: 'true'
+  state: OK
+  url: https://flightline.faaecu.org
+url: https://flightline.faaecu.org/ofx/ofx.dll

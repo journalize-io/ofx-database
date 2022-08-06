@@ -1,0 +1,18 @@
+fid: '10491'
+name: JSC Federal Credit Union
+ofxfail: '1'
+ofxhome_id: '699'
+org: JSC Federal Credit Union
+profile:
+  addr1: 1330 Gemini
+  bankmsgset: 'true'
+  city: Houston
+  country: USA
+  csphone: 281-488-7070
+  email: webhelp@jscfcu.org
+  finame: JSC Federal Credit Union
+  postalcode: '77058'
+  signonmsgset: 'true'
+  state: TX
+  url: http://www.jscfcu.org
+url: https://starpclegacy.jscfcu.org/ofx/ofx.dll

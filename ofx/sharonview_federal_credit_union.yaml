@@ -1,0 +1,20 @@
+fid: '253075303'
+name: Sharonview Federal Credit Union
+ofxfail: '0'
+ofxhome_id: '1372'
+org: '1477'
+profile:
+  addr1: 1081 521 Corporate Ctr Dr
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Fort Mill
+  country: USA
+  csphone: (800)462-4421
+  email: eservices@sharonview.org
+  finame: Sharonview Federal Credit Union
+  postalcode: 29707-7151
+  signonmsgset: 'true'
+  state: SC
+  tsphone: (800)462-4421
+  url: www.sharonview.org/
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

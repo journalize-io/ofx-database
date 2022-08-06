@@ -1,0 +1,22 @@
+fid: MSBBSMS
+name: Magnolia State Bank
+ofxfail: '0'
+ofxhome_id: '1227'
+org: FundsXpress Financial Network
+profile:
+  addr1: P.O. Box 508
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Bay Springs
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 1-855-756-4431
+  email: info@themagnoliastatebank.com
+  emailmsgset: 'true'
+  finame: Magnolia State Bank
+  postalcode: '394220508'
+  signonmsgset: 'true'
+  state: MS
+  tsphone: 1-855-756-4431
+  url: https://www.bankmagnolia.com/
+url: https://ofx.fundsxpress.com/piles/ofx.pile/

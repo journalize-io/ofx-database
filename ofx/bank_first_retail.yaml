@@ -1,0 +1,18 @@
+fid: '1648'
+name: Bank First Retail
+ofxfail: '0'
+ofxhome_id: '907'
+org: olb-3408
+profile:
+  addr1: 1031 W Morse Blvd
+  bankmsgset: 'true'
+  city: Winter Park
+  country: USA
+  csphone: 888-370-5414
+  email: bankfirst@billsupport.com
+  finame: Bank First Retail
+  postalcode: '32789'
+  signonmsgset: 'true'
+  state: FL
+  url: http://www.bankfirst.com
+url: https://pfm.metavante.com/ofx/OFXServlet

@@ -1,0 +1,21 @@
+brokerid: nbofx.fidelity.com
+fid: '8288'
+name: Fidelity NetBenefits
+ofxfail: '0'
+ofxhome_id: '558'
+org: nbofx.fidelity.com
+profile:
+  addr1: Fidelity Investments
+  addr2: P.O. Box 55017
+  city: Boston
+  country: USA
+  csphone: 800-581-5800
+  finame: Fidelity NetBenefits
+  invstmtmsgset: 'true'
+  postalcode: '02205'
+  seclistmsgset: 'true'
+  signonmsgset: 'true'
+  state: MA
+  tsphone: 800-581-5800
+  url: http://www.401k.com
+url: https://nbofx.fidelity.com/netbenefits/ofx/download

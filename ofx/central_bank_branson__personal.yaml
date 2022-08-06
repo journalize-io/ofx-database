@@ -1,0 +1,20 @@
+fid: '166'
+name: Central Bank Branson - Personal
+ofxfail: '3'
+ofxhome_id: '1391'
+org: 081518375
+profile:
+  addr1: 400 South Business 65
+  bankmsgset: 'true'
+  city: Branson
+  country: USA
+  csphone: 800-752-3495
+  email: twilla_duvall@centralbank.net
+  emailmsgset: 'true'
+  finame: Central Bank Branson - Personal
+  postalcode: '65616'
+  signonmsgset: 'true'
+  state: MO
+  tsphone: 800-752-3495
+  url: https://www.centralbankbranson.net/
+url: https://ofx.centralbancompany.com/ofxserver/ofxsrvr.dll

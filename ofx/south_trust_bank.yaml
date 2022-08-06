@@ -1,0 +1,20 @@
+fid: '6101'
+name: South Trust Bank
+ofxfail: '0'
+ofxhome_id: '716'
+org: ISC
+profile:
+  addr1: South Trust Online Banking
+  addr2: P.O. Box 2554
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Birmingham
+  country: USA
+  creditcardmsgset: 'true'
+  emailmsgset: 'true'
+  finame: South Trust Bank
+  postalcode: '35290'
+  signonmsgset: 'true'
+  state: AL
+  url: http://www.southtrust.com
+url: https://www.oasis.cfree.com/fip/genesis/prod/06101.ofx

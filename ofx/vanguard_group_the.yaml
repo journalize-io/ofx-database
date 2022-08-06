@@ -1,0 +1,23 @@
+brokerid: vanguard.com
+fid: '15103'
+name: Vanguard Group, The
+ofxfail: '3'
+ofxhome_id: '479'
+org: Vanguard
+profile:
+  addr1: P.O. Box 1110
+  bankmsgset: 'true'
+  city: Valley Forge
+  country: USA
+  csphone: 1-212-723-2898
+  email: alex_shnir@smb.com
+  emailmsgset: 'true'
+  finame: Vanguard
+  invstmtmsgset: 'true'
+  postalcode: 19482-1110
+  seclistmsgset: 'true'
+  signonmsgset: 'true'
+  state: PA
+  tsphone: 1-212-723-2898
+  url: https://vesnc.vanguard.com/us/OfxDirectConnectServlet
+url: https://vesnc.vanguard.com/us/OfxDirectConnectServlet

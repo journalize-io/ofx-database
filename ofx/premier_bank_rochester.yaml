@@ -1,0 +1,18 @@
+fid: '1597'
+name: Premier Bank Rochester
+ofxfail: '0'
+ofxhome_id: '1329'
+org: olb-3397
+profile:
+  addr1: 421 1st Avenue SW
+  bankmsgset: 'true'
+  city: Rochester
+  country: USA
+  csphone: 800-772-6497
+  email: billpay@premierbanks.com
+  finame: Premier Bank Rochester
+  postalcode: '55902'
+  signonmsgset: 'true'
+  state: MN
+  url: http://www.premierbanks.com
+url: https://pfm.metavante.com/ofx/OFXServlet

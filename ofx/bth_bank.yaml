@@ -1,0 +1,22 @@
+fid: BTQTX
+name: BTH Bank
+ofxfail: '0'
+ofxhome_id: '937'
+org: FundsXpress
+profile:
+  addr1: P.O. Box 7220
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Tyler
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 800-947-0142
+  email: noreply@bthbank.com
+  emailmsgset: 'true'
+  finame: BTH Bank
+  postalcode: '75711'
+  signonmsgset: 'true'
+  state: TX
+  tsphone: 800-947-0142
+  url: http://www.bthbank.com
+url: https://ofx.fundsxpress.com/piles/ofx.pile/

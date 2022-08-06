@@ -1,0 +1,19 @@
+fid: 5XU5P
+name: APPALACHIAN COMMUNITY FCU
+ofxfail: '3'
+ofxhome_id: '869'
+org: Appalachian Community FCU
+profile:
+  addr1: 460 WEST CENTER ST
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: KINGSPORT
+  country: US
+  csphone: '8003783778'
+  emailmsgset: 'true'
+  finame: APPALACHIAN COMMUNITY FCU
+  postalcode: '37660'
+  signonmsgset: 'true'
+  state: TN
+  url: http://10.37.1.46:44300/myacfcu/cgi-bin/ebs
+url: https://www.netit.financial-net.com/ofx

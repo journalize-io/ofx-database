@@ -1,0 +1,23 @@
+fid: CKBSJLA
+name: Cross Keys Bank
+ofxfail: '0'
+ofxhome_id: '1030'
+org: FundsXpress Financial, Inc
+profile:
+  addr1: Operations Dept.
+  addr2: 1401 Hudson Lane
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Monroe
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: (888)766-3246
+  email: postmaster@crosskeys.bank
+  emailmsgset: 'true'
+  finame: Cross Keys Bank
+  postalcode: '71201'
+  signonmsgset: 'true'
+  state: LA
+  tsphone: (888)766-3246
+  url: http://www.crosskeys.bank
+url: https://ofx.fundsxpress.com/piles/ofx.pile/

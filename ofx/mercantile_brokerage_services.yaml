@@ -1,0 +1,19 @@
+brokerid: mercbrokerage.com
+fid: '011'
+name: Mercantile Brokerage Services
+ofxfail: '3'
+ofxhome_id: '461'
+org: Mercantile Brokerage
+profile:
+  addr1: 620 Liberty Avenue
+  city: Pittsburgh
+  country: USA
+  csphone: 1-800-762-6111
+  email: Michael.ley@pnc.com
+  invstmtmsgset: 'true'
+  postalcode: '15222'
+  signonmsgset: 'true'
+  state: PA
+  tsphone: '-'
+  url: http://www.pnc.com
+url: https://ofx.netxclient.com/cgi/OFXNetx

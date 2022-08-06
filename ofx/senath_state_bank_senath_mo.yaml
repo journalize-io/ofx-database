@@ -1,0 +1,20 @@
+fid: '35796'
+name: Senath State Bank Senath, MO
+ofxfail: '0'
+ofxhome_id: '1368'
+org: Cavion
+profile:
+  addr1: 117 East Commercial Street
+  addr2: PO Box 790
+  bankmsgset: 'true'
+  city: Senath
+  country: USA
+  csphone: 800.738.7528
+  email: customerservice@senathstatebank.com
+  finame: Senath State Bank Senath, MO
+  postalcode: '63876'
+  signonmsgset: 'true'
+  state: MO
+  tsphone: 800.738.7528
+  url: www.senathstatebank.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

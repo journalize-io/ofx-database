@@ -1,0 +1,21 @@
+fid: '3000'
+name: Wells Fargo
+ofxfail: '0'
+ofxhome_id: '473'
+org: WF
+profile:
+  addr1: P.O. Box 6808
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Concord
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 1-800-956-4442
+  emailmsgset: 'true'
+  finame: Wells Fargo Bank
+  postalcode: '94524'
+  signonmsgset: 'true'
+  state: CA
+  tsphone: 1-800-956-4442
+  url: https://online.wellsfargo.com/
+url: https://ofxdc.wellsfargo.com/ofx/process.ofx

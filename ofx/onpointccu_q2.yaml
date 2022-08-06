@@ -1,0 +1,19 @@
+fid: '16936'
+name: OnPointCCU Q2
+ofxfail: '0'
+ofxhome_id: '1293'
+org: OnPointCCU Q2
+profile:
+  addr1: 2701 N.W. Vaughn
+  addr2: Suite 800
+  bankmsgset: 'true'
+  city: Portland
+  country: USA
+  csphone: '8005273932'
+  finame: OnPointCCU Q2
+  postalcode: '97210'
+  signonmsgset: 'true'
+  state: OR
+  tsphone: '8005273932'
+  url: https://secure.onpointcu.com/5123_DirectConnect/ofx.ashx
+url: https://secure.onpointcu.com/5123_DirectConnect/ofx.ashx

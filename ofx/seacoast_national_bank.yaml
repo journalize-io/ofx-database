@@ -1,0 +1,21 @@
+fid: '5543'
+name: Seacoast National Bank
+ofxfail: '0'
+ofxhome_id: '1362'
+org: '422'
+profile:
+  addr1: 815 Colorado Ave
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Stuart
+  country: USA
+  csphone: 800-706-9991
+  email: customerservice@seacoastnational.com
+  emailmsgset: 'true'
+  finame: Seacoast National Bank
+  interxfermsgset: 'true'
+  postalcode: '34994'
+  signonmsgset: 'true'
+  state: FL
+  url: www.seacoastnational.com
+url: https://pfm.metavante.com/ofx/OFXServlet

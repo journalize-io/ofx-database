@@ -1,0 +1,19 @@
+fid: '15268'
+name: Affinity Plus Federal Credit Union-New
+ofxfail: '3'
+ofxhome_id: '810'
+org: Affinity Plus Federal Credit Uni
+profile:
+  addr1: 175 West Lafayette Frontage Road
+  bankmsgset: 'true'
+  city: St. Paul
+  country: USA
+  csphone: 800-322-7228
+  email: affinityplus@affinityplus.org
+  finame: Affinity Plus FCU
+  postalcode: '55107'
+  signonmsgset: 'true'
+  state: MN
+  tsphone: 651-291-3700
+  url: https://www.affinityplus.org
+url: https://mobile.affinityplus.org/OFX/OFXServer.aspx

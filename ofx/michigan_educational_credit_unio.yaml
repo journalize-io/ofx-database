@@ -1,0 +1,22 @@
+fid: '62538'
+name: Michigan Educational Credit Unio
+ofxfail: '1'
+ofxhome_id: '1245'
+org: MECU
+profile:
+  addr1: 9200 Haggerty Road
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Pymouth
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 888-261-3355
+  email: general@michedcu.org
+  emailmsgset: 'true'
+  finame: Michigan Educational Credit Unio
+  postalcode: '48170'
+  signonmsgset: 'true'
+  state: MI
+  tsphone: 888-261-3355
+  url: http://online.michedcu.org
+url: https://online.michedcu.org/ofx/ofx.ofx

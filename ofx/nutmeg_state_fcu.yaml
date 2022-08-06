@@ -1,0 +1,19 @@
+fid: '18123'
+name: Nutmeg State FCU
+ofxfail: '0'
+ofxhome_id: '1279'
+org: Nutmeg State FCU
+profile:
+  addr1: 521 Cromwell Avenue, P.o. Box
+  bankmsgset: 'true'
+  city: Rocky Hill
+  country: USA
+  csphone: 800-526-6933
+  email: croldan@nutmegstatefcu.org
+  finame: Nutmeg State FCU
+  postalcode: '06067'
+  signonmsgset: 'true'
+  state: CN
+  tsphone: 800-526-6933
+  url: http://www.nutmegstatefcu.org
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

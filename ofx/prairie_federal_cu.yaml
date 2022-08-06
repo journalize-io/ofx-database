@@ -1,0 +1,19 @@
+fid: '4574'
+name: Prairie Federal CU
+ofxfail: '0'
+ofxhome_id: '1326'
+org: Prairie Federal CU
+profile:
+  addr1: 1430 South Broadway
+  bankmsgset: 'true'
+  city: Minot
+  country: USA
+  csphone: 701-837-5353
+  email: pfcumindee@srt.com
+  finame: Prairie Federal CU
+  postalcode: '58702'
+  signonmsgset: 'true'
+  state: ND
+  tsphone: 701-837-5353
+  url: http://www.prairiefcu.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

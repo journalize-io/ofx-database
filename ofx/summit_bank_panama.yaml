@@ -1,0 +1,18 @@
+fid: '1915'
+name: Summit Bank Panama
+ofxfail: '0'
+ofxhome_id: '1406'
+org: mfis-1915
+profile:
+  addr1: 101 West 23rd Street
+  bankmsgset: 'true'
+  city: Panama City
+  country: USA
+  csphone: 1-866-263-0598
+  email: summitbankna@billsupport.com
+  finame: Summit Bank Panama
+  postalcode: '32405'
+  signonmsgset: 'true'
+  state: FL
+  url: http://www.summitbankna.com
+url: https://pfm.metavante.com/ofx/OFXServlet

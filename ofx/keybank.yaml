@@ -1,0 +1,20 @@
+fid: '5901'
+name: KeyBank
+ofxfail: '0'
+ofxhome_id: '453'
+org: KeyBank
+profile:
+  addr1: 333 North Summit Street
+  addr2: 11th Floor
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Toledo
+  country: USA
+  creditcardmsgset: 'true'
+  emailmsgset: 'true'
+  finame: Key Bank
+  postalcode: '43604'
+  signonmsgset: 'true'
+  state: OH
+  url: http://www.keybank.com
+url: https://www.oasis.cfree.com/fip/genesis/prod/05901.ofx

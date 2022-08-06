@@ -1,0 +1,19 @@
+fid: '55869'
+name: Health Care Credit Union-UT
+ofxfail: '0'
+ofxhome_id: '1157'
+org: Health Care Credit Union
+profile:
+  addr1: 769 East South Temple
+  bankmsgset: 'true'
+  city: Salt Lake City
+  country: USA
+  csphone: 801-322-2252
+  email: cuhelp@myhccu.org
+  finame: Health Care Credit Union-UT
+  postalcode: '84102'
+  signonmsgset: 'true'
+  state: UT
+  tsphone: 801-322-2252
+  url: http://www.myhccu.org
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

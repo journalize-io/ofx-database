@@ -1,0 +1,16 @@
+fid: '26810'
+name: Sears Card
+ofxfail: '3'
+ofxhome_id: '715'
+org: CITIGROUP
+profile:
+  addr1: 8787 Baypine Road
+  city: Jacksonville
+  country: USA
+  creditcardmsgset: 'true'
+  finame: Sears
+  postalcode: '32256'
+  signonmsgset: 'true'
+  state: FL
+  url: www.citicards.com
+url: https://www.accountonline.com/cards/svc/CitiOfxManager.do

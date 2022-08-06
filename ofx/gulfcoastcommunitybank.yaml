@@ -1,0 +1,20 @@
+fid: '5526'
+name: GulfCoastCommunityBank
+ofxfail: '0'
+ofxhome_id: '1147'
+org: 090
+profile:
+  addr1: 40 North Palafox St
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Pensacola
+  country: USA
+  creditcardmsgset: 'true'
+  emailmsgset: 'true'
+  finame: GulfCoastCommunityBank
+  interxfermsgset: 'true'
+  postalcode: '32502'
+  signonmsgset: 'true'
+  state: FL
+  url: http://www.mygulfbank.com
+url: https://pfm.metavante.com/ofx/OFXServlet

@@ -1,0 +1,20 @@
+fid: '061103276'
+name: The Brand Banking Company
+ofxfail: '3'
+ofxhome_id: '1425'
+org: DI
+profile:
+  addr1: 1255 Lakes Parkway
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Lawrenceville
+  country: USA
+  csphone: 770-963-9225
+  email: '2'
+  finame: The Brand Banking Company
+  postalcode: '30046'
+  signonmsgset: 'true'
+  state: GA
+  tsphone: 770-963-9225
+  url: www.thebrandbank.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

@@ -1,0 +1,22 @@
+fid: '1165'
+name: AmegyBank
+ofxfail: '0'
+ofxhome_id: '786'
+org: 292-3
+profile:
+  addr1: 4400 Post Oak Parkway
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Houston
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: '18885018157'
+  email: amegypfm@amegybank.com
+  emailmsgset: 'true'
+  interxfermsgset: 'true'
+  postalcode: '77027'
+  signonmsgset: 'true'
+  state: TX
+  tsphone: '18885018157'
+  url: www.amegybank.com
+url: https://pfm.metavante.com/ofx/OFXServlet

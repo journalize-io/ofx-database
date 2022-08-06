@@ -1,0 +1,19 @@
+fid: '45792'
+name: UCF FCU
+ofxfail: '0'
+ofxhome_id: '1473'
+org: Cavion
+profile:
+  addr1: 12253 CHALLENGER PARKWAY
+  bankmsgset: 'true'
+  city: Orlando
+  country: USA
+  csphone: '4072490008'
+  email: info@ucffedcu.org
+  finame: UCF FCU
+  postalcode: '32826'
+  signonmsgset: 'true'
+  state: FL
+  tsphone: '4072490008'
+  url: www.ucffedcu.org
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

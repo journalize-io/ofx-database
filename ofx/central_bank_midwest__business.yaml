@@ -1,0 +1,20 @@
+fid: '769'
+name: Central Bank Midwest - Business
+ofxfail: '3'
+ofxhome_id: '1243'
+org: '101201892'
+profile:
+  addr1: 609 North 291 Highway
+  bankmsgset: 'true'
+  city: Lee?s Summit
+  country: USA
+  csphone: 866-777-8101
+  email: twilla_duvall@centralbank.net
+  emailmsgset: 'true'
+  finame: Central Bank Midwest - Business
+  postalcode: '64086'
+  signonmsgset: 'true'
+  state: MO
+  tsphone: 866-777-8101
+  url: https://www.centralbankmidwest.net/
+url: https://ofx.centralbancompany.com/ofxserver/ofxsrvr.dll

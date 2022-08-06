@@ -1,0 +1,8 @@
+brokerid: '1142'
+fid: '1142'
+name: Alaska Air Visa (Bank of America)
+ofxfail: '3'
+ofxhome_id: '796'
+org: BofA
+profile: {}
+url: https://akairvisa.iglooware.com/visa.php

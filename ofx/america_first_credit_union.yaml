@@ -1,0 +1,20 @@
+fid: '1001'
+name: America First Credit Union
+ofxfail: '0'
+ofxhome_id: '533'
+org: AFCU
+profile:
+  addr1: PO Box 9199
+  bankmsgset: 'true'
+  city: Ogden
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 1-800-999-3961
+  email: noreply@americafirst.com
+  finame: AFCU
+  postalcode: '84409'
+  signonmsgset: 'true'
+  state: UT
+  tsphone: 1-866-224-2158
+  url: https://www.americafirst.com
+url: https://webaccess.americafirst.com/Ofx/process.ofx

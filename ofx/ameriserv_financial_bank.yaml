@@ -1,0 +1,20 @@
+fid: '031301066'
+name: AmeriServ Financial Bank
+ofxfail: '0'
+ofxhome_id: '864'
+org: DI
+profile:
+  addr1: 216 Franklin Street
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Johnstown
+  country: USA
+  csphone: 814-533-5300
+  email: onlineadmin@ameriserv.com
+  finame: AmeriServ Financial Bank
+  postalcode: '15901'
+  signonmsgset: 'true'
+  state: PA
+  tsphone: 814-533-5300
+  url: www.ameriservonlinebank.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

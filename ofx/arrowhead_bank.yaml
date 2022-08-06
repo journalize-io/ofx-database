@@ -1,0 +1,22 @@
+fid: X2ZABLT
+name: Arrowhead Bank
+ofxfail: '3'
+ofxhome_id: '872'
+org: FundsXpress
+profile:
+  addr1: 108 W Sandstone
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Llano
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 325-247-5741
+  email: info@arrowheadbanktexas.com
+  emailmsgset: 'true'
+  finame: Arrowhead Bank
+  postalcode: '78643'
+  signonmsgset: 'true'
+  state: TX
+  tsphone: 325-247-5741
+  url: http://www.arrowheadbanktexas.com
+url: https://ofx.fundsxpress.com/piles/ofx.pile/

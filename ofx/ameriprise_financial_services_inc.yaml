@@ -1,0 +1,21 @@
+brokerid: ameriprise.com
+fid: '3102'
+name: Ameriprise Financial Services, Inc.
+ofxfail: '3'
+ofxhome_id: '489'
+org: AMPF
+profile:
+  addr1: 70400 Ameriprise Financial Ctr.
+  city: Minneapolis
+  country: USA
+  csphone: 1-800-297-8800
+  email: broker@ampf.com
+  finame: Ameriprise Brokerage
+  invstmtmsgset: 'true'
+  postalcode: '55474'
+  seclistmsgset: 'true'
+  signonmsgset: 'true'
+  state: MN
+  tsphone: 1-800-297-SERV
+  url: http://www.ameriprise.com
+url: https://www25.ameriprise.com/AMPFWeb/ofxdl/us/download?request_type=nl_desktopdownload

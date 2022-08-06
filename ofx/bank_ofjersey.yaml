@@ -1,0 +1,22 @@
+fid: BNJFLNJ
+name: Bank ofJersey
+ofxfail: '3'
+ofxhome_id: '895'
+org: FundsXpress
+profile:
+  addr1: 1365 Palisade Ave
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Fort Lee
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 201-627-5995
+  email: info@bonj.net
+  emailmsgset: 'true'
+  finame: Bank of New Jersey
+  postalcode: '07024'
+  signonmsgset: 'true'
+  state: NJ
+  tsphone: 201-627-5995
+  url: http://www.bonj.net
+url: https://ofx.fundsxpress.com/piles/ofx.pile/

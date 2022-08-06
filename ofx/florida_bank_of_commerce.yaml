@@ -1,0 +1,22 @@
+fid: FBCOFL
+name: Florida Bank of Commerce
+ofxfail: '0'
+ofxhome_id: '1112'
+org: FundsXpress
+profile:
+  addr1: P.O. Box 3033
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Orlando
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: (407)246-7772 or (321)751-6999 A
+  email: info@fbcbank.com
+  emailmsgset: 'true'
+  finame: Florida Bank of Commerce
+  postalcode: '32801'
+  signonmsgset: 'true'
+  state: FL
+  tsphone: (407)246-7772 or (321)751-6999 A
+  url: http://www.fbcbank.com
+url: https://ofx.fundsxpress.com/piles/ofx.pile/

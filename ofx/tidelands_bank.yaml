@@ -1,0 +1,18 @@
+fid: '7350'
+name: Tidelands Bank
+ofxfail: '0'
+ofxhome_id: '1455'
+org: mfis-7350
+profile:
+  addr1: 875 Low Country Blvd.
+  bankmsgset: 'true'
+  city: Mount Pleasant
+  country: USA
+  csphone: 866-224-2852
+  email: tidelandsbank@billsupport.com
+  finame: Tidelands Bank
+  postalcode: '29464'
+  signonmsgset: 'true'
+  state: SC
+  url: www.tidelandsbank.com
+url: https://pfm.metavante.com/ofx/OFXServlet

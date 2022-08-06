@@ -1,0 +1,22 @@
+fid: '62523'
+name: Central Valley Community Bank
+ofxfail: '3'
+ofxhome_id: '971'
+org: CVCB
+profile:
+  addr1: 7100 N Financial Dr Ste 101
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Fresno
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 800-298-1775
+  email: ebsupport@cvcb.com
+  emailmsgset: 'true'
+  finame: Central Valley Community Bank
+  postalcode: '93720'
+  signonmsgset: 'true'
+  state: CA
+  tsphone: 800-298-1775
+  url: https://www.cvcb.com
+url: https://olb.cvcb.com/ofx/ofx.ofx

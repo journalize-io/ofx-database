@@ -1,0 +1,22 @@
+brokerid: dstsystems.com
+fid: null
+name: AIM Investments
+ofxfail: '0'
+ofxhome_id: '497'
+org: null
+profile:
+  addr1: 11 Greenway Plaze Suite 100
+  bankmsgset: 'true'
+  city: Houston
+  country: USA
+  csphone: 816.345.7645
+  email: service@americancentury.com
+  finame: AIM Investments
+  invstmtmsgset: 'true'
+  postalcode: '77046'
+  seclistmsgset: 'true'
+  signonmsgset: 'true'
+  state: TX
+  tsphone: 816.345.7645
+  url: https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=3000812
+url: https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=3000812

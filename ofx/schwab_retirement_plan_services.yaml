@@ -1,0 +1,21 @@
+brokerid: www.401kaccess.com
+fid: '11811'
+name: Schwab Retirement Plan Services
+ofxfail: '1'
+ofxhome_id: '750'
+org: The 401k Company
+profile:
+  addr1: 98 San Jacinto Blvd.
+  addr2: Suite 1100
+  city: Austin
+  country: USA
+  csphone: (800) 777-4015
+  email: partserv@the401k.com
+  invstmtmsgset: 'true'
+  postalcode: '78701'
+  seclistmsgset: 'true'
+  signonmsgset: 'true'
+  state: TX
+  tsphone: (800) 777-4015
+  url: http://www.the401k.com
+url: https://ofx1.401kaccess.com

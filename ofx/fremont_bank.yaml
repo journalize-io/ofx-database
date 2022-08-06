@@ -1,0 +1,19 @@
+fid: '121107882'
+name: Fremont Bank
+ofxfail: '1'
+ofxhome_id: '556'
+org: Fremont Bank
+profile:
+  addr1: 39150 Fremont Blvd.
+  bankmsgset: 'true'
+  city: Fremont
+  country: USA
+  csphone: (510) 505-5226
+  email: bankinfo@fremontbank.com
+  emailmsgset: 'true'
+  postalcode: '94538'
+  signonmsgset: 'true'
+  state: CA
+  tsphone: (510) 505-5226
+  url: http://www.fremontbank.com
+url: https://ofx.fremontbank.com/OFXServer/FBOFXSrvr.dll

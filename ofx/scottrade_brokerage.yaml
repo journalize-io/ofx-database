@@ -1,0 +1,20 @@
+brokerid: www.scottrade.com
+fid: '777'
+name: Scottrade Brokerage
+ofxfail: '1'
+ofxhome_id: '808'
+org: Scottrade
+profile:
+  addr1: 12855 Flushing Meadows Dr.
+  city: St. Louis
+  country: USA
+  csphone: 314.965.1555
+  email: support@scottrade.com
+  invstmtmsgset: 'true'
+  postalcode: '63131'
+  seclistmsgset: 'true'
+  signonmsgset: 'true'
+  state: MO
+  tsphone: 314.965.1555
+  url: http://www.scottrade.com
+url: https://ofx.scottrade.com

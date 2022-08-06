@@ -1,0 +1,20 @@
+fid: '253075028'
+name: Charlotte Metro Credit Union
+ofxfail: '0'
+ofxhome_id: '980'
+org: CMCUDC
+profile:
+  addr1: 718 Central Ave
+  bankmsgset: 'true'
+  city: Charlotte
+  country: USA
+  csphone: 704-375-0183
+  email: info@cmcu.org
+  emailmsgset: 'true'
+  finame: Charlotte Metro Federal Credit Union
+  postalcode: '28204'
+  signonmsgset: 'true'
+  state: NC
+  tsphone: 704-375-0183
+  url: https://cmcu.org
+url: https://mobile.cmcu.org/OFXServer/ofxsrvr.dll

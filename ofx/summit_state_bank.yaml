@@ -1,0 +1,19 @@
+fid: '1789'
+name: Summit State Bank
+ofxfail: '0'
+ofxhome_id: '1407'
+org: mfis-1789
+profile:
+  addr1: 500 Bicentenial Way
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Santa Rosa
+  country: USA
+  csphone: 707.283.1120
+  email: billpaysupport@summitstatebank.com
+  finame: Summit State Bank
+  postalcode: '95403'
+  signonmsgset: 'true'
+  state: CA
+  url: www.summitstatebank.com
+url: https://pfm.metavante.com/ofx/OFXServlet

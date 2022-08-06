@@ -1,0 +1,20 @@
+brokerid: investments.citi.com
+fid: '060'
+name: Citi Personal Wealth Management
+ofxfail: '0'
+ofxhome_id: '671'
+org: Citigroup
+profile:
+  addr1: Long Island City
+  city: New York
+  country: USA
+  csphone: 877-541-1852
+  email: '-'
+  finame: Citi Personal Wealth Management
+  invstmtmsgset: 'true'
+  postalcode: '11120'
+  signonmsgset: 'true'
+  state: NY
+  tsphone: 877-541-1852
+  url: http://www.investments.citi.com/pwm
+url: https://uat-ofx.netxclient.inautix.com/cgi/OFXNetx

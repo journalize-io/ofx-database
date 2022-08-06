@@ -1,0 +1,19 @@
+fid: 071925826
+name: First Trust Bank of Illinois
+ofxfail: '3'
+ofxhome_id: '1109'
+org: DI
+profile:
+  addr1: 275 East Court Street
+  bankmsgset: 'true'
+  city: Kankakee
+  country: USA
+  csphone: (815)929-4001 Ext 233
+  email: customerservice@firsttrustbankil
+  finame: First Trust Bank of Illinois
+  postalcode: '60901'
+  signonmsgset: 'true'
+  state: IL
+  tsphone: (815)929-4001 Ext 233
+  url: www.tempfirsttrustbankil.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

@@ -1,0 +1,20 @@
+fid: '221283512'
+name: Affinity Federal Credit Union
+ofxfail: '0'
+ofxhome_id: '846'
+org: DI
+profile:
+  addr1: 73 Mountain View Blvd
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Basking Ridge
+  country: USA
+  csphone: 800-325-0808
+  email: '2'
+  finame: Affinity Federal Credit Union
+  postalcode: 07920
+  signonmsgset: 'true'
+  state: NJ
+  tsphone: 800-325-0808
+  url: www.affinityfcu.org
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

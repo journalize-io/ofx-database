@@ -1,0 +1,22 @@
+fid: '5511'
+name: CrystalLakeBankNTrust
+ofxfail: '0'
+ofxhome_id: '1031'
+org: '600'
+profile:
+  addr1: 70 N. Williams Street
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Crystal Lake
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 800-436-2922
+  email: customer_service@crystallakebank.com
+  emailmsgset: 'true'
+  finame: CrystalLakeBankNTrust
+  interxfermsgset: 'true'
+  postalcode: '60014'
+  signonmsgset: 'true'
+  state: IL
+  url: http://www.crystallakebank.com
+url: https://pfm.metavante.com/ofx/OFXServlet

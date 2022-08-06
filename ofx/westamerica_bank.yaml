@@ -1,0 +1,19 @@
+fid: '121140218'
+name: Westamerica Bank
+ofxfail: '0'
+ofxhome_id: '1506'
+org: DI
+profile:
+  addr1: 4560 Mangels Boulevard
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Fairfield
+  country: USA
+  csphone: 800-829-8629
+  email: '2'
+  finame: Westamerica Bank
+  postalcode: '94585'
+  signonmsgset: 'true'
+  state: CA
+  url: www.westamericabankonline.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

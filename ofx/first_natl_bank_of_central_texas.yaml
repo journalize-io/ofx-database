@@ -1,0 +1,18 @@
+fid: '7373'
+name: First Natl Bank of Central Texas
+ofxfail: '0'
+ofxhome_id: '1095'
+org: mfis-7373
+profile:
+  addr1: 1835 N. Valley Mills Dr.
+  bankmsgset: 'true'
+  city: Waco
+  country: USA
+  csphone: 254-772-9330
+  email: customerservice@fnbct.com
+  finame: First Natl Bank of Central Texas
+  postalcode: '76710'
+  signonmsgset: 'true'
+  state: TX
+  url: www.fnbct.com
+url: https://pfm.metavante.com/ofx/OFXServlet

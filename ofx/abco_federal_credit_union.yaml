@@ -1,0 +1,19 @@
+fid: '57147'
+name: ABCO Federal Credit Union
+ofxfail: '0'
+ofxhome_id: '841'
+org: Cavion
+profile:
+  addr1: PO Box 247
+  bankmsgset: 'true'
+  city: Rancocas
+  country: USA
+  csphone: 800 225-1859
+  email: bensonc@goabco.org
+  finame: ABCO Federal Credit Union
+  postalcode: 08073
+  signonmsgset: 'true'
+  state: NJ
+  tsphone: 800 225-1859
+  url: http://www.goabco.org/
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

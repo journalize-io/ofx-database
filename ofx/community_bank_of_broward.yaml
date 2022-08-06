@@ -1,0 +1,19 @@
+fid: '10305'
+name: Community Bank of Broward
+ofxfail: '0'
+ofxhome_id: '1013'
+org: London Bridge Phoenix Software
+profile:
+  addr1: 1991 Stirling Road
+  bankmsgset: 'true'
+  city: Dania Beach
+  country: USA
+  csphone: '9543428686'
+  email: support@communitybankof broward.com
+  finame: Community Bank of Broward
+  postalcode: '33004'
+  signonmsgset: 'true'
+  state: FL
+  tsphone: '9543428686'
+  url: http://www.communitybankofbroward.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

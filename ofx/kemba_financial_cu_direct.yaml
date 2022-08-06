@@ -1,0 +1,20 @@
+fid: '244077556'
+name: KEMBA Financial CU Direct
+ofxfail: '3'
+ofxhome_id: '1196'
+org: KEMBA
+profile:
+  addr1: 555 Officenter Place
+  bankmsgset: 'true'
+  city: Gahanna
+  country: USA
+  csphone: 800-282-6420
+  email: service@kemba.org
+  emailmsgset: 'true'
+  finame: KEMBA Financial CU Direct
+  postalcode: '43230'
+  signonmsgset: 'true'
+  state: OH
+  tsphone: 614-235-2395
+  url: www.kemba.org
+url: https://ofx.kemba.org/OFXServer/ofxsrvr.dll

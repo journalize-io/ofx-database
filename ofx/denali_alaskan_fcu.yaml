@@ -1,0 +1,17 @@
+fid: '1'
+name: Denali Alaskan FCU
+ofxfail: '3'
+ofxhome_id: '443'
+org: Denali Alaskan FCU
+profile:
+  addr1: P.O. BOX 2351
+  bankmsgset: 'true'
+  city: Sacramento
+  country: USA
+  csphone: 916 444 6070
+  email: info@sactocu.org
+  postalcode: '95812'
+  signonmsgset: 'true'
+  state: CA
+  url: https://homebank.sactocu.org
+url: https://remotebanking.denalifcu.com/ofx/ofx.dll

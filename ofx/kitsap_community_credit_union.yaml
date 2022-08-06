@@ -1,0 +1,20 @@
+fid: '325180223'
+name: Kitsap Community Credit Union
+ofxfail: '1'
+ofxhome_id: '728'
+org: Kitsap Community Federal Credit
+profile:
+  addr1: 155 Washington Ave
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Bremerton
+  country: USA
+  csphone: 800-422-5852
+  email: '2'
+  finame: Kitsap Credit Union
+  postalcode: '98337'
+  signonmsgset: 'true'
+  state: WA
+  tsphone: 800-422-5852
+  url: www.kitsapcuhb.org
+url: https://ofxdi.diginsite.com/cmr/cmr.ofx

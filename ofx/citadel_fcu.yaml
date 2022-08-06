@@ -1,0 +1,19 @@
+fid: citadel
+name: Citadel FCU
+ofxfail: '1'
+ofxhome_id: '477'
+org: CitadelFCU
+profile:
+  addr1: 3030 Zinn Road
+  bankmsgset: 'true'
+  city: Thorndale
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 610-380-6000
+  email: info@citadelfcu.org
+  postalcode: '19372'
+  signonmsgset: 'true'
+  state: PA
+  tsphone: 610-380-6000
+  url: https://www.citadelfcu.org
+url: https://pcu.citadelfcu.org/scripts/isaofx.dll

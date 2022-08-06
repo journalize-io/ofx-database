@@ -1,0 +1,19 @@
+fid: '56757'
+name: German American Business Online
+ofxfail: '0'
+ofxhome_id: '1131'
+org: gabc
+profile:
+  addr1: 711 Main Street
+  bankmsgset: 'true'
+  city: Jasper
+  country: USA
+  csphone: 800-482-1314, ext 2500
+  email: treasurysupport@germanamerican.com
+  finame: German American Business Online
+  postalcode: '475463042'
+  signonmsgset: 'true'
+  state: IN
+  tsphone: 800-482-1314, ext 2500
+  url: https://www.germanamerican.com/business-banking/treasury-management
+url: https://ebofx.aciondemand.com/ebofx1/ofx/ofx

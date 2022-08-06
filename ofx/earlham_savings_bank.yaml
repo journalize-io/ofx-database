@@ -1,0 +1,17 @@
+fid: '49659'
+name: Earlham Savings Bank
+ofxfail: '0'
+ofxhome_id: '1048'
+org: Automated Systems, Inc.
+profile:
+  addr1: 7300 Lake Drive
+  bankmsgset: 'true'
+  city: West Des Moines
+  country: USA
+  email: onlinehelp@earlhambank.com
+  finame: Earlham Savings Bank
+  postalcode: '50266'
+  signonmsgset: 'true'
+  state: IA
+  url: https://onlinebanking.earlhambank.com/
+url: https://onlinebanking.earlhambank.com/pages/olb.ofx.1_0_3.axd

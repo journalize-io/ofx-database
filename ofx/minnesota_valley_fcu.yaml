@@ -1,0 +1,19 @@
+fid: '3444'
+name: Minnesota Valley FCU
+ofxfail: '0'
+ofxhome_id: '1253'
+org: Cavion
+profile:
+  addr1: 1640 Adams Street
+  bankmsgset: 'true'
+  city: Mankato
+  country: USA
+  csphone: '5073873055'
+  email: onlinealert@mnvalleyfcu.coop
+  finame: Minnesota Valley FCU
+  postalcode: '56001'
+  signonmsgset: 'true'
+  state: MN
+  tsphone: '5073873055'
+  url: http://www.mnvalleyfcu.coop
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

@@ -1,0 +1,17 @@
+fid: '51348'
+name: Kingsley State Bank
+ofxfail: '3'
+ofxhome_id: '1199'
+org: Kingsley State Bank
+profile:
+  addr1: 1 East 2nd Street
+  bankmsgset: 'true'
+  city: Kingsley
+  country: USA
+  email: ksb@kingsleybank.com
+  finame: Kingsley State Bank
+  postalcode: 51028-7705
+  signonmsgset: 'true'
+  state: IA
+  url: https://onlinebanking.kingsleybank.com/
+url: https://onlinebanking.kingsleybank.com/pages/olb.ofx.1_0_3.axd

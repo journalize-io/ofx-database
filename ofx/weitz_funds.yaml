@@ -1,0 +1,8 @@
+brokerid: weitz.com
+fid: weitz.com
+name: Weitz Funds
+ofxfail: '1'
+ofxhome_id: '616'
+org: weitz.com
+profile: {}
+url: https://www3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=52204081925

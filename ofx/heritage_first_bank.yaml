@@ -1,0 +1,20 @@
+fid: 061192481
+name: Heritage First Bank
+ofxfail: '3'
+ofxhome_id: '1162'
+org: DI
+profile:
+  addr1: 205 E First Ave
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Rome
+  country: USA
+  csphone: 706-378-3974
+  email: '2'
+  finame: Heritage First Bank
+  postalcode: '30161'
+  signonmsgset: 'true'
+  state: GA
+  tsphone: 706-378-3974
+  url: www.heritagefirstbank.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

@@ -1,0 +1,22 @@
+brokerid: msdw.com
+fid: '1235'
+name: Morgan Stanley ClientServ - Quicken Win Format
+ofxfail: '0'
+ofxhome_id: '806'
+org: msdw.com
+profile:
+  addr1: 1 New York Plaza
+  addr2: 11th Floor
+  city: New York
+  country: USA
+  csphone: (800) 531-1596
+  email: clientservfeedback@morganstanley
+  finame: Morgan Stanley
+  invstmtmsgset: 'true'
+  postalcode: '10004'
+  seclistmsgset: 'true'
+  signonmsgset: 'true'
+  state: NY
+  tsphone: (800) 531-1596
+  url: www.morganstanleyclientserv.com
+url: https://ofx.morganstanleyclientserv.com/ofx/QuickenWinProfile.ofx

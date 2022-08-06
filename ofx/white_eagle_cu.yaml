@@ -1,0 +1,18 @@
+fid: 64HXI
+name: WHITE EAGLE CU
+ofxfail: '3'
+ofxhome_id: '1511'
+org: White Eagle Credit Union
+profile:
+  addr1: 2830 OHIO ST
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: AUGUSTA
+  country: US
+  emailmsgset: 'true'
+  finame: WHITE EAGLE CU
+  postalcode: '67010'
+  signonmsgset: 'true'
+  state: KS
+  url: http://10.37.1.46:44300/awecu/cgi-bin/ebs1
+url: https://www.netit.financial-net.com/ofx

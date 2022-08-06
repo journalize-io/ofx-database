@@ -1,0 +1,19 @@
+fid: '255074988'
+name: COMSTAR FCU
+ofxfail: '3'
+ofxhome_id: '441'
+org: Comstar Federal Credit Union
+profile:
+  addr1: 22601-A Gateway Center Drive
+  bankmsgset: 'true'
+  city: Clarksburg
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 855-436-4100
+  email: mail@comstarfcu.org
+  postalcode: '20871'
+  signonmsgset: 'true'
+  state: MD
+  tsphone: 855-436-4100
+  url: http://www.comstarfcu.org/
+url: https://pcu.comstarfcu.org/scripts/isaofx.dll

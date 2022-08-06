@@ -1,0 +1,21 @@
+fid: '93'
+name: Haverhill Bank
+ofxfail: '1'
+ofxhome_id: '757'
+org: orcc
+profile:
+  addr1: 180 Merrimack Street
+  addr2: P.O. Box 1656
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Haverhill
+  country: USA
+  csphone: (800) 686-2831
+  email: ebanking@haverhillbank.com
+  emailmsgset: 'true'
+  postalcode: 01830
+  signonmsgset: 'true'
+  state: MA
+  tsphone: (800) 686-2831
+  url: http://www.haverhillbank.com
+url: https://www20.onlinebank.com/OROFX16Listener

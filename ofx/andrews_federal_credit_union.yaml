@@ -1,0 +1,22 @@
+fid: AFCUSMD
+name: Andrews Federal Credit Union
+ofxfail: '0'
+ofxhome_id: '670'
+org: FundsXpress
+profile:
+  addr1: 5711 Allentown Road
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Suitland
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 800.487.5500 (U.S.) 0.800.487.56
+  email: memberservice@andrewsfcu.org
+  emailmsgset: 'true'
+  finame: Andrews Federal Credit Union
+  postalcode: '20746'
+  signonmsgset: 'true'
+  state: MD
+  tsphone: 800.487.5500 (U.S.) 0.800.487.56
+  url: http://www.andrewsfcu.org
+url: https://ofx.fundsxpress.com/piles/ofx.pile/

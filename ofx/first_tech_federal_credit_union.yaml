@@ -1,0 +1,20 @@
+fid: '3169'
+name: First Tech Federal Credit Union
+ofxfail: '0'
+ofxhome_id: '731'
+org: First Tech Federal Credit Union
+profile:
+  addr1: 3408 Hillview Ave
+  bankmsgset: 'true'
+  city: Palo Alto
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 877.233.4766
+  email: email@firsttechfed.com
+  finame: First Tech Federal Credit Union
+  postalcode: '94304'
+  signonmsgset: 'true'
+  state: CA
+  tsphone: 877.233.4766
+  url: https://www.firsttechfed.com
+url: https://ofx.firsttechfed.com

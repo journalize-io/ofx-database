@@ -1,0 +1,19 @@
+fid: '211371502'
+name: buryport Five Cents Sv Bank
+ofxfail: '0'
+ofxhome_id: '1269'
+org: DI
+profile:
+  addr1: 63 State Street
+  bankmsgset: 'true'
+  city: Newburyport
+  country: USA
+  csphone: 978-462-3136
+  email: ebank@newburyportbank.com
+  finame: Newburyport Five Cents Sv Bank
+  postalcode: 01950
+  signonmsgset: 'true'
+  state: MA
+  tsphone: 978-462-3136
+  url: www.newburyportbank.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

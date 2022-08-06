@@ -1,0 +1,19 @@
+fid: '10139'
+name: Think Mutual Bank
+ofxfail: '3'
+ofxhome_id: '812'
+org: JackHenry
+profile:
+  addr1: 5200 Members Parkway NW
+  addr2: Rochester MN  55903
+  bankmsgset: 'true'
+  city: ROCHESTER
+  country: USA
+  csphone: (800) 288-3425
+  email: think@thinkbank.com
+  postalcode: '559010000'
+  signonmsgset: 'true'
+  state: MN
+  tsphone: 800-288-3425
+  url: https://www.thinkbank.com
+url: https://directline2.netteller.com

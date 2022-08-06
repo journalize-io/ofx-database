@@ -1,0 +1,22 @@
+fid: RCBUT
+name: Rock Canyon Bank
+ofxfail: '0'
+ofxhome_id: '1350'
+org: FundsXpress, Inc
+profile:
+  addr1: 215 W 2230 N
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Provo
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 801-426-0150 or After Hours 866-
+  email: ebankingsupport@rockcanyonbank.com
+  emailmsgset: 'true'
+  finame: Rock Canyon Bank
+  postalcode: '84604'
+  signonmsgset: 'true'
+  state: UT
+  tsphone: 801-426-0150 or After Hours 866-
+  url: http://www.rockcanyonbank.com
+url: https://ofx.fundsxpress.com/piles/ofx.pile/

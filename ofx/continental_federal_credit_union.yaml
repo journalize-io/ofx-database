@@ -1,0 +1,7 @@
+fid: '322077559'
+name: Continental Federal Credit Union
+ofxfail: '1'
+ofxhome_id: '555'
+org: Continenetal FCU
+profile: {}
+url: https://cnt.usersonlnet.com/scripts/isaofx.dll

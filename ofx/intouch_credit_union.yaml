@@ -1,0 +1,19 @@
+fid: 003U1
+name: INTOUCH CREDIT UNION
+ofxfail: '3'
+ofxhome_id: '1183'
+org: InTouch Credit Union
+profile:
+  addr1: 5640 DEMOCRACY DRIVE
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: PLANO
+  country: US
+  csphone: '80033733285'
+  emailmsgset: 'true'
+  finame: INTOUCH CREDIT UNION
+  postalcode: '75024'
+  signonmsgset: 'true'
+  state: TX
+  url: http://10.37.1.46:44300/itcu/cgi-bin/ebs1
+url: https://www.netit.financial-net.com/ofx

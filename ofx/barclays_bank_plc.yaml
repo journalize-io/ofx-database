@@ -1,0 +1,20 @@
+fid: 069
+name: Barclays Bank Plc.
+ofxfail: '0'
+ofxhome_id: '912'
+org: Barclays Bank Plc.
+profile:
+  addr1: Barclays Wealth & Investment Mgm
+  addr2: 200 Park Avenue, 4th Floor
+  city: MetLife Building 45th Street NY
+  country: United States
+  csphone: 800 392 5000
+  email: '-'
+  finame: Barclays Bank Plc.
+  invstmtmsgset: 'true'
+  postalcode: '10019'
+  signonmsgset: 'true'
+  state: NY
+  tsphone: '-'
+  url: '-'
+url: https://ofx.netxclient.com/NxcOFXServer/InvestmentDownload

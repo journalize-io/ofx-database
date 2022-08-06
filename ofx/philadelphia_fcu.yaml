@@ -1,0 +1,20 @@
+fid: '236084298'
+name: Philadelphia FCU
+ofxfail: '0'
+ofxhome_id: '1313'
+org: DI
+profile:
+  addr1: 12800 Townsend Road
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Philadelphia
+  country: USA
+  csphone: 215-934-3500
+  email: '2'
+  finame: Philadelphia FCU
+  postalcode: '19154'
+  signonmsgset: 'true'
+  state: PA
+  tsphone: 215-934-3500
+  url: www.tellernetpfcu.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

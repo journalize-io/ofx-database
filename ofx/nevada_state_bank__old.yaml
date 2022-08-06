@@ -1,0 +1,20 @@
+fid: '5401'
+name: Nevada State Bank - OLD
+ofxfail: '0'
+ofxhome_id: '708'
+org: ISC
+profile:
+  addr1: Online Banking Support
+  addr2: PO Box 30709
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Salt Lake City
+  country: USA
+  creditcardmsgset: 'true'
+  emailmsgset: 'true'
+  finame: Zions Bank
+  postalcode: '841309976'
+  signonmsgset: 'true'
+  state: UT
+  url: http://www.zionsbank.com/
+url: https://www.oasis.cfree.com/fip/genesis/prod/05401.ofx

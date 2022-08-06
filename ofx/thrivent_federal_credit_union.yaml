@@ -1,0 +1,20 @@
+fid: 075972147
+name: Thrivent Federal Credit Union
+ofxfail: '3'
+ofxhome_id: '1454'
+org: DI
+profile:
+  addr1: 122 E College Ave, Ste 1E
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Appleton
+  country: USA
+  csphone: 1(866)226-5225
+  email: Cu@thrivent.com
+  finame: Thrivent Federal Credit Union
+  postalcode: 54911-5741
+  signonmsgset: 'true'
+  state: WI
+  tsphone: 1(866)226-5225
+  url: www.thriventcu.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

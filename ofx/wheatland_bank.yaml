@@ -1,0 +1,22 @@
+fid: WBSWA
+name: Wheatland Bank
+ofxfail: '3'
+ofxhome_id: '1509'
+org: FundsXpress Network Inc.
+profile:
+  addr1: 222 N. Wall Street, Suite 308
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Spokane
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: (855)806-1795
+  email: webcustomerservice@wheatlandbank.com
+  emailmsgset: 'true'
+  finame: Wheatland Bank
+  postalcode: '99201'
+  signonmsgset: 'true'
+  state: WA
+  tsphone: (855)806-1795
+  url: http://www.wheatlandbank.com
+url: https://ofx.fundsxpress.com/piles/ofx.pile/

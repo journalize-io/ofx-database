@@ -1,0 +1,20 @@
+fid: '211691127'
+name: England FCU
+ofxfail: '3'
+ofxhome_id: '1268'
+org: DI
+profile:
+  addr1: 141 Harvest Ln
+  addr2: PO BOX 527
+  bankmsgset: 'true'
+  city: Williston
+  country: USA
+  csphone: (802)879-8790
+  email: online@nefcu.com
+  finame: New England FCU
+  postalcode: 05495-7331
+  signonmsgset: 'true'
+  state: VT
+  tsphone: (802)879-8790
+  url: www.nefcumc.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

@@ -1,0 +1,19 @@
+fid: 073920926
+name: Randall Story Bank
+ofxfail: '0'
+ofxhome_id: '1343'
+org: DI
+profile:
+  addr1: 606 Broad St
+  bankmsgset: 'true'
+  city: Story City
+  country: USA
+  csphone: 515-733-4396
+  email: info@randallstory.com
+  finame: Randall Story Bank
+  postalcode: '50248'
+  signonmsgset: 'true'
+  state: IA
+  tsphone: 515-733-4396
+  url: www.randallstory.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

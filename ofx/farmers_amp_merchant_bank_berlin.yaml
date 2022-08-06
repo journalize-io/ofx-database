@@ -1,0 +1,20 @@
+fid: 075910921
+name: Farmers &amp; Merchant Bank Berlin
+ofxfail: '0'
+ofxhome_id: '1071'
+org: DI
+profile:
+  addr1: 123 W Huron St
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Berlin
+  country: USA
+  csphone: (920)361-5005
+  email: OnlineSupport@fmberlin.com
+  finame: Farmers & Merchant Bank Berlin
+  postalcode: '54923'
+  signonmsgset: 'true'
+  state: WI
+  tsphone: (920)361-5005
+  url: www.fmberlin.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

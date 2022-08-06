@@ -1,0 +1,22 @@
+brokerid: ariel.com
+fid: null
+name: Ariel Mutual Funds
+ofxfail: '0'
+ofxhome_id: '566'
+org: DST
+profile:
+  addr1: 816 Broadway
+  bankmsgset: 'true'
+  city: Kansas City
+  country: USA
+  csphone: 816.345.7645
+  email: service@americancentury.com
+  finame: Ariel
+  invstmtmsgset: 'true'
+  postalcode: '64105'
+  seclistmsgset: 'true'
+  signonmsgset: 'true'
+  state: MO
+  tsphone: 816.345.7645
+  url: https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=50017080411
+url: https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=50017080411

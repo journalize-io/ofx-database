@@ -1,0 +1,22 @@
+brokerid: '102'
+fid: '7479'
+name: Woodsboro Bank
+ofxfail: '3'
+ofxhome_id: '779'
+org: JackHenry
+profile:
+  addr1: P O Box 36
+  addr2: Woodsboro, MD  21798
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: WOODSBORO
+  country: USA
+  csphone: (301) 898-4000
+  email: customerservice@woodsborobank.com
+  finame: Woodsboro Bank
+  postalcode: '217980036'
+  signonmsgset: 'true'
+  state: MD
+  tsphone: 301-898-4000
+  url: http://www.woodsborobank.com
+url: https://directline.netteller.com/

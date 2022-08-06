@@ -1,0 +1,20 @@
+fid: '102305098'
+name: Rocky Mountain Bank
+ofxfail: '0'
+ofxhome_id: '1351'
+org: DI
+profile:
+  addr1: 2515 Foothill Blvd
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Rock Springs
+  country: USA
+  csphone: 307-362-1234
+  email: '2'
+  finame: Rocky Mountain Bank
+  postalcode: '82901'
+  signonmsgset: 'true'
+  state: WY
+  tsphone: 307-362-1234
+  url: www.rockymountainbank.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

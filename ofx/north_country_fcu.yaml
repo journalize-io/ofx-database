@@ -1,0 +1,21 @@
+fid: '211691004'
+name: North Country FCU
+ofxfail: '1'
+ofxhome_id: '754'
+org: DI
+profile:
+  addr1: 69 Swift St
+  addr2: Ste 100
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: S. Burlington
+  country: USA
+  csphone: 800-660-3258
+  email: memberservices@northcountry.org
+  finame: NorthCountry FCU
+  postalcode: '05403'
+  signonmsgset: 'true'
+  state: VT
+  tsphone: 800-660-3258
+  url: www.northcountry.org
+url: https://ofxdi.diginsite.com/cmr/cmr.ofx

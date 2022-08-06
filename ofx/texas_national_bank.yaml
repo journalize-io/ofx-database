@@ -1,0 +1,22 @@
+fid: TNBSTX
+name: Texas National Bank
+ofxfail: '3'
+ofxhome_id: '1421'
+org: FundsXpress
+profile:
+  addr1: P.O. Box 510
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Sweetwater
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: (325)235-4997
+  email: webmaster@tnbnetbank.com
+  emailmsgset: 'true'
+  finame: Texas National Bank
+  postalcode: '79556'
+  signonmsgset: 'true'
+  state: TX
+  tsphone: (325)235-4997
+  url: http://www.tnbnetbank.com
+url: https://ofx.fundsxpress.com/piles/ofx.pile/

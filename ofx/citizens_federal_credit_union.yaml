@@ -1,0 +1,20 @@
+fid: '55989'
+name: Citizens Federal Credit Union
+ofxfail: '0'
+ofxhome_id: '991'
+org: Cavion
+profile:
+  addr1: P.O. BOX 425
+  addr2: 701 East FM700
+  bankmsgset: 'true'
+  city: Big Spring
+  country: USA
+  csphone: 1-432-267-6373
+  email: memberservices@citizensfcu.com
+  finame: Citizens Federal Credit Union
+  postalcode: '79721'
+  signonmsgset: 'true'
+  state: TX
+  tsphone: 1-432-267-6373
+  url: http://www.citizensfcu.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

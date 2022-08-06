@@ -1,0 +1,18 @@
+fid: '061121025'
+name: Atlantic Capital Bank
+ofxfail: '0'
+ofxhome_id: '876'
+org: MSevenSixty
+profile:
+  addr1: 3280 Peachtree Road NW Suite 190
+  bankmsgset: 'true'
+  city: Atlanta
+  country: USA
+  csphone: (877) 764-2265
+  email: noreply@atlanticcapitalbank.com
+  finame: Atlantic Capital Bank
+  postalcode: '30305'
+  signonmsgset: 'true'
+  state: GA
+  url: www.atlanticcapitalbank.com
+url: https://ofx1.evault.ws/ofxserver/ofxsrvr.dll

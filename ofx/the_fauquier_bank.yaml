@@ -1,0 +1,18 @@
+fid: 051402259
+name: The Fauquier Bank
+ofxfail: '0'
+ofxhome_id: '1431'
+org: MEightFiveZero
+profile:
+  addr1: 10 Courthouse Square
+  bankmsgset: 'true'
+  city: Warrenton
+  country: USA
+  csphone: 540-347-2700
+  email: noreply@thefauquierbank.com
+  finame: The Fauquier Bank
+  postalcode: '20188'
+  signonmsgset: 'true'
+  state: VA
+  url: https://ofx1.evault.ws/OFXServer/ofxsrvr.dll
+url: https://ofx1.evault.ws/ofxserver/ofxsrvr.dll

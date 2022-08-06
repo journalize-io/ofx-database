@@ -1,0 +1,20 @@
+fid: '6507'
+name: Standard Federal Bank
+ofxfail: '0'
+ofxhome_id: '717'
+org: ISC
+profile:
+  addr1: 79 W. Monroe, Suite 302
+  addr2: Online Banking Customer Service
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Chicago
+  country: USA
+  creditcardmsgset: 'true'
+  emailmsgset: 'true'
+  finame: Standard Federal Bank
+  postalcode: '60603'
+  signonmsgset: 'true'
+  state: IL
+  url: http://www.standardfederalbank.com
+url: https://www.oasis.cfree.com/fip/genesis/prod/06507.ofx

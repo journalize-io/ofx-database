@@ -1,0 +1,18 @@
+fid: '255077370'
+name: Tower Federal Credit Union
+ofxfail: '0'
+ofxhome_id: '769'
+org: DI
+profile:
+  addr1: 7901 Sandy Spring Road
+  bankmsgset: 'true'
+  city: Laurel
+  country: US
+  csphone: (301)497-7000
+  email: '2'
+  finame: Tower Federal Credit Union
+  postalcode: 20707-3589
+  signonmsgset: 'true'
+  state: MD
+  url: www.towerfcu.org
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

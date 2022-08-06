@@ -1,0 +1,19 @@
+fid: '54354'
+name: PSECU
+ofxfail: '3'
+ofxhome_id: '539'
+org: Teknowledge
+profile:
+  addr1: 1 Credit Union Place
+  bankmsgset: 'true'
+  city: Harrisburg
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: (800) 237-7328
+  email: support@psecu.com
+  postalcode: '17110'
+  signonmsgset: 'true'
+  state: PA
+  tsphone: (717) 772-2272
+  url: http://www.psecu.com
+url: https://ofx.psecu.com/servlet/OFXServlet

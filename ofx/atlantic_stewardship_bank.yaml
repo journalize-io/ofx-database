@@ -1,0 +1,19 @@
+fid: 021206582
+name: Atlantic Stewardship Bank
+ofxfail: '0'
+ofxhome_id: '877'
+org: DI
+profile:
+  addr1: 630 Godwin Ave
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Midland Park
+  country: US
+  csphone: (201)444-7100
+  email: jchichelo@asbnow.com
+  finame: Atlantic Stewardship Bank
+  postalcode: 07432-1405
+  signonmsgset: 'true'
+  state: NJ
+  url: www.asbnow.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

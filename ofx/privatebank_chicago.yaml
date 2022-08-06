@@ -1,0 +1,22 @@
+fid: '5518'
+name: PrivateBank Chicago
+ofxfail: '0'
+ofxhome_id: '1444'
+org: '992'
+profile:
+  addr1: 120 South LaSalle Street
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Chicago
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 312-564-6800
+  email: ClientServices@cibc.com
+  emailmsgset: 'true'
+  finame: CIBC Bank USA
+  interxfermsgset: 'true'
+  postalcode: '60603'
+  signonmsgset: 'true'
+  state: IL
+  url: https://us.cibc.com
+url: https://pfm.metavante.com/ofx/OFXServlet

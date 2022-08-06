@@ -1,0 +1,21 @@
+brokerid: '111903151'
+fid: '111903151'
+name: Citizens National Bank
+ofxfail: '1'
+ofxhome_id: '768'
+org: DI
+profile:
+  addr1: 201 W. Main Street
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Henderson
+  country: USA
+  csphone: 877-566-2621
+  email: n/a
+  finame: Citizens National Bank
+  postalcode: 75653-1009
+  signonmsgset: 'true'
+  state: CA
+  tsphone: 877-566-2621
+  url: www.cnbtexas.com
+url: https://ofxdi.diginsite.com/cmr/cmr.ofx

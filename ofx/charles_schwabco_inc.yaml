@@ -1,0 +1,22 @@
+brokerid: SCHWAB.COM
+fid: '5104'
+name: Charles Schwab&Co., INC
+ofxfail: '3'
+ofxhome_id: '433'
+org: ISC
+profile:
+  addr1: 211 Main St
+  bankmsgset: 'true'
+  city: San Francisco
+  country: USA
+  csphone: 1-212-723-2898
+  email: alex_shnir@smb.com
+  finame: Charles Schwab & Co., Inc.
+  invstmtmsgset: 'true'
+  postalcode: '94105'
+  seclistmsgset: 'true'
+  signonmsgset: 'true'
+  state: CA
+  tsphone: 1-212-723-2898
+  url: WWW.SCHWAB.COM
+url: https://ofx.schwab.com/cgi_dev/ofx_server

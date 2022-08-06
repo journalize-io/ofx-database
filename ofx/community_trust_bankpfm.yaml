@@ -1,0 +1,21 @@
+fid: '5553'
+name: Community Trust Bank-PFM
+ofxfail: '0'
+ofxhome_id: '1299'
+org: '144'
+profile:
+  addr1: 1511 M Trenton St
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Ruston
+  country: USA
+  csphone: 888-292-4037
+  email: ctb1@ctbonline.com
+  emailmsgset: 'true'
+  finame: Community Trust Bank-PFM
+  interxfermsgset: 'true'
+  postalcode: '71270'
+  signonmsgset: 'true'
+  state: LA
+  url: https://www.ctbonline.com
+url: https://pfm.metavante.com/ofx/

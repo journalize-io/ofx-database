@@ -1,0 +1,19 @@
+fid: '19653'
+name: Citizens Alliance Bank
+ofxfail: '0'
+ofxhome_id: '989'
+org: Cavion
+profile:
+  addr1: PO Box 430
+  bankmsgset: 'true'
+  city: Clara City
+  country: USA
+  csphone: '3208471549'
+  email: customerservice@cabankmn.com
+  finame: Citizens Alliance Bank
+  postalcode: '56222'
+  signonmsgset: 'true'
+  state: MN
+  tsphone: '3208471549'
+  url: http://www.csbcc.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

@@ -1,0 +1,7 @@
+fid: '031176110'
+name: ING DIRECT
+ofxfail: '3'
+ofxhome_id: '658'
+org: ING DIRECT
+profile: {}
+url: https://ofx.ingdirect.com/OFX/ofx.html

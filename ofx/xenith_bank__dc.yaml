@@ -1,0 +1,7 @@
+fid: '1546'
+name: Xenith Bank - DC
+ofxfail: '0'
+ofxhome_id: '1519'
+org: s7x
+profile: {}
+url: https://pfm.metavante.com/ofx/OFXServlet

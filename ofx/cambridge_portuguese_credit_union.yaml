@@ -1,0 +1,20 @@
+fid: '983'
+name: Cambridge Portuguese Credit Union
+ofxfail: '1'
+ofxhome_id: '677'
+org: orcc
+profile:
+  addr1: 493 Somerville Avenue
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Somerville
+  country: USA
+  csphone: (877) 793-1440
+  email: info@orcc.com
+  emailmsgset: 'true'
+  postalcode: '02143'
+  signonmsgset: 'true'
+  state: MA
+  tsphone: (877) 793-1440
+  url: http://www.naveo.org
+url: https://www20.onlinebank.com/OROFX16Listener

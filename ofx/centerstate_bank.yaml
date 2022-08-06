@@ -1,0 +1,20 @@
+fid: '1942'
+name: CenterState Bank
+ofxfail: '1'
+ofxhome_id: '773'
+org: ORCC
+profile:
+  addr1: 1101 First Street South
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Winter Haven
+  country: USA
+  csphone: 800-786-7749
+  email: estaton@centerstatebank.com
+  emailmsgset: 'true'
+  postalcode: '33880'
+  signonmsgset: 'true'
+  state: FL
+  tsphone: 800-786-7749
+  url: http://www.centerstatebank.com
+url: https://www20.onlinebank.com/OROFX16Listener

@@ -1,0 +1,20 @@
+fid: '18702'
+name: First Bank
+ofxfail: '0'
+ofxhome_id: '1080'
+org: Cavion
+profile:
+  addr1: 300 East Sugarland Highway
+  addr2: PO Box 1237
+  bankmsgset: 'true'
+  city: Clewiston
+  country: USA
+  csphone: '8639838191'
+  email: info@fbclew.com
+  finame: First Bank
+  postalcode: '33440'
+  signonmsgset: 'true'
+  state: FL
+  tsphone: '8639838191'
+  url: https://online.first1bank.net
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

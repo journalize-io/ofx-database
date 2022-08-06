@@ -1,0 +1,19 @@
+fid: '18006'
+name: Winston Salem FCU
+ofxfail: '0'
+ofxhome_id: '1515'
+org: Cavion
+profile:
+  addr1: 711 Salem Ave
+  bankmsgset: 'true'
+  city: Winston-Salem
+  country: USA
+  csphone: 336-727-2663
+  email: trishs@wscecu.org
+  finame: Winston Salem FCU
+  postalcode: '27101'
+  signonmsgset: 'true'
+  state: CO
+  tsphone: 336-727-2663
+  url: https://www.wscecu.org
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

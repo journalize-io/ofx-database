@@ -1,0 +1,21 @@
+fid: '188'
+name: First Command Bank
+ofxfail: '1'
+ofxhome_id: '766'
+org: First Command Bank
+profile:
+  addr1: 4100 South Hulen
+  addr2: Suite 150
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Fort Worth
+  country: USA
+  csphone: (888) 763-7600
+  email: ebd@firstcommandbank.com
+  emailmsgset: 'true'
+  postalcode: '76109'
+  signonmsgset: 'true'
+  state: TX
+  tsphone: (888) 763-7600
+  url: http://www.firstcommandbank.com
+url: https://www19.onlinebank.com/OROFX16Listener

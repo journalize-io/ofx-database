@@ -1,0 +1,23 @@
+brokerid: optionxpress.com
+fid: '10876'
+name: OptionsXpress, Inc
+ofxfail: '1'
+ofxhome_id: '565'
+org: '10876'
+profile:
+  addr1: P. O. Box 2197
+  bankmsgset: 'true'
+  city: Chicago
+  country: USA
+  csphone: 1-212-723-2898
+  email: alex_shnir@smb.com
+  invstmtmsgset: 'true'
+  notes: Short sales may be imported as regular sell transactions Mutual fund purchases
+    may show up as dividend reinvestments Other transaction types may be mis-labeled
+  postalcode: 60690-2197
+  seclistmsgset: 'true'
+  signonmsgset: 'true'
+  state: Il
+  tsphone: 1-212-723-2898
+  url: https://ofx.optionsxpress.com/cgi-bin/ox.exe
+url: https://ofx.optionsxpress.com/cgi-bin/ox.exe

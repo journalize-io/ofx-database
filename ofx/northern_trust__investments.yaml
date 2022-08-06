@@ -1,0 +1,20 @@
+brokerid: northerntrust.com
+fid: '6028'
+name: Northern Trust - Investments
+ofxfail: '3'
+ofxhome_id: '507'
+org: Northern Trust Investments
+profile:
+  addr1: 50 South LaSalle Street
+  city: Chicago
+  country: USA
+  csphone: 888-635-5350
+  email: www.northerntrust.com
+  invstmtmsgset: 'true'
+  postalcode: '60675'
+  seclistmsgset: 'true'
+  signonmsgset: 'true'
+  state: IL
+  tsphone: 888-635-5350
+  url: https://web-xp1-ofx.ntrs.com/ofx/ofxservlet
+url: https://www3883.ntrs.com/nta/ofxservlet?accounttypegroup=INV

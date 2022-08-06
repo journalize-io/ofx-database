@@ -1,0 +1,16 @@
+fid: '8888'
+name: Charles Schwab &amp; Co., Inc.
+ofxfail: '3'
+ofxhome_id: '979'
+org: Intuit
+profile:
+  addr1: 211 Main St
+  city: San Francisco
+  country: USA
+  finame: Charles Schwab & Co., Inc.
+  invstmtmsgset: 'true'
+  postalcode: '94105'
+  signonmsgset: 'true'
+  state: CA
+  url: WWW.SCHWAB.COM
+url: https://ofx.schwab.com/cgi_dev/ofx_server

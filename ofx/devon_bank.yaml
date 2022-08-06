@@ -1,0 +1,19 @@
+fid: '10263'
+name: Devon Bank
+ofxfail: '0'
+ofxhome_id: '1044'
+org: Cavion
+profile:
+  addr1: 6445 North Western Avenue
+  bankmsgset: 'true'
+  city: Chicago
+  country: USA
+  csphone: '8668633866'
+  email: ebanking@devonbank.com
+  finame: Devon Bank
+  postalcode: '60654'
+  signonmsgset: 'true'
+  state: IL
+  tsphone: '8668633866'
+  url: http://www.devonbank.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

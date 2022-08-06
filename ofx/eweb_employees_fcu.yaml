@@ -1,0 +1,20 @@
+fid: '64272'
+name: EWEB Employees FCU
+ofxfail: '0'
+ofxhome_id: '1069'
+org: Cavion
+profile:
+  addr1: 388 Pearl Street
+  addr2: Ste 1
+  bankmsgset: 'true'
+  city: Eugene
+  country: USA
+  csphone: 541-484-5304
+  email: ewebcu@myewebcu.org
+  finame: EWEB Employees FCU
+  postalcode: '97440'
+  signonmsgset: 'true'
+  state: OR
+  tsphone: 541-484-5304
+  url: http://www.myewebcu.org/
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

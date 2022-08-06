@@ -1,0 +1,20 @@
+fid: '011600020'
+name: Merchants Bank
+ofxfail: '0'
+ofxhome_id: '1239'
+org: DI
+profile:
+  addr1: 275 Kennedy Drive
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: South Burlington
+  country: USA
+  csphone: 1-800-322-5222
+  email: custserv@mbvt.com
+  finame: Merchants Bank
+  postalcode: '05403'
+  signonmsgset: 'true'
+  state: VT
+  tsphone: 1-800-322-5222
+  url: www.mbvt.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

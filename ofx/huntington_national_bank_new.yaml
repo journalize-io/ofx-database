@@ -1,0 +1,22 @@
+brokerid: '1548'
+fid: '3701'
+name: Huntington National Bank New
+ofxfail: '3'
+ofxhome_id: '832'
+org: huntington
+profile:
+  addr1: 41 S. High St
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Columbus
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 1-877-932-BANK (2265)
+  email: support@huntington.com
+  emailmsgset: 'true'
+  finame: Huntington
+  postalcode: '43612'
+  signonmsgset: 'true'
+  state: OH
+  url: https://onlinebanking.huntington.com
+url: https://ofx.huntington.com/Ofx/process.ofx

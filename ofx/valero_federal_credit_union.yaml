@@ -1,0 +1,19 @@
+fid: '314092128'
+name: Valero Federal Credit Union
+ofxfail: '0'
+ofxhome_id: '1414'
+org: DI
+profile:
+  addr1: One Valero Way
+  bankmsgset: 'true'
+  city: San Antonio
+  country: USA
+  csphone: 210-345-2222
+  email: '2'
+  finame: Valero Federal Credit Union
+  postalcode: '78249'
+  signonmsgset: 'true'
+  state: TX
+  tsphone: 210-345-2222
+  url: www.valerofcu.org
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

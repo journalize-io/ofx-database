@@ -1,0 +1,19 @@
+fid: '53952'
+name: Ukrainian Future CU
+ofxfail: '0'
+ofxhome_id: '1476'
+org: Cavion
+profile:
+  addr1: 26495 Ryan Rd
+  bankmsgset: 'true'
+  city: Warren
+  country: USA
+  csphone: '5867571980'
+  email: info@ukrfutcu.org
+  finame: Ukrainian Future CU
+  postalcode: '48091'
+  signonmsgset: 'true'
+  state: MI
+  tsphone: '5867571980'
+  url: www.ukrfutcu.org
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

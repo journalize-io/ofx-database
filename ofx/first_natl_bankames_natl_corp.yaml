@@ -1,0 +1,20 @@
+fid: 073902274
+name: First Natl Bank-Ames Natl Corp
+ofxfail: '0'
+ofxhome_id: '1093'
+org: DI
+profile:
+  addr1: 405 5th Street
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Ames
+  country: USA
+  csphone: 515-232-5561
+  email: '2'
+  finame: First Natl Bank-Ames Natl Corp
+  postalcode: '50010'
+  signonmsgset: 'true'
+  state: IA
+  tsphone: 515-232-5561
+  url: www.fnbames.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

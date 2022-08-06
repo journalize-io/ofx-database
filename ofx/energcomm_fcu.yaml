@@ -1,0 +1,19 @@
+fid: '24480'
+name: EnerGComm FCU
+ofxfail: '0'
+ofxhome_id: '1060'
+org: Cavion
+profile:
+  addr1: 2100 Harrison Avenue
+  bankmsgset: 'true'
+  city: Butte
+  country: USA
+  csphone: 406-782-2139
+  email: support@energcomm.org
+  finame: EnerGComm FCU
+  postalcode: '59702'
+  signonmsgset: 'true'
+  state: MT
+  tsphone: 406-782-2139
+  url: http://www.energcomm.org
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

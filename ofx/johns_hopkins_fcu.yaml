@@ -1,0 +1,18 @@
+fid: '22506'
+name: Johns Hopkins FCU
+ofxfail: '0'
+ofxhome_id: '1192'
+org: Connect
+profile:
+  addr1: 2027 E Monument Street
+  bankmsgset: 'true'
+  city: Baltimore
+  country: USA
+  csphone: (410)534-4500
+  email: jhfcu-g@jhfcu.org
+  finame: Johns Hopkins FCU
+  postalcode: '21287'
+  signonmsgset: 'true'
+  state: MD
+  url: https://www.jhfcu.org/
+url: https://ofxjhfcu.connectfssonline.com/ofxrqst.aspx

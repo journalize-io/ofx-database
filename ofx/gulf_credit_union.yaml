@@ -1,0 +1,19 @@
+fid: '50292'
+name: Gulf Credit Union
+ofxfail: '0'
+ofxhome_id: '1149'
+org: Cavion
+profile:
+  addr1: PO Box 848
+  bankmsgset: 'true'
+  city: Groves
+  country: USA
+  csphone: '4099631191'
+  email: customerservice@gecu.org
+  finame: Gulf Credit Union
+  postalcode: '77619'
+  signonmsgset: 'true'
+  state: TX
+  tsphone: '4099631191'
+  url: http://www.gecu.org/
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

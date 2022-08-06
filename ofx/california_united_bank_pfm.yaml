@@ -1,0 +1,22 @@
+fid: '5539'
+name: California United Bank PFM
+ofxfail: '0'
+ofxhome_id: '947'
+org: '070'
+profile:
+  addr1: 15821 Ventura Boulevard
+  addr2: Suite 100
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Encino
+  country: USA
+  csphone: 818-257-7798
+  email: treasuryservices@californiaunitedbank.com
+  emailmsgset: 'true'
+  finame: California United Bank PFM
+  interxfermsgset: 'true'
+  postalcode: '91436'
+  signonmsgset: 'true'
+  state: CA
+  url: https://www.californiaunitedbank.com/
+url: https://pfm.metavante.com/ofx/OFXServlet

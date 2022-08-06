@@ -1,0 +1,20 @@
+fid: '241272118'
+name: CFBank
+ofxfail: '3'
+ofxhome_id: '977'
+org: DI
+profile:
+  addr1: 2923 Smith Rd
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Fairlawn
+  country: USA
+  csphone: 1-888-273-8255
+  email: info@cfbankmail.com
+  finame: CFBank
+  postalcode: '44333'
+  signonmsgset: 'true'
+  state: OH
+  tsphone: 1-888-273-8255
+  url: http://www.cfbankonline.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

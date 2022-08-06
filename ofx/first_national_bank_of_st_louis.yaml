@@ -1,0 +1,7 @@
+fid: '162'
+name: First National Bank of St. Louis
+ofxfail: '3'
+ofxhome_id: '692'
+org: '81004601'
+profile: {}
+url: https://ofx.centralbancompany.com/ofxserver/ofxsrvr.dll

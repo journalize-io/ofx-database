@@ -1,0 +1,20 @@
+fid: '255077477'
+name: Mid-Atlantic FCU
+ofxfail: '0'
+ofxhome_id: '1248'
+org: DI
+profile:
+  addr1: P.O. Box 2270
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Germantown
+  country: USA
+  csphone: 1-800-95(MAFCU)
+  email: mafcu@mafcu.org
+  finame: Mid-Atlantic FCU
+  postalcode: '20875'
+  signonmsgset: 'true'
+  state: MD
+  tsphone: 1-800-95(MAFCU)
+  url: www.mafcu.org
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

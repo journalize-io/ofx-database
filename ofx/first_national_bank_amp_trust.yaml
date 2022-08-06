@@ -1,0 +1,18 @@
+fid: 075900973
+name: First National Bank &amp; Trust
+ofxfail: '0'
+ofxhome_id: '1092'
+org: MSEVENSIXTYONE
+profile:
+  addr1: 345 E. Grand Avenue
+  bankmsgset: 'true'
+  city: Beliot
+  country: USA
+  csphone: 111-111-1111
+  email: noreply@bankatfirstnational.com
+  finame: First National Bank & Trust
+  postalcode: '53511'
+  signonmsgset: 'true'
+  state: WI
+  url: www.bankatfirstnational.com
+url: https://ofx1.evault.ws/ofxserver/ofxsrvr.dll

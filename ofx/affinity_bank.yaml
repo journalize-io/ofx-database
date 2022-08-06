@@ -1,0 +1,23 @@
+fid: ABAGA
+name: Affinity Bank
+ofxfail: '0'
+ofxhome_id: '845'
+org: FundsXpress
+profile:
+  addr1: 400 Galleria Pkwy
+  addr2: Suite 900
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Atlanta
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 866-736-8194
+  email: onlinesupport@myaffinitybank.com
+  emailmsgset: 'true'
+  finame: Affinity Bank
+  postalcode: '30339'
+  signonmsgset: 'true'
+  state: GA
+  tsphone: 866-736-8194
+  url: http://www.myaffinitybank.com
+url: https://ofx.fundsxpress.com/piles/ofx.pile/

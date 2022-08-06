@@ -1,0 +1,19 @@
+fid: FTCU
+name: Florida Telco CU
+ofxfail: '1'
+ofxhome_id: '484'
+org: FloridaTelcoCU
+profile:
+  addr1: 9700 Touchton Rd
+  bankmsgset: 'true'
+  city: Jacksonville
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 904-723-6300
+  email: webmaster@121fcu.org
+  postalcode: '32246'
+  signonmsgset: 'true'
+  state: FL
+  tsphone: 904-723-6300
+  url: https://121fcu.org
+url: https://ppc.floridatelco.org/scripts/isaofx.dll

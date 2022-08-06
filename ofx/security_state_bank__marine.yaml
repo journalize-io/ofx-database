@@ -1,0 +1,19 @@
+fid: '54186'
+name: Security State Bank - Marine
+ofxfail: '0'
+ofxhome_id: '1363'
+org: Cavion
+profile:
+  addr1: 120 Judd St.
+  bankmsgset: 'true'
+  city: Marine On Saint Croix
+  country: USA
+  csphone: 651.464.1033
+  email: mjohnson@themarinebank.com
+  finame: Security State Bank - Marine
+  postalcode: '55047'
+  signonmsgset: 'true'
+  state: MN
+  tsphone: 651.464.1033
+  url: http://www.themarinebank.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

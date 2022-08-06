@@ -1,0 +1,22 @@
+fid: '1001'
+name: Bancorpsouth
+ofxfail: '3'
+ofxhome_id: '803'
+org: BXS
+profile:
+  addr1: 2910 West Jackson ST
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Tupelo
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 888-797-7711
+  email: ebanking@bxs.com
+  emailmsgset: 'true'
+  finame: BXS
+  postalcode: '38801'
+  signonmsgset: 'true'
+  state: MS
+  tsphone: 888-797-7711
+  url: https://www.bancorpsouthonline.com
+url: https://ofx-prod.bancorpsouthonline.com/ofx/process.ofx

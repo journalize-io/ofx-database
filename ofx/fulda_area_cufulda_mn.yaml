@@ -1,0 +1,19 @@
+fid: '46758'
+name: Fulda Area CUFulda, MN
+ofxfail: '0'
+ofxhome_id: '1124'
+org: Cavion
+profile:
+  addr1: P.o. Box 329
+  bankmsgset: 'true'
+  city: Fulda
+  country: USA
+  csphone: 507-425-2544
+  email: lhonken@fuldaareacreditunion.com
+  finame: Fulda Area CUFulda, MN
+  postalcode: '56131'
+  signonmsgset: 'true'
+  state: MN
+  tsphone: 507-425-2544
+  url: http://www.fuldaareacreditunion.com/
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

@@ -1,0 +1,19 @@
+fid: '1409'
+name: EL PASO AREA TEACHERS
+ofxfail: '0'
+ofxhome_id: '1055'
+org: Elpaso OLB
+profile:
+  addr1: 12020 Rojas Drive
+  bankmsgset: 'true'
+  city: El Paso
+  country: USA
+  csphone: 915-843-8328
+  email: cumail@tfcu.coop
+  finame: EL PASO AREA TEACHERS
+  postalcode: '79936'
+  signonmsgset: 'true'
+  state: TX
+  tsphone: 915-843-8328
+  url: http://www.tfcu.coop/
+url: https://mobile.tfcu.coop/OFX/OFXServer.aspx

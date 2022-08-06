@@ -1,0 +1,21 @@
+brokerid: franklintempleton.com
+fid: '9444'
+name: Franklin Templeton Investments
+ofxfail: '0'
+ofxhome_id: '734'
+org: franklintempleton.com
+profile:
+  addr1: P.O. Box 997152
+  city: Sacramento
+  country: USA
+  csphone: 1-800-632-2301
+  email: shareholderservices@frk.com
+  finame: Franklin Templeton Investments
+  invstmtmsgset: 'true'
+  postalcode: 95670-7313
+  seclistmsgset: 'true'
+  signonmsgset: 'true'
+  state: CA
+  tsphone: 1-800-632-2301
+  url: www.franklintempleton.com
+url: https://ofx.franklintempleton.com/eftxweb/access.ofx

@@ -1,0 +1,18 @@
+fid: '1301'
+name: Marquette Banks
+ofxfail: '0'
+ofxhome_id: '703'
+org: ISC
+profile:
+  addr1: P.O. Box 1000
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Minneapolis
+  country: USA
+  emailmsgset: 'true'
+  finame: Marquette Bank
+  postalcode: '554801000'
+  signonmsgset: 'true'
+  state: MN
+  url: http://www.marquette.com/
+url: https://www.oasis.cfree.com/fip/genesis/prod/01301.ofx

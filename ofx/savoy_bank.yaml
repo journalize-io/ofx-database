@@ -1,0 +1,18 @@
+fid: '1658'
+name: Savoy Bank
+ofxfail: '0'
+ofxhome_id: '1358'
+org: clk-3436
+profile:
+  addr1: 1675 Broadway
+  bankmsgset: 'true'
+  city: New York
+  country: USA
+  csphone: 646-775-4080
+  email: Customer.Service@banksavoy.com
+  finame: Savoy Bank
+  postalcode: '10019'
+  signonmsgset: 'true'
+  state: NY
+  url: http://www.banksavoy.com
+url: https://pfm.metavante.com/ofx/OFXServlet

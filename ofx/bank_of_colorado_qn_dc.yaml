@@ -1,0 +1,18 @@
+fid: '107002448'
+name: Bank of Colorado QN DC
+ofxfail: '0'
+ofxhome_id: '887'
+org: BankofColorado
+profile:
+  addr1: 1609 E Harmony Rd
+  bankmsgset: 'true'
+  city: Fort Collins
+  country: USA
+  csphone: 800-227-7715
+  email: customerservice@bankofcolorado.com
+  finame: Bank of Colorado QN DC
+  postalcode: '80525'
+  signonmsgset: 'true'
+  state: CO
+  url: https://ofx.secureinternetbank.com/OFXServer/ofxsrvr.dll
+url: https://ofx.secureinternetbank.com/OFXServer/ofxsrvr.dll

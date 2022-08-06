@@ -1,0 +1,18 @@
+fid: '7210'
+name: Sound Banking Company
+ofxfail: '0'
+ofxhome_id: '1379'
+org: fis-7210
+profile:
+  addr1: 5039 Executive Drive
+  bankmsgset: 'true'
+  city: Morehead City
+  country: USA
+  csphone: 855-322-7670
+  email: soundbanking@billsupport.com
+  finame: Sound Banking Company
+  postalcode: '28557'
+  signonmsgset: 'true'
+  state: NC
+  url: www.soundbanking.com
+url: https://pfm.metavante.com/ofx/OFXServlet

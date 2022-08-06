@@ -1,0 +1,19 @@
+fid: '50733'
+name: State Bank of Blue Mound
+ofxfail: '0'
+ofxhome_id: '1398'
+org: Cavion
+profile:
+  addr1: 8 Niles St.
+  bankmsgset: 'true'
+  city: Blue Mound
+  country: USA
+  csphone: '2176922157'
+  email: statebank@ctitech.com
+  finame: State Bank of Blue Mound
+  postalcode: '62513'
+  signonmsgset: 'true'
+  state: IL
+  tsphone: '2176922157'
+  url: http://www.thesbbm.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

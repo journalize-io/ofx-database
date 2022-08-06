@@ -1,0 +1,19 @@
+fid: '271984861'
+name: Community Trust Credit Union
+ofxfail: '3'
+ofxhome_id: '1022'
+org: DI
+profile:
+  addr1: 1313 Skokie Highway
+  bankmsgset: 'true'
+  city: Gurnee
+  country: USA
+  csphone: 847-662-2050
+  email: webmail@ctcu.org
+  finame: Community Trust Credit Union
+  postalcode: '60031'
+  signonmsgset: 'true'
+  state: IL
+  tsphone: 847-662-2050
+  url: http://www.ctcu.org
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

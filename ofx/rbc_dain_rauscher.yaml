@@ -1,0 +1,21 @@
+brokerid: RBCDain.com
+fid: '8035'
+name: RBC Dain Rauscher
+ofxfail: '1'
+ofxhome_id: '713'
+org: RBC Dain Rauscher
+profile:
+  addr1: RBC Plaza
+  addr2: 60 South 6th Street
+  city: Minneapolis
+  country: USA
+  csphone: 888.281.4094
+  email: connectdesk@rbc.com
+  invstmtmsgset: 'true'
+  postalcode: '55402'
+  seclistmsgset: 'true'
+  signonmsgset: 'true'
+  state: MN
+  tsphone: 888.281.4094
+  url: http://www.rbcwm-usa.com
+url: https://ofx.rbcdain.com/

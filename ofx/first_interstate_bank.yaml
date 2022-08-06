@@ -1,0 +1,19 @@
+fid: 092901683
+name: First Interstate Bank
+ofxfail: '3'
+ofxhome_id: '693'
+org: FIB
+profile:
+  addr1: 401 North 31st Street
+  bankmsgset: 'true'
+  city: Billings
+  country: USA
+  csphone: 888-752-3332
+  email: pcbank@fib.com
+  emailmsgset: 'true'
+  postalcode: '59116'
+  signonmsgset: 'true'
+  state: MT
+  tsphone: 888-752-3332
+  url: www.FirstInterstateBank.com
+url: https://ofx.firstinterstatebank.com/OFXServer/ofxsrvr.dll

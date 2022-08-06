@@ -1,0 +1,17 @@
+fid: '291975478'
+name: Mayo Employees Federal Credit Union
+ofxfail: '3'
+ofxhome_id: '598'
+org: Mayo Employees FCU
+profile:
+  addr1: 200 First Street SW
+  bankmsgset: 'true'
+  city: Rochester
+  country: USA
+  csphone: 800-535-2129
+  email: test@test.com
+  postalcode: '30008'
+  signonmsgset: 'true'
+  state: MN
+  url: https://homebank.mayocreditunion.org
+url: https://homebank.mayocreditunion.org/ofx/ofx.dll

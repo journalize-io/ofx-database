@@ -1,0 +1,19 @@
+fid: '255077516'
+name: Bulldog Federal Credit Union
+ofxfail: '0'
+ofxhome_id: '939'
+org: Cavion
+profile:
+  addr1: 580 Northern Ave
+  bankmsgset: 'true'
+  city: Hagerstown
+  country: USA
+  csphone: '3017976318'
+  email: quickenhelp@bdfcu.com
+  finame: Bulldog Federal Credit Union
+  postalcode: '21742'
+  signonmsgset: 'true'
+  state: MD
+  tsphone: '3017976318'
+  url: https://www.bdfcu.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

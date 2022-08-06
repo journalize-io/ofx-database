@@ -1,0 +1,22 @@
+fid: PBMCMTN
+name: Peoples Bank of East Tennessee
+ofxfail: '0'
+ofxhome_id: '1310'
+org: Fundsxpress Financal
+profile:
+  addr1: P.O. Box 128
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Madisonville
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 423-442-7262
+  email: internetbanking@peoplesbank-tn.com
+  emailmsgset: 'true'
+  finame: Peoples Bank of East Tennessee
+  postalcode: '37354'
+  signonmsgset: 'true'
+  state: TN
+  tsphone: 423-442-7262
+  url: http://www.peoplesbank-tn.com
+url: https://ofx.fundsxpress.com/piles/ofx.pile/

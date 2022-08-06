@@ -1,0 +1,19 @@
+fid: '1849'
+name: First Citizens
+ofxfail: '0'
+ofxhome_id: '690'
+org: First Citizens
+profile:
+  addr1: P.O. Box 29
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Columbia
+  country: USA
+  creditcardmsgset: 'true'
+  emailmsgset: 'true'
+  finame: First Citizens South Carolina
+  postalcode: '29202'
+  signonmsgset: 'true'
+  state: SC
+  url: www.firstcitizensonline.com
+url: https://www.oasis.cfree.com/fip/genesis/prod/01849.ofx

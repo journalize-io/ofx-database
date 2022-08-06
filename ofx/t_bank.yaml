@@ -1,0 +1,7 @@
+fid: '6345'
+name: T Bank
+ofxfail: '0'
+ofxhome_id: '1529'
+org: fis-6345
+profile: {}
+url: https://pfm.metavante.com/ofx/OFXServlet

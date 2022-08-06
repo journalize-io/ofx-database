@@ -1,0 +1,20 @@
+fid: '321081669'
+name: First Republic Bank
+ofxfail: '0'
+ofxhome_id: '770'
+org: DI
+profile:
+  addr1: 111 Pine Street
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: San Francisco
+  country: USA
+  csphone: 888-372-4891
+  email: '2'
+  finame: First Republic Bank
+  postalcode: '94111'
+  signonmsgset: 'true'
+  state: CA
+  tsphone: 888-372-4891
+  url: www.firstrepublic.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

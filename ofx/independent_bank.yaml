@@ -1,0 +1,21 @@
+fid: 084008426
+name: Independent Bank
+ofxfail: '3'
+ofxhome_id: '1179'
+org: DI
+profile:
+  addr1: 5050 Poplar ave
+  addr2: ste. 109
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Memphis
+  country: USA
+  csphone: 901-844-0350
+  email: '2'
+  finame: Independent Bank
+  postalcode: '38111'
+  signonmsgset: 'true'
+  state: TN
+  tsphone: 901-844-0350
+  url: www.i-bankonlinehb.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

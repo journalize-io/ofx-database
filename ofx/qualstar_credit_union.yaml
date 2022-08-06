@@ -1,0 +1,21 @@
+fid: '325081966'
+name: Qualstar Credit Union
+ofxfail: '1'
+ofxhome_id: '1338'
+org: QUALSTARCU
+profile:
+  addr1: 2115 152nd Ave NE
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Redmond
+  country: USA
+  csphone: 425-460-3885
+  email: help@qualstarcu.com
+  emailmsgset: 'true'
+  finame: Qualstar Credit Union
+  postalcode: '98052'
+  signonmsgset: 'true'
+  state: WA
+  tsphone: 425-460-3885
+  url: https://www.qualstarcu.com
+url: https://ofx.qualstarcu.com/OFXServer/ofxsrvr.dll

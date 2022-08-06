@@ -1,0 +1,20 @@
+brokerid: dadco.com
+fid: '59401'
+name: D. A. Davidson
+ofxfail: '3'
+ofxhome_id: '805'
+org: dadco.com
+profile:
+  addr1: 8 Third Street North
+  city: Great Falls
+  country: USA
+  csphone: 1-800-332-5915
+  email: itweb@dadco.com
+  invstmtmsgset: 'true'
+  postalcode: '59401'
+  seclistmsgset: 'true'
+  signonmsgset: 'true'
+  state: MT
+  tsphone: 1-800-332-5915
+  url: http://www.davidsoncompanies.com
+url: https://pfm.davidsoncompanies.com/eftxweb/access.ofx

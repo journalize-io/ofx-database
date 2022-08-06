@@ -1,0 +1,21 @@
+fid: '1001'
+name: Elevations Credit Union
+ofxfail: '1'
+ofxhome_id: '727'
+org: uocfcu
+profile:
+  addr1: 3500 University Avenue
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Madison
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 800-533-6773
+  email: contactus@uwcu.org
+  emailmsgset: 'true'
+  postalcode: '53744'
+  signonmsgset: 'true'
+  state: WI
+  tsphone: 505-237-3725
+  url: http://www.uwcu.org/
+url: https://ofx.elevationscu.com/scripts/serverext.dll

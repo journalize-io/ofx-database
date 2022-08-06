@@ -1,0 +1,19 @@
+fid: '12264'
+name: Louisiana USA FCU
+ofxfail: '0'
+ofxhome_id: '1224'
+org: Cavion
+profile:
+  addr1: 10289 Airline Hwy
+  bankmsgset: 'true'
+  city: Baton Rouge
+  country: USA
+  csphone: '2252928910'
+  email: members@lausafcu.org
+  finame: Louisiana USA FCU
+  postalcode: '70816'
+  signonmsgset: 'true'
+  state: LA
+  tsphone: '2252928910'
+  url: http://www.lausafcu.org/
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

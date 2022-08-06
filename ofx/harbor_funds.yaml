@@ -1,0 +1,16 @@
+fid: '20280'
+name: Harbor Funds
+ofxfail: '0'
+ofxhome_id: '1153'
+org: harbor
+profile:
+  addr1: 111 S. Wacker Drive
+  city: Chicago
+  country: USA
+  finame: Harbor Funds
+  invstmtmsgset: 'true'
+  postalcode: '60608'
+  signonmsgset: 'true'
+  state: IL
+  url: https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=6070017011417
+url: https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=6070017011417

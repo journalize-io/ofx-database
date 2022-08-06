@@ -1,0 +1,19 @@
+fid: '211274502'
+name: Kennebunk Savings Direct Connect
+ofxfail: '0'
+ofxhome_id: '1197'
+org: MTwelveFiveZero
+profile:
+  addr1: 104 Main St
+  addr2: PO Box 28
+  bankmsgset: 'true'
+  city: Kennebunk
+  country: USA
+  csphone: 1-800-339-6573
+  email: customercare@kennebunksavings.com
+  finame: Kennebunk Savings Direct Connect
+  postalcode: '04043'
+  signonmsgset: 'true'
+  state: ME
+  url: https://ofx.secureinternetbank.com/OFXServer/ofxsrvr.dll
+url: https://ofx.secureinternetbank.com/ofxserver/ofxsrvr.dll

@@ -1,0 +1,22 @@
+fid: GBBMPTX
+name: Guaranty Bank &amp; Trust, N.A.
+ofxfail: '0'
+ofxhome_id: '1146'
+org: FundsXpress Inc
+profile:
+  addr1: PO Box 1158
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Mount Pleasant
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 'Customer Care: 888-572-9881 Digi'
+  email: online@gnty.com
+  emailmsgset: 'true'
+  finame: Guaranty Bank & Trust, N.A.
+  postalcode: '754561158'
+  signonmsgset: 'true'
+  state: TX
+  tsphone: 'Customer Care: 888-572-9881 Digi'
+  url: http://www.gnty.com
+url: https://ofx.fundsxpress.com/piles/ofx.pile/

@@ -1,0 +1,22 @@
+fid: BUOUT
+name: Bank of Utah
+ofxfail: '0'
+ofxhome_id: '900'
+org: FundsXpress
+profile:
+  addr1: PO Box 231
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Ogden
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: (801) 409-5074 or toll free 877-
+  email: TreasuryManagement@bankofutah.com
+  emailmsgset: 'true'
+  finame: Bank of Utah
+  postalcode: '84402'
+  signonmsgset: 'true'
+  state: UT
+  tsphone: (801) 409-5074 or toll free 877-
+  url: http://www.bankofutah.com
+url: https://ofx.fundsxpress.com/piles/ofx.pile/

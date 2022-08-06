@@ -1,0 +1,19 @@
+fid: '57459'
+name: Otter Tail CU
+ofxfail: '0'
+ofxhome_id: '1300'
+org: Cavion
+profile:
+  addr1: 413 W Stanton
+  bankmsgset: 'true'
+  city: Fergus Falls
+  country: USA
+  csphone: '18009086466'
+  email: otpecu@prtel.com
+  finame: Otter Tail CU
+  postalcode: '56537'
+  signonmsgset: 'true'
+  state: MN
+  tsphone: '18009086466'
+  url: www.ottertailcreditunion.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

@@ -1,0 +1,22 @@
+fid: '1001'
+name: Local Government Federal Credit Union
+ofxfail: '1'
+ofxhome_id: '748'
+org: SECU
+profile:
+  addr1: 900 Wade Avenue
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Raleigh
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: '8887328562'
+  email: service@ncsecu.org
+  emailmsgset: 'true'
+  finame: SECU
+  postalcode: '27603'
+  signonmsgset: 'true'
+  state: NC
+  tsphone: 505-237-3725
+  url: http://www.ncsecu.org
+url: https://onlineaccess.ncsecu.org/lgfcuofx/lgfcu.ofx

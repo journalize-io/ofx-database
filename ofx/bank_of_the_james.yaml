@@ -1,0 +1,19 @@
+fid: 051409016
+name: Bank of the James
+ofxfail: '0'
+ofxhome_id: '899'
+org: MEightEightSix
+profile:
+  addr1: 828 Main Street
+  bankmsgset: 'true'
+  city: Lynchburg
+  country: USA
+  csphone: 434-846-2000
+  email: noreply@bankofthejames.com
+  finame: Bank of the James
+  postalcode: '24504'
+  signonmsgset: 'true'
+  state: VA
+  tsphone: 434-846-2000
+  url: http://www.bankofthejames.com
+url: https://ofx1.evault.ws/ofxserver/ofxsrvr.dll

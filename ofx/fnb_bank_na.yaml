@@ -1,0 +1,20 @@
+fid: '031305745'
+name: FNB Bank NA
+ofxfail: '3'
+ofxhome_id: '1117'
+org: DI
+profile:
+  addr1: 354 Mill Street
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Danville
+  country: USA
+  csphone: 1.800.222.2547
+  email: customerservice@fnbbank.com
+  finame: FNB Bank NA
+  postalcode: '17821'
+  signonmsgset: 'true'
+  state: PA
+  tsphone: 1.800.222.2547
+  url: www.fnbbank.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

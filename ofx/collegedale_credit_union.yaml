@@ -1,0 +1,18 @@
+fid: 35GFA
+name: Collegedale Credit Union
+ofxfail: '3'
+ofxhome_id: '496'
+org: CollegedaleCU
+profile:
+  addr1: 5046 FLEMING PLAZA
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: COLLEGEDALE
+  country: US
+  emailmsgset: 'true'
+  finame: COLLEGEDALE CREDIT UNION
+  postalcode: '37315'
+  signonmsgset: 'true'
+  state: TN
+  url: https://collegedale-dn.financial-net.com/web
+url: https://www.netit.financial-net.com/ofx

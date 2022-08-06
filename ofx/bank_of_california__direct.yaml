@@ -1,0 +1,18 @@
+fid: '122243774'
+name: Bank of California - Direct
+ofxfail: '0'
+ofxhome_id: '880'
+org: MSevenFiveSeven
+profile:
+  addr1: 1230 ROSECRANS AVENUE, SUITE 100
+  bankmsgset: 'true'
+  city: MANHATTAN BEACH
+  country: USA
+  csphone: 310-536-9270
+  email: noreply@beachbusinessbank.com
+  finame: Bank of California - Direct
+  postalcode: '90266'
+  signonmsgset: 'true'
+  state: CA
+  url: www.beachbusinessbank.com
+url: https://ofx1.evault.ws/ofxserver/ofxsrvr.dll

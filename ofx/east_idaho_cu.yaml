@@ -1,0 +1,20 @@
+fid: '324173082'
+name: East Idaho CU
+ofxfail: '3'
+ofxhome_id: '1049'
+org: DI
+profile:
+  addr1: PO Box 1865
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Idaho Falls
+  country: USA
+  csphone: (800)727-9961
+  email: contactus@eastidahocu.org
+  finame: East Idaho CU
+  postalcode: 83403-1865
+  signonmsgset: 'true'
+  state: ID
+  tsphone: (800)727-9961
+  url: www.eastidahocu.org
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

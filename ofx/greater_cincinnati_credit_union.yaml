@@ -1,0 +1,20 @@
+fid: '1922'
+name: Greater Cincinnati Credit Union
+ofxfail: '0'
+ofxhome_id: '1140'
+org: Cavion
+profile:
+  addr1: 7221 Montgomery Rd.
+  bankmsgset: 'true'
+  city: Cincinnati
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: (513) 559-123
+  email: is@gccu.org
+  finame: Greater Cincinnati Credit Union
+  postalcode: '45236'
+  signonmsgset: 'true'
+  state: OH
+  tsphone: (513) 559-123
+  url: http://www.gccu.org
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

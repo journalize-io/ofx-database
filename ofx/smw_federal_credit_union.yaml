@@ -1,0 +1,19 @@
+fid: '57564'
+name: SMW Federal Credit Union
+ofxfail: '0'
+ofxhome_id: '1378'
+org: Cavion
+profile:
+  addr1: 700 Apollo Drive
+  bankmsgset: 'true'
+  city: Lino Lakes
+  country: USA
+  csphone: 651-770-2385
+  email: harland@harlandfs.com
+  finame: SMW Federal Credit Union
+  postalcode: '55014'
+  signonmsgset: 'true'
+  state: MN
+  tsphone: 651-770-2385
+  url: http://www.smwfcu.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

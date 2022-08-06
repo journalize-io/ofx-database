@@ -1,0 +1,19 @@
+fid: '923'
+name: Air Academy FCU
+ofxfail: '0'
+ofxhome_id: '1522'
+org: CAVION
+profile:
+  addr1: 1355 Kelly Johnson Blvd
+  bankmsgset: 'true'
+  city: Colorado Springs
+  country: USA
+  csphone: (800) 223-1983
+  email: contactus@aafcu.com
+  finame: Air Academy FCU
+  postalcode: '80920'
+  signonmsgset: 'true'
+  state: CO
+  tsphone: (800) 223-1983
+  url: http://www.aafcu.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

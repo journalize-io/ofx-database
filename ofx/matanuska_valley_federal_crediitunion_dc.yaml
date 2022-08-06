@@ -1,0 +1,20 @@
+fid: '325272335'
+name: Matanuska Valley Federal CrediitUnion DC
+ofxfail: '0'
+ofxhome_id: '1232'
+org: MVFCUDC
+profile:
+  addr1: 1020 S Bailey Street
+  bankmsgset: 'true'
+  city: Palmer
+  country: USA
+  csphone: 907 745 4891
+  email: donotreply@mvfcu.coop
+  emailmsgset: 'true'
+  finame: Matanuska Valley Federal Credit Union DC
+  postalcode: '99645'
+  signonmsgset: 'true'
+  state: AK
+  tsphone: 907 745 4891
+  url: https://www.mvfcu.coop
+url: https://mobile.mvfcu.coop/ofxserver/ofxsrvr.dll

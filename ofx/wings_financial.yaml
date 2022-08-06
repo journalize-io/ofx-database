@@ -1,0 +1,20 @@
+brokerid: '102'
+fid: '296076152'
+name: Wings Financial
+ofxfail: '1'
+ofxhome_id: '756'
+org: DI
+profile:
+  addr1: 14985 Glazier Avenue
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Apple Valley
+  country: USA
+  csphone: 800-692-2274 x8 4357
+  email: helpdesk@wingsfinancial.com
+  postalcode: '55124'
+  signonmsgset: 'true'
+  state: MN
+  tsphone: 800-692-2274 x8 4357
+  url: www.wingsfinancial.com
+url: https://ofxdi.diginsite.com/cmr/cmr.ofx

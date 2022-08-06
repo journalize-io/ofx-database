@@ -1,0 +1,19 @@
+fid: '24042'
+name: Richland FCU
+ofxfail: '0'
+ofxhome_id: '1348'
+org: Cavion
+profile:
+  addr1: 124 North Central Ave
+  bankmsgset: 'true'
+  city: Sidney
+  country: USA
+  csphone: 406-482-2704
+  email: kmayer@richlandfcu.com
+  finame: Richland FCU
+  postalcode: '59270'
+  signonmsgset: 'true'
+  state: MT
+  tsphone: 406-482-2704
+  url: http://www.richlandfcu.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

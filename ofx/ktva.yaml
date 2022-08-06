@@ -1,0 +1,17 @@
+fid: '57864'
+name: KTVA
+ofxfail: '0'
+ofxhome_id: '1201'
+org: Connect
+profile:
+  addr1: PO BOX 15994
+  bankmsgset: 'true'
+  city: Knoxville
+  country: USA
+  csphone: '8004675427'
+  finame: KTVA
+  postalcode: '37901'
+  signonmsgset: 'true'
+  state: TN
+  url: www.tvacreditunion.com
+url: https://olb.tvacreditunion.com/OFXDirect/OFXRqst.aspx

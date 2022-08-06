@@ -1,0 +1,19 @@
+fid: '1924'
+name: Gulf Coast Educators FCU TX
+ofxfail: '0'
+ofxhome_id: '1148'
+org: Cavion
+profile:
+  addr1: 5953 Fairmont Pkwy.
+  bankmsgset: 'true'
+  city: Pasadena
+  country: USA
+  csphone: '2814879333'
+  email: info@gcefcu.org
+  finame: Gulf Coast Educators FCU TX
+  postalcode: '77505'
+  signonmsgset: 'true'
+  state: TX
+  tsphone: '2814879333'
+  url: http://www.gcefcu.org
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

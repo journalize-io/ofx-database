@@ -1,0 +1,22 @@
+fid: '5009'
+name: CambridgeTrustDirectConnct
+ofxfail: '0'
+ofxhome_id: '951'
+org: '541'
+profile:
+  addr1: 10 Fawcett Street
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Cambridge
+  country: USA
+  csphone: 800-439-4140
+  email: customerservice@cambridgetrust.com
+  emailmsgset: 'true'
+  finame: CambridgeTrustDirectConnct
+  interxfermsgset: 'true'
+  postalcode: 02138
+  signonmsgset: 'true'
+  state: MA
+  tsphone: 800-439-4140
+  url: www.cambridgetrust.com
+url: https://pfm.metavante.com/ofx/OFXServlet

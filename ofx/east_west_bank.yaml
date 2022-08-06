@@ -1,0 +1,19 @@
+fid: '322070381'
+name: East West Bank
+ofxfail: '3'
+ofxhome_id: '1050'
+org: DI
+profile:
+  addr1: 415 Huntington Drive
+  bankmsgset: 'true'
+  city: Alhambra
+  country: USA
+  csphone: 888-895-5650
+  email: hbinfo@eastwestbank.com
+  finame: East West Bank
+  postalcode: '91108'
+  signonmsgset: 'true'
+  state: CA
+  tsphone: 888-895-5650
+  url: www.eastwestbank.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

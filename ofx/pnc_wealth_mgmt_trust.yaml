@@ -1,0 +1,7 @@
+fid: '16777'
+name: PNC Wealth Mgmt Trust
+ofxfail: '0'
+ofxhome_id: '1324'
+org: PNC.com
+profile: {}
+url: https://fs-services.1fsapi.com/eftxweb/pncbank.ofx

@@ -1,0 +1,7 @@
+fid: '14001'
+name: Carolina Alliance Bank
+ofxfail: '0'
+ofxhome_id: '957'
+org: MONEZEROFIVE
+profile: {}
+url: https://ofx1.evault.ws/ofxserver/ofxsrvr.dll

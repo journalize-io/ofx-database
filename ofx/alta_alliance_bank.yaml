@@ -1,0 +1,18 @@
+fid: '121144463'
+name: ALTA Alliance Bank
+ofxfail: '0'
+ofxhome_id: '855'
+org: LOneNintyTwo
+profile:
+  addr1: 1951 Webster Street
+  bankmsgset: 'true'
+  city: Oakland
+  country: USA
+  csphone: 510-899-7500
+  email: noreply@altaalliancebank.com
+  finame: ALTA Alliance Bank
+  postalcode: '94612'
+  signonmsgset: 'true'
+  state: CA
+  url: https://ofx1.evault.ws/OFXServer/ofxsrvr.dll
+url: https://ofx1.evault.ws/ofxserver/ofxsrvr.dll

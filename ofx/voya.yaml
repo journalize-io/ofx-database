@@ -1,0 +1,20 @@
+fid: '1289'
+name: Voya
+ofxfail: '0'
+ofxhome_id: '819'
+org: null
+profile:
+  addr1: One Orange Way
+  city: Windsor
+  country: USA
+  csphone: plan info line
+  email: plan info line
+  finame: Voya Institutional Plan Services
+  invstmtmsgset: 'true'
+  postalcode: 06095
+  seclistmsgset: 'true'
+  signonmsgset: 'true'
+  state: CT
+  tsphone: plan info line
+  url: http://foremployers.voya.com/retirement-plans/institutional-plans
+url: https://ofx.voyaplans.com/eofx/Server

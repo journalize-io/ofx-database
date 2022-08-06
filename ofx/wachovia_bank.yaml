@@ -1,0 +1,7 @@
+fid: '4309'
+name: Wachovia Bank
+ofxfail: '3'
+ofxhome_id: '537'
+org: Wachovia
+profile: {}
+url: https://pfmpw.wachovia.com/cgi-forte/fortecgi?servicename=ofx&pagename=PFM

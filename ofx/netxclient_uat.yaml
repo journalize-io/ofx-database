@@ -1,0 +1,19 @@
+brokerid: www.netxclient.com
+fid: '1023'
+name: NetxClient UAT
+ofxfail: '3'
+ofxhome_id: '761'
+org: NetxClient
+profile:
+  addr1: One Pershing Plaza
+  city: Jersey City
+  country: USA
+  csphone: 201-413-2162
+  email: mgutierrez@pershing.com
+  invstmtmsgset: 'true'
+  postalcode: 07399
+  signonmsgset: 'true'
+  state: NJ
+  tsphone: 201-413-2162
+  url: http://www.netxclient.com
+url: https://uat-ofx.netxclient.inautix.com/cgi/OFXNetx

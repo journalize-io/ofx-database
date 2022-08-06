@@ -1,0 +1,23 @@
+fid: ABNTN
+name: Avenue Bank
+ofxfail: '0'
+ofxhome_id: '879'
+org: FundsXpress Financial Network
+profile:
+  addr1: 111 10th Avenue South
+  addr2: Suite 200
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Nashville
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 615/252-BANK (2265) or for after
+  email: info@avenuenashville.com
+  emailmsgset: 'true'
+  finame: Avenue Bank
+  postalcode: '37203'
+  signonmsgset: 'true'
+  state: TN
+  tsphone: 615/252-BANK (2265) or for after
+  url: http://www.avenuenashville.com
+url: https://ofx.fundsxpress.com/piles/ofx.pile/

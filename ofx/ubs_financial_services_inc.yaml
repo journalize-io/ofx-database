@@ -1,0 +1,21 @@
+brokerid: ubs.com
+fid: '7772'
+name: UBS Financial Services Inc.
+ofxfail: '0'
+ofxhome_id: '459'
+org: Intuit
+profile:
+  addr1: 1285 Avenue of the Americas
+  city: New York
+  country: USA
+  csphone: 1-888-279-3343
+  email: OnlineService@ubs.com
+  finame: UBS Financial Services Inc.
+  invstmtmsgset: 'true'
+  postalcode: '10011'
+  seclistmsgset: 'true'
+  signonmsgset: 'true'
+  state: NY
+  tsphone: 1-888-279-3343
+  url: http://financialservicesinc.ubs.com
+url: https://ofx1.ubs.com/eftxweb/access.ofx

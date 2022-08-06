@@ -1,0 +1,19 @@
+fid: '322078493'
+name: L.A. Police Federal Credit Union
+ofxfail: '0'
+ofxhome_id: '1205'
+org: DI
+profile:
+  addr1: 16150 Sherman Way
+  bankmsgset: 'true'
+  city: Van Nuys
+  country: USA
+  csphone: 877-MY-LAPFCU (877-695-2732)
+  email: directconnect@lapfcu.org
+  finame: L.A. Police Federal Credit Union
+  postalcode: '91406'
+  signonmsgset: 'true'
+  state: CA
+  tsphone: 877-MY-LAPFCU (877-695-2732)
+  url: www.lapfcu.org
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

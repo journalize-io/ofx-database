@@ -1,0 +1,19 @@
+brokerid: gs.com
+fid: '1234'
+name: Goldman Sachs
+ofxfail: '1'
+ofxhome_id: '694'
+org: gs.com
+profile:
+  addr1: 101 Montgomery Street
+  city: San Francisco
+  country: USA
+  csphone: (212)344-2000
+  email: help@gs.com
+  invstmtmsgset: 'true'
+  postalcode: '94104'
+  signonmsgset: 'true'
+  state: CA
+  tsphone: (212)344-2000
+  url: WWW.SCHWAB.COM
+url: https://portfolio-ofx.gs.com:446/ofx/ofx.eftx

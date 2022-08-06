@@ -1,0 +1,20 @@
+fid: '2000'
+name: Patelco CU
+ofxfail: '0'
+ofxhome_id: '460'
+org: Patelco Credit Union
+profile:
+  addr1: 156 Second Street
+  bankmsgset: 'true'
+  city: San Francisco
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 415-442-6200
+  email: patelco@patelco.org
+  finame: Patelco Credit Union
+  postalcode: '94105'
+  signonmsgset: 'true'
+  state: CA
+  tsphone: 800-358-8228
+  url: http://www.patelco.org
+url: https://ofx.patelco.org

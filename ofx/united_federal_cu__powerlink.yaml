@@ -1,0 +1,17 @@
+fid: '1908'
+name: United Federal CU - PowerLink
+ofxfail: '3'
+ofxhome_id: '719'
+org: United Federal Credit Union
+profile:
+  addr1: 2807 S State St
+  bankmsgset: 'true'
+  city: St Joseph
+  country: USA
+  csphone: 888-982-1400
+  email: frfcu@unitedfcu.com
+  postalcode: '49085'
+  signonmsgset: 'true'
+  state: MI
+  url: http://www.unitedfcu.com
+url: https://remotebanking.unitedfcu.com/ofx/ofx.dll

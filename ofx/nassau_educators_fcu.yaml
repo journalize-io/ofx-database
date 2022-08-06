@@ -1,0 +1,19 @@
+fid: '221480807'
+name: Nassau Educators FCU
+ofxfail: '0'
+ofxhome_id: '1260'
+org: DI
+profile:
+  addr1: 1000 Corporate Dr.
+  bankmsgset: 'true'
+  city: Westbury
+  country: USA
+  csphone: 516-561-0030
+  email: info@nassaued.org
+  finame: Nassau Educators FCU
+  postalcode: '11590'
+  signonmsgset: 'true'
+  state: NY
+  tsphone: 516-561-0030
+  url: www.nassaued.org
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

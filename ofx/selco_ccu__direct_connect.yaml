@@ -1,0 +1,19 @@
+fid: '323274445'
+name: SELCO CCU - Direct Connect
+ofxfail: '0'
+ofxhome_id: '1367'
+org: SELCO
+profile:
+  addr1: PO BOX 7487
+  bankmsgset: 'true'
+  city: Eugene
+  country: USA
+  csphone: 800-445-4483
+  email: ofxsupport@selco.org
+  finame: SELCO CCU - Direct Connect
+  postalcode: '97401'
+  signonmsgset: 'true'
+  state: OR
+  tsphone: 800-445-4483
+  url: https://www.selco.org
+url: https://ofx.selco.org/ofxserver/ofxsrvr.dll

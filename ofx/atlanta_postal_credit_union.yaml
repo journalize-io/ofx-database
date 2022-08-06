@@ -1,0 +1,20 @@
+fid: '261171163'
+name: Atlanta Postal Credit Union
+ofxfail: '0'
+ofxhome_id: '875'
+org: DI
+profile:
+  addr1: 3900 Crown Rd
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Atlanta
+  country: USA
+  csphone: 404-768-4126
+  email: '2'
+  finame: Atlanta Postal Credit Union
+  postalcode: '30380'
+  signonmsgset: 'true'
+  state: GA
+  tsphone: 404-768-4126
+  url: www.apcu.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

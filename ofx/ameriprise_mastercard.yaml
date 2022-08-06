@@ -1,0 +1,18 @@
+fid: '12910'
+name: Ameriprise MasterCard
+ofxfail: '3'
+ofxhome_id: '862'
+org: Ameriprise MasterCard
+profile:
+  addr1: 834 Ameriprise Financial Center
+  city: Minneapolis
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: (866) 483-8434
+  finame: Ameriprise MasterCard
+  postalcode: '55474'
+  signonmsgset: 'true'
+  state: MN
+  tsphone: (800) 862-7919
+  url: www.Ameriprise.com/card
+url: https://ofx.ameriprise.com/AMPFWeb/ofxdl/us/download?request_type=nl_desktopdownload

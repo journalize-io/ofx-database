@@ -1,0 +1,19 @@
+fid: '274972883'
+name: Centra Credit Union2
+ofxfail: '1'
+ofxhome_id: '662'
+org: Centra CU
+profile:
+  addr1: 1430 National Road
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Columbus
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 800-232-3642
+  postalcode: '47201'
+  signonmsgset: 'true'
+  state: IN
+  tsphone: 800-232-3642
+  url: http://www.centra.org
+url: https://www.centralink.org/scripts/isaofx.dll

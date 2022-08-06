@@ -1,0 +1,20 @@
+brokerid: DI
+fid: '254074439'
+name: Department of Commerce FCU
+ofxfail: '0'
+ofxhome_id: '1041'
+org: DI
+profile:
+  addr1: P.O. Box 14720
+  bankmsgset: 'true'
+  city: Washington
+  country: USA
+  csphone: 202-482-5609
+  email: '2'
+  finame: Department of Commerce FCU
+  postalcode: '20044'
+  signonmsgset: 'true'
+  state: DC
+  tsphone: 202-482-5609
+  url: www.docfcu.org
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

@@ -1,0 +1,19 @@
+fid: '59460'
+name: Pigeon Falls State Bank
+ofxfail: '0'
+ofxhome_id: '1314'
+org: Cavion
+profile:
+  addr1: 40214 S Ekern Avenue
+  bankmsgset: 'true'
+  city: Pigeon Falls
+  country: USA
+  csphone: '7159832295'
+  email: contact@pfsbank.com
+  finame: Pigeon Falls State Bank
+  postalcode: '54760'
+  signonmsgset: 'true'
+  state: WI
+  tsphone: '7159832295'
+  url: www.pfsbank.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

@@ -1,0 +1,19 @@
+fid: '242278072'
+name: Universal 1 CU Quicken QB DC
+ofxfail: '3'
+ofxhome_id: '1486'
+org: DI
+profile:
+  addr1: P O Box 467
+  bankmsgset: 'true'
+  city: Dayton
+  country: USA
+  csphone: 937-225-6800
+  email: memberservices@u1cu.org
+  finame: Universal 1 CU Quicken QB DC
+  postalcode: '45409'
+  signonmsgset: 'true'
+  state: OH
+  tsphone: 937-225-6800
+  url: https://www.u1cu.org/
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

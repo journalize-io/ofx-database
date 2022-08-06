@@ -1,0 +1,19 @@
+fid: '17829'
+name: Reunion Bank of Florida
+ofxfail: '0'
+ofxhome_id: '1346'
+org: HFS-Phoenix
+profile:
+  addr1: 3615 Clyde Morris Blvd.
+  bankmsgset: 'true'
+  city: Port Orange
+  country: USA
+  csphone: '3868680068'
+  email: customerservice@reunionbank.com
+  finame: Reunion Bank of Florida
+  postalcode: '32129'
+  signonmsgset: 'true'
+  state: FL
+  tsphone: '3868680068'
+  url: http://www.reunionbank.com/
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

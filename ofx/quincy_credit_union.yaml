@@ -1,0 +1,19 @@
+fid: '211385297'
+name: Quincy Credit Union
+ofxfail: '0'
+ofxhome_id: '1340'
+org: DI
+profile:
+  addr1: 380 Washington Street
+  bankmsgset: 'true'
+  city: Quincy
+  country: USA
+  csphone: 617-479-5558
+  email: qcu@qcu.org
+  finame: Quincy Credit Union
+  postalcode: 02169
+  signonmsgset: 'true'
+  state: MA
+  tsphone: 617-479-5558
+  url: www.qcu.org
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

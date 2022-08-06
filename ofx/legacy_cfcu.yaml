@@ -1,0 +1,18 @@
+fid: '24451'
+name: Legacy CFCU
+ofxfail: '3'
+ofxhome_id: '1217'
+org: Connect
+profile:
+  addr1: 1400 South 20th street
+  bankmsgset: 'true'
+  city: Birmingham
+  country: USA
+  csphone: (800)910-4801
+  email: info@legacycreditunion.com
+  finame: Legacy CFCU
+  postalcode: '35205'
+  signonmsgset: 'true'
+  state: AL
+  url: https://www.legacycreditunion.com/
+url: https://legacycfcu.cue-connect.com/ofxdirect/ofxrqst.aspx

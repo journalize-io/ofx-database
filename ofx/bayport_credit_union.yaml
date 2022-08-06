@@ -1,0 +1,20 @@
+fid: '251481368'
+name: BayPort Credit Union
+ofxfail: '0'
+ofxhome_id: '915'
+org: DI
+profile:
+  addr1: 3711 Huntington Ave
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Newport News
+  country: USA
+  csphone: (757)928-8850
+  email: '2'
+  finame: BayPort Credit Union
+  postalcode: '23607'
+  signonmsgset: 'true'
+  state: VA
+  tsphone: (757)928-8850
+  url: www.bayportcu.org
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

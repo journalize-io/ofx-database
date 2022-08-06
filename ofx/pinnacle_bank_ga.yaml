@@ -1,0 +1,18 @@
+fid: 061101294
+name: Pinnacle Bank, GA
+ofxfail: '0'
+ofxhome_id: '1321'
+org: PTwoZeroThree
+profile:
+  addr1: 884 Elbert Street
+  bankmsgset: 'true'
+  city: Elberton
+  country: USA
+  csphone: 111-111-1111
+  email: noreply@pinnaclebank.com
+  finame: Pinnacle Bank, GA
+  postalcode: '30635'
+  signonmsgset: 'true'
+  state: GA
+  url: www.pinnaclebank.com
+url: https://ofx1.evault.ws/ofxserver/ofxsrvr.dll

@@ -1,0 +1,19 @@
+fid: '39801'
+name: Capitol View CU
+ofxfail: '0'
+ofxhome_id: '955'
+org: Cavion
+profile:
+  addr1: 1000 East Grand Ave.
+  bankmsgset: 'true'
+  city: Des Moines
+  country: USA
+  csphone: '5153488350'
+  email: cvcu@dwx.com
+  finame: Capitol View CU
+  postalcode: '50319'
+  signonmsgset: 'true'
+  state: IA
+  tsphone: '5153488350'
+  url: http://www.capview.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

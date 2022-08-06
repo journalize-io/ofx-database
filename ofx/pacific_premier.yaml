@@ -1,0 +1,18 @@
+fid: '8252'
+name: PACIFIC PREMIER
+ofxfail: '0'
+ofxhome_id: '1303'
+org: bib100846
+profile:
+  addr1: 17901 Von Karman Ave
+  bankmsgset: 'true'
+  city: Irvine
+  country: USA
+  csphone: 855-343-4070
+  email: cm@ppbi.com
+  finame: PACIFIC PREMIER
+  postalcode: '92614'
+  signonmsgset: 'true'
+  state: CA
+  url: http://www.ppbi.com
+url: https://pfm.metavante.com/ofx/OFXServlet

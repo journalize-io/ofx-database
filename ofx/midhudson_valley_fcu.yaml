@@ -1,0 +1,20 @@
+fid: '221976243'
+name: Mid-Hudson Valley FCU
+ofxfail: '0'
+ofxhome_id: '1246'
+org: DI
+profile:
+  addr1: PO Box 1429
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Kingston
+  country: USA
+  csphone: 800-451-8373
+  email: contactus@mhvfcu.com
+  finame: Mid-Hudson Valley FCU
+  postalcode: '12402'
+  signonmsgset: 'true'
+  state: NY
+  tsphone: 800-451-8373
+  url: www.mhvfcu.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

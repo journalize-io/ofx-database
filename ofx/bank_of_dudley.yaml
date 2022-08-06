@@ -1,0 +1,19 @@
+fid: 061205938
+name: Bank of Dudley
+ofxfail: '0'
+ofxhome_id: '890'
+org: DI
+profile:
+  addr1: 1448 Second Street
+  bankmsgset: 'true'
+  city: Dublin
+  country: USA
+  csphone: '4782771500'
+  email: customercare@bankofdudley.com
+  finame: Bank of Dudley
+  postalcode: '31022'
+  signonmsgset: 'true'
+  state: GA
+  tsphone: '4782771500'
+  url: www.bankofdudley.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

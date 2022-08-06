@@ -1,0 +1,20 @@
+fid: '211371023'
+name: Bay State Savings Bank
+ofxfail: '0'
+ofxhome_id: '914'
+org: DI
+profile:
+  addr1: 28 Franklin Street
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Worcester
+  country: USA
+  csphone: 508-890-9000
+  email: '2'
+  finame: Bay State Savings Bank
+  postalcode: 01608
+  signonmsgset: 'true'
+  state: MA
+  tsphone: 508-890-9000
+  url: www.baystateonline.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

@@ -1,0 +1,21 @@
+fid: '5533'
+name: JacksonvillePFM
+ofxfail: '0'
+ofxhome_id: '1187'
+org: '471'
+profile:
+  addr1: 100 North Laura Street
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Jacksonville
+  country: USA
+  csphone: 877-7MY-JAXB
+  email: customerservice@jaxbank.com
+  emailmsgset: 'true'
+  finame: JacksonvillePFM
+  interxfermsgset: 'true'
+  postalcode: '32202'
+  signonmsgset: 'true'
+  state: FL
+  url: http://www.jaxbank.com
+url: https://pfm.metavante.com/ofx/OFXServlet

@@ -1,0 +1,7 @@
+fid: '1008'
+name: Essex Savings Bank
+ofxfail: '0'
+ofxhome_id: '1067'
+org: COCC
+profile: {}
+url: https://ofx.myvirtualbranch.com/eftxweb/access.ofx

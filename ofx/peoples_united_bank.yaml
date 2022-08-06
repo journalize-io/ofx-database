@@ -1,0 +1,21 @@
+fid: '5534'
+name: Peoples United Bank
+ofxfail: '0'
+ofxhome_id: '1308'
+org: '136'
+profile:
+  addr1: 850 Main St, 11th Floor
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Bridgeport
+  country: USA
+  csphone: 203-338-7171
+  email: custserv@peoples.com
+  emailmsgset: 'true'
+  finame: Peoples United Bank
+  interxfermsgset: 'true'
+  postalcode: '06604'
+  signonmsgset: 'true'
+  state: CT
+  url: www.peoples.com
+url: https://pfm.metavante.com/ofx/OFXServlet

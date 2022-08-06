@@ -1,0 +1,19 @@
+fid: 073921831
+name: State Bank &amp; Trust Co.
+ofxfail: '3'
+ofxhome_id: '1397'
+org: DI
+profile:
+  addr1: 1025 6th St
+  bankmsgset: 'true'
+  city: Nevada
+  country: USA
+  csphone: 515-382-2191
+  email: Internet-Banking@banksbt.com
+  finame: State Bank & Trust Co.
+  postalcode: '50201'
+  signonmsgset: 'true'
+  state: IA
+  tsphone: 515-382-2191
+  url: www.banksbt.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

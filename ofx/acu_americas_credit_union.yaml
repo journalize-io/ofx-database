@@ -1,0 +1,7 @@
+fid: '1908'
+name: ACU Americas Credit Union
+ofxfail: '3'
+ofxhome_id: '828'
+org: AMERICASCUDC
+profile: {}
+url: https://perseus.youracu.org/ofxserver/ofxsrvr.dll

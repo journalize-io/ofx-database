@@ -1,0 +1,20 @@
+fid: '322078370'
+name: Los Angeles Federal Credit Union
+ofxfail: '0'
+ofxhome_id: '1223'
+org: DI
+profile:
+  addr1: 300 S. Glendale Ave.
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Glendale
+  country: USA
+  csphone: 818-242-8640
+  email: '2'
+  finame: Los Angeles Federal Credit Union
+  postalcode: '91205'
+  signonmsgset: 'true'
+  state: CA
+  tsphone: 818-242-8640
+  url: www.lafcu.org
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

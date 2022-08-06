@@ -1,0 +1,19 @@
+fid: '46473'
+name: Hometown CU
+ofxfail: '0'
+ofxhome_id: '1171'
+org: Cavion
+profile:
+  addr1: PO Box 310
+  bankmsgset: 'true'
+  city: Kulm
+  country: USA
+  csphone: '7016472448'
+  email: hcumemberserv@drtel.net
+  finame: Hometown CU
+  postalcode: '58456'
+  signonmsgset: 'true'
+  state: ND
+  tsphone: '7016472448'
+  url: http://www.hcuonline.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

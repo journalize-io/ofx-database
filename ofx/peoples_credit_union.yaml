@@ -1,0 +1,20 @@
+fid: '57450'
+name: Peoples Credit Union
+ofxfail: '0'
+ofxhome_id: '1311'
+org: Cavion
+profile:
+  addr1: 310 First Street
+  addr2: PO Box 545
+  bankmsgset: 'true'
+  city: Webster City
+  country: USA
+  csphone: '5158326346'
+  email: peoplescu@iowatelecom.net
+  finame: Peoples Credit Union
+  postalcode: '50595'
+  signonmsgset: 'true'
+  state: IA
+  tsphone: '5158326346'
+  url: http://www.peoples-credit-union.com/
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

@@ -1,0 +1,21 @@
+brokerid: valic.com
+fid: '77019'
+name: VALIC
+ofxfail: '0'
+ofxhome_id: '720'
+org: valic.com
+profile:
+  addr1: 2929 Allen Parkway
+  city: Houston
+  country: USA
+  csphone: 800-448-2542
+  email: ofxsupport@valic.com
+  finame: AIG Retirement Services
+  invstmtmsgset: 'true'
+  postalcode: '77019'
+  seclistmsgset: 'true'
+  signonmsgset: 'true'
+  state: TX
+  tsphone: 800-448-2542
+  url: http://www.valic.com
+url: https://ofx.valic.com/eftxweb/access.ofx

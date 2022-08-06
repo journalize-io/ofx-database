@@ -1,0 +1,19 @@
+fid: '50856'
+name: Dakota West Credit Union
+ofxfail: '0'
+ofxhome_id: '1033'
+org: Cavion
+profile:
+  addr1: PO BOX 1496
+  bankmsgset: 'true'
+  city: Watford City
+  country: USA
+  csphone: '8004117590'
+  email: dwcu@dakotawestcu.org
+  finame: Dakota West Credit Union
+  postalcode: '58854'
+  signonmsgset: 'true'
+  state: ND
+  tsphone: '8004117590'
+  url: www.dakotawestcu.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

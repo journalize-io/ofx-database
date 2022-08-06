@@ -1,0 +1,19 @@
+fid: '46380'
+name: Mercy-City-Lehigh FamilyMason C
+ofxfail: '0'
+ofxhome_id: '1240'
+org: Cavion
+profile:
+  addr1: 641-428-7361
+  bankmsgset: 'true'
+  city: Mason City
+  country: USA
+  csphone: 641-428-7361
+  email: askus.mclfcu@netconx.net
+  finame: Mercy-City-Lehigh FamilyMason C
+  postalcode: '50401'
+  signonmsgset: 'true'
+  state: IA
+  tsphone: 641-428-7361
+  url: www.mclfcu.org
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

@@ -1,0 +1,20 @@
+fid: '255073345'
+name: Presidential Bank, FSB
+ofxfail: '0'
+ofxhome_id: '1330'
+org: DI
+profile:
+  addr1: 4520 East West Hwy
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Bethesda
+  country: USA
+  csphone: 800-383-6266
+  email: email@presidential.com
+  finame: Presidential Bank, FSB
+  postalcode: '20814'
+  signonmsgset: 'true'
+  state: MD
+  tsphone: 800-383-6266
+  url: http://www.presidential.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

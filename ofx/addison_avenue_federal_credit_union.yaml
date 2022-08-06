@@ -1,0 +1,19 @@
+fid: '11288'
+name: Addison Avenue Federal Credit Union
+ofxfail: '1'
+ofxhome_id: '550'
+org: hpcu
+profile:
+  addr1: 3408 Hillview Ave
+  bankmsgset: 'true'
+  city: Palo Alto
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 877.233.4766
+  email: email@addisonavenue.com
+  postalcode: '94304'
+  signonmsgset: 'true'
+  state: CA
+  tsphone: 877.233.4766
+  url: http://www.addisonavenue.com
+url: https://ofx.addisonavenue.com

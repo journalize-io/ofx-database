@@ -1,0 +1,23 @@
+fid: '6812'
+name: Bank of America (All except CA, WA,&ID)
+ofxfail: '3'
+ofxhome_id: '472'
+org: HAN
+profile:
+  addr1: Interactive Banking
+  addr2: TX1-854-06-12
+  addr3: P.O. Box 655961
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Dallas
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: (800) 933-6262
+  email: forte@bankofamerica.com
+  emailmsgset: 'true'
+  postalcode: 75265-9964
+  signonmsgset: 'true'
+  state: TX
+  tsphone: (800) 933-6262
+  url: http://www.bankofamerica.com
+url: https://ofx.bankofamerica.com/cgi-forte/fortecgi?servicename=ofx_2-3&pagename=ofx

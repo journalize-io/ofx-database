@@ -1,0 +1,17 @@
+fid: '6217'
+name: Billings Federal Credit Union
+ofxfail: '1'
+ofxhome_id: '603'
+org: Billings Federal Credit Union
+profile:
+  addr1: 2522 4th Ave. North
+  bankmsgset: 'true'
+  city: Billings
+  country: USA
+  csphone: 1-800-331-5470, local 406 248-1127
+  email: billingsfcu@billingsfcu.org
+  postalcode: '59101'
+  signonmsgset: 'true'
+  state: MT
+  url: https://bfcuonline.billingsfcu.org
+url: https://bfcuonline.billingsfcu.org/ofx/ofx.dll

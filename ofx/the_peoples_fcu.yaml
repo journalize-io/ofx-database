@@ -1,0 +1,18 @@
+fid: 5OHLF
+name: THE PEOPLES FCU
+ofxfail: '3'
+ofxhome_id: '1442'
+org: The Peoples Federal Credit Union
+profile:
+  addr1: 7200 HILLSIDE ROAD
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: AMARILLO
+  country: US
+  emailmsgset: 'true'
+  finame: THE PEOPLES FCU
+  postalcode: '79109'
+  signonmsgset: 'true'
+  state: TX
+  url: http://10.37.1.46:44300/tpfcu/cgi-bin/ebs
+url: https://www.netit.financial-net.com/ofx

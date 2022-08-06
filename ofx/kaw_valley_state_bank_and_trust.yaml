@@ -1,0 +1,19 @@
+fid: '101111380'
+name: Kaw Valley State Bank and Trust
+ofxfail: '0'
+ofxhome_id: '1194'
+org: Cavion
+profile:
+  addr1: 1015 Kaw Valley Park Cir
+  bankmsgset: 'true'
+  city: Wamego
+  country: USA
+  csphone: '7854562021'
+  email: jprice@kvsb.net
+  finame: Kaw Valley State Bank and Trust
+  postalcode: '66547'
+  signonmsgset: 'true'
+  state: KS
+  tsphone: '7854562021'
+  url: http://www.kvsb.net
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

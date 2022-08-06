@@ -1,0 +1,19 @@
+fid: '122105472'
+name: Mohave State Bank
+ofxfail: '0'
+ofxhome_id: '1256'
+org: MSevenTwentyTwo
+profile:
+  addr1: 1771 McCulloch Blvd
+  bankmsgset: 'true'
+  city: Lake Havasu City
+  country: USA
+  csphone: (928) 855-0000
+  email: noreply@mohavestbank.com
+  finame: Mohave State Bank
+  postalcode: '86403'
+  signonmsgset: 'true'
+  state: AZ
+  tsphone: (928) 855-0000
+  url: http://www.mohavestbank.com
+url: https://ofx1.evault.ws/ofxserver/ofxsrvr.dll

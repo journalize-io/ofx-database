@@ -1,0 +1,20 @@
+fid: 083001314
+name: Republic Bank &amp; Trust Company
+ofxfail: '0'
+ofxhome_id: '1344'
+org: DI
+profile:
+  addr1: 601 W Market Street
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Louisville
+  country: USA
+  csphone: 888-782-3333
+  email: info@republicbank.com
+  finame: Republic Bank & Trust Company
+  postalcode: '40202'
+  signonmsgset: 'true'
+  state: KY
+  tsphone: 888-782-3333
+  url: http://www.republicbank.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

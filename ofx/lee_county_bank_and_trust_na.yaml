@@ -1,0 +1,19 @@
+fid: '18093'
+name: Lee County Bank and Trust, N.A
+ofxfail: '0'
+ofxhome_id: '1216'
+org: Cavion
+profile:
+  addr1: 801 Avenue F
+  bankmsgset: 'true'
+  city: Fort Madison
+  country: USA
+  csphone: '3193722243'
+  email: cservice@lcbtrust.com
+  finame: Lee County Bank and Trust, N.A
+  postalcode: '52627'
+  signonmsgset: 'true'
+  state: IA
+  tsphone: '3193722243'
+  url: http://www.lcbtrust.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

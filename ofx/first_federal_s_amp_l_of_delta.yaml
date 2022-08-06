@@ -1,0 +1,19 @@
+fid: '241270903'
+name: First Federal S &amp; L of Delta
+ofxfail: '3'
+ofxhome_id: '1085'
+org: DI
+profile:
+  addr1: 404 Main Street
+  bankmsgset: 'true'
+  city: Delta
+  country: USA
+  csphone: 419-822-3131
+  email: ibankapps@firstfeddelta.com
+  finame: First Federal S & L of Delta
+  postalcode: '43515'
+  signonmsgset: 'true'
+  state: OH
+  tsphone: 419-822-3131
+  url: http://www.firstfeddelta.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

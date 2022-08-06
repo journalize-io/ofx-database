@@ -1,0 +1,19 @@
+fid: '124302118'
+name: Holladay Bank &amp; Trust
+ofxfail: '3'
+ofxhome_id: '1165'
+org: DI
+profile:
+  addr1: 2020 East Murray Holladay Rd.
+  bankmsgset: 'true'
+  city: Salt Lake City
+  country: USA
+  csphone: 801-272-4275
+  email: support@holladaybank.com
+  finame: Holladay Bank & Trust
+  postalcode: '84117'
+  signonmsgset: 'true'
+  state: UT
+  tsphone: 801-272-4275
+  url: www.holladaybank.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

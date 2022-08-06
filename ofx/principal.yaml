@@ -1,0 +1,16 @@
+fid: '16857'
+name: Principal
+ofxfail: '0'
+ofxhome_id: '1333'
+org: principal
+profile:
+  addr1: 711 High Street
+  city: Des Moines
+  country: USA
+  finame: Principal
+  invstmtmsgset: 'true'
+  postalcode: '50392'
+  signonmsgset: 'true'
+  state: IA
+  url: https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=722120617142015
+url: https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=722120617142015

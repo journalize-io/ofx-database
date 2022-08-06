@@ -1,0 +1,19 @@
+fid: '13807'
+name: Addison Avenue Investment Svcs
+ofxfail: '0'
+ofxhome_id: '843'
+org: Addison Avenue Investment Svcs
+profile:
+  addr1: 3408 Hillview Ave
+  city: Palo Alto
+  country: USA
+  csphone: 877.233.4766
+  email: email@addisonavenue.com
+  finame: Addison Avenue Investment Svcs
+  invstmtmsgset: 'true'
+  postalcode: '94304'
+  signonmsgset: 'true'
+  state: CA
+  tsphone: 877.233.4766
+  url: http://www.firsttechfed.com
+url: https://ofx.firsttechfed.com

@@ -1,0 +1,17 @@
+brokerid: waddell.com
+fid: '49623'
+name: Waddell & Reed - Ivy Funds
+ofxfail: '0'
+ofxhome_id: '724'
+org: waddell
+profile:
+  addr1: 816 Broadway
+  city: Kansas City
+  country: USA
+  finame: Waddell and Reed
+  invstmtmsgset: 'true'
+  postalcode: '64105'
+  signonmsgset: 'true'
+  state: MO
+  url: https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=722000303041111
+url: https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=722000303041111

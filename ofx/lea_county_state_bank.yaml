@@ -1,0 +1,19 @@
+fid: '1498'
+name: Lea County State Bank
+ofxfail: '0'
+ofxhome_id: '1214'
+org: Lea County State Bank
+profile:
+  addr1: Po Box 400
+  bankmsgset: 'true'
+  city: Hobbs
+  country: USA
+  csphone: 505-397-4511
+  email: customer.service@lcsb.com
+  finame: Lea County State Bank
+  postalcode: '88241'
+  signonmsgset: 'true'
+  state: NM
+  tsphone: 505-397-4511
+  url: http://www.onlinelcsb.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

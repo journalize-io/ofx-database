@@ -1,0 +1,22 @@
+fid: HBAOAL
+name: Hometown Bank of Alabama
+ofxfail: '0'
+ofxhome_id: '1170'
+org: FundsXpress
+profile:
+  addr1: P.O. Box 397
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Oneonta
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 205-625-4434
+  email: onlinesupport@hometownbankal.com
+  emailmsgset: 'true'
+  finame: Hometown Bank of Alabama
+  postalcode: '35121'
+  signonmsgset: 'true'
+  state: AL
+  tsphone: 205-625-4434
+  url: http://www.hometownbankalabama.com
+url: https://ofx.fundsxpress.com/piles/ofx.pile/

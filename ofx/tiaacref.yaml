@@ -1,0 +1,20 @@
+brokerid: tiaa-cref.org
+fid: '041'
+name: TIAA-CREF
+ofxfail: '0'
+ofxhome_id: '767'
+org: tiaa-cref.org
+profile:
+  addr1: 730 Third Avenue
+  city: New York
+  country: USA
+  csphone: 800-927-3059
+  email: '-'
+  finame: TIAA-CREF Brokerage Services
+  invstmtmsgset: 'true'
+  postalcode: 10017-3206
+  signonmsgset: 'true'
+  state: NY
+  tsphone: 800-927-3059
+  url: http://www.tiaa-cref.org
+url: https://ofx.netxclient.com/cgi/OFXNetx

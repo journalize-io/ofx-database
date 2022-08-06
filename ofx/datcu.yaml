@@ -1,0 +1,19 @@
+fid: '311980725'
+name: DATCU
+ofxfail: '0'
+ofxhome_id: '682'
+org: DATCU
+profile:
+  addr1: PO Box 827
+  bankmsgset: 'true'
+  city: Denton
+  country: USA
+  csphone: 1-866-387-8585
+  email: onlinesupport@datcu.org
+  emailmsgset: 'true'
+  finame: DATCU OFX
+  postalcode: '76202'
+  signonmsgset: 'true'
+  state: TX
+  url: http://www.datcu.org
+url: https://online.datcu.coop/ofxserver/ofxsrvr.dll

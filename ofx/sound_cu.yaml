@@ -1,0 +1,20 @@
+fid: '325183220'
+name: Sound CU
+ofxfail: '1'
+ofxhome_id: '793'
+org: SOUNDCUDC
+profile:
+  addr1: 1331 Broadway Plaza
+  bankmsgset: 'true'
+  city: Tacoma
+  country: USA
+  csphone: 253-383-2016
+  email: info@soundcu.com
+  emailmsgset: 'true'
+  finame: Sound CU DC
+  postalcode: '98402'
+  signonmsgset: 'true'
+  state: WA
+  tsphone: 253-383-2016
+  url: www.soundcu.com
+url: https://mb.soundcu.com/OFXServer/ofxsrvr.dll

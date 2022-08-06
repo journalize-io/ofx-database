@@ -1,0 +1,19 @@
+fid: '62937'
+name: Spokane City Credit Union
+ofxfail: '0'
+ofxhome_id: '1385'
+org: Cavion
+profile:
+  addr1: 1930 N Monroe St
+  bankmsgset: 'true'
+  city: Spokane
+  country: USA
+  csphone: 509-325-7228
+  email: memberservices@sccu.net
+  finame: Spokane City Credit Union
+  postalcode: '99205'
+  signonmsgset: 'true'
+  state: WA
+  tsphone: 509-325-7228
+  url: https://www.sccu.net
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

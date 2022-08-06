@@ -1,0 +1,20 @@
+fid: '325181028'
+name: WSECU
+ofxfail: '0'
+ofxhome_id: '575'
+org: WSECU
+profile:
+  addr1: 330 Union Ave SE
+  bankmsgset: 'true'
+  city: Olympia
+  country: USA
+  csphone: 800-562-0999
+  email: mfm.support@wsecu.org
+  emailmsgset: 'true'
+  finame: WSECU
+  postalcode: '98501'
+  signonmsgset: 'true'
+  state: WA
+  tsphone: 800-562-0999
+  url: www.wsecu.org
+url: https://ssl3.wsecu.org/ofxserver/ofxsrvr.dll

@@ -1,0 +1,20 @@
+fid: '253279031'
+name: Allsouth Federal Credit Union
+ofxfail: '0'
+ofxhome_id: '853'
+org: DI
+profile:
+  addr1: 6923 North Trenholm Road
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Columbia
+  country: USA
+  csphone: 803-736-3110
+  email: '2'
+  finame: Allsouth Federal Credit Union
+  postalcode: '29206'
+  signonmsgset: 'true'
+  state: SC
+  tsphone: 803-736-3110
+  url: www.allsouthhb.org
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

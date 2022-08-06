@@ -1,0 +1,18 @@
+fid: '4842'
+name: Fairwinds Credit Union
+ofxfail: '1'
+ofxhome_id: '687'
+org: OSI 2
+profile:
+  addr1: 3087 N Alafaya Trail
+  bankmsgset: 'true'
+  city: Orlando
+  country: USA
+  csphone: 407-277-6030
+  email: rharrington@fairwinds.org
+  postalcode: '32826'
+  signonmsgset: 'true'
+  state: FL
+  tsphone: 407-277-6030
+  url: http://www.fairwinds.org
+url: https://OFX.opensolutionsTOC.com/eftxweb/access.ofx

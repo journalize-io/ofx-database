@@ -1,0 +1,20 @@
+fid: '15661'
+name: Entrust Credit Union
+ofxfail: '3'
+ofxhome_id: '1063'
+org: Entrust Federal Credit Union
+profile:
+  addr1: 1801 Dabney Road
+  addr2: PO Box 6882
+  bankmsgset: 'true'
+  city: Richmond
+  country: USA
+  csphone: 804-353-8012
+  email: helpdesk@entrustfcu.com
+  finame: Entrust Credit Union -New
+  postalcode: '23230'
+  signonmsgset: 'true'
+  state: VA
+  tsphone: 804-353-8012
+  url: https://www.entrustfcu.org
+url: https://mb.entrustfcu.org/ofx/ofxserver.aspx

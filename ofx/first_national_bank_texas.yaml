@@ -1,0 +1,21 @@
+fid: '12840'
+name: First National Bank (Texas)
+ofxfail: '3'
+ofxhome_id: '655'
+org: JackHenry
+profile:
+  addr1: PO BOX 810
+  addr2: EDINBURG TEXAS 78540-0810
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: LUBBOCK
+  country: USA
+  csphone: (956) 380-8500
+  email: FNB-WebBanking@plainscapital.com
+  finame: FIRST NATIONAL BANK
+  postalcode: '794160000'
+  signonmsgset: 'true'
+  state: TX
+  tsphone: 1-877-380-8573
+  url: http://www.webfnb.com
+url: https://directline.netteller.com

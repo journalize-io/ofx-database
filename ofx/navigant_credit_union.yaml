@@ -1,0 +1,20 @@
+fid: '211589828'
+name: Navigant Credit Union
+ofxfail: '0'
+ofxhome_id: '1264'
+org: DI
+profile:
+  addr1: 1005 Douglas Pike
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Smithfield
+  country: USA
+  csphone: 401-233-4700
+  email: info@navigantcu.org
+  finame: Navigant Credit Union
+  postalcode: 02917-1206
+  signonmsgset: 'true'
+  state: RI
+  tsphone: 401-233-4700
+  url: www.navigantcu.org
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

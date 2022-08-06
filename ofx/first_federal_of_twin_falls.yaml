@@ -1,0 +1,18 @@
+fid: '7205'
+name: First Federal of Twin Falls
+ofxfail: '0'
+ofxhome_id: '1087'
+org: fis-7205
+profile:
+  addr1: 383 Shoshone Street North
+  bankmsgset: 'true'
+  city: P.O. Box 249
+  country: USA
+  csphone: 208-733-4222
+  email: customerservice@firstfd.com
+  finame: First Federal of Twin Falls
+  postalcode: '83301'
+  signonmsgset: 'true'
+  state: ID
+  url: www.firstfd.com
+url: https://pfm.metavante.com/ofx/OFXServlet

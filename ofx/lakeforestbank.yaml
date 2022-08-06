@@ -1,0 +1,22 @@
+fid: '5514'
+name: LakeForestBank
+ofxfail: '0'
+ofxhome_id: '1208'
+org: '919'
+profile:
+  addr1: 727 N. Bank Lane
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Lake Forest
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 877-580-0244
+  email: customer_service@lakeforestbank.com
+  emailmsgset: 'true'
+  finame: LakeForestBank
+  interxfermsgset: 'true'
+  postalcode: '60045'
+  signonmsgset: 'true'
+  state: IL
+  url: http://www.lakeforestbank.com
+url: https://pfm.metavante.com/ofx/OFXServlet

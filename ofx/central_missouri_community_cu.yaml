@@ -1,0 +1,18 @@
+fid: 4ZAGF
+name: CENTRAL MISSOURI COMMUNITY CU
+ofxfail: '3'
+ofxhome_id: '970'
+org: Central Missouri Community CU
+profile:
+  addr1: 620 N. MAGUIRE ST.
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: WARRENSBURG
+  country: US
+  emailmsgset: 'true'
+  finame: CENTRAL MISSOURI COMMUNITY CU
+  postalcode: '64093'
+  signonmsgset: 'true'
+  state: MO
+  url: http://10.37.1.46:44300/cmccreditunion/cgi-bin/ebs1
+url: https://www.netit.financial-net.com/ofx/

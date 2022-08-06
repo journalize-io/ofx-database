@@ -1,0 +1,19 @@
+fid: '10338'
+name: Community Bank and Trust of Florida
+ofxfail: '0'
+ofxhome_id: '1012'
+org: HFS-Cavion
+profile:
+  addr1: 1603 SW 19th Avenue
+  bankmsgset: 'true'
+  city: Ocala
+  country: USA
+  csphone: (352) 369-1000
+  email: esupport@cbtfl.com
+  finame: Community Bank and Trust of Florida
+  postalcode: '34474'
+  signonmsgset: 'true'
+  state: FL
+  tsphone: (352) 369-1000
+  url: 352) 2915964
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

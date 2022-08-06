@@ -1,0 +1,18 @@
+fid: I233
+name: Traverse City State Bank
+ofxfail: '0'
+ofxhome_id: '1464'
+org: MTwoThreeThree
+profile:
+  addr1: 333 W Grandview Parkway
+  bankmsgset: 'true'
+  city: Traverse City
+  country: USA
+  csphone: 231-995-5500
+  email: OnlineBanking@tcsb.com
+  finame: Traverse City State Bank
+  postalcode: 49684-0000
+  signonmsgset: 'true'
+  state: MI
+  url: https://ofx.secureinternetbank.com/OFXServer/ofxsrvr.dll
+url: https://ofx1.evault.ws/OFXServer/ofxsrvr.dll

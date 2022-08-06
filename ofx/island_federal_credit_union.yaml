@@ -1,0 +1,19 @@
+fid: '221475896'
+name: Island Federal Credit Union
+ofxfail: '0'
+ofxhome_id: '1184'
+org: Cavion
+profile:
+  addr1: 120 Motor Parkway
+  bankmsgset: 'true'
+  city: Hauppauge
+  country: USA
+  csphone: 631-851-1100
+  email: applications@islandfcu.org
+  finame: Island Federal Credit Union
+  postalcode: '11788'
+  signonmsgset: 'true'
+  state: NY
+  tsphone: 631-851-1100
+  url: https://www.islandfcu.org
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

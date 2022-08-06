@@ -1,0 +1,20 @@
+fid: '301081508'
+name: CommunityAmerica CU Direct
+ofxfail: '3'
+ofxhome_id: '1023'
+org: DI
+profile:
+  addr1: 9777 Ridge Drive
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Lenexa
+  country: USA
+  csphone: (866)272-2228
+  email: onlinebankingservice@cacu.com
+  finame: CommunityAmerica CU Direct
+  postalcode: '66219'
+  signonmsgset: 'true'
+  state: KS
+  tsphone: (866)272-2228
+  url: www.cacu.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

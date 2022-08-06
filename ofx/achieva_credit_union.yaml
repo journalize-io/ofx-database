@@ -1,0 +1,17 @@
+fid: '4491'
+name: Achieva Credit Union
+ofxfail: '3'
+ofxhome_id: '668'
+org: Achieva Credit Union
+profile:
+  addr1: 1499 Gulf to Bay Blvd
+  bankmsgset: 'true'
+  city: Clearwater
+  country: USA
+  csphone: 727-431-7680
+  email: john@achievacu.com
+  postalcode: '34653'
+  signonmsgset: 'true'
+  state: FL
+  url: https://rbserver.achievacu.com
+url: https://rbserver.achievacu.com/ofx/ofx.dll

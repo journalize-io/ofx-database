@@ -1,0 +1,16 @@
+fid: '3625'
+name: Van Kampen Funds, Inc.
+ofxfail: '3'
+ofxhome_id: '721'
+org: Van Kampen Funds, Inc.
+profile:
+  addr1: 1 Parkview Plaza
+  city: Oakbrook Terrace
+  country: USA
+  finame: Van Kampen
+  invstmtmsgset: 'true'
+  postalcode: '60181'
+  signonmsgset: 'true'
+  state: IL
+  url: https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=9210013100012150413
+url: https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=9210013100012150413

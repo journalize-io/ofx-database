@@ -1,0 +1,20 @@
+fid: '253272148'
+name: First Piedmont
+ofxfail: '3'
+ofxhome_id: '1102'
+org: DI
+profile:
+  addr1: 1229 W Baker Blvd
+  addr2: PO BOX 1900
+  bankmsgset: 'true'
+  city: Gaffney
+  country: USA
+  csphone: 864-488-4262
+  email: iBank@firstpiedmont.com
+  finame: First Piedmont
+  postalcode: '29341'
+  signonmsgset: 'true'
+  state: SC
+  tsphone: 864-488-4262
+  url: www.firstpiedmont.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

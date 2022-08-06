@@ -1,0 +1,18 @@
+fid: '7219'
+name: Community Southern Bank
+ofxfail: '0'
+ofxhome_id: '1020'
+org: fis-7219
+profile:
+  addr1: 3340 South Florida Avenue
+  bankmsgset: 'true'
+  city: Lakeland
+  country: USA
+  csphone: 855-590-4764
+  email: Communitysouthernbank@billsupport.com
+  finame: Community Southern Bank
+  postalcode: '33803'
+  signonmsgset: 'true'
+  state: FL
+  url: http://communitysouthernbank.com
+url: https://pfm.metavante.com/ofx/OFXServlet

@@ -1,0 +1,19 @@
+fid: '11437'
+name: Tri County Area FCU
+ofxfail: '0'
+ofxhome_id: '1466'
+org: Cavion
+profile:
+  addr1: 1550 Medical Drive
+  bankmsgset: 'true'
+  city: Pottstown
+  country: USA
+  csphone: 610-326-3705
+  email: info@tcafcu.org
+  finame: Tri County Area FCU
+  postalcode: '19464'
+  signonmsgset: 'true'
+  state: PA
+  tsphone: 610-326-3705
+  url: http://www.tcafcu.org/
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

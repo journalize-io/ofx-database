@@ -1,0 +1,21 @@
+brokerid: DI
+fid: '242279408'
+name: Wright Patt CU
+ofxfail: '1'
+ofxhome_id: '800'
+org: DI
+profile:
+  addr1: 2455 Executive Park Boulevard
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Fairborn
+  country: USA
+  csphone: 1(800)762-0047
+  email: ContactUs@wpcu.coop
+  finame: Wright-Patt Credit Union
+  postalcode: '45324'
+  signonmsgset: 'true'
+  state: OH
+  tsphone: (800)762-0047
+  url: www.wpcu.coop
+url: https://ofxdi.diginsite.com/cmr/cmr.ofx

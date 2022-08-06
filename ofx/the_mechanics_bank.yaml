@@ -1,0 +1,7 @@
+fid: '121102036'
+name: The Mechanics Bank
+ofxfail: '1'
+ofxhome_id: '482'
+org: TMB
+profile: {}
+url: https://ofx.mechbank.com/OFXServer/ofxsrvr.dll

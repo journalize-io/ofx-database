@@ -1,0 +1,19 @@
+fid: '061021060'
+name: Georgia Primary Bank
+ofxfail: '0'
+ofxhome_id: '1129'
+org: MEightTwoEight
+profile:
+  addr1: 3880 Roswell Rd
+  bankmsgset: 'true'
+  city: Atlanta
+  country: USA
+  csphone: 404-231-4100
+  email: noreply@georgiaprimarybank.com
+  finame: Georgia Primary Bank
+  postalcode: '30342'
+  signonmsgset: 'true'
+  state: GA
+  tsphone: 404-231-4100
+  url: http://www.georgiaprimarybank.com
+url: https://ofx1.evault.ws/ofxserver/ofxsrvr.dll

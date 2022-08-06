@@ -1,0 +1,21 @@
+brokerid: ameriprise.com
+fid: '13573'
+name: Ameriprise Brokerage 133 Direct
+ofxfail: '3'
+ofxhome_id: '861'
+org: AMPF
+profile:
+  addr1: Ameriprise Brokerage
+  addr2: 70400 Financial Center
+  city: Minneapolis
+  country: USA
+  csphone: (800) 862-7919
+  finame: Ameriprise Brokerage 133 Direct
+  invstmtmsgset: 'true'
+  postalcode: '55474'
+  seclistmsgset: 'true'
+  signonmsgset: 'true'
+  state: MN
+  tsphone: (800) 862-7919
+  url: www.Ameriprise.com/investment
+url: https://www25.ameriprise.com/AMPFWeb/ofxdl/us/download?request_type=nl_desktopdownload

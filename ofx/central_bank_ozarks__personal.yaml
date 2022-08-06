@@ -1,0 +1,20 @@
+fid: '161'
+name: Central Bank Ozarks - Personal
+ofxfail: '3'
+ofxhome_id: '1057'
+org: 086518477
+profile:
+  addr1: 1800 South Glenstone
+  bankmsgset: 'true'
+  city: Springfield
+  country: USA
+  csphone: 800-750-1503
+  email: twilla_duvall@centralbank.net
+  emailmsgset: 'true'
+  finame: Central Bank Ozarks - Personal
+  postalcode: '65804'
+  signonmsgset: 'true'
+  state: MO
+  tsphone: 800-750-1503
+  url: https://www.centralbankozarks.net/
+url: https://ofx.centralbancompany.com/ofxserver/ofxsrvr.dll

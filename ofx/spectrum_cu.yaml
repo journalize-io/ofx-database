@@ -1,0 +1,19 @@
+fid: '321075866'
+name: Spectrum CU
+ofxfail: '0'
+ofxhome_id: '1383'
+org: DI
+profile:
+  addr1: P.O. Box 2069
+  bankmsgset: 'true'
+  city: Oakland
+  country: USA
+  csphone: (800)782-8782
+  email: spectrummail@spectrumcu.org
+  finame: Spectrum CU
+  postalcode: '94612'
+  signonmsgset: 'true'
+  state: CA
+  tsphone: (800)782-8782
+  url: www.spectrumcuhb.org
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

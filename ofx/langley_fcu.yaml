@@ -1,0 +1,19 @@
+fid: '16179'
+name: Langley FCU
+ofxfail: '0'
+ofxhome_id: '1211'
+org: Cavion
+profile:
+  addr1: P.O. Box 7463
+  bankmsgset: 'true'
+  city: Hampton
+  country: USA
+  csphone: '7578275328'
+  email: langleylink@langleyfcu.org
+  finame: Langley FCU
+  postalcode: '23666'
+  signonmsgset: 'true'
+  state: VA
+  tsphone: '7578275328'
+  url: http://www.langleyfcu.org
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

@@ -1,0 +1,19 @@
+fid: '071001533'
+name: North Community Bank
+ofxfail: '0'
+ofxhome_id: '940'
+org: DI
+profile:
+  addr1: 180 N.  LaSalle
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Chicago
+  country: USA
+  csphone: 773-244-2822
+  email: '2'
+  finame: North Community Bank
+  postalcode: '60601'
+  signonmsgset: 'true'
+  state: IL
+  url: www.northcommunitybankonline.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

@@ -1,0 +1,19 @@
+fid: '251482833'
+name: Member One Federal Credit Union
+ofxfail: '0'
+ofxhome_id: '1237'
+org: DI
+profile:
+  addr1: 202 4th Street NE
+  bankmsgset: 'true'
+  city: Roanoke
+  country: USA
+  csphone: 800-666-8811
+  email: online@memberonefcu.com
+  finame: Member One Federal Credit Union
+  postalcode: '24016'
+  signonmsgset: 'true'
+  state: VA
+  tsphone: 800-666-8811
+  url: www.memberonefcu.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

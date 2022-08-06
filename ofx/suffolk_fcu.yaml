@@ -1,0 +1,19 @@
+fid: '1964'
+name: Suffolk FCU
+ofxfail: '0'
+ofxhome_id: '1405'
+org: Cavion
+profile:
+  addr1: 3681 Horseblock Rd
+  bankmsgset: 'true'
+  city: Medford
+  country: USA
+  csphone: (631) 924-8000
+  email: sfcumail@suffolkfcu.org
+  finame: Suffolk FCU
+  postalcode: '11763'
+  signonmsgset: 'true'
+  state: NY
+  tsphone: (631) 924-8000
+  url: http://www.suffolkfcu.org
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

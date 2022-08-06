@@ -1,0 +1,18 @@
+fid: '7127'
+name: SurreyBankandTrust
+ofxfail: '0'
+ofxhome_id: '1411'
+org: mfis-7127
+profile:
+  addr1: 145 N. Renfro St.
+  bankmsgset: 'true'
+  city: Mount Airy
+  country: USA
+  csphone: 855-231-8469
+  email: surreybank@billsupport.com
+  finame: SurreyBankandTrust
+  postalcode: '27030'
+  signonmsgset: 'true'
+  state: NC
+  url: www.surreybank.com
+url: https://pfm.metavante.com/ofx/OFXServlet

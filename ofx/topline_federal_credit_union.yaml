@@ -1,0 +1,19 @@
+fid: '11559'
+name: TopLine Federal Credit Union
+ofxfail: '0'
+ofxhome_id: '1457'
+org: TopLine Federal Credit Union
+profile:
+  addr1: 9353 Jefferson Hwy
+  bankmsgset: 'true'
+  city: Maple Grove
+  country: USA
+  csphone: '7633919494'
+  email: members@toplinecu.com
+  finame: TopLine Federal Credit Union
+  postalcode: '55369'
+  signonmsgset: 'true'
+  state: MN
+  tsphone: '7633919494'
+  url: http://www.toplinecu.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

@@ -1,0 +1,17 @@
+fid: '10767'
+name: Hudson Valley FCU
+ofxfail: '3'
+ofxhome_id: '695'
+org: Hudson Valley FCU
+profile:
+  addr1: 159 Barnegat Road
+  bankmsgset: 'true'
+  city: Poughkeepsie
+  country: USA
+  csphone: 800-468-3011
+  email: info@hvfcu.org
+  postalcode: '12533'
+  signonmsgset: 'true'
+  state: NY
+  url: https://www.hvfcu.org
+url: https://internetbanking.hvfcu.org/ofx/ofx.dll

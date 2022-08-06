@@ -1,0 +1,7 @@
+fid: '1084'
+name: bankESB
+ofxfail: '0'
+ofxhome_id: '906'
+org: esb.com
+profile: {}
+url: https://ofx.myvirtualbranch.com/eftxweb/access.ofx

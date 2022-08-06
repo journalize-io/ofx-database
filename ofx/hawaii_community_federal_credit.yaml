@@ -1,0 +1,22 @@
+fid: HCFCUHI
+name: Hawaii Community Federal Credit
+ofxfail: '3'
+ofxhome_id: '1155'
+org: FundsXpress
+profile:
+  addr1: 73-5611 Olowalu St.
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Kailua-Kona
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 808-930-7700
+  email: info@hicommfcu.com
+  emailmsgset: 'true'
+  finame: Hawaii Community Federal Credit
+  postalcode: '96740'
+  signonmsgset: 'true'
+  state: HI
+  tsphone: 808-930-7700
+  url: http://www.hicommfcu.com
+url: https://ofx.fundsxpress.com/piles/ofx.pile/

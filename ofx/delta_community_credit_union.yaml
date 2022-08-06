@@ -1,0 +1,18 @@
+fid: '3328'
+name: Delta Community Credit Union
+ofxfail: '1'
+ofxhome_id: '573'
+org: decu.org
+profile:
+  addr1: 1025 Virgina Ave
+  bankmsgset: 'true'
+  city: Atlanta
+  country: USA
+  csphone: 800 954 3060
+  email: itemp@decu.org
+  postalcode: '30354'
+  signonmsgset: 'true'
+  state: GA
+  tsphone: 800 954 3060
+  url: www.decu.org
+url: https://appweb.deltacommunitycu.com/ofxroot/directtocore.asp

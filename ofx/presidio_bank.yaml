@@ -1,0 +1,18 @@
+fid: '121044356'
+name: Presidio Bank
+ofxfail: '0'
+ofxhome_id: '1331'
+org: DI
+profile:
+  addr1: 1 Montgomery St
+  addr2: Suite 2300
+  bankmsgset: 'true'
+  city: San Francisco
+  country: USA
+  email: eBanking@presidiobank.com
+  finame: Presidio Bank
+  postalcode: '94104'
+  signonmsgset: 'true'
+  state: CA
+  url: www.mypresidiobank.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

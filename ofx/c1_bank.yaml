@@ -1,0 +1,19 @@
+fid: '063114137'
+name: C1 Bank
+ofxfail: '0'
+ofxhome_id: '943'
+org: MFiveFiveNine
+profile:
+  addr1: 100 5th Street South
+  bankmsgset: 'true'
+  city: St. Petersburg
+  country: USA
+  csphone: (877) 266-2265
+  email: info@C1Bank.com
+  finame: C1 Bank
+  postalcode: '33701'
+  signonmsgset: 'true'
+  state: FL
+  tsphone: (877) 266-2265
+  url: https://www.c1bank.com
+url: https://ofx.secureinternetbank.com/ofxserver/ofxsrvr.dll

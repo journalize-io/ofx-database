@@ -1,0 +1,19 @@
+fid: '50802'
+name: Florida West Coast CU
+ofxfail: '0'
+ofxhome_id: '1115'
+org: Cavion
+profile:
+  addr1: 1225 Millennium Parkway
+  bankmsgset: 'true'
+  city: Brandon
+  country: USA
+  csphone: '8136435572'
+  email: nblattner@fwccu.com
+  finame: Florida West Coast CU
+  postalcode: '33511'
+  signonmsgset: 'true'
+  state: FL
+  tsphone: '8136435572'
+  url: http://www.fwccu.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

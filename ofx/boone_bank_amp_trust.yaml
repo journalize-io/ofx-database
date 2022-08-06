@@ -1,0 +1,19 @@
+fid: 073901097
+name: Boone Bank &amp; Trust
+ofxfail: '0'
+ofxhome_id: '927'
+org: DI
+profile:
+  addr1: 716 8th St
+  bankmsgset: 'true'
+  city: Boone
+  country: USA
+  csphone: 515-432-6200
+  email: internet-banking@boonebankiowa
+  finame: Boone Bank & Trust
+  postalcode: '50036'
+  signonmsgset: 'true'
+  state: IA
+  tsphone: 515-432-6200
+  url: www.boonebankiowa.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

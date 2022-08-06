@@ -1,0 +1,18 @@
+fid: '211272766'
+name: Mechanics Savings Bank QBDC
+ofxfail: '0'
+ofxhome_id: '1235'
+org: NOREightFiveZero
+profile:
+  addr1: 100 Minot Ave
+  bankmsgset: 'true'
+  city: Auburn
+  country: USA
+  csphone: 207-786-5700
+  email: depositoperations@mechanicssavings.com
+  finame: Mechanics Savings Bank QBDC
+  postalcode: '04210'
+  signonmsgset: 'true'
+  state: ME
+  url: https://mechanicssavings.com
+url: https://ofx.secureinternetbank.com/OFXServer/ofxsrvr.dll

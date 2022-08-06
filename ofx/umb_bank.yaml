@@ -1,0 +1,7 @@
+fid: '0'
+name: UMB Bank
+ofxfail: '3'
+ofxhome_id: '468'
+org: UMB
+profile: {}
+url: https://pcbanking.umb.com/hs_ofx/hsofx.dll

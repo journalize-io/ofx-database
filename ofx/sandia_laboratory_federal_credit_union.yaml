@@ -1,0 +1,23 @@
+brokerid: '307083911'
+fid: '1001'
+name: Sandia Laboratory Federal Credit Union
+ofxfail: '1'
+ofxhome_id: '780'
+org: SLFCU
+profile:
+  addr1: 3707 Juan Tabo Blvd. N.E.
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Albuquerque
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 505-293-0500
+  email: Unknown
+  emailmsgset: 'true'
+  finame: SLFCU
+  postalcode: '87111'
+  signonmsgset: 'true'
+  state: NM
+  tsphone: 505-237-3725
+  url: https://www.slfcu.org/
+url: https://ofx-prod.slfcu.org/ofx/process.ofx

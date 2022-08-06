@@ -1,0 +1,22 @@
+fid: ONBLFL
+name: Old Florida Bank
+ofxfail: '3'
+ofxhome_id: '1287'
+org: FundsXpress Finacial Network
+profile:
+  addr1: 315 E Robinson St., Ste 100
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Orlando
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: (407) 388-6166
+  email: customersupport@oldflorida.com
+  emailmsgset: 'true'
+  finame: Old Florida Bank
+  postalcode: '32801'
+  signonmsgset: 'true'
+  state: FL
+  tsphone: (407) 388-6166
+  url: https://www.oldflorida.com/
+url: https://ofx.fundsxpress.com/piles/ofx.pile/

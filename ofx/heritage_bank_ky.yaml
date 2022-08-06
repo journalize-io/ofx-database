@@ -1,0 +1,19 @@
+fid: '56691'
+name: Heritage Bank KY
+ofxfail: '0'
+ofxhome_id: '1160'
+org: Cavion
+profile:
+  addr1: 4155 Lafayette Rd
+  bankmsgset: 'true'
+  city: Hopkinsville
+  country: USA
+  csphone: 1-866-749-2265
+  email: thomas.douthitt@bankwithheritage.com
+  finame: Heritage Bank KY
+  postalcode: '42240'
+  signonmsgset: 'true'
+  state: KY
+  tsphone: 1-866-749-2265
+  url: http://www.bankwithheritage.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

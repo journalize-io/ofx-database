@@ -1,0 +1,19 @@
+fid: '121181976'
+name: Technology Credit Union - DC
+ofxfail: '3'
+ofxhome_id: '1416'
+org: TECHCUDC
+profile:
+  addr1: 2010 North First Street
+  bankmsgset: 'true'
+  city: San Jose
+  country: USA
+  csphone: 800-553-0880
+  email: info@techcu.com
+  emailmsgset: 'true'
+  finame: Technology Credit Union - DC
+  postalcode: '95131'
+  signonmsgset: 'true'
+  state: CA
+  url: https://webbranch.techcu.com/onlineapps/email.asp
+url: https://m.techcu.com/ofxserver/ofxsrvr.dll

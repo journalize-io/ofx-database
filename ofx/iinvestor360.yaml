@@ -1,0 +1,19 @@
+brokerid: '1234'
+fid: '7784'
+name: Iinvestor360
+ofxfail: '3'
+ofxhome_id: '792'
+org: Fidelity
+profile:
+  addr1: XXXXXXX
+  city: XXXXXXX
+  country: USA
+  csphone: Contact your advisor.
+  finame: Commonwealth Financial Network
+  invstmtmsgset: 'true'
+  postalcode: XXXXX
+  signonmsgset: 'true'
+  state: XX
+  tsphone: Contact your advisor.
+  url: N
+url: https://www.investor360.net/OFX/FinService.asmx/GetData

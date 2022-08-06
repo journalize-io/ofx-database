@@ -1,0 +1,19 @@
+fid: '50175'
+name: Telhio Credit Union
+ofxfail: '0'
+ofxhome_id: '1418'
+org: Telhio Credit Union
+profile:
+  addr1: 96 N 4th St
+  bankmsgset: 'true'
+  city: Columbus
+  country: USA
+  csphone: 614-221-3233
+  email: onlinesupport@telhio.org
+  finame: Telhio Credit Union
+  postalcode: '43215'
+  signonmsgset: 'true'
+  state: OH
+  tsphone: 614-221-3233
+  url: https://www.telhio.org/
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

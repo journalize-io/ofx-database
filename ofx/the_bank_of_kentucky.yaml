@@ -1,0 +1,23 @@
+fid: BKCHKY
+name: The Bank of Kentucky
+ofxfail: '0'
+ofxhome_id: '1424'
+org: FundsXpress
+profile:
+  addr1: Online Banking Department
+  addr2: P.O. Box 577
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Florence
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: Contact our 24/7 OnlineBanking C
+  email: internet@bankofky.com
+  emailmsgset: 'true'
+  finame: The Bank of Kentucky
+  postalcode: '41022'
+  signonmsgset: 'true'
+  state: KY
+  tsphone: Contact our 24/7 OnlineBanking C
+  url: http://www.bankofky.com
+url: https://ofx.fundsxpress.com/piles/ofx.pile/

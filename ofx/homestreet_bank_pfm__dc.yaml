@@ -1,0 +1,22 @@
+fid: '5546'
+name: HomeStreet Bank PFM - DC
+ofxfail: '0'
+ofxhome_id: '1168'
+org: '420'
+profile:
+  addr1: 601 Union Street
+  addr2: Suite 2000
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Seattle
+  country: USA
+  csphone: 800-719-8080
+  email: onlinebanking@homestreet.com
+  emailmsgset: 'true'
+  finame: HomeStreet Bank PFM - DC
+  interxfermsgset: 'true'
+  postalcode: '98101'
+  signonmsgset: 'true'
+  state: WA
+  url: www.homestreet.com
+url: https://pfm.metavante.com/ofx/OFXServlet

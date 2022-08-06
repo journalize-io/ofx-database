@@ -1,0 +1,18 @@
+fid: '7101'
+name: Discover Card
+ofxfail: '3'
+ofxhome_id: '444'
+org: Discover Financial Services
+profile:
+  addr1: 2500 Lake Cook Road
+  city: Riverwoods
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 1-800-DISCOVER
+  email: websupport@service.discovercard.com
+  postalcode: '60015'
+  signonmsgset: 'true'
+  state: IL
+  tsphone: 1-800-DISCOVER
+  url: https://www.discover.com
+url: https://ofx.discovercard.com

@@ -1,0 +1,20 @@
+fid: '125108887'
+name: Commencement Bank
+ofxfail: '0'
+ofxhome_id: '1008'
+org: Cavion/Phoenix
+profile:
+  addr1: 1135 Broadway Plaza
+  addr2: Suite 103
+  bankmsgset: 'true'
+  city: Tacoma
+  country: USA
+  csphone: 253-284-1812
+  email: rwaterman@commencementbank.com
+  finame: Commencement Bank
+  postalcode: '98402'
+  signonmsgset: 'true'
+  state: WA
+  tsphone: 253-284-1812
+  url: https://www.commencementbank.com/
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

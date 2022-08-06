@@ -1,0 +1,25 @@
+brokerid: ameritrade.com
+fid: '5024'
+name: TD Ameritrade
+ofxfail: '0'
+ofxhome_id: '425'
+org: ameritrade.com
+profile:
+  addr1: 4211 So. 102nd Street
+  bankmsgset: 'true'
+  city: Omaha
+  country: USA
+  csphone: 1-212-723-2898
+  email: alex_shnir@smb.com
+  finame: Ameritrade
+  invstmtmsgset: 'true'
+  notes: Username is case sensitive Automatically imports 2 years of transactions
+    Older transactions may be imported from the Ameritrade website.  See documentation
+    for more details. mported stock split transactions may have incorrect data
+  postalcode: '68127'
+  seclistmsgset: 'true'
+  signonmsgset: 'true'
+  state: NE
+  tsphone: 1-212-723-2898
+  url: https://ofxs.ameritrade.com/cgi-bin/apps/OFX
+url: https://ofxs.ameritrade.com/cgi-bin/apps/OFX

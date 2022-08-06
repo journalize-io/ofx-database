@@ -1,0 +1,19 @@
+fid: '20451'
+name: Hawaii National Bank
+ofxfail: '0'
+ofxhome_id: '1156'
+org: Cavion
+profile:
+  addr1: 45 North King St.
+  bankmsgset: 'true'
+  city: Honolulu
+  country: USA
+  csphone: '8085287784'
+  email: Nikolaus.Daubert@HNBhawaii.com
+  finame: Hawaii National Bank
+  postalcode: '96817'
+  signonmsgset: 'true'
+  state: HI
+  tsphone: '8085287784'
+  url: http://www.hawaiinational.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

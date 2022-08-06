@@ -1,0 +1,19 @@
+fid: '52527'
+name: First State Bank - Lynnville
+ofxfail: '0'
+ofxhome_id: '1104'
+org: Cavion
+profile:
+  addr1: 413 East Street
+  bankmsgset: 'true'
+  city: Lynnville
+  country: USA
+  csphone: 641.527.2535
+  email: barbf@lynnvillebank.com
+  finame: First State Bank - Lynnville
+  postalcode: '50153'
+  signonmsgset: 'true'
+  state: IA
+  tsphone: 641.527.2535
+  url: www.lynnvillebank.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

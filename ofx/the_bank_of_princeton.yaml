@@ -1,0 +1,18 @@
+fid: 031207940
+name: The Bank of Princeton
+ofxfail: '1'
+ofxhome_id: '897'
+org: MSevenFourSeven
+profile:
+  addr1: 21 Chambers St
+  bankmsgset: 'true'
+  city: Princeton
+  country: USA
+  csphone: 609-921-1700
+  email: noreply@thebankofprinceton.com
+  finame: The Bank of Princeton
+  postalcode: 08542
+  signonmsgset: 'true'
+  state: NJ
+  url: http://www.thebankofprinceton.com/
+url: https://ofx1.evault.ws/ofxserver/ofxsrvr.dll

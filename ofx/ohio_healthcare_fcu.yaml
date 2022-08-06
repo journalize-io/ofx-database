@@ -1,0 +1,19 @@
+fid: '13047'
+name: Ohio Healthcare FCU
+ofxfail: '0'
+ofxhome_id: '1285'
+org: Cavion
+profile:
+  addr1: 3955 W DUBLIN GRANVILLE RD
+  bankmsgset: 'true'
+  city: Dublin
+  country: USA
+  csphone: '8664893787'
+  email: MSRStaff@ohcfcu.com
+  finame: Ohio Healthcare FCU
+  postalcode: '43017'
+  signonmsgset: 'true'
+  state: OH
+  tsphone: '8664893787'
+  url: http://www.ohcfcu.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

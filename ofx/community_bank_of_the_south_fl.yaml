@@ -1,0 +1,19 @@
+fid: '50754'
+name: Community Bank of the South FL
+ofxfail: '0'
+ofxhome_id: '1015'
+org: Cavion
+profile:
+  addr1: 277 North Sykes Creek Parkway
+  bankmsgset: 'true'
+  city: Merritt Island
+  country: USA
+  csphone: '3214529826'
+  email: assist@cbosdirect.com
+  finame: Community Bank of the South FL
+  postalcode: '32953'
+  signonmsgset: 'true'
+  state: FL
+  tsphone: '3214529826'
+  url: http://www.cbosdirect.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

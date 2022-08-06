@@ -1,0 +1,19 @@
+fid: '29766'
+name: Olmsted National Bank
+ofxfail: '0'
+ofxhome_id: '1289'
+org: Cavion
+profile:
+  addr1: 975 34th Avenue Nw
+  bankmsgset: 'true'
+  city: Rochester
+  country: USA
+  csphone: 507-424-1563
+  email: terry@olmstednationalbank.com
+  finame: Olmsted National Bank
+  postalcode: '55901'
+  signonmsgset: 'true'
+  state: MN
+  tsphone: 507-424-1563
+  url: http://www.bankononb.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

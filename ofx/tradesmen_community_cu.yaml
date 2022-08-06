@@ -1,0 +1,19 @@
+fid: '46434'
+name: Tradesmen Community CU
+ofxfail: '0'
+ofxhome_id: '1463'
+org: Cavion
+profile:
+  addr1: PO Box 1496
+  bankmsgset: 'true'
+  city: Des Moines
+  country: USA
+  csphone: '5152438735'
+  email: askus@tradesmenccu.org
+  finame: Tradesmen Community CU
+  postalcode: '50305'
+  signonmsgset: 'true'
+  state: IA
+  tsphone: '5152438735'
+  url: https://www.tradesmenccu.org/
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

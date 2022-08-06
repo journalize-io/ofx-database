@@ -1,0 +1,19 @@
+fid: '57954'
+name: Pacific Crest Savings Bank
+ofxfail: '0'
+ofxhome_id: '1301'
+org: Cavion
+profile:
+  addr1: 3500 188th Street, S.W
+  bankmsgset: 'true'
+  city: Lynnwood
+  country: USA
+  csphone: 800.335.4126
+  email: spena@paccrest.com
+  finame: Pacific Crest Savings Bank
+  postalcode: '98037'
+  signonmsgset: 'true'
+  state: WA
+  tsphone: 800.335.4126
+  url: http://pacificcrestbank.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

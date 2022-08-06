@@ -1,0 +1,16 @@
+fid: '15436'
+name: J.P. Morgan Funds
+ofxfail: '0'
+ofxhome_id: '1186'
+org: jpmorgan
+profile:
+  addr1: 460 Polaris Parkway, Floor 4
+  city: Westerville
+  country: USA
+  finame: J.P. Morgan Funds
+  invstmtmsgset: 'true'
+  postalcode: '43082'
+  signonmsgset: 'true'
+  state: OH
+  url: https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=80915121417060013
+url: https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=80915121417060013

@@ -1,0 +1,22 @@
+fid: CBLAL
+name: Millennial Bank
+ofxfail: '3'
+ofxhome_id: '1028'
+org: FundsXpress Financial Network
+profile:
+  addr1: PO Box 309
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Leeds
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 866-955-8571
+  email: customerservice@millennial.bank
+  emailmsgset: 'true'
+  finame: Millennial Bank
+  postalcode: '35094'
+  signonmsgset: 'true'
+  state: AL
+  tsphone: 866-955-8571
+  url: http://www.millennial.bank
+url: https://ofx.fundsxpress.com/piles/ofx.pile/

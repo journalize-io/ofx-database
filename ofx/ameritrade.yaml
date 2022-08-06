@@ -1,0 +1,18 @@
+brokerid: ameritrade.com
+fid: AIS
+name: Ameritrade
+ofxfail: '0'
+ofxhome_id: '865'
+org: Ameritrade Technology Group
+profile:
+  addr1: 4211 So. 102nd Street
+  city: Omaha
+  country: USA
+  finame: Ameritrade
+  invstmtmsgset: 'true'
+  postalcode: '68127'
+  seclistmsgset: 'true'
+  signonmsgset: 'true'
+  state: NE
+  url: https://ofxs.ameritrade.com/cgi-bin/apps/OFX
+url: https://ofxs.ameritrade.com/cgi-bin/apps/OFX

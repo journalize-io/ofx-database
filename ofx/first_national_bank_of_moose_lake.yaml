@@ -1,0 +1,19 @@
+fid: '50694'
+name: First National Bank of Moose Lake
+ofxfail: '0'
+ofxhome_id: '1099'
+org: CAVION
+profile:
+  addr1: 400 Elm Avenue
+  bankmsgset: 'true'
+  city: Moose Lake
+  country: USA
+  csphone: '2184854441'
+  email: fnb@firstmooselake.com
+  finame: First National Bank of Moose Lake
+  postalcode: '55767'
+  signonmsgset: 'true'
+  state: MN
+  tsphone: '2184854441'
+  url: http://www.firstmooselake.com/
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

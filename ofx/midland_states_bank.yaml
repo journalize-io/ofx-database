@@ -1,0 +1,21 @@
+fid: 081204540
+name: Midland States Bank
+ofxfail: '0'
+ofxhome_id: '1249'
+org: DI
+profile:
+  addr1: 1901 South 4th Street
+  addr2: Suite 203
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Effingham
+  country: USA
+  csphone: 888-226-5892
+  email: service@midlandstatesbank.com
+  finame: Midland States Bank
+  postalcode: '62401'
+  signonmsgset: 'true'
+  state: IL
+  tsphone: 217-342-2141
+  url: www.midlandstatesbank.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

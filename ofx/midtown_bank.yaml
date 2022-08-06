@@ -1,0 +1,19 @@
+fid: '061020375'
+name: Midtown Bank
+ofxfail: '0'
+ofxhome_id: '1090'
+org: MNineZeroThree
+profile:
+  addr1: 712 West Peachtree Street
+  bankmsgset: 'true'
+  city: Atlanta
+  country: USA
+  csphone: (404) 969-4400
+  email: noreply@midtownbankandtrust.com
+  finame: Midtown Bank
+  postalcode: '30308'
+  signonmsgset: 'true'
+  state: GA
+  tsphone: (404) 969-4400
+  url: http://www.midtownbankandtrust.com/
+url: https://ofx1.evault.ws/ofxserver/ofxsrvr.dll

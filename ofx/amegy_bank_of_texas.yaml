@@ -1,0 +1,20 @@
+fid: SWBTX
+name: Amegy Bank of Texas
+ofxfail: '0'
+ofxhome_id: '857'
+org: 292-3
+profile:
+  addr1: 7730 South Union Park Ave
+  addr2: Suite 250
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Midvale
+  country: USA
+  creditcardmsgset: 'true'
+  emailmsgset: 'true'
+  finame: Amegy Bank of Texas
+  postalcode: '84047'
+  signonmsgset: 'true'
+  state: UT
+  url: http://www.amegybank.com
+url: https://www.oasis.cfree.com/fip/genesis/prod/0SWBTX.ofx

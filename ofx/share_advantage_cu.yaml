@@ -1,0 +1,19 @@
+fid: '46464'
+name: Share Advantage CU
+ofxfail: '0'
+ofxhome_id: '1371'
+org: Cavion
+profile:
+  addr1: 2502 Maple Grove Rd
+  bankmsgset: 'true'
+  city: Duluth
+  country: USA
+  csphone: 218-722-5931
+  email: msr2@myshareadvantage.com
+  finame: Share Advantage CU
+  postalcode: '55811'
+  signonmsgset: 'true'
+  state: MN
+  tsphone: 218-722-5931
+  url: http://www.myshareadvantage.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

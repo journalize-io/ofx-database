@@ -1,0 +1,17 @@
+brokerid: tiaa-cref.org
+fid: '14038'
+name: Edvest College Savings Plan
+ofxfail: '3'
+ofxhome_id: '833'
+org: tiaawisconsin
+profile:
+  addr1: PO Box 55189
+  city: BOSTON
+  country: USA
+  finame: Edvest College Savings Plan
+  invstmtmsgset: 'true'
+  postalcode: 02205-1589
+  signonmsgset: 'true'
+  state: MA
+  url: https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=6190800002208
+url: https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=6190800002208

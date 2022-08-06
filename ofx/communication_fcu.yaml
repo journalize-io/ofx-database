@@ -1,0 +1,19 @@
+fid: '1197'
+name: Communication FCU
+ofxfail: '0'
+ofxhome_id: '1011'
+org: Cavion
+profile:
+  addr1: 4141 NW EXPWAY  SUITE 200
+  bankmsgset: 'true'
+  city: OKLAHOMA CITY
+  country: USA
+  csphone: '4058795605'
+  email: info@comfedcu.org
+  finame: Communication FCU
+  postalcode: '73116'
+  signonmsgset: 'true'
+  state: OK
+  tsphone: '4058795605'
+  url: https://online.comfedcu.org
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

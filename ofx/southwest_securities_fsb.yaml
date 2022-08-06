@@ -1,0 +1,19 @@
+fid: '311993149'
+name: Southwest Securities, FSB
+ofxfail: '0'
+ofxhome_id: '1382'
+org: MTwoTwoFive
+profile:
+  addr1: 301 south center
+  bankmsgset: 'true'
+  city: Arlington
+  country: USA
+  csphone: 817-861-3633
+  email: noreply@swsfsb.com
+  finame: Southwest Securities, FSB
+  postalcode: '76010'
+  signonmsgset: 'true'
+  state: TX
+  tsphone: 817-861-3633
+  url: http://www.southwestsecuritiesfsb.com/
+url: https://ofx1.evault.ws/ofxserver/ofxsrvr.dll

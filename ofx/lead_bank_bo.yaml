@@ -1,0 +1,19 @@
+fid: '101206101'
+name: Lead Bank BO
+ofxfail: '0'
+ofxhome_id: '1215'
+org: WTwentyEightTwentyFive
+profile:
+  addr1: 200 N. 3rd Street
+  bankmsgset: 'true'
+  city: Garden City
+  country: USA
+  csphone: 816-220-8600
+  email: aballinger@lead.bank
+  finame: Lead Bank BO
+  postalcode: '64747'
+  signonmsgset: 'true'
+  state: MO
+  tsphone: 816-220-8600
+  url: http://www.leadbankonline.com
+url: https://ofx.secureinternetbank.com/OFXServer/ofxsrvr.dll

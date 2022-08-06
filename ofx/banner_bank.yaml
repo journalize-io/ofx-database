@@ -1,0 +1,16 @@
+fid: '64395'
+name: Banner Bank
+ofxfail: '0'
+ofxhome_id: '1535'
+org: Banner Bank Q2
+profile:
+  addr1: 10 S First St
+  bankmsgset: 'true'
+  city: Walla Walla
+  country: USA
+  finame: Banner Bank Q2
+  postalcode: '99362'
+  signonmsgset: 'true'
+  state: WA
+  url: https://secure.bannerbank.com/3388_directconnect/ofx.ashx
+url: https://secure.bannerbank.com/3388_directconnect/ofx.ashx

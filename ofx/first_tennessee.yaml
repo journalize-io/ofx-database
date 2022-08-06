@@ -1,0 +1,21 @@
+fid: '2250'
+name: First Tennessee
+ofxfail: '1'
+ofxhome_id: '795'
+org: Online Financial Services
+profile:
+  addr1: 165 Madison Ave.
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Memphis
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 1-800-382-5465
+  email: allthingsfinancial@firsttennesse
+  finame: First Horizon Bank
+  postalcode: '38103'
+  signonmsgset: 'true'
+  state: TN
+  tsphone: 1-800-382-5465
+  url: https://www.firsthorizon.com
+url: https://ofx.firsttennessee.com/eftxweb/access.ofx

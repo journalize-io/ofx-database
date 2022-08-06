@@ -1,0 +1,7 @@
+fid: '221278556'
+name: Novartis Federal Credit Union
+ofxfail: '1'
+ofxhome_id: '581'
+org: Novartis FCU
+profile: {}
+url: https://cib.usersonlnet.com/scripts/isaofx.dll

@@ -1,0 +1,18 @@
+fid: '15091'
+name: St Paul Federal Credit Union -Ne
+ofxfail: '0'
+ofxhome_id: '1389'
+org: St Paul Federal Credit Union- Ne
+profile:
+  addr1: 1330 Conway St
+  bankmsgset: 'true'
+  city: St Paul
+  country: USA
+  csphone: 800-782-5767
+  finame: St Paul Federal Credit Union -Ne
+  postalcode: '94551'
+  signonmsgset: 'true'
+  state: MN
+  tsphone: 651-403-5736
+  url: https://www.stpaulfcu.org
+url: https://mbanking.stpaulfcu.org/ofx/ofxserver.aspx

@@ -1,0 +1,20 @@
+fid: '283079227'
+name: L&amp;N Federal Credit Union
+ofxfail: '0'
+ofxhome_id: '1204'
+org: DI
+profile:
+  addr1: 9265 Smyrna Parkway
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Louisville
+  country: USA
+  csphone: 800-292-2905
+  email: memberserv@lnfcu.com
+  finame: L&N Federal Credit Union
+  postalcode: '40229'
+  signonmsgset: 'true'
+  state: KY
+  tsphone: 800-292-2905
+  url: www.lnfcu.org
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

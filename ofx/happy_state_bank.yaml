@@ -1,0 +1,23 @@
+fid: HSBHTX
+name: Happy State Bank
+ofxfail: '0'
+ofxhome_id: '1152'
+org: FundsXpress Financial Network
+profile:
+  addr1: 701 S Taylor
+  addr2: Box LB 120
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Amarillo
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 806-379-6654
+  email: customerservice@happybank.com
+  emailmsgset: 'true'
+  finame: Happy State Bank
+  postalcode: '79101'
+  signonmsgset: 'true'
+  state: TX
+  tsphone: 806-379-6654
+  url: http://www.happybank.com
+url: https://ofx.fundsxpress.com/piles/ofx.pile/

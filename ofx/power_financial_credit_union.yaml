@@ -1,0 +1,19 @@
+fid: '266080204'
+name: Power Financial Credit Union
+ofxfail: '0'
+ofxhome_id: '1325'
+org: DI
+profile:
+  addr1: 2020 N.W. 150th Avenue
+  bankmsgset: 'true'
+  city: Pembroke Pines
+  country: USA
+  csphone: 954-538-4400
+  email: '2'
+  finame: Power Financial Credit Union
+  postalcode: '33028'
+  signonmsgset: 'true'
+  state: FL
+  tsphone: 954-538-4400
+  url: www.powerfihb.org
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

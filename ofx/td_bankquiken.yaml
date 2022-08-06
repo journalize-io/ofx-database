@@ -1,0 +1,20 @@
+fid: '1002'
+name: TD Bank(Quiken)
+ofxfail: '3'
+ofxhome_id: '829'
+org: CommerceBank
+profile:
+  addr1: Unknown
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Unknown
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 555-555-5555
+  email: Unknown
+  emailmsgset: 'true'
+  postalcode: '99999'
+  signonmsgset: 'true'
+  state: XX
+  url: Unknown
+url: https://ofx.tdbank.com/scripts/serverext.dll

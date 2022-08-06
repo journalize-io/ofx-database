@@ -1,0 +1,23 @@
+fid: '5528'
+name: CapStarBank
+ofxfail: '0'
+ofxhome_id: '956'
+org: '061'
+profile:
+  addr1: 201 4th Avenue
+  addr2: Suite 950
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Nashville
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 1-877-258-5268
+  email: customercare@capstarbank.com
+  emailmsgset: 'true'
+  finame: CapStarBank
+  interxfermsgset: 'true'
+  postalcode: '37219'
+  signonmsgset: 'true'
+  state: TN
+  url: http://www.capstarbank.com/
+url: https://pfm.metavante.com/ofx/OFXServlet

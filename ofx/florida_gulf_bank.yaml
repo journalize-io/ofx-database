@@ -1,0 +1,7 @@
+fid: 067015119
+name: Florida Gulf Bank
+ofxfail: '0'
+ofxhome_id: '1113'
+org: MSevenFiftyOne
+profile: {}
+url: https://ofx1.evault.ws/ofxserver/ofxsrvr.dll

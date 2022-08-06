@@ -1,0 +1,20 @@
+fid: '211373539'
+name: Needham Bank
+ofxfail: '0'
+ofxhome_id: '1265'
+org: DI
+profile:
+  addr1: 1063 Great Plain Avenue
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Needham
+  country: USA
+  csphone: 781-474-5443
+  email: '2'
+  finame: Needham Bank
+  postalcode: 02492
+  signonmsgset: 'true'
+  state: MA
+  tsphone: 781-474-5443
+  url: www.needhambankbizedge.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

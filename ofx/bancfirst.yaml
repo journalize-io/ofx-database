@@ -1,0 +1,19 @@
+fid: '103003632'
+name: BancFirst
+ofxfail: '0'
+ofxhome_id: '644'
+org: DI
+profile:
+  addr1: 101 N. Broadway,Suite 200
+  bankmsgset: 'true'
+  city: Oklahoma City
+  country: USA
+  csphone: 405-270-4785
+  email: onlinebanking@bancfirst.com
+  finame: BancFirst
+  postalcode: '73102'
+  signonmsgset: 'true'
+  state: OK
+  tsphone: 405-270-4785
+  url: www.bancfirst.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

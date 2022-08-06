@@ -1,0 +1,22 @@
+fid: CBLTN
+name: Community Bank
+ofxfail: '0'
+ofxhome_id: '1014'
+org: FundsXpress Inc.
+profile:
+  addr1: P.O. Box 710
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Lexington
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: (731)968-6624
+  email: customerservice@community-bank.net
+  emailmsgset: 'true'
+  finame: Community Bank
+  postalcode: '38351'
+  signonmsgset: 'true'
+  state: TN
+  tsphone: (731)968-6624
+  url: http://www.community-bank.net
+url: https://ofx.fundsxpress.com/piles/ofx.pile/

@@ -1,0 +1,20 @@
+fid: '272479388'
+name: Vibe Credit Union
+ofxfail: '0'
+ofxhome_id: '1493'
+org: DI
+profile:
+  addr1: 44575 W. Twelve Mile Rd
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Novi
+  country: USA
+  csphone: (248) 735-9500
+  email: answercenter@vibecu.com
+  finame: Vibe Credit Union
+  postalcode: '48377'
+  signonmsgset: 'true'
+  state: MI
+  tsphone: (248) 735-9500
+  url: www.vibecreditunion.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

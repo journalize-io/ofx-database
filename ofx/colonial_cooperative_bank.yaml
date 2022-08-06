@@ -1,0 +1,19 @@
+fid: '50124'
+name: Colonial Cooperative Bank
+ofxfail: '0'
+ofxhome_id: '1006'
+org: HFS-Cavion
+profile:
+  addr1: 6 City Hall Ave
+  bankmsgset: 'true'
+  city: Gardner
+  country: USA
+  csphone: '9786320171'
+  email: dcaisse@colonial4banking.com
+  finame: Colonial Cooperative Bank
+  postalcode: '01440'
+  signonmsgset: 'true'
+  state: MA
+  tsphone: '9786320171'
+  url: http://www.colonial4banking.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

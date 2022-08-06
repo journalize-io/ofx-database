@@ -1,0 +1,17 @@
+fid: '10861'
+name: Union State Bank
+ofxfail: '0'
+ofxhome_id: '1481'
+org: Union State Bank, Everest
+profile:
+  addr1: 545 Main Street
+  bankmsgset: 'true'
+  city: Everest
+  country: USA
+  email: info@mybankusb.com
+  finame: Union State Bank
+  postalcode: 66424-9157
+  signonmsgset: 'true'
+  state: KS
+  url: https://secure.mybankusb.com/
+url: https://secure.mybankusb.com/pages/olb.ofx.1_0_3.axd

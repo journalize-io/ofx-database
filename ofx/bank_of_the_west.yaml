@@ -1,0 +1,21 @@
+fid: '5809'
+name: Bank of the West
+ofxfail: '1'
+ofxhome_id: '656'
+org: BancWest Corp
+profile:
+  addr1: 1450 Treat Blvd
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Walnut Creek
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 1-800-488-2265
+  email: etimebanker@bankofthewest.com
+  emailmsgset: 'true'
+  postalcode: '94596'
+  signonmsgset: 'true'
+  state: CA
+  tsphone: 1-800-488-2265
+  url: http://www.bankofthewest.com
+url: https://olbp.bankofthewest.com/ofx0002/ofx_isapi.dll

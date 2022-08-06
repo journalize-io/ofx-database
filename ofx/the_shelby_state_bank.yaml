@@ -1,0 +1,18 @@
+fid: 072411708
+name: The Shelby State Bank
+ofxfail: '0'
+ofxhome_id: '1447'
+org: INineSevenTwo
+profile:
+  addr1: 242 North Michigan Ave
+  bankmsgset: 'true'
+  city: Shelby
+  country: USA
+  csphone: 231-893-2331
+  email: noreply@shelbybank.com
+  finame: The Shelby State Bank
+  postalcode: '49455'
+  signonmsgset: 'true'
+  state: MI
+  url: shelbybank.com
+url: https://ofx1.evault.ws/ofxserver/ofxsrvr.dll

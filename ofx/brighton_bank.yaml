@@ -1,0 +1,21 @@
+fid: BBSUT
+name: Brighton Bank
+ofxfail: '0'
+ofxhome_id: '933'
+org: FundsXpress
+profile:
+  addr1: PO Box 71309
+  bankmsgset: 'true'
+  city: Salt Lake City
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 801-487-5909
+  email: online@brightonbank.com
+  emailmsgset: 'true'
+  finame: Brighton Bank
+  postalcode: '841710309'
+  signonmsgset: 'true'
+  state: UT
+  tsphone: 801-487-5909
+  url: http://www.brightonbank.com
+url: https://ofx.fundsxpress.com/piles/ofx.pile/

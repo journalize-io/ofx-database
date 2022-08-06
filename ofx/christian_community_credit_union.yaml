@@ -1,0 +1,20 @@
+fid: '322274831'
+name: Christian Community Credit Union
+ofxfail: '3'
+ofxhome_id: '988'
+org: DI
+profile:
+  addr1: 101 S. Barranca Ave.
+  addr2: 255 N. Lone Hill
+  bankmsgset: 'true'
+  city: Covina
+  country: USA
+  csphone: 1-800-347-2228
+  email: info@mycccu.com
+  finame: Christian Community Credit Union
+  postalcode: '91722'
+  signonmsgset: 'true'
+  state: CA
+  tsphone: 1-800-347-2228
+  url: http://www.mycccu.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

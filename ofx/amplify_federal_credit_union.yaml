@@ -1,0 +1,17 @@
+fid: '1'
+name: Amplify Federal Credit Union
+ofxfail: '1'
+ofxhome_id: '788'
+org: Harland Financial Solutions
+profile:
+  addr1: P.O. BOX 2351
+  bankmsgset: 'true'
+  city: Sacramento
+  country: USA
+  csphone: 916 444 6070
+  email: info@sactocu.org
+  postalcode: '95812'
+  signonmsgset: 'true'
+  state: CA
+  url: https://homebank.sactocu.org
+url: https://ezonline.goamplify.com/ofx/ofx.dll

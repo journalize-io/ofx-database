@@ -1,0 +1,17 @@
+fid: '021414426'
+name: Empire National Bank
+ofxfail: '3'
+ofxhome_id: '1058'
+org: DI
+profile:
+  addr1: 1707 Veterans Highway
+  bankmsgset: 'true'
+  city: Islandia
+  country: USA
+  email: '2'
+  finame: Empire National Bank
+  postalcode: '11749'
+  signonmsgset: 'true'
+  state: NY
+  url: www.empirenbonline.com
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

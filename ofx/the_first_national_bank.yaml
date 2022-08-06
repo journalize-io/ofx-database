@@ -1,0 +1,22 @@
+fid: FNBMGIL
+name: The First National Bank
+ofxfail: '3'
+ofxhome_id: '1434'
+org: FundsXpress
+profile:
+  addr1: 511 Lake Land Blvd.
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Mattoon
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: (217) 234-7900
+  email: custserv@fnbbankingcenters.com
+  emailmsgset: 'true'
+  finame: The First National Bank
+  postalcode: '61938'
+  signonmsgset: 'true'
+  state: IL
+  tsphone: (217) 234-7900
+  url: https://www.fnbbankingcenters.com
+url: https://ofx.fundsxpress.com/piles/ofx.pile/

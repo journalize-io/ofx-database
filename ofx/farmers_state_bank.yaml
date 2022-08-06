@@ -1,0 +1,19 @@
+fid: '11053'
+name: Farmers State Bank
+ofxfail: '0'
+ofxhome_id: '1072'
+org: HFS-Phoenix
+profile:
+  addr1: 1009 People Square
+  bankmsgset: 'true'
+  city: Waterloo
+  country: USA
+  csphone: '3198271050'
+  email: tmarsh@fsb1879.com
+  finame: Farmers State Bank
+  postalcode: '50702'
+  signonmsgset: 'true'
+  state: IA
+  tsphone: '3198271050'
+  url: www.fsb1879.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

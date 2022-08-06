@@ -1,0 +1,20 @@
+fid: '321177968'
+name: Star One Credit Union
+ofxfail: '0'
+ofxhome_id: '807'
+org: DI
+profile:
+  addr1: 1306 Bordeaux Dr.
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Sunnyvale
+  country: USA
+  csphone: (866)543-5202
+  email: service@starone.org
+  finame: Star One Credit Union
+  postalcode: '94089'
+  signonmsgset: 'true'
+  state: CA
+  tsphone: (866)543-5202
+  url: www.starone.org
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

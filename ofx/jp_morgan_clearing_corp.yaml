@@ -1,0 +1,17 @@
+brokerid: https://ofxpcs.toolkit
+fid: '7315'
+name: J.P. Morgan Clearing Corp.
+ofxfail: '3'
+ofxhome_id: '701'
+org: GCS
+profile:
+  addr1: 50 broadway
+  city: New York
+  country: USA
+  invstmtmsgset: 'true'
+  postalcode: '10004'
+  seclistmsgset: 'true'
+  signonmsgset: 'true'
+  state: NY
+  url: https://ofxgcs.toolkit.clearco.com
+url: https://ofxgcs.toolkit.clearco.com

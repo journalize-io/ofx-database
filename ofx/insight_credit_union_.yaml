@@ -1,0 +1,19 @@
+fid: '15550'
+name: Insight Credit Union –
+ofxfail: '1'
+ofxhome_id: '1182'
+org: Insight Credit Union
+profile:
+  addr1: 480 South Keller Road
+  bankmsgset: 'true'
+  city: Orlando
+  country: USA
+  csphone: 407-426-6000
+  email: fsr@insightcreditunion.com
+  finame: Insight Credit Union –New
+  postalcode: '32810'
+  signonmsgset: 'true'
+  state: FL
+  tsphone: 888-843-8328
+  url: https://insightcreditunion.com
+url: https://mobile.insightcreditunion.com/OFX/OFXServer.aspx

@@ -1,0 +1,22 @@
+fid: '5527'
+name: FirstColonyBank
+ofxfail: '0'
+ofxhome_id: '1082'
+org: 058
+profile:
+  addr1: 753 North Orlando Avenue
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Maitland
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: 877-258-5274
+  email: info@firstcolonybank.com
+  emailmsgset: 'true'
+  finame: FirstColonyBank
+  interxfermsgset: 'true'
+  postalcode: '32751'
+  signonmsgset: 'true'
+  state: FL
+  url: www.firstcolonybank.net
+url: https://pfm.metavante.com/ofx/OFXServlet

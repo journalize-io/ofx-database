@@ -1,0 +1,19 @@
+fid: '15058'
+name: Diamond Credit Union
+ofxfail: '0'
+ofxhome_id: '1045'
+org: Diamond Credit Union -New
+profile:
+  addr1: 1600 Medical Dr
+  bankmsgset: 'true'
+  city: Pottstown
+  country: USA
+  csphone: 610-326-5490
+  email: askdiamond@diamondcu.com
+  finame: Diamond Credit Union -New
+  postalcode: '19464'
+  signonmsgset: 'true'
+  state: PA
+  tsphone: 610-326-5490
+  url: https://diamondcu.org
+url: https://mobile.diamondcu.com/ofx/ofxserver.aspx

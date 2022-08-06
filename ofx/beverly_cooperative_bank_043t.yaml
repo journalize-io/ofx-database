@@ -1,0 +1,18 @@
+fid: '211372145'
+name: Beverly Cooperative Bank (043T)
+ofxfail: '0'
+ofxhome_id: '923'
+org: 043T
+profile:
+  addr1: 254 Cabot Street
+  bankmsgset: 'true'
+  city: Beverly
+  country: USA
+  csphone: (978) 922-0857
+  email: noreply@beverlycoop.com
+  finame: Beverly Cooperative Bank (043T)
+  postalcode: 01915
+  signonmsgset: 'true'
+  state: MA
+  url: http://www.beverlycoop.com/
+url: https://ofx1.evault.ws/OFXServer/ofxsrvr.dll

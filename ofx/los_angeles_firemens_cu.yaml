@@ -1,0 +1,19 @@
+fid: '322078341'
+name: Los Angeles Firemens CU
+ofxfail: '0'
+ofxhome_id: '1078'
+org: DI
+profile:
+  addr1: 1520 W Colorado Blvd
+  bankmsgset: 'true'
+  city: Pasadena
+  country: USA
+  csphone: 323-254-1700
+  email: '2'
+  finame: Los Angeles Firemens CU
+  postalcode: '91105'
+  signonmsgset: 'true'
+  state: CA
+  tsphone: 323-254-1700
+  url: www.lafirecu.org
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

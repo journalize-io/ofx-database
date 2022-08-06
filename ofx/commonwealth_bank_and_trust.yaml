@@ -1,0 +1,20 @@
+fid: '11637'
+name: Commonwealth Bank and Trust
+ofxfail: '0'
+ofxhome_id: '1010'
+org: HFS-Cavion
+profile:
+  addr1: 4912 US Highway 42
+  addr2: '1'
+  bankmsgset: 'true'
+  city: Louiville
+  country: USA
+  csphone: '5022592000'
+  email: electronicbanking@cbandt.com
+  finame: Commonwealth Bank and Trust
+  postalcode: '40222'
+  signonmsgset: 'true'
+  state: KY
+  tsphone: '5022592000'
+  url: http://www.cbandt.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

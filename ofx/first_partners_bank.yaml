@@ -1,0 +1,19 @@
+fid: '7055'
+name: First Partners Bank
+ofxfail: '0'
+ofxhome_id: '1101'
+org: mfis-7055
+profile:
+  addr1: 905 Old Montgomery HWY
+  bankmsgset: 'true'
+  city: Vestavia Hills
+  country: USA
+  csphone: 1-888-226-5414
+  email: firstpartnersbank@billsupport.com
+  finame: First Partners Bank
+  postalcode: '35216'
+  signonmsgset: 'true'
+  state: AL
+  tsphone: 877-329-7298
+  url: www.firstpartnersbank.com
+url: https://pfm.metavante.com/ofx/OFXServlet

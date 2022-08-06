@@ -1,0 +1,7 @@
+fid: '90001'
+name: Schools Financial Credit Union
+ofxfail: '3'
+ofxhome_id: '577'
+org: Teknowledge
+profile: {}
+url: https://ofx.schools.org/TekPortalOFX/servlet/TP_OFX_Controller

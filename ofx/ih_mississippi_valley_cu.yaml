@@ -1,0 +1,20 @@
+fid: '271183662'
+name: IH Mississippi Valley CU
+ofxfail: '3'
+ofxhome_id: '1178'
+org: DI
+profile:
+  addr1: 2121 47th Street
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Moline
+  country: USA
+  csphone: (309)793-6200
+  email: https://www.ihmvcu.org/
+  finame: IH Mississippi Valley CU
+  postalcode: '61265'
+  signonmsgset: 'true'
+  state: IL
+  tsphone: (309)793-6200
+  url: www.ihmvcu.org
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

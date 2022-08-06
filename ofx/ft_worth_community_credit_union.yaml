@@ -1,0 +1,20 @@
+fid: '311981672'
+name: Ft Worth Community Credit Union
+ofxfail: '3'
+ofxhome_id: '1120'
+org: DI
+profile:
+  addr1: 1905 Forest Ridge Rd.
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Bedford
+  country: USA
+  csphone: 817-835-5000
+  email: ftwccu@ftwccu.org
+  finame: Ft Worth Community Credit Union
+  postalcode: '76095'
+  signonmsgset: 'true'
+  state: TX
+  tsphone: 817-835-5000
+  url: www.ftwccu.org
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

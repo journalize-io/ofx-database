@@ -1,0 +1,19 @@
+fid: '64032'
+name: Empire State Bank
+ofxfail: '0'
+ofxhome_id: '1059'
+org: Cavion
+profile:
+  addr1: 68 North Plank
+  bankmsgset: 'true'
+  city: Newburgh
+  country: USA
+  csphone: 845-457-7811
+  email: internetbanking@esbna.com
+  finame: Empire State Bank
+  postalcode: '12550'
+  signonmsgset: 'true'
+  state: NY
+  tsphone: 845-457-7811
+  url: http://www.esbna.com
+url: https://ofx.lanxtra.com/ofx/servlet/Teller

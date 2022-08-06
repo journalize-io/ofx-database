@@ -1,0 +1,19 @@
+fid: '252076714'
+name: Securityplus Federal CreditUnion
+ofxfail: '0'
+ofxhome_id: '1365'
+org: DI
+profile:
+  addr1: PO Box 47128
+  bankmsgset: 'true'
+  billpaymsgset: 'true'
+  city: Baltimore
+  country: USA
+  csphone: 410-965-8908
+  email: '2'
+  finame: Securityplus Federal CreditUnion
+  postalcode: '21244'
+  signonmsgset: 'true'
+  state: MD
+  url: www.securityplusfcuhb.org
+url: https://ofxdc.prd1.ncr.com/cmr/cmr.ofx

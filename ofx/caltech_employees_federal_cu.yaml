@@ -1,0 +1,19 @@
+fid: '56985'
+name: Caltech Employees Federal CU
+ofxfail: '0'
+ofxhome_id: '949'
+org: Connect
+profile:
+  addr1: 528 Foothill Blvd
+  bankmsgset: 'true'
+  city: La Canada Flintridge
+  country: USA
+  creditcardmsgset: 'true'
+  csphone: (800)592-3328
+  email: support@cefcu.org
+  finame: Caltech Employees Federal CU
+  postalcode: '91012'
+  signonmsgset: 'true'
+  state: CA
+  url: https://www.cefcuonline.org/
+url: https://ib.caltechefcu.org/OFXDirect/OfxRqst.aspx
